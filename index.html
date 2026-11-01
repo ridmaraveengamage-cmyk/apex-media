@@ -1,0 +1,665 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Apex Media: motorsport news from Sri Lanka and around the world. Karting, supercross, rally and circuit racing.">
+<link rel="icon" href="assets/apex-logo.webp">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Apex Media</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600;700;800;900&family=Titillium+Web:wght@400;600;700&display=swap">
+<style>
+/* Layout: F1-style news portal — charcoal masthead with logo, race-weekend strip, lead story + headline rail, news grid, results & standings, calendar rail, Apex TV placeholder, footer. One committed look: charcoal chrome around a light reading surface. */
+:root{
+  --char:#222222; --char-2:#191919; --char-3:#2c2c2c; --char-line:#3a3a3a;
+  --paper:#f3f4f1; --card:#ffffff; --ink:#151615; --ink-2:#5d625b; --rule:#dfe2dc;
+  --green:#3cff1a; --green-ink:#178a04; --green-soft:#e6fbdf;
+  --f-display:"Saira Condensed","Arial Narrow",Impact,sans-serif;
+  --f-body:"Titillium Web","Segoe UI",system-ui,sans-serif;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.5;overflow-x:hidden}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:60;background:var(--char)}
+a{color:inherit;text-decoration:none}
+button{font:inherit}
+.wrap{max-width:1320px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1,h2,h3,h4{font-family:var(--f-display);margin:0;line-height:1.02;text-wrap:balance}
+.tnum{font-variant-numeric:tabular-nums}
+.eyebrow{font-family:var(--f-display);font-weight:700;font-size:13px;letter-spacing:.14em;text-transform:uppercase}
+:focus-visible{outline:3px solid var(--green);outline-offset:2px}
+
+/* ===== top utility bar ===== */
+.util{background:var(--char-2);color:#a9aea6;font-size:13px}
+.util .wrap{display:flex;align-items:center;gap:22px;padding-block:7px;overflow-x:auto;scrollbar-width:none}
+.util a{white-space:nowrap;font-weight:600;letter-spacing:.04em}
+.util a:hover,.util a.on{color:#fff}
+.util a.on{box-shadow:inset 0 -2px var(--green)}
+.util .r{margin-left:auto;display:flex;gap:18px}
+
+/* ===== masthead ===== */
+.mast{position:sticky;top:env(safe-area-inset-top,0px);z-index:50;background:var(--char);color:#fff;border-bottom:3px solid var(--green)}
+.mast .wrap{display:flex;align-items:center;gap:28px;height:68px}
+.logo{display:block;height:52px;aspect-ratio:2.08;flex:none;background:url(assets/apex-logo.webp) no-repeat;background-size:128.2% auto;background-position:65.9% 38.4%;mix-blend-mode:lighten}
+.logo span{position:absolute;left:-9999px}
+.menu{display:flex;align-items:stretch;height:100%;list-style:none;margin:0;padding:0}
+.menu a{display:flex;align-items:center;gap:6px;height:100%;padding:0 14px;font-family:var(--f-display);font-weight:700;font-size:17px;letter-spacing:.06em;text-transform:uppercase;color:#d8dbd5;position:relative}
+.menu a::after{content:"";position:absolute;left:14px;right:14px;bottom:0;height:4px;background:var(--green);transform:scaleX(0);transform-origin:left;transition:transform .2s}
+.menu a:hover{color:#fff}
+.menu a:hover::after,.menu a.on::after{transform:scaleX(1)}
+.menu a.on{color:#fff}
+.soon{font-family:var(--f-body);font-size:10px;font-weight:700;letter-spacing:.08em;background:var(--char-3);color:var(--green);padding:1px 6px;border-radius:2px}
+.mast-r{margin-left:auto;display:flex;align-items:center;gap:10px}
+.icon-btn{width:40px;height:40px;display:grid;place-items:center;border:0;background:transparent;color:#fff;cursor:pointer;border-radius:4px}
+.icon-btn:hover{background:var(--char-3)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border:0;cursor:pointer;font-family:var(--f-display);font-weight:800;font-size:16px;letter-spacing:.08em;text-transform:uppercase;padding:10px 20px;background:var(--green);color:var(--char-2);clip-path:polygon(8px 0,100% 0,calc(100% - 8px) 100%,0 100%);transition:filter .15s,transform .15s}
+.btn:hover{filter:brightness(1.1);transform:translateY(-1px)}
+.btn.dark{background:var(--char);color:#fff}
+.burger{display:none}
+.mobile-menu{background:var(--char-2);border-top:1px solid var(--char-line)}
+.mobile-menu ul{list-style:none;margin:0;padding:8px 0;display:grid}
+.mobile-menu a{display:block;padding:12px 0;font-family:var(--f-display);font-weight:700;font-size:20px;text-transform:uppercase;letter-spacing:.05em;color:#fff;border-bottom:1px solid var(--char-line)}
+
+/* ===== race weekend strip ===== */
+.weekend{background:var(--char-2);color:#fff}
+.weekend .wrap{display:grid;grid-template-columns:auto 1fr auto;gap:28px;align-items:center;padding-block:16px}
+.wk-title{display:flex;gap:14px;align-items:center}
+.wk-round{font-family:var(--f-display);font-weight:900;font-size:15px;background:var(--green);color:var(--char-2);padding:4px 9px;letter-spacing:.06em;transform:skewX(-10deg)}
+.wk-title h2{font-size:26px;font-weight:800;text-transform:uppercase;letter-spacing:.02em}
+.wk-title p{margin:0;font-size:13px;color:#a9aea6}
+.sessions{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;min-width:0}
+.sessions div{flex:none;background:var(--char-3);padding:6px 12px;font-size:12px;color:#a9aea6;white-space:nowrap}
+.sessions b{display:block;color:#fff;font-family:var(--f-display);font-size:15px;letter-spacing:.04em;text-transform:uppercase}
+.sessions .race{background:var(--green);color:var(--char-2)}
+.sessions .race b{color:var(--char-2)}
+.cd{display:flex;gap:6px;align-items:center}
+.cd div{text-align:center;min-width:46px}
+.cd b{display:block;font-family:var(--f-display);font-size:30px;font-weight:800;line-height:1}
+.cd span{font-size:10px;letter-spacing:.14em;color:#a9aea6;text-transform:uppercase}
+
+/* ===== image placeholders (photo slots) ===== */
+.ph{position:relative;overflow:hidden;background:#2a2d29;aspect-ratio:16/9;max-width:100%}
+.ph .art{position:absolute;inset:0;transition:transform .6s cubic-bezier(.2,.7,.2,1)}
+.ph .kerb{position:absolute;left:0;right:0;bottom:0;height:7px;background:repeating-linear-gradient(90deg,var(--green) 0 22px,#fff 22px 44px);opacity:.9}
+.ph .num{position:absolute;right:4%;bottom:6%;font-family:var(--f-display);font-weight:900;font-style:italic;line-height:.8;color:rgba(255,255,255,.12);font-size:clamp(60px,10vw,160px)}
+.ph .tag{position:absolute;left:12px;top:12px}
+a:hover .ph .art{transform:scale(1.05)}
+
+.tag{display:inline-block;font-family:var(--f-display);font-weight:800;font-size:12px;letter-spacing:.12em;text-transform:uppercase;padding:3px 8px;background:var(--char);color:#fff}
+.tag.g{background:var(--green);color:var(--char-2)}
+
+/* ===== lead ===== */
+.lead-sec{padding-block:32px 8px}
+.lead-grid{display:grid;grid-template-columns:minmax(0,1.75fr) minmax(0,1fr);gap:24px}
+.lead{display:block;background:var(--char);color:#fff;position:relative}
+.lead .ph{aspect-ratio:16/9}
+.lead-body{padding:22px 26px 26px;display:grid;gap:10px}
+.lead h1{font-size:clamp(30px,3.6vw,50px);font-weight:800;text-transform:uppercase;letter-spacing:.005em}
+.lead p{margin:0;color:#c3c8c0;font-size:17px;max-width:62ch}
+.meta{font-size:13px;color:var(--ink-2);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.lead .meta{color:#9ea39b}
+.rail{display:grid;gap:14px;align-content:start}
+.rail-item{display:grid;grid-template-columns:136px minmax(0,1fr);gap:14px;background:var(--card);padding:10px;align-items:center;transition:box-shadow .15s}
+.rail-item:hover{box-shadow:inset 4px 0 var(--green)}
+.rail-item .ph{aspect-ratio:4/3}
+.rail-item h3{font-size:19px;font-weight:700;margin:5px 0 4px}
+.rail-item:hover h3{color:var(--green-ink)}
+
+/* ===== section heads ===== */
+section{padding-block:40px}
+.sec-head{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:20px;flex-wrap:wrap}
+.sec-head h2{font-size:clamp(30px,3.6vw,42px);font-weight:900;text-transform:uppercase;display:flex;align-items:center;gap:12px}
+.sec-head h2::before{content:"";width:8px;height:.9em;background:var(--green);transform:skewX(-14deg)}
+.more{font-family:var(--f-display);font-weight:700;font-size:15px;letter-spacing:.08em;text-transform:uppercase;display:inline-flex;gap:6px;align-items:center}
+.more:hover{color:var(--green-ink)}
+
+/* ===== news grid ===== */
+.filters{display:flex;gap:6px;flex-wrap:wrap}
+.filters button{border:1px solid var(--rule);background:var(--card);color:var(--ink-2);cursor:pointer;font-family:var(--f-display);font-weight:700;font-size:14px;letter-spacing:.08em;text-transform:uppercase;padding:6px 14px}
+.filters button[aria-pressed="true"]{background:var(--char);border-color:var(--char);color:#fff}
+.news{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px}
+.card{display:flex;flex-direction:column;background:var(--card);transition:transform .2s,box-shadow .2s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(20,22,20,.12)}
+.card-body{padding:14px 16px 18px;display:grid;gap:8px}
+.card h3{font-size:21px;font-weight:700}
+.card:hover h3{color:var(--green-ink)}
+.card .tag{justify-self:start}
+
+/* ===== results / standings ===== */
+.res-grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:24px}
+.panel{background:var(--card);padding:22px;min-width:0}
+.panel-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+.panel-head h3{font-size:26px;font-weight:800;text-transform:uppercase}
+.podium{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;align-items:end;margin-bottom:18px}
+.step{background:var(--char);color:#fff;padding:14px;display:grid;gap:4px;position:relative;overflow:hidden}
+.step::after{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--team)}
+.step .p{font-family:var(--f-display);font-weight:900;font-style:italic;font-size:46px;line-height:.85;color:var(--green)}
+.step.p2 .p,.step.p3 .p{color:#fff}
+.step b{font-family:var(--f-display);font-size:22px;text-transform:uppercase;line-height:1}
+.step span{font-size:13px;color:#a9aea6}
+.step.p1{padding-block:26px}
+.step.p2{padding-block:18px}
+table{width:100%;border-collapse:collapse;font-size:15px}
+th{text-align:left;font-family:var(--f-display);font-weight:700;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2);padding:0 8px 8px}
+td{padding:9px 8px;border-top:1px solid var(--rule)}
+td.pos{font-family:var(--f-display);font-weight:800;font-size:19px;width:40px}
+td.r{text-align:right}
+th.r{text-align:right}
+.drv{display:flex;align-items:center;gap:10px;font-weight:600}
+.drv i{width:4px;height:20px;flex:none}
+.drv small{display:block;color:var(--ink-2);font-weight:400;font-size:12px;line-height:1.1}
+.scroll-x{overflow-x:auto}
+.tabs{display:flex;background:var(--paper);padding:3px;gap:3px}
+.tabs button{border:0;cursor:pointer;background:transparent;padding:6px 14px;font-family:var(--f-display);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:14px;color:var(--ink-2)}
+.tabs button[aria-selected="true"]{background:var(--char);color:#fff}
+.bar{height:5px;background:var(--paper);margin-top:4px}
+.bar span{display:block;height:100%;background:var(--team)}
+.ft{display:inline-block;background:var(--green-soft);color:var(--green-ink);font-weight:700;font-size:12px;padding:1px 6px}
+
+/* ===== calendar rail ===== */
+.cal{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(220px,1fr);gap:14px;overflow-x:auto;padding-bottom:10px;scroll-snap-type:x mandatory}
+.round{scroll-snap-align:start;background:var(--card);padding:16px;display:grid;gap:6px;border-top:4px solid var(--rule);position:relative}
+.round.done{opacity:.7}
+.round.next{border-top-color:var(--green);background:var(--char);color:#fff}
+.round .rn{font-family:var(--f-display);font-weight:700;font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2)}
+.round.next .rn{color:var(--green)}
+.round .dates{font-family:var(--f-display);font-weight:800;font-size:28px;line-height:1}
+.round h4{font-size:19px;font-weight:700;text-transform:uppercase}
+.round p{margin:0;font-size:13px;color:var(--ink-2)}
+.round.next p{color:#a9aea6}
+.round .win{font-size:13px;font-weight:600}
+.trackline{height:46px;width:100%}
+.trackline path{fill:none;stroke:currentColor;stroke-width:3;stroke-linejoin:round;opacity:.55}
+.round.next .trackline path{stroke:var(--green);opacity:1}
+
+/* ===== Apex TV placeholder ===== */
+.tv{background:var(--char);color:#fff}
+.tv .sec-head h2{color:#fff}
+.tv-grid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:20px}
+.tv-main{position:relative;display:grid;place-items:center;text-align:center;aspect-ratio:16/9;max-width:100%;background:
+  repeating-linear-gradient(-55deg,rgba(255,255,255,.025) 0 18px,transparent 18px 36px),radial-gradient(70% 90% at 50% 100%,rgba(60,255,26,.18),transparent 70%),var(--char-2);border:1px dashed var(--char-line);padding:24px}
+.tv-main h3{font-size:clamp(28px,4vw,48px);font-weight:900;text-transform:uppercase}
+.tv-main p{color:#a9aea6;margin:8px auto 18px;max-width:46ch}
+.tv-list{display:grid;gap:10px;align-content:start}
+.tv-item{display:grid;grid-template-columns:120px minmax(0,1fr);gap:12px;align-items:center;background:var(--char-3);padding:8px}
+.tv-item .ph{aspect-ratio:16/10}
+.tv-item b{font-family:var(--f-display);font-size:18px;text-transform:uppercase;line-height:1.05;display:block}
+.tv-item span{font-size:12px;color:#a9aea6}
+.planned{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--green)}
+
+/* ===== newsletter + footer ===== */
+.news-band{background:var(--green);color:var(--char-2)}
+.news-band .wrap{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap;padding-block:30px}
+.news-band h2{font-size:clamp(28px,3.6vw,40px);font-weight:900;text-transform:uppercase}
+.news-band p{margin:4px 0 0;font-weight:600}
+.sub{display:flex;gap:8px;flex-wrap:wrap}
+.sub input{font:600 15px var(--f-body);padding:11px 14px;border:0;width:280px;max-width:100%;min-width:0;background:#fff;color:var(--ink)}
+.sub-msg{font-weight:700;min-height:1.4em;margin-top:6px}
+footer{background:var(--char-2);color:#a9aea6;font-size:14px}
+footer .wrap{padding-block:40px 24px}
+.foot-grid{display:grid;grid-template-columns:1.4fr repeat(3,1fr);gap:28px}
+.foot-grid h4{color:#fff;font-size:15px;letter-spacing:.12em;text-transform:uppercase;margin-bottom:10px}
+.foot-grid ul{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.foot-grid a:hover{color:var(--green)}
+.foot-logo{height:64px;margin-left:-6px;margin-bottom:10px;background-color:var(--char-2)}
+.foot-base{border-top:1px solid var(--char-line);margin-top:30px;padding-top:16px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:12px}
+
+/* ===== responsive ===== */
+@media (max-width:1100px){
+  .news{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .menu a{padding:0 9px;font-size:15px}
+}
+@media (max-width:920px){
+  .menu{display:none}
+  .burger{display:grid}
+  .lead-grid,.res-grid,.tv-grid{grid-template-columns:1fr}
+  .weekend .wrap{grid-template-columns:1fr;gap:12px}
+  .foot-grid{grid-template-columns:1fr 1fr}
+  .mast-r .btn{display:none}
+}
+@media (max-width:560px){
+  .news{grid-template-columns:1fr}
+  .logo{height:42px}
+  .rail-item{grid-template-columns:104px minmax(0,1fr)}
+  .rail-item h3{font-size:17px}
+  .lead-body{padding:16px}
+  .podium{gap:6px}
+  .step{padding:10px}
+  .step b{font-size:18px}
+  .step .p{font-size:36px}
+  .foot-grid{grid-template-columns:1fr}
+  .tv-item{grid-template-columns:96px minmax(0,1fr)}
+}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation:none!important}}
+
+/* ===== edition switch (Sri Lanka / International) ===== */
+.edition{display:flex;gap:2px;align-items:stretch}
+.edition button{border:0;cursor:pointer;background:transparent;color:#a9aea6;font-family:var(--f-display);font-weight:800;font-size:15px;letter-spacing:.1em;text-transform:uppercase;padding:9px 16px;display:flex;align-items:center;gap:8px;position:relative}
+.edition button:hover{color:#fff}
+.edition button[aria-selected="true"]{color:var(--char-2);background:var(--green)}
+.edition .flag{width:20px;height:13px;flex:none;border-radius:1px}
+.flag-lk{background:linear-gradient(90deg,#f7b718 0 8%,#00534e 8% 22%,#eb7400 22% 36%,#f7b718 36% 40%,#8d153a 40% 96%,#f7b718 96%)}
+.flag-int{background:radial-gradient(circle at 50% 50%,transparent 4px,currentColor 4px 5px,transparent 5px),linear-gradient(currentColor,currentColor) center/1px 100% no-repeat,linear-gradient(currentColor,currentColor) center/100% 1px no-repeat;border-radius:50%;width:15px;height:15px;box-shadow:inset 0 0 0 1.5px currentColor}
+.util .wrap{padding-block:0}
+.util .r{align-items:center}
+.ed-note{font-size:12px;color:#7d837a;white-space:nowrap}
+
+.live-chip{display:inline-flex;align-items:center;gap:6px;font-family:var(--f-display);font-weight:800;font-size:13px;letter-spacing:.1em;text-transform:uppercase;background:#e8202e;color:#fff;padding:4px 10px}
+.live-chip::before{content:"";width:7px;height:7px;border-radius:50%;background:#fff;animation:blink 1.2s infinite}
+@keyframes blink{50%{opacity:.25}}
+.wk-status{display:grid;gap:4px;justify-items:end;text-align:right}
+.wk-status span{font-size:12px;color:#a9aea6}
+
+/* ===== karting hub ===== */
+.kart{background:var(--char-2);color:#fff;position:relative;overflow:hidden}
+.kart::before{content:"";position:absolute;inset:auto 0 0 0;height:8px;background:repeating-linear-gradient(90deg,var(--green) 0 28px,#fff 28px 56px)}
+.kart .sec-head h2{color:#fff}
+.kart-intro{color:#b7bcb4;max-width:70ch;margin:-8px 0 22px}
+.series{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.s-card{background:var(--char-3);display:grid;grid-template-rows:auto 1fr auto;min-width:0}
+.s-top{padding:18px 18px 14px;border-bottom:1px solid var(--char-line);display:grid;gap:6px}
+.s-top .eyebrow{color:var(--green)}
+.s-top h3{font-size:30px;font-weight:900;text-transform:uppercase}
+.s-top p{margin:0;color:#b7bcb4;font-size:14px}
+.s-body{padding:14px 18px;display:grid;gap:12px;align-content:start}
+.facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.facts div{background:var(--char-2);padding:8px 10px}
+.facts b{display:block;font-family:var(--f-display);font-size:24px;font-weight:800;line-height:1;color:#fff}
+.facts span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:#a9aea6}
+.classes{display:flex;flex-wrap:wrap;gap:5px}
+.classes span{font-family:var(--f-display);font-weight:700;font-size:13px;letter-spacing:.06em;text-transform:uppercase;padding:3px 9px;border:1px solid var(--char-line);color:#dfe2dc}
+.classes span small{color:#8f958c;font-weight:600;margin-left:4px}
+.s-foot{padding:12px 18px 16px;display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;font-size:13px;color:#a9aea6}
+.s-foot b{color:#fff;font-family:var(--f-display);font-size:16px;letter-spacing:.04em;text-transform:uppercase}
+.venue{margin-top:16px;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:20px;align-items:center;background:var(--char-3);padding:16px 18px}
+.venue svg{width:120px;height:60px}
+.venue svg path{fill:none;stroke:var(--green);stroke-width:4;stroke-linejoin:round;stroke-linecap:round}
+.venue h4{font-size:24px;font-weight:800;text-transform:uppercase}
+.venue p{margin:2px 0 0;color:#b7bcb4;font-size:14px}
+.source{font-size:12px;color:var(--ink-2);margin-top:10px}
+.kart .source{color:#8f958c}
+.sample{font-family:var(--f-body);font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;background:var(--paper);color:var(--ink-2);padding:2px 7px}
+.cal .round .series-tag{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--green-ink)}
+.round.next .series-tag{color:var(--green)}
+.round.live{border-top-color:#e8202e;background:var(--char);color:#fff}
+.round.live .rn{color:#ff6b75}
+.round.live p{color:#a9aea6}
+.round.live .trackline path{stroke:#ff6b75;opacity:1}
+
+@media (max-width:1000px){.series{grid-template-columns:1fr}.venue{grid-template-columns:1fr}}
+@media (max-width:560px){.edition button{padding:9px 10px;font-size:14px}.ed-note{display:none}.facts b{font-size:20px}}
+</style>
+</head>
+<body>
+
+<div class="util">
+  <div class="wrap">
+    <div class="edition" role="tablist" aria-label="Edition">
+      <button role="tab" id="ed-sl" aria-selected="true" data-ed="sl"><span class="flag flag-lk" aria-hidden="true"></span>Sri Lanka</button>
+      <button role="tab" id="ed-int" aria-selected="false" data-ed="int"><span class="flag flag-int" aria-hidden="true"></span>International</button>
+    </div>
+    <div class="r"><span class="ed-note" id="edNote">Local racing · karting · supercross</span><a href="#">Sign in</a></div>
+  </div>
+</div>
+
+<header class="mast">
+  <div class="wrap">
+    <a class="logo" href="#top" aria-label="Apex Media home"><span>Apex Media</span></a>
+    <ul class="menu" id="menu">
+      <li><a href="#latest" class="on">Latest</a></li>
+      <li id="navKart"><a href="#karting">Karting</a></li>
+      <li><a href="#results">Results</a></li>
+      <li><a href="#schedule">Schedule</a></li>
+      <li><a href="#news">Features</a></li>
+      <li><a href="#tv">Apex TV <span class="soon">Soon</span></a></li>
+      <li><a href="#tv">Live <span class="soon">Soon</span></a></li>
+    </ul>
+    <div class="mast-r">
+      <button class="icon-btn" aria-label="Search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg></button>
+      <a class="btn" href="#newsletter">Subscribe</a>
+      <button class="icon-btn burger" id="burger" aria-label="Open menu" aria-expanded="false"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+    </div>
+  </div>
+  <nav class="mobile-menu" id="mobileMenu" hidden><div class="wrap"><ul>
+    <li><a href="#latest">Latest</a></li><li class="m-kart"><a href="#karting">Karting</a></li><li><a href="#results">Results &amp; standings</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#news">Features</a></li><li><a href="#tv">Apex TV · soon</a></li><li><a href="#newsletter">Subscribe</a></li>
+  </ul></div></nav>
+</header>
+
+<div class="weekend" id="top"><div class="wrap" id="weekend"></div></div>
+
+<main>
+<section class="lead-sec" id="latest">
+  <div class="wrap lead-grid">
+    <a class="lead" href="#latest" id="lead"></a>
+    <div class="rail" id="rail"></div>
+  </div>
+</section>
+
+<section class="kart" id="karting">
+  <div class="wrap">
+    <div class="sec-head"><h2>Karting hub</h2><a class="more" href="#schedule" style="color:#fff">Karting calendar ›</a></div>
+    <p class="kart-intro">Sri Lankan karting has three headline championships, all raced at SpeedBay Circuit, Bandaragama, and all officiated by the Ceylon Motor Sports Club.</p>
+    <div class="series" id="series"></div>
+    <div class="venue">
+      <svg viewBox="0 0 120 60" aria-hidden="true"><path d="M10 44 L10 18 Q10 8 22 8 L56 8 Q66 8 66 18 L66 26 Q66 32 74 32 L98 32 Q110 32 110 42 Q110 52 98 52 L22 52 Q10 52 10 44 Z"/></svg>
+      <div><h4>SpeedBay Circuit · Bandaragama</h4><p>Home of Sri Lankan international karting. Run by David Pieris Racing &amp; Leisure. Endurance lap record from the SWS opener: 1:09.249.</p></div>
+      <a class="btn" href="#schedule">Event guide</a>
+    </div>
+    <p class="source">Facts from IAME Motorsport (series page) and ThePapare, 2026.</p>
+  </div>
+</section>
+
+<section id="news">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2 id="newsTitle">Latest news</h2>
+      <div class="filters" id="filters" role="group" aria-label="Filter news"></div>
+    </div>
+    <div class="news" id="newsGrid"></div>
+  </div>
+</section>
+
+<section id="results" style="padding-top:8px">
+  <div class="wrap res-grid">
+    <div class="panel">
+      <div class="panel-head"><h3 id="resTitle"></h3><a class="more" href="#results">Full results ›</a></div>
+      <div class="podium" id="podium"></div>
+      <div class="scroll-x"><table>
+        <thead><tr><th>Pos</th><th id="resCol">Driver</th><th class="r" id="resCol2">Time / gap</th><th class="r">Pts</th></tr></thead>
+        <tbody id="resBody"></tbody>
+      </table></div>
+      <p class="source" id="resSource"></p>
+    </div>
+    <div class="panel">
+      <div class="panel-head">
+        <h3>Standings <span class="sample" id="stSample">Sample data</span></h3>
+        <div class="tabs" role="tablist" id="stTabs"></div>
+      </div>
+      <div class="scroll-x"><table>
+        <thead><tr><th>Pos</th><th id="stCol">Driver</th><th class="r">Pts</th></tr></thead>
+        <tbody id="stBody"></tbody>
+      </table></div>
+    </div>
+  </div>
+</section>
+
+<section id="schedule" style="padding-top:8px">
+  <div class="wrap">
+    <div class="sec-head"><h2 id="calTitle">2026 Schedule</h2><a class="more" href="#schedule">Full calendar ›</a></div>
+    <div class="cal" id="cal"></div>
+    <p class="source" id="calSource"></p>
+  </div>
+</section>
+
+<section class="tv" id="tv">
+  <div class="wrap">
+    <div class="sec-head"><h2>Apex TV</h2><span class="planned">In development</span></div>
+    <div class="tv-grid">
+      <div class="tv-main">
+        <div>
+          <span class="tag g">Coming soon</span>
+          <h3 style="margin-top:12px">Live coverage lands here</h3>
+          <p>Live shows from SpeedBay and the supercross tracks, race-day updates and live timing will sit in this space. Get an alert when it launches.</p>
+          <a class="btn" href="#newsletter">Notify me</a>
+        </div>
+      </div>
+      <div class="tv-list" id="tvList"></div>
+    </div>
+  </div>
+</section>
+</main>
+
+<div class="news-band" id="newsletter">
+  <div class="wrap">
+    <div><h2>The Apex Briefing</h2><p>Sri Lankan and international race news every Friday and Monday.</p></div>
+    <div>
+      <form class="sub" id="subForm">
+        <label for="email" style="position:absolute;left:-9999px">Email address</label>
+        <input id="email" type="email" placeholder="Your email address" required>
+        <button class="btn dark" type="submit">Sign up</button>
+      </form>
+      <div class="sub-msg" id="subMsg" aria-live="polite"></div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <div class="logo foot-logo" role="img" aria-label="Apex Media"></div>
+        <p style="margin:0;max-width:34ch">Motorsport news from Sri Lanka and around the world: karting, supercross, rally and circuit racing.</p>
+      </div>
+      <div><h4>Sri Lanka</h4><ul><li><a href="#karting">Karting hub</a></li><li><a href="#">IAME Series Sri Lanka</a></li><li><a href="#">SWS Sprint &amp; Endurance</a></li><li><a href="#">Supercross</a></li></ul></div>
+      <div><h4>Racing</h4><ul><li><a href="#results">Results</a></li><li><a href="#results">Standings</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#">Drivers &amp; teams</a></li></ul></div>
+      <div><h4>Apex Media</h4><ul><li><a href="#">About us</a></li><li><a href="#">Advertise</a></li><li><a href="#">Contact</a></li><li><a href="#">Privacy</a></li></ul></div>
+    </div>
+    <div class="foot-base"><span>© 2026 Apex Media</span><span>Design preview · Sri Lanka items drawn from published 2026 reports · International stories and all standings are sample content</span></div>
+  </div>
+</footer>
+
+<script>
+(function(){
+const $=s=>document.querySelector(s);
+
+/* photo placeholders until real images are added */
+function paint(el){
+  const h=+el.dataset.h||110, n=el.dataset.n||'';
+  const art=document.createElement('div'); art.className='art';
+  art.style.background=`
+    linear-gradient(100deg,transparent 40%,rgba(255,255,255,.10) 46%,transparent 52%),
+    repeating-linear-gradient(-68deg,transparent 0 26px,rgba(255,255,255,.04) 26px 28px),
+    radial-gradient(60% 80% at 75% 35%,hsla(${h},95%,55%,.55),transparent 70%),
+    linear-gradient(160deg,hsl(${h},20%,22%) 0%,#141614 75%)`;
+  el.prepend(art);
+  if(n){const s=document.createElement('span');s.className='num';s.textContent=n;el.appendChild(s);}
+  const k=document.createElement('span');k.className='kerb';el.appendChild(k);
+}
+const tracks=['M4 30 L20 8 L44 10 L56 26 L80 22 L96 34 L70 40 L30 40 Z','M6 22 Q20 4 40 12 T76 10 L96 24 Q80 42 50 36 L14 40 Z','M8 36 L8 10 L40 6 L48 20 L72 14 L94 20 L90 38 L52 34 L30 40 Z','M10 24 Q10 6 34 8 L60 18 Q90 6 94 26 Q90 42 60 36 L30 40 Q10 40 10 24 Z','M6 30 L26 6 L52 8 L50 22 L78 18 L96 36 L54 40 Z'];
+const SPEEDBAY='M10 36 L10 14 Q10 6 20 6 L46 6 Q54 6 54 14 L54 20 Q54 24 60 24 L84 24 Q94 24 94 32 Q94 40 84 40 L20 40 Q10 40 10 36 Z';
+const DIRT='M6 24 Q16 6 30 20 T54 20 T78 20 Q92 8 94 24 Q90 40 70 36 Q50 32 30 40 Q8 42 6 24 Z';
+
+/* ================= SRI LANKA EDITION ================= */
+const SL={
+  note:'Local racing · karting · supercross',
+  weekend:`
+    <div class="wk-title"><span class="wk-round">R5</span><div><h2>IAME Series Sri Lanka</h2><p>31 Oct – 1 Nov · SpeedBay Circuit, Bandaragama · Cadet · Junior · Senior · Master</p></div></div>
+    <div class="sessions" aria-label="Weekend programme">
+      <div><b>Sat 31 Oct</b>Practice &amp; qualifying</div>
+      <div class="race"><b>Sun 1 Nov</b>Heats &amp; finals</div>
+      <div><b>Next</b>Supercross season wrap</div>
+    </div>
+    <div class="wk-status"><span class="live-chip">Race day</span><span>Results and reports follow the finals</span></div>`,
+  lead:{tag:'Karting',h:105,n:'R5',eyebrow:'IAME Series Sri Lanka',ago:'Today',
+    t:'IAME Series Sri Lanka Round 5: finals day at SpeedBay',
+    d:'Cadet, Junior, Senior and Master drivers are back at Bandaragama for Round 5. The Junior and Senior champions win free entry to the IAME World Finals.'},
+  rail:[
+    {t:'Team Avant win the SWS Endurance Cup opener with 126 laps',c:'SWS Endurance',a:'2026',h:120},
+    {t:'33 karts: Senior class sets Sri Lanka’s biggest-ever grid',c:'SWS Sprint',a:'2026',h:45},
+    {t:'SLARDAR launches the Sri Lanka Super Series 2026',c:'National',a:'22 Mar',h:200},
+    {t:'Fuel supply concerns put the early-season calendar under review',c:'National',a:'Mar 2026',h:20}
+  ],
+  newsTitle:'Sri Lanka news',
+  news:[
+    {t:'SpeedBay launches Sri Lanka’s first SWS Sprint Championship',c:'Karting',a:'2026',h:110,n:'6'},
+    {t:'Spark Racing set the fastest lap of the endurance opener: 1:09.249',c:'Karting',a:'2026',h:300,n:''},
+    {t:'Drivers from Pakistan, China, the UK, the Maldives, Germany and Czech Republic join the SWS grid',c:'Karting',a:'2026',h:200,n:''},
+    {t:'IAME classes explained: X30 engines, Komet tyres and the weight limits',c:'Explainer',a:'2026',h:60,n:'X30'},
+    {t:'Fox Hill Supercross returns to Diyatalawa',c:'Supercross',a:'Apr 2026',h:30,n:''},
+    {t:'Cavalry Supercross: race meet preview',c:'Supercross',a:'Jun 2026',h:15,n:''},
+    {t:'Gajaba Supercross heads to Saliyapura',c:'Supercross',a:'Aug 2026',h:40,n:''},
+    {t:'Sri Lanka Super Series: rally, circuit and off-road under one banner',c:'National',a:'Mar 2026',h:170,n:''}
+  ],
+  results:{
+    title:'SWS Endurance Cup · Opener',col:'Team',col2:'Laps',
+    podium:[['Team Avant','3 hours · SpeedBay','126 laps','#3cff1a'],['Kartmen','16 teams started','','#1fb6d6'],['Velocity X Racing','SpeedBay Circuit','','#f2b705']],
+    rows:[['Team Avant','126','25'],['Kartmen','—','18'],['Velocity X Racing','—','15']],
+    extra:'<tr><td class="pos">FL</td><td><div class="drv"><i style="background:#8a5cf6"></i><div>Spark Racing<small>Fastest lap</small></div><span class="ft">1:09.249</span></div></td><td class="r tnum">—</td><td class="r">—</td></tr>',
+    source:'Result as reported by ThePapare. Only the top three and fastest lap were published; points shown are sample.'
+  },
+  standingsTabs:[['iame','IAME Senior'],['sws','SWS Senior']],
+  standings:{
+    iame:[['Driver A','Senior',112,'#3cff1a'],['Driver B','Senior',104,'#1fb6d6'],['Driver C','Senior',91,'#f2b705'],['Driver D','Senior',77,'#e8202e'],['Driver E','Senior',63,'#8a5cf6'],['Driver F','Senior',52,'#9aa29a']],
+    sws:[['Driver G','Senior',68,'#3cff1a'],['Driver H','Senior',61,'#1fb6d6'],['Driver I','Senior',55,'#f2b705'],['Driver J','Senior',49,'#e8202e'],['Driver K','Senior',40,'#8a5cf6'],['Driver L','Senior',34,'#9aa29a']]
+  },
+  calTitle:'Sri Lanka 2026',
+  cal:[
+    {s:'IAME Sri Lanka',r:'Round 1',d:'24–25 Jan',n:'SpeedBay Circuit',l:'Bandaragama · Karting',st:'done',tr:SPEEDBAY},
+    {s:'Supercross',r:'Race meet',d:'17–18 Apr',n:'Fox Hill Supercross',l:'Diyatalawa · Dirt',st:'done',tr:DIRT},
+    {s:'SWS Sprint',r:'Round 2',d:'25–26 Apr',n:'SpeedBay Circuit',l:'Bandaragama · Karting',st:'done',tr:SPEEDBAY},
+    {s:'IAME Sri Lanka',r:'Round 2',d:'13–14 Jun',n:'SpeedBay Circuit',l:'Bandaragama · Karting',st:'done',tr:SPEEDBAY},
+    {s:'Supercross',r:'Race meet',d:'27–28 Jun',n:'Cavalry Supercross',l:'Venue to be confirmed',st:'done',tr:DIRT},
+    {s:'IAME Sri Lanka',r:'Round 3',d:'1–2 Aug',n:'SpeedBay Circuit',l:'Bandaragama · Karting',st:'done',tr:SPEEDBAY},
+    {s:'Supercross',r:'Race meet',d:'22–23 Aug',n:'Gajaba Supercross',l:'Saliyapura · Dirt',st:'done',tr:DIRT},
+    {s:'IAME Sri Lanka',r:'Round 4',d:'19–20 Sep',n:'SpeedBay Circuit',l:'Bandaragama · Karting',st:'done',tr:SPEEDBAY},
+    {s:'Supercross',r:'Race meet',d:'26–27 Sep',n:'Gunners Supercross',l:'Minneriya · Dirt',st:'done',tr:DIRT},
+    {s:'IAME Sri Lanka',r:'Round 5',d:'31 Oct–1 Nov',n:'SpeedBay Circuit',l:'Bandaragama · Karting',st:'live',tr:SPEEDBAY}
+  ],
+  calSource:'Dates from IAME Motorsport, ThePapare and the National Sports Calendar 2026. Some supercross dates and venues differ between sources, so check with organisers before publishing.',
+  tv:[['SpeedBay race-day live','Planned · karting weekends',100],['Supercross live updates','Planned · every race meet',30],['Paddock debrief','Planned · Sunday nights',200]]
+};
+
+/* ================= INTERNATIONAL EDITION (sample) ================= */
+const teams={K:{n:'Kestrel Racing',c:'#e8202e'},H:{n:'Halcyon GP',c:'#1fb6d6'},C:{n:'Corsa Nova',c:'#f2b705'},B:{n:'Brightline',c:'#3cc21a'},I:{n:'Ironbark',c:'#8a5cf6'}};
+const drv=[['Leo Varnell','K',312],['Mina Okafor','H',298],['Teo Dalsgaard','K',241],['Inès Marchetti','C',226],['Ryo Halvorsen','H',190],['Sol Quintero','B',154]];
+const INT={
+  note:'Sample content · world series',
+  weekend:`
+    <div class="wk-title"><span class="wk-round">R18</span><div><h2>Coastline Grand Prix</h2><p>6–8 Nov · Coastline Street Circuit · 5.12 km · 30 laps</p></div></div>
+    <div class="sessions" aria-label="Session times">
+      <div><b>Practice 1</b>Fri 11:30</div><div><b>Practice 2</b>Fri 15:00</div><div><b>Practice 3</b>Sat 11:00</div><div><b>Qualifying</b>Sat 15:00</div><div class="race"><b>Race</b>Sun 14:00</div>
+    </div>
+    <div class="cd tnum" aria-label="Countdown to race"><div><b id="cd-d">0</b><span>Days</span></div><div><b id="cd-h">00</b><span>Hrs</span></div><div><b id="cd-m">00</b><span>Min</span></div></div>`,
+  lead:{tag:'Breaking',h:105,n:'27',eyebrow:'Title race',ago:'42 min ago',
+    t:'Varnell takes 14-point lead into Coastline as Okafor vows to “go all in”',
+    d:'Five rounds remain and the championship has narrowed to two drivers. We break down the maths, the tyre picture and what each needs on the streets this weekend.'},
+  rail:[
+    {t:'Okafor fastest in Coastline simulator run as Halcyon brings new floor',c:'Technical',a:'1 hr ago',h:190},
+    {t:'Stewards confirm new track limits at Turn 9 hairpin',c:'Rules',a:'3 hrs ago',h:30},
+    {t:'Dalsgaard: “I won’t be a wingman for anyone”',c:'Interview',a:'5 hrs ago',h:0},
+    {t:'Street circuit guide: where races are won at Coastline',c:'Feature',a:'Yesterday',h:150}
+  ],
+  newsTitle:'International news',
+  news:[
+    {t:'Highland Ring race report: Varnell wins from fourth on the grid',c:'Report',a:'2 days ago',h:105,n:'14'},
+    {t:'How Kestrel found three tenths in the high-speed esses',c:'Technical',a:'2 days ago',h:350,n:''},
+    {t:'Corsa Nova confirm Marchetti for 2027 on a two-year deal',c:'News',a:'3 days ago',h:45,n:'8'},
+    {t:'Rookie watch: Kaleo’s first points finish, lap by lap',c:'Analysis',a:'3 days ago',h:300,n:'31'},
+    {t:'Pit stop of the season? Brightline’s 2.1-second stop explained',c:'Technical',a:'4 days ago',h:120,n:''},
+    {t:'Halvorsen: “The car finally does what I ask”',c:'Interview',a:'5 days ago',h:200,n:'5'},
+    {t:'Tyre supplier picks softest compounds for Coastline',c:'News',a:'6 days ago',h:60,n:''},
+    {t:'The five overtakes that shaped the season so far',c:'Feature',a:'1 week ago',h:15,n:'5'}
+  ],
+  results:{
+    title:'Last race · Highland Ring',col:'Driver',col2:'Time / gap',
+    podium:[['Varnell',teams.K.n,'1:32:18.442',teams.K.c],['Okafor',teams.H.n,'+2.716',teams.H.c],['Halvorsen',teams.H.n,'+9.304',teams.H.c]],
+    rows:[['Leo Varnell','1:32:18.442','25',teams.K],['Mina Okafor','+2.716','18',teams.H],['Ryo Halvorsen','+9.304','15',teams.H],['Inès Marchetti','+14.880','12',teams.C],['Teo Dalsgaard','+21.093','10',teams.K],['Sol Quintero','+33.417','8',teams.B]],
+    extra:'',source:'Sample content for the design preview.'
+  },
+  standingsTabs:[['d','Drivers'],['t','Teams']],
+  standings:{
+    d:drv.map(d=>[d[0],teams[d[1]].n,d[2],teams[d[1]].c]),
+    t:(()=>{const m={};drv.forEach(d=>m[d[1]]=(m[d[1]]||0)+d[2]);return Object.entries(m).map(([k,p])=>[teams[k].n,'',p,teams[k].c]).sort((a,b)=>b[2]-a[2]);})()
+  },
+  calTitle:'International 2026',
+  cal:[
+    {s:'World series',r:'Round 16',d:'18–20 Oct',n:'Sunset Bay GP',l:'4.66 km · Winner: Okafor',st:'done'},
+    {s:'World series',r:'Round 17',d:'25–27 Oct',n:'Highland Ring GP',l:'4.38 km · Winner: Varnell',st:'done'},
+    {s:'World series',r:'Round 18',d:'6–8 Nov',n:'Coastline GP',l:'Street · 5.12 km',st:'next'},
+    {s:'World series',r:'Round 19',d:'13–15 Nov',n:'Alpine Valley GP',l:'4.38 km'},
+    {s:'World series',r:'Round 20',d:'27–29 Nov',n:'Desert Night GP',l:'Floodlit · 5.47 km'},
+    {s:'World series',r:'Round 21',d:'4–6 Dec',n:'Lakeside GP',l:'4.91 km'},
+    {s:'World series',r:'Round 22',d:'11–13 Dec',n:'Harbour Finale',l:'Street · 3.89 km'}
+  ],
+  calSource:'Sample calendar for the design preview.',
+  tv:[['Race-day live show','Planned · race weekends',90],['Live timing & updates','Planned · every session',180],['Post-race debrief','Planned · Sunday nights',20]]
+};
+
+/* karting hub (Sri Lanka only) */
+const SERIES=[
+  {e:'Sodi World Series',t:'SWS Sprint',d:'Sri Lanka’s first SWS Sprint Championship. Individual racing in arrive-and-drive Sodi karts with equal machinery and minimum weights.',
+   f:[['6','Rounds'],['33','Senior grid'],['5','Classes']],cl:['Cadet','Junior','Senior','Masters','Women’s'],ft:'Winners eligible for the SWS World Finals'},
+  {e:'Sodi World Series',t:'SWS Endurance',d:'Team racing over three hours. The opener drew 16 teams and drivers from six countries.',
+   f:[['3h','Race'],['16','Teams'],['126','Winning laps']],cl:['Team Avant','Kartmen','Velocity X Racing'],ft:'Opener podium · fastest lap Spark Racing'},
+  {e:'Two-stroke championship',t:'IAME Series Sri Lanka',d:'X30 engines on Komet tyres. Sri Lanka’s first IAME championship, reviving international two-stroke karting.',
+   f:[['5','Rounds 2026'],['4','Classes'],['X30','Engine']],cl:[['Cadet','8–12'],['Junior','12–15'],['Senior','15+'],['Master','30+']],ft:'Junior & Senior champions go to the IAME World Finals'}
+];
+$('#series').innerHTML=SERIES.map(s=>`<article class="s-card">
+  <div class="s-top"><span class="eyebrow">${s.e}</span><h3>${s.t}</h3><p>${s.d}</p></div>
+  <div class="s-body"><div class="facts">${s.f.map(f=>`<div><b class="tnum">${f[0]}</b><span>${f[1]}</span></div>`).join('')}</div>
+  <div class="classes">${s.cl.map(c=>Array.isArray(c)?`<span>${c[0]}<small>${c[1]}</small></span>`:`<span>${c}</span>`).join('')}</div></div>
+  <div class="s-foot"><span>${s.ft}</span><a class="more" href="#results" style="color:var(--green)">Results ›</a></div></article>`).join('');
+
+/* ================= RENDER ================= */
+let ED='sl', newsCat='All', stTab=null, cdTimer=null;
+function render(){
+  const D=ED==='sl'?SL:INT;
+  document.querySelectorAll('.edition button').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.ed===ED)));
+  $('#edNote').textContent=D.note;
+  $('#karting').hidden=ED!=='sl'; $('#navKart').hidden=ED!=='sl'; document.querySelector('.m-kart').hidden=ED!=='sl';
+
+  $('#weekend').innerHTML=D.weekend;
+  const L=D.lead;
+  $('#lead').innerHTML=`<div class="ph" data-h="${L.h}" data-n="${L.n}"><span class="tag g">${L.tag}</span></div>
+    <div class="lead-body"><div class="meta"><span class="eyebrow" style="color:var(--green)">${L.eyebrow}</span><span>· ${L.ago}</span></div><h1>${L.t}</h1><p>${L.d}</p></div>`;
+  $('#rail').innerHTML=D.rail.map(r=>`<a class="rail-item" href="#latest"><div class="ph" data-h="${r.h}"></div><div><span class="eyebrow" style="color:var(--green-ink)">${r.c}</span><h3>${r.t}</h3><div class="meta">${r.a}</div></div></a>`).join('');
+
+  $('#newsTitle').textContent=D.newsTitle;
+  renderNews(D);
+
+  const R=D.results;
+  $('#resTitle').textContent=R.title; $('#resCol').textContent=R.col; $('#resCol2').textContent=R.col2; $('#resSource').textContent=R.source;
+  $('#podium').innerHTML=[1,0,2].map(i=>{const p=R.podium[i];return `<div class="step p${i+1}" style="--team:${p[3]}"><span class="p">${i+1}</span><b>${p[0]}</b><span>${p[1]}</span><span class="tnum">${p[2]}</span></div>`}).join('');
+  $('#resBody').innerHTML=R.rows.map((r,i)=>{const c=r[3]?r[3].c:R.podium[i]?.[3]||'#9aa29a';const sub=r[3]?r[3].n:'';return `<tr><td class="pos">${i+1}</td><td><div class="drv"><i style="background:${c}"></i><div>${r[0]}${sub?`<small>${sub}</small>`:''}</div></div></td><td class="r tnum">${r[1]}</td><td class="r tnum">${r[2]}</td></tr>`}).join('')+R.extra;
+
+  stTab=D.standingsTabs[0][0];
+  $('#stTabs').innerHTML=D.standingsTabs.map(t=>`<button role="tab" aria-selected="${t[0]===stTab}" data-t="${t[0]}">${t[1]}</button>`).join('');
+  renderStandings(D);
+
+  $('#calTitle').textContent=D.calTitle; $('#calSource').textContent=D.calSource;
+  $('#cal').innerHTML=D.cal.map((c,i)=>`<div class="round ${c.st||''}"><span class="series-tag">${c.s}</span><span class="rn">${c.r}${c.st==='next'?' · Next':''}${c.st==='live'?' · This weekend':''}</span><span class="dates">${c.d}</span><h4>${c.n}</h4><p>${c.l}</p><svg class="trackline" viewBox="0 0 100 46" aria-hidden="true"><path d="${c.tr||tracks[i%tracks.length]}"/></svg></div>`).join('');
+  requestAnimationFrame(()=>{const n=document.querySelector('.round.next,.round.live');const cal=$('#cal');cal.scrollLeft=n?n.offsetLeft-cal.offsetLeft-cal.clientWidth+n.clientWidth+16:0;});
+
+  $('#tvList').innerHTML=D.tv.map(t=>`<div class="tv-item"><div class="ph" data-h="${t[2]}"></div><div><b>${t[0]}</b><span>${t[1]}</span></div></div>`).join('');
+  document.querySelectorAll('#lead .ph, #rail .ph, #tvList .ph').forEach(paint);
+
+  clearInterval(cdTimer);
+  if($('#cd-d')){cd();cdTimer=setInterval(cd,15000);}
+}
+function renderNews(D){
+  const cats=['All',...new Set(D.news.map(n=>n.c))];
+  if(!cats.includes(newsCat))newsCat='All';
+  $('#filters').innerHTML=cats.map(c=>`<button type="button" aria-pressed="${c===newsCat}" data-c="${c}">${c}</button>`).join('');
+  $('#newsGrid').innerHTML=D.news.filter(n=>newsCat==='All'||n.c===newsCat).map(n=>`<a class="card" href="#news"><div class="ph" data-h="${n.h}" data-n="${n.n}"></div><div class="card-body"><span class="tag">${n.c}</span><h3>${n.t}</h3><div class="meta">${n.a}</div></div></a>`).join('');
+  document.querySelectorAll('#newsGrid .ph').forEach(paint);
+}
+function renderStandings(D){
+  const rows=D.standings[stTab], top=rows[0][2];
+  $('#stCol').textContent=(ED==='int'&&stTab==='t')?'Team':'Driver';
+  $('#stBody').innerHTML=rows.map((r,i)=>`<tr><td class="pos">${i+1}</td><td style="--team:${r[3]}"><div class="drv"><i style="background:${r[3]}"></i><div>${r[0]}${r[1]?`<small>${r[1]}</small>`:''}</div></div><div class="bar"><span style="width:${(r[2]/top*100).toFixed(1)}%"></span></div></td><td class="r tnum" style="font-weight:700">${r[2]}</td></tr>`).join('');
+}
+function cd(){const raceAt=new Date(2026,10,8,14,0,0);let s=Math.max(0,Math.floor((raceAt-Date.now())/1000));if(!$('#cd-d'))return;$('#cd-d').textContent=Math.floor(s/86400);s%=86400;$('#cd-h').textContent=String(Math.floor(s/3600)).padStart(2,'0');s%=3600;$('#cd-m').textContent=String(Math.floor(s/60)).padStart(2,'0');}
+
+$('#filters').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;newsCat=b.dataset.c;renderNews(ED==='sl'?SL:INT);});
+$('#stTabs').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;stTab=b.dataset.t;document.querySelectorAll('#stTabs button').forEach(x=>x.setAttribute('aria-selected',String(x===b)));renderStandings(ED==='sl'?SL:INT);});
+document.querySelector('.edition').addEventListener('click',e=>{const b=e.target.closest('button');if(!b||b.dataset.ed===ED)return;ED=b.dataset.ed;newsCat='All';try{localStorage.setItem('apexEd',ED);}catch(x){}render();});
+
+/* start in the edition from the link (#international) or the last one picked */
+if(location.hash==='#international')ED='int';
+else if(location.hash==='#srilanka')ED='sl';
+else{try{const s=localStorage.getItem('apexEd');if(s==='sl'||s==='int')ED=s;}catch(x){}}
+render();
+
+/* mobile menu */
+$('#burger').addEventListener('click',()=>{const m=$('#mobileMenu');m.hidden=!m.hidden;$('#burger').setAttribute('aria-expanded',String(!m.hidden));});
+$('#mobileMenu').addEventListener('click',e=>{if(e.target.closest('a')){$('#mobileMenu').hidden=true;$('#burger').setAttribute('aria-expanded','false');}});
+
+/* newsletter */
+$('#subForm').addEventListener('submit',e=>{e.preventDefault();$('#subMsg').textContent='You’re signed up. First briefing arrives Friday.';e.target.reset();});
+})();
+</script>
+</body>
+</html>
