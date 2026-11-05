@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T08:53:29.681Z",
+  "updated": "2026-11-05T08:55:02.856Z",
   "sources": [
     {
       "name": "Formula1.com",
       "ok": true,
-      "count": 0
+      "count": 10
     },
     {
       "name": "Motorsport.com",
@@ -34,13 +34,103 @@
   ],
   "items": [
     {
+      "title": "F1 champion Alan Jones passes away, aged 80",
+      "url": "https://www.formula1.com/en/latest/article/f1-champion-alan-jones-passes-away-aged-80.47VhlGhEpLtaMwCOlLAB3Y",
+      "source": "Formula1.com",
+      "date": "2026-11-05T08:55:02.830Z",
+      "series": "F1",
+      "summary": "1980 champion Alan Jones has passed away at the age of 80.",
+      "image": null
+    },
+    {
+      "title": "Our early Bet Builder picks for Brazil",
+      "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-sao-paulo-grand-prix.2muJoFsivUdZaVn0ujetRf",
+      "source": "Formula1.com",
+      "date": "2026-11-05T08:55:02.830Z",
+      "series": "F1",
+      "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Sao Paulo Grand Prix, two podium finishes, a top six selection and a driver with points potential.",
+      "image": null
+    },
+    {
+      "title": "Where did it go wrong for Russell – and can he regroup for 2027?",
+      "url": "https://www.formula1.com/en/latest/article/where-did-it-go-wrong-for-russell-and-can-he-regroup-for-2027.2CNIpJmJWuYCp6J4UbzNPB",
+      "source": "Formula1.com",
+      "date": "2026-11-05T08:55:02.830Z",
+      "series": "F1",
+      "summary": "F1 TV lead commentator Alex Jacques dissects a season in which Russell has been comprehensively beaten to the title by a less experienced team mate – and looks at what he must do now before next year's campaign.",
+      "image": null
+    },
+    {
+      "title": "When could Mercedes win the 2026 Teams' Championship?",
+      "url": "https://www.formula1.com/en/latest/article/points-permutations-when-could-mercedes-win-the-2026-f1-teams-championship.73hdGVkJl9FHxEvDNlNZKq",
+      "source": "Formula1.com",
+      "date": "2026-11-05T08:55:02.830Z",
+      "series": "F1",
+      "summary": "Mercedes could clinch the 2026 Teams' Championship in Brazil, but what results do they need to secure the title? Here are all the points permutations.",
+      "image": null
+    },
+    {
+      "title": "Camara concedes ‘there is a lot to learn’ ahead of F1 debut",
+      "url": "https://www.formula1.com/en/latest/article/camara-concedes-there-is-a-lot-to-learn-ahead-of-special-f1-debut-with-haas-in-sao-paulo.28dp6c9ntdxBu0xmEWAAUm",
+      "source": "Formula1.com",
+      "date": "2026-11-05T08:55:02.830Z",
+      "series": "F1",
+      "summary": "Rafael Camara has shared his initial thoughts on his upcoming debut for Haas at the Sao Paulo Grand Prix.",
+      "image": null
+    },
+    {
+      "title": "Rosberg opens up on Hamilton relationship after retirement",
+      "url": "https://www.formula1.com/en/latest/article/well-just-not-be-best-friends-rosberg-opens-up-on-hamilton-relationship-after-his-sudden-retirement.6x4Chs81Z7ehgVIHmjr4fW",
+      "source": "Formula1.com",
+      "date": "2026-11-05T08:55:02.830Z",
+      "series": "F1",
+      "summary": "In the latest episode of official podcast F1 Beyond The Grid, Nico Rosberg reflected on his shock retirement and evolved relationship with Lewis Hamilton.",
+      "image": null
+    },
+    {
+      "title": "The 5 drivers most likely to qualify fastest in Brazil",
+      "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-sao-paulo.632xqUGo5Z3N5BvznKa5CD",
+      "source": "Formula1.com",
+      "date": "2026-11-05T08:55:02.830Z",
+      "series": "F1",
+      "summary": "We have looked at the betting markets for Qualifying at the Autodromo Jose Carlos Pace and assessed the chances of the leading contenders for pole position.",
+      "image": null
+    },
+    {
+      "title": "QUIZ: How much do you know about Brazilian F1 drivers?",
+      "url": "https://www.formula1.com/en/latest/article/quiz-how-much-do-you-know-about-brazilian-f1-drivers.2vmvtHwIM9JiS7u5cTtu9C",
+      "source": "Formula1.com",
+      "date": "2026-11-05T08:55:02.830Z",
+      "series": "F1",
+      "summary": "The Sao Paulo Grand Prix is coming up this weekend – so we've knocked up a quick fire quiz all about Brazilian Formula 1 drivers.",
+      "image": null
+    },
+    {
+      "title": "What tyres will the teams have for the Sao Paulo Grand Prix?",
+      "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-sao-paulo-grand-prix.bjn9KJgqDprqvVr9z7i5V",
+      "source": "Formula1.com",
+      "date": "2026-11-05T08:55:02.830Z",
+      "series": "F1",
+      "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Sao Paulo Grand Prix weekend at the Autodromo Jose Carlos Pace.",
+      "image": null
+    },
+    {
+      "title": "What is the weather forecast for the Sao Paulo Grand Prix?",
+      "url": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-sao-paulo-grand-prix.6DTTG84ES6tbC6eISpqnR8",
+      "source": "Formula1.com",
+      "date": "2026-11-05T08:55:02.830Z",
+      "series": "F1",
+      "summary": "The weather forecast is in ahead of the Sao Paulo Grand Prix from the Autodromo Jose Carlos Pace.",
+      "image": null
+    },
+    {
       "title": "1980 F1 world champion Alan Jones dies aged 80",
       "url": "https://www.motorsport.com/f1/news/1980-f1-world-champion-alan-jones-dies-aged-80/10871639/",
       "source": "Motorsport.com",
       "date": "2026-11-05T08:50:37.000Z",
       "series": "F1",
       "summary": "The 1980 World Drivers’ Champion, Australia’s Alan Jones, died on the Gold Coast on Thursday. In a statement released on behalf of Jones's family, his wife, Amanda Butler-Davis, said he died following a short illness…",
-      "image": "https://cdn-3.motorsport.com/images/amp/YKEQqXw0/s6/1980-f1-drivers-champion-alan-.jpg"
+      "image": "https://cdn-4.motorsport.com/images/amp/YKEQqXw0/s6/1980-f1-drivers-champion-alan-.jpg"
     },
     {
       "title": "WEC title showdown: How Toyota’s two crews can win the crown at Monza",
@@ -49,7 +139,7 @@
       "date": "2026-11-05T08:47:54.000Z",
       "series": "WEC",
       "summary": "The #8 Toyota TR010 crew of Sebastien Buemi, Brendon Hartley and Ryo Hirakawa hold a sizeable advantage over the #7 line-up of Mike Conway, Nyck de Vries and Kamui Kobayashi, as the 2026 World Endurance Championship…",
-      "image": "https://cdn-6.motorsport.com/images/amp/6zoDLR70/s6/8-toyota-gazoo-racing-toyota-t.jpg"
+      "image": "https://cdn-2.motorsport.com/images/amp/6zoDLR70/s6/8-toyota-gazoo-racing-toyota-t.jpg"
     },
     {
       "title": "Audi swaps grey livery for “Piso Paulista” design in Brazil",
@@ -67,16 +157,7 @@
       "date": "2026-11-05T08:36:48.000Z",
       "series": "MotoGP",
       "summary": "Honda HRC has announced that Joan Mir will be absent this weekend's Qatar Grand Prix after his comeback at Sepang was cut short due to another episode of dizziness and partial loss of vision. British rider Jake Dixon…",
-      "image": "https://cdn-7.motorsport.com/images/amp/2Qe8g5O2/s6/jake-dixon-team-hrc.jpg"
-    },
-    {
-      "title": "1980 F1 champion Alan Jones passes away",
-      "url": "https://www.the-race.com/formula-1/1980-f1-champion-alan-jones-passes-away/",
-      "source": "The Race",
-      "date": "2026-11-05T08:33:18.000Z",
-      "series": "F1",
-      "summary": "Alan Jones, the 1980 Formula 1 world champion and first F1 title winner for the Williams F1 team, has passed away after a short illness",
-      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1029577_HiRes.jpg"
+      "image": "https://cdn-6.motorsport.com/images/amp/2Qe8g5O2/s6/jake-dixon-team-hrc.jpg"
     },
     {
       "title": "2026 MotoGP Qatar Grand Prix – How to watch, session times & more",
@@ -85,7 +166,7 @@
       "date": "2026-11-05T08:13:01.000Z",
       "series": "MotoGP",
       "summary": "Ducati's Marc Marquez could wrap up the 2026 MotoGP title this weekend at the Qatar Grand Prix, having pulled out a 44-point lead in the championship following his victory at Sepang last time. The Losail race is going…",
-      "image": "https://cdn-8.motorsport.com/images/amp/Y99KkdxY/s6/pedro-acosta-red-bull-ktm-fact.jpg"
+      "image": "https://cdn-4.motorsport.com/images/amp/Y99KkdxY/s6/pedro-acosta-red-bull-ktm-fact.jpg"
     },
     {
       "title": "A home debutant and another Mercedes title? Six Brazilian GP talking points",
@@ -103,7 +184,7 @@
       "date": "2026-11-05T00:20:58.000Z",
       "series": "F1",
       "summary": "Max Verstappen will race in the colours of Brazil at this weekend’s Sao Paulo Grand Prix after revealing a special helmet for the race. The Red Bull driver has replaced his usual red, white and blue with the green…",
-      "image": "https://cdn-2.motorsport.com/images/amp/63Qa3WJ2/s6/motorsport-com-graphics-72.jpg"
+      "image": "https://cdn-1.motorsport.com/images/amp/63Qa3WJ2/s6/motorsport-com-graphics-72.jpg"
     },
     {
       "title": "Kimi Antonelli to honour Ayrton Senna with special helmet at Brazilian GP",
@@ -112,7 +193,7 @@
       "date": "2026-11-05T00:19:06.000Z",
       "series": "F1",
       "summary": "Kimi Antonelli will arrive at Interlagos as the 2026 world champion this weekend, and he plans to use the occasion to pay tribute to his racing hero, Ayrton Senna. The Mercedes driver has confirmed he will wear a…",
-      "image": "https://cdn-9.motorsport.com/images/amp/YMXblgn2/s6/motorsport-com-graphics-55.jpg"
+      "image": "https://cdn-1.motorsport.com/images/amp/YMXblgn2/s6/motorsport-com-graphics-55.jpg"
     },
     {
       "title": "Kimi Antonelli shares \"unforgettable\" Ayrton Senna moment after F1 title win",
@@ -121,7 +202,7 @@
       "date": "2026-11-04T23:59:18.000Z",
       "series": "F1",
       "summary": "2026 Formula 1 champion Kimi Antonelli went from winning his maiden title to sitting in his hero's car in the space of two days. The Mercedes driver, who clinched the title at the Mexican Grand Prix last weekend…",
-      "image": "https://cdn-8.motorsport.com/images/amp/6x7L9KjY/s6/motorsport-com-graphics-54.jpg"
+      "image": "https://cdn-3.motorsport.com/images/amp/6x7L9KjY/s6/motorsport-com-graphics-54.jpg"
     },
     {
       "title": "Mercedes to race in new suits at Brazil GP in nod to legendary era",
@@ -139,7 +220,7 @@
       "date": "2026-11-04T23:44:09.000Z",
       "series": "F1",
       "summary": "Ferrari’s divisive opening lap at the Autódromo Hermanos Rodríguez provided the ultimate gift to their rivals. Charles Leclerc and Lewis Hamilton's desperate wheel-to-wheel clash at Turn 4 fundamentally altered the…",
-      "image": "https://cdn-5.motorsport.com/images/amp/0R7BlpE2/s6/motorsport-com-graphics-70-2.jpg"
+      "image": "https://cdn-1.motorsport.com/images/amp/0R7BlpE2/s6/motorsport-com-graphics-70-2.jpg"
     },
     {
       "title": "Lando Norris blasts F1 top speed limiters: “We should easily go quicker than a motorbike”",
@@ -148,7 +229,7 @@
       "date": "2026-11-04T23:24:45.000Z",
       "series": "F1",
       "summary": "Riding in the slipstream is supposed to be the ultimate offensive weapon for a Formula 1 driver. But according to Lando Norris, the current technical regulations have turned the draft into something a little less…",
-      "image": "https://cdn-9.motorsport.com/images/amp/Y9lNZqZ2/s6/motorsport-com-graphics-69-2.jpg"
+      "image": "https://cdn-5.motorsport.com/images/amp/Y9lNZqZ2/s6/motorsport-com-graphics-69-2.jpg"
     },
     {
       "title": "Liam Lawson’s remarkable form is giving Red Bull a headache for 2027",
@@ -157,7 +238,7 @@
       "date": "2026-11-04T18:24:31.000Z",
       "series": "F1",
       "summary": "So far in 2026, Liam Lawson has been a clear standout performer in Formula 1’s midfield. Lawson has scored 83 points so far, nearly twice as many as second-best Pierre Gasly’s 42 – and that’s not even down to his Red…",
-      "image": "https://cdn-4.motorsport.com/images/amp/Y9lN4LL2/s6/liam-lawson-racing-bulls.jpg"
+      "image": "https://cdn-6.motorsport.com/images/amp/Y9lN4LL2/s6/liam-lawson-racing-bulls.jpg"
     },
     {
       "title": "Hanley Motorsports announces multi-class IMSA arrival with BMW support and DXDT deal",
@@ -166,7 +247,7 @@
       "date": "2026-11-04T18:00:06.000Z",
       "series": "WEC",
       "summary": "Hanley Motorsports Incorporated (HMI) and DXDT Racing are combining forces to launch a multi-tier IMSA program for the 2027 season, competing under the HMI banner in both the WeatherTech SportsCar Championship and…",
-      "image": "https://cdn-2.motorsport.com/images/amp/YvKBDG76/s6/hanley-announcement-5.jpg"
+      "image": "https://cdn-7.motorsport.com/images/amp/YvKBDG76/s6/hanley-announcement-5.jpg"
     },
     {
       "title": "How the F1 world reacted to Charles Leclerc becoming a father",
@@ -175,7 +256,7 @@
       "date": "2026-11-04T17:01:14.000Z",
       "series": "F1",
       "summary": "Charles Leclerc has received messages of congratulations from across the Formula 1 sphere after he and his wife Alexandra announced the birth of their first child, a daughter named Bianca. The couple shared the news in…",
-      "image": "https://cdn-8.motorsport.com/images/amp/0rVP81d0/s6/motorsport-com-graphics-68.jpg"
+      "image": "https://cdn-4.motorsport.com/images/amp/0rVP81d0/s6/motorsport-com-graphics-68.jpg"
     },
     {
       "title": "Sky F1 announces new signing to make debut at Brazil GP",
@@ -193,7 +274,7 @@
       "date": "2026-11-04T16:39:07.000Z",
       "series": "NASCAR",
       "summary": "Ryan Preece will have a new car number next year, taking over Roush's historic No. 6 with the looming exit of Brad Keselowski. Preece joined RFK Racing ahead of the 2025 season, driving the No. 60 Ford. He has since…",
-      "image": "https://cdn-4.motorsport.com/images/amp/6grQw1mY/s6/brad-keselowski-no-6-rfk-racin.jpg"
+      "image": "https://cdn-8.motorsport.com/images/amp/6grQw1mY/s6/brad-keselowski-no-6-rfk-racin.jpg"
     },
     {
       "title": "Toto Wolff reveals how Kimi Antonelli came to his office with title pressure “on his chest”",
@@ -202,7 +283,7 @@
       "date": "2026-11-04T16:33:53.000Z",
       "series": "F1",
       "summary": "Premature celebrations are a dangerous distraction in Formula 1. Long before the lights went out for the Mexico City Grand Prix, the paddock had already mentally crowned Kimi Antonelli the 2026 World Champion. That…",
-      "image": "https://cdn-6.motorsport.com/images/amp/0arElvX2/s6/motorsport-com-graphics-67-2.jpg"
+      "image": "https://cdn-4.motorsport.com/images/amp/0arElvX2/s6/motorsport-com-graphics-67-2.jpg"
     },
     {
       "title": "Five things to look out for at F1 Brazil GP",
@@ -211,7 +292,7 @@
       "date": "2026-11-04T16:27:53.000Z",
       "series": "F1",
       "summary": "The 2026 Formula 1 season is now very much in its final stretch with this weekend’s Brazil Grand Prix marking the fourth-to-last round of the year. There is only one title up for grabs as well after Kimi Antonelli…",
-      "image": "https://cdn-8.motorsport.com/images/amp/6zoJMzP0/s6/charles-leclerc-ferrari-lando-.jpg"
+      "image": "https://cdn-5.motorsport.com/images/amp/6zoJMzP0/s6/charles-leclerc-ferrari-lando-.jpg"
     },
     {
       "title": "John Hunter Nemechek joins Haas NASCAR O'Reilly team for 2027",
@@ -220,7 +301,7 @@
       "date": "2026-11-04T16:19:19.000Z",
       "series": "NASCAR",
       "summary": "John Hunter Nemechek has revealed his plans for the 2027 NASCAR season, returning to the O'Reilly Auto Parts Series (NOAPS) in a new deal to drive the No. 41 Haas Factory Team Chevrolet. Pye-Barker Fire & Safety will…",
-      "image": "https://cdn-4.motorsport.com/images/amp/0JXRXGQY/s6/john-hunter-nemechek-legacy-mo.jpg"
+      "image": "https://cdn-2.motorsport.com/images/amp/0JXRXGQY/s6/john-hunter-nemechek-legacy-mo.jpg"
     },
     {
       "title": "Lewis Hamilton shares emotional moment with former F1 race engineer Peter Bonnington",
@@ -247,7 +328,7 @@
       "date": "2026-11-04T16:07:19.000Z",
       "series": "WRC",
       "summary": "Oliver Solberg reckons it is “awesome” to be part of the revival of the iconic Toyota Celica brand in the World Rally Championship - and is ready to move on from this year’s title heartbreak. A little over a month since…",
-      "image": "https://cdn-9.motorsport.com/images/amp/2wlKyLVY/s6/tgr-celica.jpg"
+      "image": "https://cdn-2.motorsport.com/images/amp/2wlKyLVY/s6/tgr-celica.jpg"
     },
     {
       "title": "Joan Mir says Marc Marquez’s MotoGP rivals couldn’t cope with title pressure",
@@ -256,7 +337,7 @@
       "date": "2026-11-04T15:55:38.000Z",
       "series": "MotoGP",
       "summary": "Joan Mir says Marc Marquez is closing in on the 2026 MotoGP title because his title rivals cracked under the pressure he put them under.​The factory Ducati star has staged a remarkable recovery in the championship race…",
-      "image": "https://cdn-4.motorsport.com/images/amp/2y7QVze6/s6/marco-bezzecchi-aprilia-racing.jpg"
+      "image": "https://cdn-2.motorsport.com/images/amp/2y7QVze6/s6/marco-bezzecchi-aprilia-racing.jpg"
     },
     {
       "title": "Liverpool FC owners emerge as potential buyers of Cadillac F1 team stake",
@@ -283,7 +364,7 @@
       "date": "2026-11-04T15:01:43.000Z",
       "series": "WEC",
       "summary": "McLaren Racing has promoted Gregoire Saucy to a full-time race seat in its MCL-HY Hypercar for the team’s debut in the World Endurance Championship in 2027. The young Swiss driver, who began his sportscar career driving…",
-      "image": "https://cdn-5.motorsport.com/images/amp/0kZXv7j6/s6/gregoire-saucy-mclaren-racing.jpg"
+      "image": "https://cdn-1.motorsport.com/images/amp/0kZXv7j6/s6/gregoire-saucy-mclaren-racing.jpg"
     },
     {
       "title": "Mercedes reveals Kimi Antonelli was “on the edge of retirement” at Mexico GP",
@@ -491,87 +572,6 @@
       "series": "F1",
       "summary": "Cadillac will give Colton Herta another practice outing at the Brazilian GP to earn him the point he needs to finally secure his F1 superlicence",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1448586_HiRes.jpg"
-    },
-    {
-      "title": "Rafael Camara to make early Haas F1 debut in Brazil as Esteban Ocon axed",
-      "url": "https://www.crash.net/f1/news/1109302/1/rafael-camara-make-early-haas-f1-debut-brazil-esteban-ocon-axed",
-      "source": "Crash.net",
-      "date": "2026-11-03T20:48:11.000Z",
-      "series": "F1",
-      "summary": "Rafael Camara will make his F1 debut with Haas at this weekend's Sao Paulo Grand Prix.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/cc_59510_ugq6mm0u_20261015113534-168.JPG?width=1200"
-    },
-    {
-      "title": "Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil",
-      "url": "https://www.autosport.com/f1/news/ocon-to-skip-the-rest-of-f1-2026-with-camara-to-debut-in-brazil/10871378/",
-      "source": "Autosport",
-      "date": "2026-11-03T20:47:12.000Z",
-      "series": "F1",
-      "summary": "The Haas Formula 1 team has decided that Esteban Ocon will not race again for the squad, with 2027 rookie Rafael Camara getting an early debut this weekend on home soil. Following increasingly strained relations between…",
-      "image": "https://cdn-3.motorsport.com/images/amp/27No9rm0/s6/esteban-ocon-haas-f1-team-4.jpg"
-    },
-    {
-      "title": "Haas drops Ocon for rest of 2026 F1 season",
-      "url": "https://www.the-race.com/formula-1/haas-drops-ocon-for-rest-of-2026-f1-season/",
-      "source": "The Race",
-      "date": "2026-11-03T20:45:13.000Z",
-      "series": "F1",
-      "summary": "Esteban Ocon has been permanently dropped by Haas and will be replaced by Rafa Camara for Interlagos",
-      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1447657_HiRes.jpg"
-    },
-    {
-      "title": "Official: Ocon will not return to drive for Haas, Camara to take over in Brazil",
-      "url": "https://www.racefans.net/2026/11/03/official-ocon-will-not-return-to-drive-for-haas-camara-to-take-over-in-brazil/",
-      "source": "RaceFans",
-      "date": "2026-11-03T20:32:30.000Z",
-      "series": "F1",
-      "summary": "Haas has confirmed Esteban Ocon will not return to drive for them. Rafael Camara will make his Formula 1 debut for the team this weekend.",
-      "image": null
-    },
-    {
-      "title": "Why Bearman is yet to be announced as a Haas driver for F1 2027",
-      "url": "https://www.autosport.com/f1/news/why-bearman-is-yet-to-be-announced-as-a-haas-driver-for-f1-2027/10871339/",
-      "source": "Autosport",
-      "date": "2026-11-03T17:39:09.000Z",
-      "series": "F1",
-      "summary": "With Oliver Bearman firing on all cylinders in his sophomore Formula 1 campaign, it feels odd that Haas has been able to confirm the identity of Esteban Ocon's replacement in the second seat for 2027 before announcing…",
-      "image": "https://cdn-3.motorsport.com/images/amp/YK15R8O0/s6/oliver-bearman-haas-f1-team.jpg"
-    },
-    {
-      "title": "Honda reveals cause of Aston Martin's reliability woes at Mexico Grand Prix",
-      "url": "https://www.crash.net/f1/news/1109301/1/honda-reveals-cause-aston-martins-reliability-woes-mexico-grand-prix",
-      "source": "Crash.net",
-      "date": "2026-11-03T17:00:00.000Z",
-      "series": "F1",
-      "summary": "Honda has explained the reliability issues that plagued Aston Martin throughout the Mexico Grand Prix weekend.",
-      "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1449633_hires.jpg?width=1200"
-    },
-    {
-      "title": "McLaren to bring upgrades to Brazil GP with F1 2027 in mind",
-      "url": "https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/",
-      "source": "Autosport",
-      "date": "2026-11-03T16:48:36.000Z",
-      "series": "F1",
-      "summary": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend’s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger. The team had surged to the front when…",
-      "image": "https://cdn-3.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg"
-    },
-    {
-      "title": "Dixon set to replace Mir in Qatar MotoGP round",
-      "url": "https://www.the-race.com/motogp/honda-motogp-qatar-gp-lusail-joan-mir-jake-dixon/",
-      "source": "The Race",
-      "date": "2026-11-03T16:20:30.000Z",
-      "series": "MotoGP",
-      "summary": "Jake Dixon is set to get his first Honda MotoGP start at this weekend's Qatar GP, according to The Race's sources in the paddock",
-      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1358229_HiRes.jpg"
-    },
-    {
-      "title": "Toto Wolff sends message to Kimi Antonelli doubters after record-breaking F1 title",
-      "url": "https://www.crash.net/f1/news/1109298/1/toto-wolff-sends-message-kimi-antonelli-doubters-after-record-breaking-f1-title",
-      "source": "Crash.net",
-      "date": "2026-11-03T16:00:00.000Z",
-      "series": "F1",
-      "summary": "Toto Wolff has hit back at those who questioned his decision to replace Lewis Hamilton with Kimi Antonelli, insisting he never doubted the Italian's ability to succeed in Formula 1.",
-      "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1450415_hires.jpg?width=1200"
     }
   ]
 }
