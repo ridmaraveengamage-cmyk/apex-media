@@ -1,0 +1,1751 @@
+{
+ "updated": "2026-11-05T09:17:22.942Z",
+ "status": {
+  "F1": "ok",
+  "MotoGP": "ok",
+  "NASCAR": "ok"
+ },
+ "series": {
+  "F1": {
+   "label": "Formula 1",
+   "season": "2026",
+   "calendar": [
+    {
+     "round": 1,
+     "name": "Australian Grand Prix",
+     "place": "Melbourne, Australia",
+     "start": "2026-03-06T01:30:00Z",
+     "main": "2026-03-08T04:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-03-06T01:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-03-06T05:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-03-07T01:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-03-07T05:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-03-08T04:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 2,
+     "name": "Chinese Grand Prix",
+     "place": "Shanghai, China",
+     "start": "2026-03-13T03:30:00Z",
+     "main": "2026-03-15T07:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-03-13T03:30:00Z"
+      },
+      {
+       "label": "Sprint qualifying",
+       "at": "2026-03-13T07:30:00Z"
+      },
+      {
+       "label": "Sprint",
+       "at": "2026-03-14T03:00:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-03-14T07:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-03-15T07:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 3,
+     "name": "Japanese Grand Prix",
+     "place": "Suzuka, Japan",
+     "start": "2026-03-27T02:30:00Z",
+     "main": "2026-03-29T05:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-03-27T02:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-03-27T06:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-03-28T02:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-03-28T06:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-03-29T05:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 4,
+     "name": "Miami Grand Prix",
+     "place": "Miami, USA",
+     "start": "2026-05-01T16:00:00Z",
+     "main": "2026-05-03T20:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-05-01T16:00:00Z"
+      },
+      {
+       "label": "Sprint qualifying",
+       "at": "2026-05-01T20:30:00Z"
+      },
+      {
+       "label": "Sprint",
+       "at": "2026-05-02T16:00:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-05-02T20:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-05-03T20:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 5,
+     "name": "Canadian Grand Prix",
+     "place": "Montreal, Canada",
+     "start": "2026-05-22T16:30:00Z",
+     "main": "2026-05-24T20:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-05-22T16:30:00Z"
+      },
+      {
+       "label": "Sprint qualifying",
+       "at": "2026-05-22T20:30:00Z"
+      },
+      {
+       "label": "Sprint",
+       "at": "2026-05-23T16:00:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-05-23T20:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-05-24T20:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 6,
+     "name": "Monaco Grand Prix",
+     "place": "Monte Carlo, Monaco",
+     "start": "2026-06-05T11:30:00Z",
+     "main": "2026-06-07T13:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-06-05T11:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-06-05T15:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-06-06T10:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-06-06T14:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-06-07T13:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 7,
+     "name": "Barcelona Grand Prix",
+     "place": "Barcelona, Spain",
+     "start": "2026-06-12T11:30:00Z",
+     "main": "2026-06-14T13:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-06-12T11:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-06-12T15:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-06-13T10:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-06-13T14:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-06-14T13:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 8,
+     "name": "Austrian Grand Prix",
+     "place": "Spielberg, Austria",
+     "start": "2026-06-26T11:30:00Z",
+     "main": "2026-06-28T13:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-06-26T11:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-06-26T15:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-06-27T10:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-06-27T14:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-06-28T13:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 9,
+     "name": "British Grand Prix",
+     "place": "Silverstone, UK",
+     "start": "2026-07-03T11:30:00Z",
+     "main": "2026-07-05T14:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-07-03T11:30:00Z"
+      },
+      {
+       "label": "Sprint qualifying",
+       "at": "2026-07-03T15:30:00Z"
+      },
+      {
+       "label": "Sprint",
+       "at": "2026-07-04T11:00:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-07-04T15:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-07-05T14:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 10,
+     "name": "Belgian Grand Prix",
+     "place": "Spa, Belgium",
+     "start": "2026-07-17T11:30:00Z",
+     "main": "2026-07-19T13:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-07-17T11:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-07-17T15:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-07-18T10:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-07-18T14:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-07-19T13:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 11,
+     "name": "Hungarian Grand Prix",
+     "place": "Budapest, Hungary",
+     "start": "2026-07-24T11:30:00Z",
+     "main": "2026-07-26T13:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-07-24T11:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-07-24T15:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-07-25T10:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-07-25T14:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-07-26T13:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 12,
+     "name": "Dutch Grand Prix",
+     "place": "Zandvoort, Netherlands",
+     "start": "2026-08-21T10:30:00Z",
+     "main": "2026-08-23T13:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-08-21T10:30:00Z"
+      },
+      {
+       "label": "Sprint qualifying",
+       "at": "2026-08-21T14:30:00Z"
+      },
+      {
+       "label": "Sprint",
+       "at": "2026-08-22T10:00:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-08-22T14:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-08-23T13:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 13,
+     "name": "Italian Grand Prix",
+     "place": "Monza, Italy",
+     "start": "2026-09-04T10:30:00Z",
+     "main": "2026-09-06T13:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-09-04T10:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-09-04T14:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-09-05T10:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-09-05T14:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-09-06T13:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 14,
+     "name": "Spanish Grand Prix",
+     "place": "Madrid, Spain",
+     "start": "2026-09-11T11:30:00Z",
+     "main": "2026-09-13T13:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-09-11T11:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-09-11T15:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-09-12T10:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-09-12T14:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-09-13T13:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 15,
+     "name": "Azerbaijan Grand Prix",
+     "place": "Baku, Azerbaijan",
+     "start": "2026-09-24T08:30:00Z",
+     "main": "2026-09-26T11:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-09-24T08:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-09-24T12:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-09-25T08:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-09-25T12:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-09-26T11:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 16,
+     "name": "Bahrain Grand Prix in Malaysia",
+     "place": "Kuala Lumpur, Malaysia",
+     "start": "2026-10-02T04:30:00Z",
+     "main": "2026-10-04T07:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-10-02T04:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-10-02T08:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-10-03T04:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-10-03T08:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-10-04T07:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 17,
+     "name": "Singapore Grand Prix",
+     "place": "Marina Bay, Singapore",
+     "start": "2026-10-09T08:30:00Z",
+     "main": "2026-10-11T12:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-10-09T08:30:00Z"
+      },
+      {
+       "label": "Sprint qualifying",
+       "at": "2026-10-09T12:30:00Z"
+      },
+      {
+       "label": "Sprint",
+       "at": "2026-10-10T09:00:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-10-10T13:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-10-11T12:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 18,
+     "name": "United States Grand Prix",
+     "place": "Austin, USA",
+     "start": "2026-10-23T17:30:00Z",
+     "main": "2026-10-25T20:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-10-23T17:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-10-23T21:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-10-24T17:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-10-24T21:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-10-25T20:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 19,
+     "name": "Mexico City Grand Prix",
+     "place": "Mexico City, Mexico",
+     "start": "2026-10-30T18:30:00Z",
+     "main": "2026-11-01T20:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-10-30T18:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-10-30T22:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-10-31T17:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-10-31T21:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-11-01T20:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 20,
+     "name": "Brazilian Grand Prix",
+     "place": "São Paulo, Brazil",
+     "start": "2026-11-06T15:30:00Z",
+     "main": "2026-11-08T17:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-11-06T15:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-11-06T19:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-11-07T14:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-11-07T18:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-11-08T17:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 21,
+     "name": "Las Vegas Grand Prix",
+     "place": "Las Vegas, USA",
+     "start": "2026-11-20T00:30:00Z",
+     "main": "2026-11-22T04:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-11-20T00:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-11-20T04:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-11-21T00:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-11-21T04:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-11-22T04:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 22,
+     "name": "Qatar Grand Prix",
+     "place": "Lusail, Qatar",
+     "start": "2026-11-27T13:30:00Z",
+     "main": "2026-11-29T16:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-11-27T13:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-11-27T17:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-11-28T14:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-11-28T18:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-11-29T16:00:00Z"
+      }
+     ]
+    },
+    {
+     "round": 23,
+     "name": "Abu Dhabi Grand Prix",
+     "place": "Abu Dhabi, UAE",
+     "start": "2026-12-04T09:30:00Z",
+     "main": "2026-12-06T13:00:00Z",
+     "sessions": [
+      {
+       "label": "Practice 1",
+       "at": "2026-12-04T09:30:00Z"
+      },
+      {
+       "label": "Practice 2",
+       "at": "2026-12-04T13:00:00Z"
+      },
+      {
+       "label": "Practice 3",
+       "at": "2026-12-05T10:30:00Z"
+      },
+      {
+       "label": "Qualifying",
+       "at": "2026-12-05T14:00:00Z"
+      },
+      {
+       "label": "Race",
+       "at": "2026-12-06T13:00:00Z"
+      }
+     ]
+    }
+   ],
+   "lastRace": {
+    "name": "Mexico City Grand Prix",
+    "place": "Autódromo Hermanos Rodríguez",
+    "date": "2026-11-01",
+    "results": [
+     {
+      "pos": 1,
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "color": "#3671c6",
+      "time": "2:20:28.772",
+      "points": 25,
+      "fastest": false
+     },
+     {
+      "pos": 2,
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "color": "#e8002d",
+      "time": "+0.799",
+      "points": 18,
+      "fastest": true
+     },
+     {
+      "pos": 3,
+      "name": "Andrea Kimi Antonelli",
+      "team": "Mercedes",
+      "color": "#27f4d2",
+      "time": "+4.006",
+      "points": 15,
+      "fastest": false
+     },
+     {
+      "pos": 4,
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "color": "#e8002d",
+      "time": "+10.707",
+      "points": 12,
+      "fastest": false
+     },
+     {
+      "pos": 5,
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "color": "#ff8000",
+      "time": "+11.778",
+      "points": 10,
+      "fastest": false
+     },
+     {
+      "pos": 6,
+      "name": "George Russell",
+      "team": "Mercedes",
+      "color": "#27f4d2",
+      "time": "+12.263",
+      "points": 8,
+      "fastest": false
+     },
+     {
+      "pos": 7,
+      "name": "Liam Lawson",
+      "team": "RB F1 Team",
+      "color": "#6692ff",
+      "time": "+20.899",
+      "points": 6,
+      "fastest": false
+     },
+     {
+      "pos": 8,
+      "name": "Gabriel Bortoleto",
+      "team": "Audi",
+      "color": "#bb0a30",
+      "time": "+22.041",
+      "points": 4,
+      "fastest": false
+     },
+     {
+      "pos": 9,
+      "name": "Isack Hadjar",
+      "team": "Red Bull",
+      "color": "#3671c6",
+      "time": "+22.503",
+      "points": 2,
+      "fastest": false
+     },
+     {
+      "pos": 10,
+      "name": "Ryo Hirakawa",
+      "team": "Haas F1 Team",
+      "color": "#b6babd",
+      "time": "+25.373",
+      "points": 1,
+      "fastest": false
+     }
+    ]
+   },
+   "standings": {
+    "drivers": [
+     {
+      "pos": 1,
+      "name": "Andrea Kimi Antonelli",
+      "team": "Mercedes",
+      "color": "#27f4d2",
+      "points": 380
+     },
+     {
+      "pos": 2,
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "color": "#3671c6",
+      "points": 261
+     },
+     {
+      "pos": 3,
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "color": "#e8002d",
+      "points": 259
+     },
+     {
+      "pos": 4,
+      "name": "George Russell",
+      "team": "Mercedes",
+      "color": "#27f4d2",
+      "points": 250
+     },
+     {
+      "pos": 5,
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "color": "#e8002d",
+      "points": 245
+     },
+     {
+      "pos": 6,
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "color": "#ff8000",
+      "points": 221
+     },
+     {
+      "pos": 7,
+      "name": "Oscar Piastri",
+      "team": "McLaren",
+      "color": "#ff8000",
+      "points": 144
+     },
+     {
+      "pos": 8,
+      "name": "Isack Hadjar",
+      "team": "Red Bull",
+      "color": "#3671c6",
+      "points": 107
+     },
+     {
+      "pos": 9,
+      "name": "Liam Lawson",
+      "team": "Red Bull",
+      "color": "#3671c6",
+      "points": 83
+     },
+     {
+      "pos": 10,
+      "name": "Pierre Gasly",
+      "team": "Alpine F1 Team",
+      "color": "#ff87bc",
+      "points": 42
+     }
+    ],
+    "teams": [
+     {
+      "pos": 1,
+      "name": "Mercedes",
+      "team": "",
+      "color": "#27f4d2",
+      "points": 630
+     },
+     {
+      "pos": 2,
+      "name": "Ferrari",
+      "team": "",
+      "color": "#e8002d",
+      "points": 504
+     },
+     {
+      "pos": 3,
+      "name": "Red Bull",
+      "team": "",
+      "color": "#3671c6",
+      "points": 382
+     },
+     {
+      "pos": 4,
+      "name": "McLaren",
+      "team": "",
+      "color": "#ff8000",
+      "points": 365
+     },
+     {
+      "pos": 5,
+      "name": "RB F1 Team",
+      "team": "",
+      "color": "#6692ff",
+      "points": 108
+     },
+     {
+      "pos": 6,
+      "name": "Alpine F1 Team",
+      "team": "",
+      "color": "#ff87bc",
+      "points": 69
+     },
+     {
+      "pos": 7,
+      "name": "Haas F1 Team",
+      "team": "",
+      "color": "#b6babd",
+      "points": 31
+     },
+     {
+      "pos": 8,
+      "name": "Audi",
+      "team": "",
+      "color": "#bb0a30",
+      "points": 27
+     },
+     {
+      "pos": 9,
+      "name": "Williams",
+      "team": "",
+      "color": "#64c4ff",
+      "points": 12
+     },
+     {
+      "pos": 10,
+      "name": "Aston Martin",
+      "team": "",
+      "color": "#229971",
+      "points": 7
+     },
+     {
+      "pos": 11,
+      "name": "Cadillac F1 Team",
+      "team": "",
+      "color": "#c9a227",
+      "points": 0
+     }
+    ]
+   }
+  },
+  "MotoGP": {
+   "label": "MotoGP",
+   "season": "2026",
+   "calendar": [
+    {
+     "round": 1,
+     "name": "Grand Prix of Thailand",
+     "place": "Chang International Circuit, Thailand",
+     "start": "2026-02-27T09:00:00Z",
+     "main": "2026-03-01T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 2,
+     "name": "Grand Prix of Brazil",
+     "place": "Autódromo Internacional de Goiânia - Ayrton Senna, Brazil",
+     "start": "2026-03-20T09:00:00Z",
+     "main": "2026-03-22T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 3,
+     "name": "Grand Prix of The United States",
+     "place": "Circuit Of The Americas, United States of America",
+     "start": "2026-03-27T09:00:00Z",
+     "main": "2026-03-29T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 4,
+     "name": "Grand Prix of Spain",
+     "place": "Circuito de Jerez - Ángel Nieto, Spain",
+     "start": "2026-04-24T09:00:00Z",
+     "main": "2026-04-26T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 5,
+     "name": "Grand Prix De France",
+     "place": "Le Mans, France",
+     "start": "2026-05-08T09:00:00Z",
+     "main": "2026-05-10T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 6,
+     "name": "Grand Prix of Catalonia",
+     "place": "Circuit de Barcelona-Catalunya, Spain",
+     "start": "2026-05-15T09:00:00Z",
+     "main": "2026-05-17T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 7,
+     "name": "Grand Prix of Italy",
+     "place": "Autodromo Internazionale del Mugello, Italy",
+     "start": "2026-05-29T09:00:00Z",
+     "main": "2026-05-31T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 8,
+     "name": "Grand Prix of Hungary",
+     "place": "Balaton Park Circuit, Hungary",
+     "start": "2026-06-05T09:00:00Z",
+     "main": "2026-06-07T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 9,
+     "name": "Grand Prix of Czechia",
+     "place": "CREDITAS Autodrom Brno, Czechia",
+     "start": "2026-06-19T09:00:00Z",
+     "main": "2026-06-21T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 10,
+     "name": "Grand Prix of The Netherlands",
+     "place": "TT Circuit Assen, Netherlands",
+     "start": "2026-06-26T09:00:00Z",
+     "main": "2026-06-28T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 11,
+     "name": "Grand Prix of Germany",
+     "place": "Sachsenring, Germany",
+     "start": "2026-07-10T09:00:00Z",
+     "main": "2026-07-12T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 12,
+     "name": "Grand Prix of Great Britain",
+     "place": "Silverstone Circuit, United Kingdom of Great Britain and Northern Ireland",
+     "start": "2026-08-07T09:00:00Z",
+     "main": "2026-08-09T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 13,
+     "name": "Grand Prix of Aragon",
+     "place": "MotorLand Aragón, Spain",
+     "start": "2026-08-28T09:00:00Z",
+     "main": "2026-08-30T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 14,
+     "name": "Grand Prix of San Marino",
+     "place": "Misano World Circuit Marco Simoncelli, San Marino",
+     "start": "2026-09-11T09:00:00Z",
+     "main": "2026-09-13T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 15,
+     "name": "Grand Prix of Austria",
+     "place": "Red Bull Ring - Spielberg, Austria",
+     "start": "2026-09-18T09:00:00Z",
+     "main": "2026-09-20T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 16,
+     "name": "Grand Prix of Japan",
+     "place": "Mobility Resort Motegi, Japan",
+     "start": "2026-10-02T09:00:00Z",
+     "main": "2026-10-04T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 17,
+     "name": "Grand Prix of Indonesia",
+     "place": "Pertamina Mandalika Circuit, Indonesia",
+     "start": "2026-10-09T09:00:00Z",
+     "main": "2026-10-11T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 18,
+     "name": "Grand Prix of Australia",
+     "place": "Phillip Island, Australia",
+     "start": "2026-10-23T09:00:00Z",
+     "main": "2026-10-25T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 19,
+     "name": "Grand Prix of Malaysia",
+     "place": "Petronas Sepang International Circuit, Malaysia",
+     "start": "2026-10-30T09:00:00Z",
+     "main": "2026-11-01T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 20,
+     "name": "Grand Prix of Qatar",
+     "place": "Lusail International Circuit, Qatar",
+     "start": "2026-11-06T09:00:00Z",
+     "main": "2026-11-08T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 21,
+     "name": "Grand Prix of Portugal",
+     "place": "Autódromo Internacional do Algarve, Portugal",
+     "start": "2026-11-20T09:00:00Z",
+     "main": "2026-11-22T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 22,
+     "name": "Grand Prix of Valencia",
+     "place": "Circuit Ricardo Tormo, Spain",
+     "start": "2026-11-27T09:00:00Z",
+     "main": "2026-11-29T13:00:00Z",
+     "sessions": []
+    }
+   ],
+   "lastRace": {
+    "name": "Grand Prix of Malaysia",
+    "place": "Petronas Sepang International Circuit",
+    "date": "2026-11-01",
+    "results": [
+     {
+      "pos": 1,
+      "name": "Marc Marquez",
+      "team": "Ducati Lenovo Team",
+      "color": "#d40000",
+      "time": "40:14.236",
+      "points": 25,
+      "fastest": false
+     },
+     {
+      "pos": 2,
+      "name": "Pedro Acosta",
+      "team": "Red Bull KTM Factory Racing",
+      "color": "#ff6600",
+      "time": "+4.172",
+      "points": 20,
+      "fastest": false
+     },
+     {
+      "pos": 3,
+      "name": "Alex Marquez",
+      "team": "BK8 Gresini Racing MotoGP",
+      "color": "#d40000",
+      "time": "+5.955",
+      "points": 16,
+      "fastest": false
+     },
+     {
+      "pos": 4,
+      "name": "Ai Ogura",
+      "team": "SuperFile Trackhouse MotoGP Team",
+      "color": "#41bfaa",
+      "time": "+6.759",
+      "points": 13,
+      "fastest": false
+     },
+     {
+      "pos": 5,
+      "name": "Enea Bastianini",
+      "team": "Red Bull KTM Tech3",
+      "color": "#ff6600",
+      "time": "+10.896",
+      "points": 11,
+      "fastest": false
+     },
+     {
+      "pos": 6,
+      "name": "Marco Bezzecchi",
+      "team": "Aprilia Racing",
+      "color": "#41bfaa",
+      "time": "+11.259",
+      "points": 10,
+      "fastest": false
+     },
+     {
+      "pos": 7,
+      "name": "Luca Marini",
+      "team": "Honda HRC Castrol",
+      "color": "#e4002b",
+      "time": "+17.724",
+      "points": 9,
+      "fastest": false
+     },
+     {
+      "pos": 8,
+      "name": "Fabio Di Giannantonio",
+      "team": "Pertamina Enduro VR46 Racing Team",
+      "color": "#d40000",
+      "time": "+17.790",
+      "points": 8,
+      "fastest": false
+     },
+     {
+      "pos": 9,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "color": "#ff6600",
+      "time": "+23.729",
+      "points": 7,
+      "fastest": false
+     },
+     {
+      "pos": 10,
+      "name": "Franco Morbidelli",
+      "team": "Pertamina Enduro VR46 Racing Team",
+      "color": "#d40000",
+      "time": "+25.097",
+      "points": 6,
+      "fastest": false
+     }
+    ]
+   },
+   "standings": {
+    "drivers": [
+     {
+      "pos": 1,
+      "name": "Marc Marquez",
+      "team": "Ducati Lenovo Team",
+      "color": "#d40000",
+      "points": 399
+     },
+     {
+      "pos": 2,
+      "name": "Jorge Martin",
+      "team": "Aprilia Racing",
+      "color": "#41bfaa",
+      "points": 355
+     },
+     {
+      "pos": 3,
+      "name": "Marco Bezzecchi",
+      "team": "Aprilia Racing",
+      "color": "#41bfaa",
+      "points": 332
+     },
+     {
+      "pos": 4,
+      "name": "Pedro Acosta",
+      "team": "Red Bull KTM Factory Racing",
+      "color": "#ff6600",
+      "points": 295
+     },
+     {
+      "pos": 5,
+      "name": "Ai Ogura",
+      "team": "SuperFile Trackhouse MotoGP Team",
+      "color": "#41bfaa",
+      "points": 278
+     },
+     {
+      "pos": 6,
+      "name": "Fabio Di Giannantonio",
+      "team": "Pertamina Enduro VR46 Racing Team",
+      "color": "#d40000",
+      "points": 265
+     },
+     {
+      "pos": 7,
+      "name": "Raul Fernandez",
+      "team": "SuperFile Trackhouse MotoGP Team",
+      "color": "#41bfaa",
+      "points": 236
+     },
+     {
+      "pos": 8,
+      "name": "Alex Marquez",
+      "team": "BK8 Gresini Racing MotoGP",
+      "color": "#d40000",
+      "points": 197
+     },
+     {
+      "pos": 9,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "color": "#d40000",
+      "points": 173
+     },
+     {
+      "pos": 10,
+      "name": "Enea Bastianini",
+      "team": "Red Bull KTM Tech3",
+      "color": "#ff6600",
+      "points": 134
+     }
+    ]
+   }
+  },
+  "NASCAR": {
+   "label": "NASCAR Cup",
+   "season": "2026",
+   "calendar": [
+    {
+     "round": 1,
+     "name": "DAYTONA 500",
+     "place": "Daytona International Speedway",
+     "start": "2026-02-15T19:30:00.000Z",
+     "main": "2026-02-15T19:30:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 2,
+     "name": "Autotrader 400",
+     "place": "Atlanta Motor Speedway",
+     "start": "2026-02-22T20:00:00.000Z",
+     "main": "2026-02-22T20:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 3,
+     "name": "DuraMAX Texas Grand Prix Powered by RelaDyne",
+     "place": "Circuit of The Americas",
+     "start": "2026-03-01T20:30:00.000Z",
+     "main": "2026-03-01T20:30:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 4,
+     "name": "Straight Talk Wireless 500",
+     "place": "Phoenix Raceway",
+     "start": "2026-03-08T19:30:00.000Z",
+     "main": "2026-03-08T19:30:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 5,
+     "name": "Pennzoil 400 presented by Jiffy Lube",
+     "place": "Las Vegas Motor Speedway",
+     "start": "2026-03-15T20:00:00.000Z",
+     "main": "2026-03-15T20:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 6,
+     "name": "Goodyear 400",
+     "place": "Darlington Raceway",
+     "start": "2026-03-22T19:00:00.000Z",
+     "main": "2026-03-22T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 7,
+     "name": "Cook Out 400",
+     "place": "Martinsville Speedway",
+     "start": "2026-03-29T19:30:00.000Z",
+     "main": "2026-03-29T19:30:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 8,
+     "name": "Food City 500",
+     "place": "Bristol Motor Speedway",
+     "start": "2026-04-12T19:00:00.000Z",
+     "main": "2026-04-12T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 9,
+     "name": "AdventHealth 400",
+     "place": "Kansas Speedway",
+     "start": "2026-04-19T17:00:00.000Z",
+     "main": "2026-04-19T17:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 10,
+     "name": "Jack Link's 500",
+     "place": "Talladega Superspeedway",
+     "start": "2026-04-26T19:00:00.000Z",
+     "main": "2026-04-26T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 11,
+     "name": "Würth 400 presented by LIQUI MOLY",
+     "place": "Texas Motor Speedway",
+     "start": "2026-05-03T19:30:00.000Z",
+     "main": "2026-05-03T19:30:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 12,
+     "name": "Go Bowling at The Glen",
+     "place": "Watkins Glen International",
+     "start": "2026-05-10T19:00:00.000Z",
+     "main": "2026-05-10T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 13,
+     "name": "Coca-Cola 600",
+     "place": "Charlotte Motor Speedway",
+     "start": "2026-05-24T22:00:00.000Z",
+     "main": "2026-05-24T22:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 14,
+     "name": "Cracker Barrel 400",
+     "place": "Nashville Superspeedway",
+     "start": "2026-05-31T23:00:00.000Z",
+     "main": "2026-05-31T23:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 15,
+     "name": "FireKeepers Casino 400",
+     "place": "Michigan International Speedway",
+     "start": "2026-06-07T19:00:00.000Z",
+     "main": "2026-06-07T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 16,
+     "name": "Great American Getaway 400 presented by VISITPA",
+     "place": "Pocono Raceway",
+     "start": "2026-06-14T19:00:00.000Z",
+     "main": "2026-06-14T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 17,
+     "name": "Anduril 250",
+     "place": "San Diego Street Course",
+     "start": "2026-06-21T20:00:00.000Z",
+     "main": "2026-06-21T20:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 18,
+     "name": "Toyota / Save Mart 350",
+     "place": "Sonoma Raceway",
+     "start": "2026-06-28T19:30:00.000Z",
+     "main": "2026-06-28T19:30:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 19,
+     "name": "eero 400",
+     "place": "Chicagoland Speedway",
+     "start": "2026-07-05T21:00:00.000Z",
+     "main": "2026-07-05T21:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 20,
+     "name": "Quaker State 400 Available at Walmart",
+     "place": "Atlanta Motor Speedway",
+     "start": "2026-07-12T23:00:00.000Z",
+     "main": "2026-07-12T23:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 21,
+     "name": "Window World 450",
+     "place": "North Wilkesboro Speedway",
+     "start": "2026-07-19T23:00:00.000Z",
+     "main": "2026-07-19T23:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 22,
+     "name": "Brickyard 400 presented by PPG",
+     "place": "Indianapolis Motor Speedway",
+     "start": "2026-07-26T18:00:00.000Z",
+     "main": "2026-07-26T18:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 23,
+     "name": "Iowa Corn 350 Powered by Ethanol",
+     "place": "Iowa Speedway",
+     "start": "2026-08-09T19:30:00.000Z",
+     "main": "2026-08-09T19:30:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 24,
+     "name": "Cook Out 400",
+     "place": "Richmond Raceway",
+     "start": "2026-08-15T23:00:00.000Z",
+     "main": "2026-08-15T23:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 25,
+     "name": "Dollar Tree 301",
+     "place": "New Hampshire Motor Speedway",
+     "start": "2026-08-23T19:00:00.000Z",
+     "main": "2026-08-23T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 26,
+     "name": "Coke Zero Sugar 400",
+     "place": "Daytona International Speedway",
+     "start": "2026-08-29T23:30:00.000Z",
+     "main": "2026-08-29T23:30:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 27,
+     "name": "Cook Out Southern 500",
+     "place": "Darlington Raceway",
+     "start": "2026-09-06T21:00:00.000Z",
+     "main": "2026-09-06T21:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 28,
+     "name": "Enjoy Illinois 300",
+     "place": "World Wide Technology Raceway",
+     "start": "2026-09-13T19:00:00.000Z",
+     "main": "2026-09-13T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 29,
+     "name": "Bass Pro Shops Night Race",
+     "place": "Bristol Motor Speedway",
+     "start": "2026-09-19T23:30:00.000Z",
+     "main": "2026-09-19T23:30:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 30,
+     "name": "Hollywood Casino 400 ",
+     "place": "Kansas Speedway",
+     "start": "2026-09-27T19:00:00.000Z",
+     "main": "2026-09-27T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 31,
+     "name": "South Point 400",
+     "place": "Las Vegas Motor Speedway",
+     "start": "2026-10-04T21:30:00.000Z",
+     "main": "2026-10-04T21:30:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 32,
+     "name": "Bank of America 400",
+     "place": "Charlotte Motor Speedway",
+     "start": "2026-10-11T19:00:00.000Z",
+     "main": "2026-10-11T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 33,
+     "name": "Freeway Insurance 500",
+     "place": "Phoenix Raceway",
+     "start": "2026-10-18T19:00:00.000Z",
+     "main": "2026-10-18T19:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 34,
+     "name": "YellaWood 500",
+     "place": "Talladega Superspeedway",
+     "start": "2026-10-25T18:00:00.000Z",
+     "main": "2026-10-25T18:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 35,
+     "name": "Xfinity 500",
+     "place": "Martinsville Speedway",
+     "start": "2026-11-01T18:00:00.000Z",
+     "main": "2026-11-01T18:00:00.000Z",
+     "sessions": []
+    },
+    {
+     "round": 36,
+     "name": "NASCAR Cup Series Championship Race",
+     "place": "Homestead-Miami Speedway",
+     "start": "2026-11-08T20:00:00.000Z",
+     "main": "2026-11-08T20:00:00.000Z",
+     "sessions": []
+    }
+   ],
+   "lastRace": {
+    "name": "Xfinity 500",
+    "place": "Martinsville Speedway",
+    "date": "2026-11-01",
+    "results": [
+     {
+      "pos": 1,
+      "name": "William Byron",
+      "team": "#24 Hendrick Motorsports",
+      "color": "#d6a400",
+      "time": "500 laps",
+      "points": 76,
+      "fastest": false
+     },
+     {
+      "pos": 2,
+      "name": "Chase Elliott",
+      "team": "#9 Hendrick Motorsports",
+      "color": "#d6a400",
+      "time": "Running",
+      "points": 45,
+      "fastest": false
+     },
+     {
+      "pos": 3,
+      "name": "Ty Gibbs",
+      "team": "#54 Joe Gibbs Racing",
+      "color": "#eb0a1e",
+      "time": "Running",
+      "points": 51,
+      "fastest": false
+     },
+     {
+      "pos": 4,
+      "name": "Josh Berry",
+      "team": "#21 Wood Brothers Racing",
+      "color": "#1f4fa0",
+      "time": "Running",
+      "points": 43,
+      "fastest": false
+     },
+     {
+      "pos": 5,
+      "name": "Shane Van Gisbergen",
+      "team": "#97 Trackhouse Racing",
+      "color": "#d6a400",
+      "time": "Running",
+      "points": 32,
+      "fastest": false
+     },
+     {
+      "pos": 6,
+      "name": "Denny Hamlin",
+      "team": "#11 Joe Gibbs Racing",
+      "color": "#eb0a1e",
+      "time": "Running",
+      "points": 31,
+      "fastest": false
+     },
+     {
+      "pos": 7,
+      "name": "Austin Dillon",
+      "team": "#3 Richard Childress Racing",
+      "color": "#d6a400",
+      "time": "Running",
+      "points": 30,
+      "fastest": false
+     },
+     {
+      "pos": 8,
+      "name": "Bubba Wallace",
+      "team": "#23 23XI Racing",
+      "color": "#eb0a1e",
+      "time": "+1 lap",
+      "points": 34,
+      "fastest": false
+     },
+     {
+      "pos": 9,
+      "name": "Kyle Larson",
+      "team": "#5 Hendrick Motorsports",
+      "color": "#d6a400",
+      "time": "+1 lap",
+      "points": 28,
+      "fastest": false
+     },
+     {
+      "pos": 10,
+      "name": "Christopher Bell",
+      "team": "#20 Joe Gibbs Racing",
+      "color": "#eb0a1e",
+      "time": "+1 lap",
+      "points": 35,
+      "fastest": false
+     }
+    ]
+   },
+   "standings": {
+    "drivers": [
+     {
+      "pos": 1,
+      "name": "Kyle Larson",
+      "team": "#5 Chevrolet",
+      "color": "#d6a400",
+      "points": 2469
+     },
+     {
+      "pos": 2,
+      "name": "Christopher Bell",
+      "team": "#20 Toyota",
+      "color": "#eb0a1e",
+      "points": 2402
+     },
+     {
+      "pos": 3,
+      "name": "Denny Hamlin",
+      "team": "#11 Toyota",
+      "color": "#eb0a1e",
+      "points": 2399
+     },
+     {
+      "pos": 4,
+      "name": "Chase Briscoe",
+      "team": "#19 Toyota",
+      "color": "#eb0a1e",
+      "points": 2385
+     },
+     {
+      "pos": 5,
+      "name": "Joey Logano",
+      "team": "#22 Ford",
+      "color": "#1f4fa0",
+      "points": 2366
+     },
+     {
+      "pos": 6,
+      "name": "Tyler Reddick",
+      "team": "#45 Toyota",
+      "color": "#eb0a1e",
+      "points": 2344
+     },
+     {
+      "pos": 7,
+      "name": "Ryan Blaney",
+      "team": "#12 Ford",
+      "color": "#1f4fa0",
+      "points": 2336
+     },
+     {
+      "pos": 8,
+      "name": "Ty Gibbs",
+      "team": "#54 Toyota",
+      "color": "#eb0a1e",
+      "points": 2309
+     },
+     {
+      "pos": 9,
+      "name": "William Byron",
+      "team": "#24 Chevrolet",
+      "color": "#d6a400",
+      "points": 2303
+     },
+     {
+      "pos": 10,
+      "name": "Chase Elliott",
+      "team": "#9 Chevrolet",
+      "color": "#d6a400",
+      "points": 2268
+     }
+    ]
+   }
+  }
+ }
+}
