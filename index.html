@@ -359,6 +359,7 @@ footer .wrap{padding-block:40px 24px}
       <div class="filters" id="filters" role="group" aria-label="Filter news"></div>
     </div>
     <div class="news" id="newsGrid"></div>
+    <p class="source" id="newsSource"></p>
   </div>
 </section>
 
@@ -437,7 +438,7 @@ footer .wrap{padding-block:40px 24px}
       <div><h4>Racing</h4><ul><li><a href="#results">Results</a></li><li><a href="#results">Standings</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#">Drivers &amp; teams</a></li></ul></div>
       <div><h4>Apex Media</h4><ul><li><a href="#">About us</a></li><li><a href="#">Advertise</a></li><li><a href="#">Contact</a></li><li><a href="#">Privacy</a></li></ul></div>
     </div>
-    <div class="foot-base"><span>© 2026 Apex Media</span><span>Design preview · Sri Lanka items drawn from published 2026 reports · International stories and all standings are sample content</span></div>
+    <div class="foot-base"><span>© 2026 Apex Media</span><span>Sri Lanka items drawn from published 2026 reports, Sri Lanka standings are sample data · International news is collected automatically from public feeds and links to the original publishers</span></div>
   </div>
 </footer>
 
@@ -447,9 +448,11 @@ const $=s=>document.querySelector(s);
 
 /* photo placeholders until real images are added */
 function paint(el){
-  const h=+el.dataset.h||110, n=el.dataset.n||'';
+  const h=+el.dataset.h||110, img=el.dataset.img||'';
+  const n=img?'':(el.dataset.n||'');
   const art=document.createElement('div'); art.className='art';
-  art.style.background=`
+  if(img) art.style.background=`linear-gradient(180deg,transparent 55%,rgba(0,0,0,.45)),url("${img}") center/cover no-repeat,hsl(${h},20%,22%)`;
+  else art.style.background=`
     linear-gradient(100deg,transparent 40%,rgba(255,255,255,.10) 46%,transparent 52%),
     repeating-linear-gradient(-68deg,transparent 0 26px,rgba(255,255,255,.04) 26px 28px),
     radial-gradient(60% 80% at 75% 35%,hsla(${h},95%,55%,.55),transparent 70%),
@@ -603,11 +606,15 @@ function render(){
 
   $('#weekend').innerHTML=D.weekend;
   const L=D.lead;
-  $('#lead').innerHTML=`<div class="ph" data-h="${L.h}" data-n="${L.n}"><span class="tag g">${L.tag}</span></div>
+  $('#lead').innerHTML=`<div class="ph" data-h="${L.h}" data-n="${L.n}" data-img="${L.img||''}"><span class="tag g">${L.tag}</span></div>
     <div class="lead-body"><div class="meta"><span class="eyebrow" style="color:var(--green)">${L.eyebrow}</span><span>· ${L.ago}</span></div><h1>${L.t}</h1><p>${L.d}</p></div>`;
-  $('#rail').innerHTML=D.rail.map(r=>`<a class="rail-item" href="#latest"><div class="ph" data-h="${r.h}"></div><div><span class="eyebrow" style="color:var(--green-ink)">${r.c}</span><h3>${r.t}</h3><div class="meta">${r.a}</div></div></a>`).join('');
+  const la=$('#lead'); la.href=L.url||'#latest';
+  if(L.url){la.target='_blank';la.rel='noopener';}else{la.removeAttribute('target');la.removeAttribute('rel');}
+  $('#rail').innerHTML=D.rail.map(r=>`<a class="rail-item" ${lk(r.url,'#latest')}><div class="ph" data-h="${r.h}" data-img="${r.img||''}"></div><div><span class="eyebrow" style="color:var(--green-ink)">${r.c}</span><h3>${r.t}</h3><div class="meta">${r.a}</div></div></a>`).join('');
 
   $('#newsTitle').textContent=D.newsTitle;
+  $('#newsSource').textContent=D.newsSource||'';
+  $('#stSample').hidden=!!D.liveStandings;
   renderNews(D);
 
   const R=D.results;
@@ -633,15 +640,15 @@ function renderNews(D){
   const cats=['All',...new Set(D.news.map(n=>n.c))];
   if(!cats.includes(newsCat))newsCat='All';
   $('#filters').innerHTML=cats.map(c=>`<button type="button" aria-pressed="${c===newsCat}" data-c="${c}">${c}</button>`).join('');
-  $('#newsGrid').innerHTML=D.news.filter(n=>newsCat==='All'||n.c===newsCat).map(n=>`<a class="card" href="#news"><div class="ph" data-h="${n.h}" data-n="${n.n}"></div><div class="card-body"><span class="tag">${n.c}</span><h3>${n.t}</h3><div class="meta">${n.a}</div></div></a>`).join('');
+  $('#newsGrid').innerHTML=D.news.filter(n=>newsCat==='All'||n.c===newsCat).map(n=>`<a class="card" ${lk(n.url,'#news')}><div class="ph" data-h="${n.h}" data-n="${n.n}" data-img="${n.img||''}"></div><div class="card-body"><span class="tag">${n.c}</span><h3>${n.t}</h3><div class="meta">${n.a}</div></div></a>`).join('');
   document.querySelectorAll('#newsGrid .ph').forEach(paint);
 }
 function renderStandings(D){
-  const rows=D.standings[stTab], top=rows[0][2];
+  const rows=D.standings[stTab], top=rows[0][2]||1;
   $('#stCol').textContent=(ED==='int'&&stTab==='t')?'Team':'Driver';
   $('#stBody').innerHTML=rows.map((r,i)=>`<tr><td class="pos">${i+1}</td><td style="--team:${r[3]}"><div class="drv"><i style="background:${r[3]}"></i><div>${r[0]}${r[1]?`<small>${r[1]}</small>`:''}</div></div><div class="bar"><span style="width:${(r[2]/top*100).toFixed(1)}%"></span></div></td><td class="r tnum" style="font-weight:700">${r[2]}</td></tr>`).join('');
 }
-function cd(){const raceAt=new Date(2026,10,8,14,0,0);let s=Math.max(0,Math.floor((raceAt-Date.now())/1000));if(!$('#cd-d'))return;$('#cd-d').textContent=Math.floor(s/86400);s%=86400;$('#cd-h').textContent=String(Math.floor(s/3600)).padStart(2,'0');s%=3600;$('#cd-m').textContent=String(Math.floor(s/60)).padStart(2,'0');}
+function cd(){const D=ED==='sl'?SL:INT;const raceAt=D.raceAt?new Date(D.raceAt):new Date(2026,10,8,14,0,0);let s=Math.max(0,Math.floor((raceAt-Date.now())/1000));if(!$('#cd-d'))return;$('#cd-d').textContent=Math.floor(s/86400);s%=86400;$('#cd-h').textContent=String(Math.floor(s/3600)).padStart(2,'0');s%=3600;$('#cd-m').textContent=String(Math.floor(s/60)).padStart(2,'0');}
 
 $('#filters').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;newsCat=b.dataset.c;renderNews(ED==='sl'?SL:INT);});
 $('#stTabs').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;stTab=b.dataset.t;document.querySelectorAll('#stTabs button').forEach(x=>x.setAttribute('aria-selected',String(x===b)));renderStandings(ED==='sl'?SL:INT);});
@@ -652,6 +659,69 @@ if(location.hash==='#international')ED='int';
 else if(location.hash==='#srilanka')ED='sl';
 else{try{const s=localStorage.getItem('apexEd');if(s==='sl'||s==='int')ED=s;}catch(x){}}
 render();
+loadLive();
+
+/* ===== International: live data collected every 30 min by .github/workflows/update-international.yml ===== */
+function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+function safeUrl(u){return /^https:\/\/[^\s"'<>]+$/.test(u||'')?u:'';}
+function hex(c){return /^#[0-9a-f]{6}$/i.test(c||'')?c:'#9aa29a';}
+function lk(url,fallback){return url?`href="${url}" target="_blank" rel="noopener"`:`href="${fallback}"`;}
+function ago(iso){const m=Math.round((Date.now()-Date.parse(iso))/60000);if(m<60)return Math.max(1,m)+' min ago';const h=Math.round(m/60);if(h<24)return h+(h===1?' hr ago':' hrs ago');const d=Math.round(h/24);return d===1?'Yesterday':d+' days ago';}
+const fmtDay=d=>d.toLocaleDateString('en-GB',{day:'numeric',month:'short'});
+const fmtTime=d=>d.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
+function span(a,b){const A=new Date(a),B=new Date(b);return A.getMonth()===B.getMonth()?`${A.getDate()}–${fmtDay(B)}`:`${fmtDay(A)} – ${fmtDay(B)}`;}
+const HUES={F1:105,MotoGP:15,WEC:200,WRC:40,'Formula E':180,IndyCar:220,NASCAR:0,'F2 / F3':270,Karting:120,WSBK:330,Motorsport:150};
+
+async function getJson(path){try{const r=await fetch(path,{cache:'no-store'});return r.ok?await r.json():null;}catch(e){return null;}}
+async function loadLive(){
+  const [news,f1]=await Promise.all([getJson('data/international.json'),getJson('data/f1.json')]);
+
+  if(news&&Array.isArray(news.items)&&news.items.length>=5){
+    const it=news.items.map(n=>({t:esc(n.title),c:esc(n.series),src:esc(n.source),ago:ago(n.date),a:`${esc(n.source)} · ${ago(n.date)}`,
+      d:esc(n.summary),url:esc(safeUrl(n.url)),img:esc(safeUrl(n.image)),h:HUES[n.series]??150,n:''}));
+    const L=it[0];
+    INT.lead={tag:L.c,h:L.h,n:'',eyebrow:L.src,ago:L.ago,t:L.t,d:L.d,url:L.url,img:L.img};
+    INT.rail=it.slice(1,5);
+    INT.news=it.slice(5);
+    INT.newsTitle='Around the world';
+    INT.newsSource=`Updated ${ago(news.updated)} from ${(news.sources||[]).filter(s=>s.ok).map(s=>esc(s.name)).join(', ')}. Headlines link to the original publisher.`;
+    INT.note='Live feed · updates every 30 min';
+  }
+
+  if(f1&&Array.isArray(f1.calendar)&&f1.calendar.length){
+    const now=Date.now(), cal=f1.calendar;
+    const next=cal.find(r=>Date.parse(r.race)+3*36e5>now);
+    let raceWeek=false;
+    if(next){
+      const first=next.sessions[0]?.at||next.race;
+      raceWeek=now>=Date.parse(first)-12*36e5;
+      INT.raceAt=next.race;
+      INT.weekend=`<div class="wk-title"><span class="wk-round">R${+next.round}</span><div><h2>${esc(next.name)}</h2><p>${span(first,next.race)} · ${esc(next.circuit)} · ${esc(next.place)}</p></div></div>
+        <div class="sessions" aria-label="Session times in your local time">${next.sessions.map(s=>{const d=new Date(s.at);return `<div class="${s.label==='Race'?'race':''}"><b>${esc(s.label)}</b>${d.toLocaleDateString('en-GB',{weekday:'short'})} ${fmtTime(d)}</div>`}).join('')}</div>
+        ${raceWeek?'<div class="wk-status"><span class="live-chip">Race weekend</span><span>Times in your local time</span></div>'
+          :'<div class="cd tnum" aria-label="Countdown to race"><div><b id="cd-d">0</b><span>Days</span></div><div><b id="cd-h">00</b><span>Hrs</span></div><div><b id="cd-m">00</b><span>Min</span></div></div>'}`;
+    }
+    INT.cal=cal.map(r=>({s:'Formula 1',r:`Round ${+r.round}`,d:span(r.sessions[0]?.at||r.race,r.race),n:esc(r.name),l:esc(r.place),
+      st:Date.parse(r.race)+3*36e5<now?'done':r===next?(raceWeek?'live':'next'):''}));
+    INT.calTitle=`F1 ${esc(f1.season)}`;
+    INT.calSource='Calendar from the Jolpica F1 API. Dates and times shown in your local time.';
+
+    const lr=f1.lastRace;
+    if(lr&&lr.results&&lr.results.length>=3){
+      const p=lr.results;
+      INT.results={title:`Last race · ${esc(lr.name)}`,col:'Driver',col2:'Time / gap',
+        podium:p.slice(0,3).map(x=>[esc(x.driver.split(' ').slice(-1)[0]),esc(x.team),esc(x.time),hex(x.color)]),
+        rows:p.map(x=>[esc(x.driver)+(x.fastest?' <span class="ft">Fastest lap</span>':''),esc(x.time),+x.points,{c:hex(x.color),n:esc(x.team)}]),
+        extra:'',source:`Official classification via the Jolpica F1 API · updated ${ago(f1.updated)}.`};
+    }
+    if(f1.drivers?.length&&f1.teams?.length){
+      INT.standings={d:f1.drivers.slice(0,10).map(d=>[esc(d.name),esc(d.team),+d.points,hex(d.color)]),
+                     t:f1.teams.map(t=>[esc(t.name),'',+t.points,hex(t.color)])};
+      INT.liveStandings=true;
+    }
+  }
+  if(ED==='int')render();
+}
 
 /* mobile menu */
 $('#burger').addEventListener('click',()=>{const m=$('#mobileMenu');m.hidden=!m.hidden;$('#burger').setAttribute('aria-expanded',String(!m.hidden));});
