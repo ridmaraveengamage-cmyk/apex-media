@@ -345,6 +345,148 @@ async function updateResults() {
   return { updated: new Date().toISOString(), status, series };
 }
 
+/* ---------- Championship standings for every major series ---------- */
+// Official data where a free feed exists (F1, MotoGP/Moto2/Moto3, NASCAR); Wikipedia season pages for the rest.
+// Wikipedia pages are kept current by editors, usually within hours of a race. Content is CC BY-SA: the page credits it.
+const WIKI_EVERY_HOURS = 2;   // re-read Wikipedia at most this often
+const Y = new Date().getUTCFullYear();
+const WIKI = [
+  // id, group, series, title, column name, page for a given year, section heading
+  ['f2', 'Single-seaters', 'F2 / F3', 'FIA Formula 2', 'Driver', y => `${y}_FIA_Formula_2_Championship`, /^Drivers' Championship/i],
+  ['f3', 'Single-seaters', 'F2 / F3', 'FIA Formula 3', 'Driver', y => `${y}_FIA_Formula_3_Championship`, /^Drivers' Championship/i],
+  ['indycar', 'Single-seaters', 'IndyCar', 'IndyCar Series', 'Driver', y => `${y}_IndyCar_Series`, /^Driver standings/i],
+  ['fe', 'Single-seaters', 'Formula E', 'Formula E', 'Driver', y => `${y - 1}–${String(y).slice(2)}_Formula_E_World_Championship`, /^Drivers' Championship/i],
+  ['sf', 'Single-seaters', 'Super Formula', 'Super Formula', 'Driver', y => `${y}_Super_Formula_Championship`, /^Drivers' championship/i],
+  ['wsbk', 'Motorcycles', 'WorldSBK', 'World Superbike', 'Rider', y => `${y}_Superbike_World_Championship`, /^Riders' championship/i],
+  ['wec', 'Endurance & sports cars', 'WEC', 'WEC Hypercar drivers', 'Crew', y => `${y}_FIA_World_Endurance_Championship`, /^Hypercar World Endurance Drivers/i],
+  ['wec-m', 'Endurance & sports cars', 'WEC', 'WEC Hypercar manufacturers', 'Manufacturer', y => `${y}_FIA_World_Endurance_Championship`, /^Hypercar World Endurance Manufacturers/i],
+  ['imsa', 'Endurance & sports cars', 'IMSA', 'IMSA GTP drivers', 'Driver', y => `${y}_IMSA_SportsCar_Championship`, /^Standings: Grand Touring Prototype/i],
+  ['wrc', 'Rally', 'WRC', 'World Rally Championship', 'Driver', y => `${y}_World_Rally_Championship`, /Championship for Drivers/i],
+  ['dtm', 'Touring & GT', 'DTM', 'DTM', 'Driver', y => `${y}_Deutsche_Tourenwagen_Masters`, /^Drivers' championship/i],
+  ['supercars', 'Touring & GT', 'Supercars', 'Supercars Championship', 'Driver', y => `${y}_Supercars_Championship`, /^Drivers?'s? Championship/i],
+  ['btcc', 'Touring & GT', 'BTCC', 'British Touring Cars', 'Driver', y => `${y}_British_Touring_Car_Championship`, /^Drivers' Championship/i]
+];
+
+const wtext = h => decode(h.replace(/<sup[\s\S]*?<\/sup>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '')
+  .replace(/<br\s*\/?>/gi, ' / ').replace(/<[^>]*>/g, ' '))
+  .replace(/\s+/g, ' ').replace(/\s*\/\s*(\/\s*)+/g, ' / ').replace(/^[\s/]+|[\s/]+$/g, '').trim();
+
+// Reads the first standings table in a Wikipedia section: Pos | Driver | ...results... | Points (| extras)
+function parseWikiStandings(html) {
+  const rows = html.split(/<tr[\s>]/i).slice(1).map(r => r.split(/<\/tr>/i)[0]);
+  const out = []; let trailing = -1, pending = 0;
+  for (const r of rows) {
+    const cells = [...r.matchAll(/<(t[hd])([^>]*)>([\s\S]*?)(?=<t[hd][\s>]|$)/gi)].map(m => ({ attrs: m[2], t: wtext(m[3]) }));
+    if (!cells.length) continue;
+    if (trailing < 0) {            // find the header row, and how many columns follow "Points"
+      const pi = cells.findIndex(c => /^(points|pts\.?)$/i.test(c.t));
+      if (pi >= 0 && cells.some(c => /^pos\.?$/i.test(c.t))) trailing = cells.length - 1 - pi;
+      continue;
+    }
+    const pos = cells[0].t;
+    if (/^\d+$/.test(pos) && cells.length >= 3 + trailing) {
+      const pts = cells[cells.length - 1 - trailing].t.replace(/[^\d.\-]/g, '');
+      if (pts === '' || isNaN(+pts)) continue;
+      const span = +(cells[0].attrs.match(/rowspan="?(\d+)/i)?.[1] || 1);
+      const prev = out[out.length - 1];
+      if (prev && prev.pos === +pos && prev.points === +pts) prev.name += ' / ' + cells[1].t;  // crew listed one driver per row
+      else out.push({ pos: +pos, name: cells[1].t, points: +pts });
+      pending = span - 1;
+    } else if (pending > 0 && out.length && cells[0].t && !/^\d+$/.test(cells[0].t)) {
+      out[out.length - 1].name += ' / ' + cells[0].t; pending--;                                    // crew split over rows
+    } else if (out.length && /^pos\.?$/i.test(pos)) break;                                          // next table: stop
+  }
+  return out;
+}
+
+async function wikiStandings(page, heading) {
+  const api = `https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=parse&page=${encodeURIComponent(page)}`;
+  const secs = await get(`${api}&prop=sections`, 'json');
+  if (secs.error) throw new Error(secs.error.info);
+  const sec = secs.parse.sections.find(s => heading.test(s.line));
+  if (!sec) throw new Error('standings section not found');
+  const html = (await get(`${api}&prop=text&section=${sec.index}`, 'json')).parse.text['*'];
+  const rows = parseWikiStandings(html);
+  if (rows.length < 3) throw new Error(`only ${rows.length} rows read`);
+  return { rows, link: `https://en.wikipedia.org/wiki/${encodeURIComponent(secs.parse.title.replace(/ /g, '_'))}` };
+}
+
+const MGP_CLASSES = [['moto2', 'Moto2', /^moto2/i], ['moto3', 'Moto3', /^moto3/i]];
+async function motogpClasses() {
+  const seasons = await get(`${MGP}/seasons`, 'json');
+  const season = seasons.find(s => s.current) || seasons[0];
+  const past = (await get(`${MGP}/events?seasonUuid=${season.id}&isFinished=true`, 'json')).filter(e => !e.test);
+  past.sort((a, b) => Date.parse(a.date_end) - Date.parse(b.date_end));
+  const cats = await get(`${MGP}/categories?eventUuid=${past.at(-1).id}`, 'json');
+  const out = {};
+  for (const [id, title, re] of MGP_CLASSES) {
+    const cat = cats.find(c => re.test(c.name)); if (!cat) continue;
+    const st = await get(`${MGP}/standings?seasonUuid=${season.id}&categoryUuid=${cat.id}`, 'json');
+    out[id] = { season: String(season.year), rows: (st.classification || []).slice(0, 10).map(r => ({
+      pos: r.position, name: r.rider?.full_name, team: r.team?.name || '', color: mgpColor(r.constructor?.name), points: r.points })) };
+  }
+  return out;
+}
+
+async function nascarSeries(n) {
+  const pts = await get(`https://cf.nascar.com/cacher/${Y}/${n}/points-feed.json`, 'json');
+  return pts.sort((a, b) => a.position - b.position).slice(0, 10).map(p => ({
+    pos: p.position, name: p.driver_name, team: `#${p.car_no} ${p.manufacturer || ''}`.trim(), color: nasColor(p.manufacturer), points: p.points }));
+}
+
+async function updateStandings(results) {
+  const previous = await readJson('data/standings.json', { championships: [] });
+  const prevById = new Map(previous.championships.map(c => [c.id, c]));
+  const now = new Date().toISOString();
+  const list = [];
+  const add = (c, ok, note) => {
+    if (c && c.rows && c.rows.length >= 3) list.push({ ...c, rows: c.rows.slice(0, 10), updated: ok ? now : c.updated });
+    console.log(`  ${ok ? 'ok  ' : 'KEPT'} ${c?.title || '?'}${note ? ' - ' + note : ''}`);
+  };
+  const keep = (id, err) => { const p = prevById.get(id); if (p) add(p, false, String(err)); else console.log(`  FAIL ${id} - ${err}`); };
+  const S = results.series || {};
+
+  // official feeds
+  const off = (id, group, series, title, col, rows, season, source, link) =>
+    ({ id, group, series, title, col, season, source, link, rows });
+  if (S.F1?.standings?.drivers?.length) add(off('f1', 'Single-seaters', 'F1', 'Formula 1 drivers', 'Driver', S.F1.standings.drivers, S.F1.season, 'Jolpica F1 API', 'https://www.formula1.com/en/results'), true); else keep('f1', 'no data');
+  if (S.F1?.standings?.teams?.length) add(off('f1-t', 'Single-seaters', 'F1', 'Formula 1 teams', 'Team', S.F1.standings.teams, S.F1.season, 'Jolpica F1 API', 'https://www.formula1.com/en/results'), true); else keep('f1-t', 'no data');
+  if (S.MotoGP?.standings?.drivers?.length) add(off('motogp', 'Motorcycles', 'MotoGP', 'MotoGP', 'Rider', S.MotoGP.standings.drivers, S.MotoGP.season, 'MotoGP results service', 'https://www.motogp.com/en/world-standing'), true); else keep('motogp', 'no data');
+  try {
+    const m = await motogpClasses();
+    for (const [id, title] of MGP_CLASSES) {
+      if (m[id]) add(off(id, 'Motorcycles', 'MotoGP', title, 'Rider', m[id].rows, m[id].season, 'MotoGP results service', 'https://www.motogp.com/en/world-standing'), true);
+      else keep(id, 'class not found');
+    }
+  } catch (err) { MGP_CLASSES.forEach(([id]) => keep(id, err.message || err)); }
+  if (S.NASCAR?.standings?.drivers?.length) add(off('nascar', 'NASCAR', 'NASCAR', 'NASCAR Cup Series', 'Driver', S.NASCAR.standings.drivers, S.NASCAR.season, 'NASCAR data feed', 'https://www.nascar.com/standings/nascar-cup-series/'), true); else keep('nascar', 'no data');
+  for (const [n, id, title, link] of [[2, 'nascar-2', "NASCAR O'Reilly Series", 'https://www.nascar.com/standings/nascar-oreilly-auto-parts-series/'], [3, 'nascar-3', 'NASCAR Truck Series', 'https://www.nascar.com/standings/nascar-craftsman-truck-series/']]) {
+    try { add(off(id, 'NASCAR', 'NASCAR', title, 'Driver', await nascarSeries(n), String(Y), 'NASCAR data feed', link), true); }
+    catch (err) { keep(id, err.message || err); }
+  }
+
+  // Wikipedia (re-read every few hours; otherwise reuse the last good copy)
+  for (const [id, group, series, title, col, pageFor, heading] of WIKI) {
+    const prev = prevById.get(id);
+    if (prev && Date.now() - Date.parse(prev.updated) < WIKI_EVERY_HOURS * 36e5) { list.push(prev); continue; }
+    let done = false, lastErr;
+    for (const year of [Y, Y - 1]) {              // early in the year the new season page may not exist yet
+      try {
+        const { rows, link } = await wikiStandings(pageFor(year), heading);
+        add({ id, group, series, title, col, season: id === 'fe' ? `${year - 1}–${String(year).slice(2)}` : String(year),
+          source: 'Wikipedia (CC BY-SA)', link, rows: rows.map(r => ({ ...r, team: '', color: '' })) }, true);
+        done = true; break;
+      } catch (err) { lastErr = err; }
+    }
+    if (!done) keep(id, lastErr?.message || lastErr);
+  }
+
+  const ORDER = ['Single-seaters', 'Motorcycles', 'Endurance & sports cars', 'Rally', 'NASCAR', 'Touring & GT'];
+  const ids = [...new Set(['f1', 'f1-t', 'f2', 'f3', 'indycar', 'fe', 'sf', 'motogp', 'moto2', 'moto3', 'wsbk', 'wec', 'wec-m', 'imsa', 'wrc', 'nascar', 'nascar-2', 'nascar-3', 'dtm', 'supercars', 'btcc'])];
+  list.sort((a, b) => ORDER.indexOf(a.group) - ORDER.indexOf(b.group) || ids.indexOf(a.id) - ids.indexOf(b.id));
+  return { updated: now, groups: ORDER, championships: list };
+}
+
 /* ---------- run ---------- */
 await mkdir('data', { recursive: true });
 
@@ -361,3 +503,8 @@ for (const [k, v] of Object.entries(results.series)) {
   console.log(`Results ${k}: ${results.status[k]} | last race ${v.lastRace?.name || '-'} | ${v.standings?.drivers?.length || 0} in standings | ${v.calendar.length} rounds`);
 }
 await rm('data/f1.json', { force: true }); // replaced by data/results.json
+
+console.log('Standings:');
+const standings = await updateStandings(results);
+await writeFile('data/standings.json', JSON.stringify(standings, null, 1) + '\n');
+console.log(`  ${standings.championships.length} championships saved`);
