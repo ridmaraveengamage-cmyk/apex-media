@@ -121,7 +121,8 @@ function isDuplicate(a, b) {
   const A = new Set(norm(a.title)), B = norm(b.title);
   if (!A.size || !B.length) return false;
   const shared = B.filter(w => A.has(w)).length;
-  return shared / Math.min(A.size, B.length) >= 0.8;
+  // e.g. "1980 F1 champion Alan Jones passes away" vs "1980 F1 World Champion Alan Jones dies aged 80"
+  return shared >= 4 && shared / Math.min(A.size, B.length) >= 0.6;
 }
 
 async function updateNews() {
