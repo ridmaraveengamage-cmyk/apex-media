@@ -111,7 +111,7 @@ function parseFeed(xml, feed) {
       summary: excerpt(desc),
       image: image && image.startsWith('https://') ? image : null
     };
-  }).filter(i => i.title && i.url && i.date);
+  }).filter(i => i.title && i.url);
 }
 
 // Same story from two outlets: keep the first (newest) one.
@@ -140,6 +140,11 @@ async function updateNews() {
       sources.push({ name: feed.name, ok: false, count: kept.length, error: String(err.message || err) });
     }
   }
+  // Some feeds (Formula1.com) give no publish date: use the time we first saw the story.
+  const firstSeen = new Map(previous.items.map(i => [i.url, i.date]));
+  const nowIso = new Date().toISOString();
+  for (const it of items) if (!it.date) it.date = firstSeen.get(it.url) || nowIso;
+
   const cutoff = Date.now() - MAX_AGE_DAYS * 864e5;
   items = items
     .filter(i => Date.parse(i.date) >= cutoff && Date.parse(i.date) <= Date.now() + 36e5)
