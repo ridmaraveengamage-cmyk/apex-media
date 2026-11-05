@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Collect news and F1 data
+      - name: Collect news and results (all series)
         run: node scripts/update-international.mjs
 
       - name: Save changes
@@ -34,6 +34,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No new stories."
           else
-            git commit -m "Update international news and F1 data"
+            git commit -m "Update international news and results"
             git push
           fi

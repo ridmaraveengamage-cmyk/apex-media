@@ -290,6 +290,36 @@ footer .wrap{padding-block:40px 24px}
 .round.live .trackline path{stroke:#ff6b75;opacity:1}
 
 @media (max-width:1000px){.series{grid-template-columns:1fr}.venue{grid-template-columns:1fr}}
+
+/* ===== International: by-series hub + other results ===== */
+.tabs{flex-wrap:wrap}
+.label-sm{font-size:14px;color:var(--ink-2)}
+.hub{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:16px}
+.hub-card{background:var(--card);display:flex;flex-direction:column;border-top:5px solid var(--hc);min-width:0}
+.hub-head{display:flex;justify-content:space-between;align-items:baseline;gap:8px;padding:14px 16px 8px}
+.hub-head h3{font-size:26px;font-weight:900;text-transform:uppercase}
+.hub-head span{font-size:12px;color:var(--ink-2);white-space:nowrap}
+.hub-res{display:block;margin:0 10px 4px;padding:10px 12px;background:var(--char);color:#fff;transition:background .15s}
+.hub-res:hover{background:var(--char-3)}
+.hub-res .eyebrow{color:var(--green);font-size:11px}
+.hub-res b{display:block;font-family:var(--f-display);font-size:19px;line-height:1.1;margin:3px 0}
+.hub-res small{font-size:12px;color:#a9aea6}
+.hub-list{list-style:none;margin:0;padding:2px 16px 6px;display:grid}
+.hub-list a{display:block;padding:9px 0;border-top:1px solid var(--rule);font-weight:600;line-height:1.3}
+.hub-list li:first-child a{border-top:0}
+.hub-list a:hover{color:var(--green-ink)}
+.hub-list small{display:block;color:var(--ink-2);font-weight:400;font-size:12px;margin-top:2px}
+.hub-more{margin-top:auto;padding:10px 16px 14px;border:0;background:none;text-align:left;cursor:pointer;font-family:var(--f-display);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:14px;color:var(--ink)}
+.hub-more:hover{color:var(--green-ink)}
+.other-res{margin-top:24px}
+.other-res h3{font-size:24px;font-weight:800;text-transform:uppercase;margin-bottom:12px}
+.other-res ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:10px}
+.other-res li a{display:grid;grid-template-columns:auto minmax(0,1fr);gap:12px;align-items:start;background:var(--card);padding:12px 14px;height:100%}
+.other-res li a:hover b{color:var(--green-ink)}
+.other-res .tag{color:#fff;white-space:nowrap}
+.other-res b{display:block;font-weight:700;line-height:1.3}
+.other-res small{display:block;color:var(--ink-2);font-size:12px;margin-top:2px}
+@media (max-width:560px){.other-res ul,.hub{grid-template-columns:1fr}}
 @media (max-width:560px){.edition button{padding:9px 10px;font-size:14px}.ed-note{display:none}.facts b{font-size:20px}}
 </style>
 </head>
@@ -338,6 +368,13 @@ footer .wrap{padding-block:40px 24px}
   </div>
 </section>
 
+<section id="series-hub" hidden>
+  <div class="wrap">
+    <div class="sec-head"><h2>By series</h2><span class="label-sm">Latest result and headlines from every championship</span></div>
+    <div class="hub" id="hub"></div>
+  </div>
+</section>
+
 <section class="kart" id="karting">
   <div class="wrap">
     <div class="sec-head"><h2>Karting hub</h2><a class="more" href="#schedule" style="color:#fff">Karting calendar ›</a></div>
@@ -366,7 +403,7 @@ footer .wrap{padding-block:40px 24px}
 <section id="results" style="padding-top:8px">
   <div class="wrap res-grid">
     <div class="panel">
-      <div class="panel-head"><h3 id="resTitle"></h3><a class="more" href="#results">Full results ›</a></div>
+      <div class="panel-head"><h3 id="resTitle"></h3><div class="tabs" role="tablist" id="resTabs" aria-label="Series" hidden></div></div>
       <div class="podium" id="podium"></div>
       <div class="scroll-x"><table>
         <thead><tr><th>Pos</th><th id="resCol">Driver</th><th class="r" id="resCol2">Time / gap</th><th class="r">Pts</th></tr></thead>
@@ -384,6 +421,10 @@ footer .wrap{padding-block:40px 24px}
         <tbody id="stBody"></tbody>
       </table></div>
     </div>
+  </div>
+  <div class="wrap other-res" id="otherRes" hidden>
+    <h3>Latest results from other series</h3>
+    <ul id="otherResList"></ul>
   </div>
 </section>
 
@@ -597,7 +638,7 @@ $('#series').innerHTML=SERIES.map(s=>`<article class="s-card">
   <div class="s-foot"><span>${s.ft}</span><a class="more" href="#results" style="color:var(--green)">Results ›</a></div></article>`).join('');
 
 /* ================= RENDER ================= */
-let ED='sl', newsCat='All', stTab=null, cdTimer=null;
+let ED='sl', newsCat='All', stTab=null, resTab=null, cdTimer=null;
 function render(){
   const D=ED==='sl'?SL:INT;
   document.querySelectorAll('.edition button').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.ed===ED)));
@@ -617,10 +658,26 @@ function render(){
   $('#stSample').hidden=!!D.liveStandings;
   renderNews(D);
 
-  const R=D.results;
-  $('#resTitle').textContent=R.title; $('#resCol').textContent=R.col; $('#resCol2').textContent=R.col2; $('#resSource').textContent=R.source;
-  $('#podium').innerHTML=[1,0,2].map(i=>{const p=R.podium[i];return `<div class="step p${i+1}" style="--team:${p[3]}"><span class="p">${i+1}</span><b>${p[0]}</b><span>${p[1]}</span><span class="tnum">${p[2]}</span></div>`}).join('');
-  $('#resBody').innerHTML=R.rows.map((r,i)=>{const c=r[3]?r[3].c:R.podium[i]?.[3]||'#9aa29a';const sub=r[3]?r[3].n:'';return `<tr><td class="pos">${i+1}</td><td><div class="drv"><i style="background:${c}"></i><div>${r[0]}${sub?`<small>${sub}</small>`:''}</div></div></td><td class="r tnum">${r[1]}</td><td class="r tnum">${r[2]}</td></tr>`}).join('')+R.extra;
+  // "By series" hub (International, live data only)
+  $('#series-hub').hidden=!(ED==='int'&&D.hub&&D.hub.length);
+  if(ED==='int'&&D.hub){
+    $('#hub').innerHTML=D.hub.map(h=>`<article class="hub-card" style="--hc:${seriesColor(h.s)}">
+      <div class="hub-head"><h3>${h.label}</h3><span>${h.count} stories</span></div>
+      ${h.result?`<a class="hub-res" ${lk(h.result.url,'#news')}><span class="eyebrow">Latest result</span><b>${h.result.t}</b><small>${h.result.a}</small></a>`:''}
+      <ul class="hub-list">${h.top.map(x=>`<li><a ${lk(x.url,'#news')}>${x.t}<small>${x.a}</small></a></li>`).join('')}</ul>
+      <button type="button" class="hub-more" data-s="${h.label}">All ${h.label} news ›</button></article>`).join('');
+  }
+
+  const resKeys=D.resultSets?Object.keys(D.resultSets):[];
+  $('#resTabs').hidden=resKeys.length<2;
+  if(resKeys.length){
+    if(!resKeys.includes(resTab))resTab=resKeys[0];
+    $('#resTabs').innerHTML=resKeys.map(k=>`<button role="tab" aria-selected="${k===resTab}" data-r="${k}">${D.resultSets[k].label}</button>`).join('');
+  }
+  renderResults(D);
+  const other=ED==='int'?(D.otherResults||[]):[];
+  $('#otherRes').hidden=!other.length;
+  $('#otherResList').innerHTML=other.map(o=>`<li><a ${lk(o.r.url,'#news')}><span class="tag" style="background:${seriesColor(o.r.raw)}">${o.s}</span><span><b>${o.r.t}</b><small>${o.r.a}</small></span></a></li>`).join('');
 
   stTab=D.standingsTabs[0][0];
   $('#stTabs').innerHTML=D.standingsTabs.map(t=>`<button role="tab" aria-selected="${t[0]===stTab}" data-t="${t[0]}">${t[1]}</button>`).join('');
@@ -636,8 +693,16 @@ function render(){
   clearInterval(cdTimer);
   if($('#cd-d')){cd();cdTimer=setInterval(cd,15000);}
 }
+function renderResults(D){
+  const R=D.resultSets?D.resultSets[resTab]:D.results;
+  $('#resTitle').innerHTML=R.title; $('#resCol').textContent=R.col; $('#resCol2').textContent=R.col2; $('#resSource').innerHTML=R.source;
+  $('#podium').innerHTML=[1,0,2].map(i=>{const p=R.podium[i];return `<div class="step p${i+1}" style="--team:${p[3]}"><span class="p">${i+1}</span><b>${p[0]}</b><span>${p[1]}</span><span class="tnum">${p[2]}</span></div>`}).join('');
+  $('#resBody').innerHTML=R.rows.map((r,i)=>{const c=r[3]?r[3].c:R.podium[i]?.[3]||'#9aa29a';const sub=r[3]?r[3].n:'';return `<tr><td class="pos">${i+1}</td><td><div class="drv"><i style="background:${c}"></i><div>${r[0]}${sub?`<small>${sub}</small>`:''}</div></div></td><td class="r tnum">${r[1]}</td><td class="r tnum">${r[2]}</td></tr>`}).join('')+R.extra;
+}
 function renderNews(D){
-  const cats=['All',...new Set(D.news.map(n=>n.c))];
+  let cats=[...new Set(D.news.map(n=>n.c))];
+  if(D.newsOrder)cats.sort((a,b)=>(D.newsOrder.indexOf(a)+99)%99-(D.newsOrder.indexOf(b)+99)%99);
+  cats=['All',...cats];
   if(!cats.includes(newsCat))newsCat='All';
   $('#filters').innerHTML=cats.map(c=>`<button type="button" aria-pressed="${c===newsCat}" data-c="${c}">${c}</button>`).join('');
   $('#newsGrid').innerHTML=D.news.filter(n=>newsCat==='All'||n.c===newsCat).map(n=>`<a class="card" ${lk(n.url,'#news')}><div class="ph" data-h="${n.h}" data-n="${n.n}" data-img="${n.img||''}"></div><div class="card-body"><span class="tag">${n.c}</span><h3>${n.t}</h3><div class="meta">${n.a}</div></div></a>`).join('');
@@ -645,12 +710,14 @@ function renderNews(D){
 }
 function renderStandings(D){
   const rows=D.standings[stTab], top=rows[0][2]||1;
-  $('#stCol').textContent=(ED==='int'&&stTab==='t')?'Team':'Driver';
+  $('#stCol').textContent=D.stCols?.[stTab]||((ED==='int'&&stTab==='t')?'Team':'Driver');
   $('#stBody').innerHTML=rows.map((r,i)=>`<tr><td class="pos">${i+1}</td><td style="--team:${r[3]}"><div class="drv"><i style="background:${r[3]}"></i><div>${r[0]}${r[1]?`<small>${r[1]}</small>`:''}</div></div><div class="bar"><span style="width:${(r[2]/top*100).toFixed(1)}%"></span></div></td><td class="r tnum" style="font-weight:700">${r[2]}</td></tr>`).join('');
 }
 function cd(){const D=ED==='sl'?SL:INT;const raceAt=D.raceAt?new Date(D.raceAt):new Date(2026,10,8,14,0,0);let s=Math.max(0,Math.floor((raceAt-Date.now())/1000));if(!$('#cd-d'))return;$('#cd-d').textContent=Math.floor(s/86400);s%=86400;$('#cd-h').textContent=String(Math.floor(s/3600)).padStart(2,'0');s%=3600;$('#cd-m').textContent=String(Math.floor(s/60)).padStart(2,'0');}
 
 $('#filters').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;newsCat=b.dataset.c;renderNews(ED==='sl'?SL:INT);});
+$('#resTabs').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;resTab=b.dataset.r;document.querySelectorAll('#resTabs button').forEach(x=>x.setAttribute('aria-selected',String(x===b)));renderResults(ED==='sl'?SL:INT);});
+$('#hub').addEventListener('click',e=>{const b=e.target.closest('.hub-more');if(!b)return;newsCat=b.dataset.s;renderNews(INT);$('#news').scrollIntoView({behavior:'smooth'});});
 $('#stTabs').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;stTab=b.dataset.t;document.querySelectorAll('#stTabs button').forEach(x=>x.setAttribute('aria-selected',String(x===b)));renderStandings(ED==='sl'?SL:INT);});
 document.querySelector('.edition').addEventListener('click',e=>{const b=e.target.closest('button');if(!b||b.dataset.ed===ED)return;ED=b.dataset.ed;newsCat='All';try{localStorage.setItem('apexEd',ED);}catch(x){}render();});
 
@@ -670,54 +737,94 @@ function ago(iso){const m=Math.round((Date.now()-Date.parse(iso))/60000);if(m<60
 const fmtDay=d=>d.toLocaleDateString('en-GB',{day:'numeric',month:'short'});
 const fmtTime=d=>d.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
 function span(a,b){const A=new Date(a),B=new Date(b);return A.getMonth()===B.getMonth()?`${A.getDate()}–${fmtDay(B)}`:`${fmtDay(A)} – ${fmtDay(B)}`;}
-const HUES={F1:105,MotoGP:15,WEC:200,WRC:40,'Formula E':180,IndyCar:220,NASCAR:0,'F2 / F3':270,Karting:120,WSBK:330,Motorsport:150};
+const SERIES_ORDER=['F1','MotoGP','WEC','WRC','IndyCar','NASCAR','Formula E','WorldSBK','IMSA','DTM','Super Formula','Supercars','BTCC','F2 / F3','Dakar','Karting','Motorsport'];
+const HUES={F1:2,MotoGP:22,WEC:200,WRC:42,'Formula E':185,IndyCar:220,NASCAR:50,WorldSBK:330,IMSA:260,DTM:300,'Super Formula':350,Supercars:12,BTCC:160,'F2 / F3':275,Dakar:32,Karting:110,Motorsport:150};
+const seriesColor=s=>`hsl(${HUES[s]??150} 78% 46%)`;
+const API_NAMES={F1:'Jolpica F1 API',MotoGP:'MotoGP results service',NASCAR:'NASCAR data feed'};
 
 async function getJson(path){try{const r=await fetch(path,{cache:'no-store'});return r.ok?await r.json():null;}catch(e){return null;}}
 async function loadLive(){
-  const [news,f1]=await Promise.all([getJson('data/international.json'),getJson('data/f1.json')]);
+  const [news,res]=await Promise.all([getJson('data/international.json'),getJson('data/results.json')]);
+  const now=Date.now();
 
+  /* ---- news, all series ---- */
   if(news&&Array.isArray(news.items)&&news.items.length>=5){
-    const it=news.items.map(n=>({t:esc(n.title),c:esc(n.series),src:esc(n.source),ago:ago(n.date),a:`${esc(n.source)} · ${ago(n.date)}`,
-      d:esc(n.summary),url:esc(safeUrl(n.url)),img:esc(safeUrl(n.image)),h:HUES[n.series]??150,n:''}));
+    const it=news.items.map(n=>({t:esc(n.title),c:esc(n.series),raw:n.series,src:esc(n.source),ago:ago(n.date),a:`${esc(n.source)} · ${ago(n.date)}`,
+      d:esc(n.summary),url:esc(safeUrl(n.url)),img:esc(safeUrl(n.image)),h:HUES[n.series]??150,n:'',result:!!n.result}));
     const L=it[0];
     INT.lead={tag:L.c,h:L.h,n:'',eyebrow:L.src,ago:L.ago,t:L.t,d:L.d,url:L.url,img:L.img};
-    INT.rail=it.slice(1,5);
-    INT.news=it.slice(5);
-    INT.newsTitle='Around the world';
-    INT.newsSource=`Updated ${ago(news.updated)} from ${(news.sources||[]).filter(s=>s.ok).map(s=>esc(s.name)).join(', ')}. Headlines link to the original publisher.`;
-    INT.note='Live feed · updates every 30 min';
+    // side column: newest stories from four different series
+    const used=new Set([L.raw]), rail=[];
+    for(const x of it.slice(1)){if(rail.length<4&&!used.has(x.raw)){rail.push(x);used.add(x.raw);}}
+    INT.rail=rail;
+    const shown=new Set([L,...rail]);
+    INT.news=it.filter(x=>!shown.has(x));
+    INT.newsOrder=SERIES_ORDER;
+    INT.newsTitle='All racing news';
+    const pubs=[...new Set((news.sources||[]).filter(s=>s.ok).map(s=>esc(s.name)))];
+    INT.newsSource=`Updated ${ago(news.updated)} from ${pubs.join(', ')} (${(news.sources||[]).filter(s=>s.ok).length} feeds). Headlines link to the original publisher.`;
+    INT.note='Live feed · all series · updates every 30 min';
+
+    // "By series" hub + latest result headline for every series
+    INT.hub=SERIES_ORDER.filter(s=>s!=='Motorsport').map(s=>{
+      const list=it.filter(x=>x.raw===s); if(!list.length)return null;
+      const result=list.find(x=>x.result)||null;
+      return {s,label:esc(s),count:list.length,result,top:list.filter(x=>x!==result).slice(0,3)};
+    }).filter(Boolean);
+    INT.otherResults=INT.hub.filter(h=>h.result&&!(res&&res.series&&res.series[h.s])).map(h=>({s:h.label,r:h.result}));
   }
 
-  if(f1&&Array.isArray(f1.calendar)&&f1.calendar.length){
-    const now=Date.now(), cal=f1.calendar;
-    const next=cal.find(r=>Date.parse(r.race)+3*36e5>now);
-    let raceWeek=false;
-    if(next){
-      const first=next.sessions[0]?.at||next.race;
-      raceWeek=now>=Date.parse(first)-12*36e5;
-      INT.raceAt=next.race;
-      INT.weekend=`<div class="wk-title"><span class="wk-round">R${+next.round}</span><div><h2>${esc(next.name)}</h2><p>${span(first,next.race)} · ${esc(next.circuit)} · ${esc(next.place)}</p></div></div>
-        <div class="sessions" aria-label="Session times in your local time">${next.sessions.map(s=>{const d=new Date(s.at);return `<div class="${s.label==='Race'?'race':''}"><b>${esc(s.label)}</b>${d.toLocaleDateString('en-GB',{weekday:'short'})} ${fmtTime(d)}</div>`}).join('')}</div>
-        ${raceWeek?'<div class="wk-status"><span class="live-chip">Race weekend</span><span>Times in your local time</span></div>'
-          :'<div class="cd tnum" aria-label="Countdown to race"><div><b id="cd-d">0</b><span>Days</span></div><div><b id="cd-h">00</b><span>Hrs</span></div><div><b id="cd-m">00</b><span>Min</span></div></div>'}`;
-    }
-    INT.cal=cal.map(r=>({s:'Formula 1',r:`Round ${+r.round}`,d:span(r.sessions[0]?.at||r.race,r.race),n:esc(r.name),l:esc(r.place),
-      st:Date.parse(r.race)+3*36e5<now?'done':r===next?(raceWeek?'live':'next'):''}));
-    INT.calTitle=`F1 ${esc(f1.season)}`;
-    INT.calSource='Calendar from the Jolpica F1 API. Dates and times shown in your local time.';
-
-    const lr=f1.lastRace;
-    if(lr&&lr.results&&lr.results.length>=3){
+  /* ---- results, standings, calendars: F1, MotoGP, NASCAR ---- */
+  const S=res&&res.series?res.series:null;
+  if(S&&Object.keys(S).length){
+    INT.resultSets={};
+    for(const [key,v] of Object.entries(S)){
+      const lr=v.lastRace; if(!lr||!lr.results||lr.results.length<3)continue;
       const p=lr.results;
-      INT.results={title:`Last race · ${esc(lr.name)}`,col:'Driver',col2:'Time / gap',
-        podium:p.slice(0,3).map(x=>[esc(x.driver.split(' ').slice(-1)[0]),esc(x.team),esc(x.time),hex(x.color)]),
-        rows:p.map(x=>[esc(x.driver)+(x.fastest?' <span class="ft">Fastest lap</span>':''),esc(x.time),+x.points,{c:hex(x.color),n:esc(x.team)}]),
-        extra:'',source:`Official classification via the Jolpica F1 API · updated ${ago(f1.updated)}.`};
+      INT.resultSets[key]={label:esc(key==='NASCAR'?'NASCAR':key),title:`${esc(v.label)} · ${esc(lr.name)}`,col:key==='MotoGP'?'Rider':'Driver',col2:'Time / gap',
+        podium:p.slice(0,3).map(x=>[esc(String(x.name).split(' ').slice(-1)[0]),esc(x.team),esc(x.time),hex(x.color)]),
+        rows:p.map(x=>[esc(x.name)+(x.fastest?' <span class="ft">Fastest lap</span>':''),esc(x.time),+x.points||0,{c:hex(x.color),n:esc(x.team)}]),
+        extra:'',source:`${esc(lr.place)} · ${esc(lr.date)} · official classification via the ${API_NAMES[key]||'series data feed'}, updated ${ago(res.updated)}.`};
     }
-    if(f1.drivers?.length&&f1.teams?.length){
-      INT.standings={d:f1.drivers.slice(0,10).map(d=>[esc(d.name),esc(d.team),+d.points,hex(d.color)]),
-                     t:f1.teams.map(t=>[esc(t.name),'',+t.points,hex(t.color)])};
-      INT.liveStandings=true;
+    if(Object.keys(INT.resultSets).length){resTab=Object.keys(INT.resultSets)[0];}else delete INT.resultSets;
+
+    const st={}, tabs=[], cols={};
+    if(S.F1?.standings?.drivers?.length){st.f1d=S.F1.standings.drivers.map(d=>[esc(d.name),esc(d.team),+d.points,hex(d.color)]);tabs.push(['f1d','F1 drivers']);cols.f1d='Driver';}
+    if(S.F1?.standings?.teams?.length){st.f1t=S.F1.standings.teams.map(d=>[esc(d.name),'',+d.points,hex(d.color)]);tabs.push(['f1t','F1 teams']);cols.f1t='Team';}
+    if(S.MotoGP?.standings?.drivers?.length){st.mgp=S.MotoGP.standings.drivers.map(d=>[esc(d.name),esc(d.team),+d.points,hex(d.color)]);tabs.push(['mgp','MotoGP']);cols.mgp='Rider';}
+    if(S.NASCAR?.standings?.drivers?.length){st.nas=S.NASCAR.standings.drivers.map(d=>[esc(d.name),esc(d.team),+d.points,hex(d.color)]);tabs.push(['nas','NASCAR']);cols.nas='Driver';}
+    if(tabs.length){INT.standings=st;INT.standingsTabs=tabs;INT.stCols=cols;INT.liveStandings=true;}
+
+    // combined calendar: last finished round + every remaining round, per series
+    const events=[];
+    for(const [key,v] of Object.entries(S)){
+      const cal=(v.calendar||[]).filter(r=>r.main);
+      const doneIdx=cal.map((r,i)=>Date.parse(r.main)+3*36e5<now?i:-1).filter(i=>i>=0).pop();
+      let nextMarked=false;
+      cal.forEach((r,i)=>{
+        if(doneIdx!==undefined&&i<doneIdx)return;
+        const done=Date.parse(r.main)+3*36e5<now;
+        const live=!done&&now>=Date.parse(r.start||r.main)-12*36e5;
+        let st=done?'done':live?'live':'';
+        if(!done&&!nextMarked){nextMarked=true;if(!live)st='next';}
+        events.push({key,label:v.label,r,st});
+      });
+    }
+    events.sort((a,b)=>Date.parse(a.r.main)-Date.parse(b.r.main));
+    INT.cal=events.map(e=>({s:esc(e.label),r:`Round ${+e.r.round}`,d:span(e.r.start||e.r.main,e.r.main),n:esc(e.r.name),l:esc(e.r.place),st:e.st}));
+    INT.calTitle='Racing calendar';
+    INT.calSource='F1, MotoGP and NASCAR Cup calendars, updated automatically. Dates in your local time.';
+
+    // strip under the menu: the next event in each series
+    const upcoming=events.filter(e=>e.st==='next'||e.st==='live');
+    if(upcoming.length){
+      const first=upcoming[0];
+      INT.raceAt=first.r.main;
+      const anyLive=upcoming.some(e=>e.st==='live');
+      INT.weekend=`<div class="wk-title"><span class="wk-round">Next</span><div><h2>This week in racing</h2><p>${upcoming.map(e=>esc(e.label)).join(' · ')} · main race times in your local time</p></div></div>
+        <div class="sessions" aria-label="Next events">${upcoming.map((e,i)=>{const d=new Date(e.r.main);return `<div class="${i===0?'race':''}"><b>${esc(e.label)} · ${esc(e.r.name)}</b>${d.toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short'})} ${fmtTime(d)}</div>`}).join('')}</div>
+        ${anyLive?'<div class="wk-status"><span class="live-chip">Race weekend</span><span>'+upcoming.filter(e=>e.st==='live').map(e=>esc(e.label)).join(' · ')+' on track</span></div>'
+          :'<div class="cd tnum" aria-label="Countdown to the next race"><div><b id="cd-d">0</b><span>Days</span></div><div><b id="cd-h">00</b><span>Hrs</span></div><div><b id="cd-m">00</b><span>Min</span></div></div>'}`;
     }
   }
   if(ED==='int')render();
