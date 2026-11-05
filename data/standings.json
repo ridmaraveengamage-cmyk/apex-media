@@ -1,0 +1,1742 @@
+{
+ "updated": "2026-11-05T09:31:47.925Z",
+ "groups": [
+  "Single-seaters",
+  "Motorcycles",
+  "Endurance & sports cars",
+  "Rally",
+  "NASCAR",
+  "Touring & GT"
+ ],
+ "championships": [
+  {
+   "id": "f1",
+   "group": "Single-seaters",
+   "series": "F1",
+   "title": "Formula 1 drivers",
+   "col": "Driver",
+   "season": "2026",
+   "source": "Jolpica F1 API",
+   "link": "https://www.formula1.com/en/results",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Andrea Kimi Antonelli",
+     "team": "Mercedes",
+     "color": "#27f4d2",
+     "points": 380
+    },
+    {
+     "pos": 2,
+     "name": "Max Verstappen",
+     "team": "Red Bull",
+     "color": "#3671c6",
+     "points": 261
+    },
+    {
+     "pos": 3,
+     "name": "Lewis Hamilton",
+     "team": "Ferrari",
+     "color": "#e8002d",
+     "points": 259
+    },
+    {
+     "pos": 4,
+     "name": "George Russell",
+     "team": "Mercedes",
+     "color": "#27f4d2",
+     "points": 250
+    },
+    {
+     "pos": 5,
+     "name": "Charles Leclerc",
+     "team": "Ferrari",
+     "color": "#e8002d",
+     "points": 245
+    },
+    {
+     "pos": 6,
+     "name": "Lando Norris",
+     "team": "McLaren",
+     "color": "#ff8000",
+     "points": 221
+    },
+    {
+     "pos": 7,
+     "name": "Oscar Piastri",
+     "team": "McLaren",
+     "color": "#ff8000",
+     "points": 144
+    },
+    {
+     "pos": 8,
+     "name": "Isack Hadjar",
+     "team": "Red Bull",
+     "color": "#3671c6",
+     "points": 107
+    },
+    {
+     "pos": 9,
+     "name": "Liam Lawson",
+     "team": "Red Bull",
+     "color": "#3671c6",
+     "points": 83
+    },
+    {
+     "pos": 10,
+     "name": "Pierre Gasly",
+     "team": "Alpine F1 Team",
+     "color": "#ff87bc",
+     "points": 42
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "f1-t",
+   "group": "Single-seaters",
+   "series": "F1",
+   "title": "Formula 1 teams",
+   "col": "Team",
+   "season": "2026",
+   "source": "Jolpica F1 API",
+   "link": "https://www.formula1.com/en/results",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Mercedes",
+     "team": "",
+     "color": "#27f4d2",
+     "points": 630
+    },
+    {
+     "pos": 2,
+     "name": "Ferrari",
+     "team": "",
+     "color": "#e8002d",
+     "points": 504
+    },
+    {
+     "pos": 3,
+     "name": "Red Bull",
+     "team": "",
+     "color": "#3671c6",
+     "points": 382
+    },
+    {
+     "pos": 4,
+     "name": "McLaren",
+     "team": "",
+     "color": "#ff8000",
+     "points": 365
+    },
+    {
+     "pos": 5,
+     "name": "RB F1 Team",
+     "team": "",
+     "color": "#6692ff",
+     "points": 108
+    },
+    {
+     "pos": 6,
+     "name": "Alpine F1 Team",
+     "team": "",
+     "color": "#ff87bc",
+     "points": 69
+    },
+    {
+     "pos": 7,
+     "name": "Haas F1 Team",
+     "team": "",
+     "color": "#b6babd",
+     "points": 31
+    },
+    {
+     "pos": 8,
+     "name": "Audi",
+     "team": "",
+     "color": "#bb0a30",
+     "points": 27
+    },
+    {
+     "pos": 9,
+     "name": "Williams",
+     "team": "",
+     "color": "#64c4ff",
+     "points": 12
+    },
+    {
+     "pos": 10,
+     "name": "Aston Martin",
+     "team": "",
+     "color": "#229971",
+     "points": 7
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "f2",
+   "group": "Single-seaters",
+   "series": "F2 / F3",
+   "title": "FIA Formula 2",
+   "col": "Driver",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_Formula_2_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Rafael Câmara",
+     "points": 207,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Nikola Tsolov",
+     "points": 200,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Alex Dunne",
+     "points": 189,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Gabriele Minì",
+     "points": 163,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Dino Beganovic",
+     "points": 137,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Noel León",
+     "points": 133,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Martinius Stenshorne",
+     "points": 107,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Joshua Dürksen",
+     "points": 90,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Kush Maini",
+     "points": 90,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Laurens van Hoepen",
+     "points": 90,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "f3",
+   "group": "Single-seaters",
+   "series": "F2 / F3",
+   "title": "FIA Formula 3",
+   "col": "Driver",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_FIA_Formula_3_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Ugo Ugochukwu",
+     "points": 159,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Freddie Slater",
+     "points": 145,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Tuukka Taponen",
+     "points": 109,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Taito Kato",
+     "points": 105,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Théophile Naël",
+     "points": 88,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Pedro Clerot",
+     "points": 88,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Ernesto Rivera",
+     "points": 87,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Brando Badoer",
+     "points": 71,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Hiyu Yamakoshi",
+     "points": 71,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Noah Strømsted",
+     "points": 65,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "indycar",
+   "group": "Single-seaters",
+   "series": "IndyCar",
+   "title": "IndyCar Series",
+   "col": "Driver",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_IndyCar_Series",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Álex Palou",
+     "points": 631,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Kyle Kirkwood",
+     "points": 545,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Christian Lundgaard",
+     "points": 535,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Pato O'Ward",
+     "points": 522,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "David Malukas",
+     "points": 514,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Scott McLaughlin",
+     "points": 483,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Marcus Ericsson",
+     "points": 429,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Josef Newgarden",
+     "points": 423,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Felix Rosenqvist",
+     "points": 412,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Rinus VeeKay",
+     "points": 378,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "fe",
+   "group": "Single-seaters",
+   "series": "Formula E",
+   "title": "Formula E",
+   "col": "Driver",
+   "season": "2025–26",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Formula_E_World_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Pascal Wehrlein",
+     "points": 169,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Jake Dennis",
+     "points": 164,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Mitch Evans",
+     "points": 160,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Oliver Rowland",
+     "points": 137,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Edoardo Mortara",
+     "points": 137,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "António Félix da Costa",
+     "points": 128,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Nyck de Vries",
+     "points": 115,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Nick Cassidy",
+     "points": 114,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Nico Müller",
+     "points": 102,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Sébastien Buemi",
+     "points": 97,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "sf",
+   "group": "Single-seaters",
+   "series": "Super Formula",
+   "title": "Super Formula",
+   "col": "Driver",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_Super_Formula_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Kakunoshin Ohta",
+     "points": 122,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Ayumu Iwasa",
+     "points": 89.5,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Igor Omura Fraga",
+     "points": 77,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Nirei Fukuzumi",
+     "points": 63,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Zak O'Sullivan",
+     "points": 54,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Tadasuke Makino",
+     "points": 46,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Sho Tsuboi",
+     "points": 43,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Toshiki Oyu",
+     "points": 43,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Sacha Fenestraz",
+     "points": 40.5,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Tomoki Nojiri",
+     "points": 34.5,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "motogp",
+   "group": "Motorcycles",
+   "series": "MotoGP",
+   "title": "MotoGP",
+   "col": "Rider",
+   "season": "2026",
+   "source": "MotoGP results service",
+   "link": "https://www.motogp.com/en/world-standing",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Marc Marquez",
+     "team": "Ducati Lenovo Team",
+     "color": "#d40000",
+     "points": 399
+    },
+    {
+     "pos": 2,
+     "name": "Jorge Martin",
+     "team": "Aprilia Racing",
+     "color": "#41bfaa",
+     "points": 355
+    },
+    {
+     "pos": 3,
+     "name": "Marco Bezzecchi",
+     "team": "Aprilia Racing",
+     "color": "#41bfaa",
+     "points": 332
+    },
+    {
+     "pos": 4,
+     "name": "Pedro Acosta",
+     "team": "Red Bull KTM Factory Racing",
+     "color": "#ff6600",
+     "points": 295
+    },
+    {
+     "pos": 5,
+     "name": "Ai Ogura",
+     "team": "SuperFile Trackhouse MotoGP Team",
+     "color": "#41bfaa",
+     "points": 278
+    },
+    {
+     "pos": 6,
+     "name": "Fabio Di Giannantonio",
+     "team": "Pertamina Enduro VR46 Racing Team",
+     "color": "#d40000",
+     "points": 265
+    },
+    {
+     "pos": 7,
+     "name": "Raul Fernandez",
+     "team": "SuperFile Trackhouse MotoGP Team",
+     "color": "#41bfaa",
+     "points": 236
+    },
+    {
+     "pos": 8,
+     "name": "Alex Marquez",
+     "team": "BK8 Gresini Racing MotoGP",
+     "color": "#d40000",
+     "points": 197
+    },
+    {
+     "pos": 9,
+     "name": "Francesco Bagnaia",
+     "team": "Ducati Lenovo Team",
+     "color": "#d40000",
+     "points": 173
+    },
+    {
+     "pos": 10,
+     "name": "Enea Bastianini",
+     "team": "Red Bull KTM Tech3",
+     "color": "#ff6600",
+     "points": 134
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "moto2",
+   "group": "Motorcycles",
+   "series": "MotoGP",
+   "title": "Moto2",
+   "col": "Rider",
+   "season": "2026",
+   "source": "MotoGP results service",
+   "link": "https://www.motogp.com/en/world-standing",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Manuel Gonzalez",
+     "team": "LIQUI MOLY Dynavolt Intact GP",
+     "color": "#9aa29a",
+     "points": 276.5
+    },
+    {
+     "pos": 2,
+     "name": "Izan Guevara",
+     "team": "BLU CRU Pramac Yamaha Moto2",
+     "color": "#9aa29a",
+     "points": 273
+    },
+    {
+     "pos": 3,
+     "name": "Ivan Ortola",
+     "team": "QJMOTOR - MSI",
+     "color": "#9aa29a",
+     "points": 199.5
+    },
+    {
+     "pos": 4,
+     "name": "David Alonso",
+     "team": "CFMOTO RCB Aspar Team",
+     "color": "#9aa29a",
+     "points": 191
+    },
+    {
+     "pos": 5,
+     "name": "Daniel Holgado",
+     "team": "CFMOTO RCB Aspar Team",
+     "color": "#9aa29a",
+     "points": 190
+    },
+    {
+     "pos": 6,
+     "name": "Senna Agius",
+     "team": "LIQUI MOLY Dynavolt Intact GP",
+     "color": "#9aa29a",
+     "points": 166
+    },
+    {
+     "pos": 7,
+     "name": "Filip Salac",
+     "team": "OnlyFans American Racing Team",
+     "color": "#9aa29a",
+     "points": 155
+    },
+    {
+     "pos": 8,
+     "name": "Celestino Vietti",
+     "team": "BETA Tools SpeedRS Team",
+     "color": "#9aa29a",
+     "points": 140
+    },
+    {
+     "pos": 9,
+     "name": "Alonso Lopez",
+     "team": "ITALJET Gresini Moto2",
+     "color": "#9aa29a",
+     "points": 129.5
+    },
+    {
+     "pos": 10,
+     "name": "Collin Veijer",
+     "team": "Red Bull KTM Ajo",
+     "color": "#9aa29a",
+     "points": 89.5
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "moto3",
+   "group": "Motorcycles",
+   "series": "MotoGP",
+   "title": "Moto3",
+   "col": "Rider",
+   "season": "2026",
+   "source": "MotoGP results service",
+   "link": "https://www.motogp.com/en/world-standing",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Maximo Quiles",
+     "team": "CFMOTO Gaviota Aspar Team",
+     "color": "#ff6600",
+     "points": 376
+    },
+    {
+     "pos": 2,
+     "name": "David Almansa",
+     "team": "Liqui Moly Dynavolt Intact GP",
+     "color": "#ff6600",
+     "points": 228
+    },
+    {
+     "pos": 3,
+     "name": "Brian Uriarte",
+     "team": "Red Bull KTM Ajo",
+     "color": "#ff6600",
+     "points": 205
+    },
+    {
+     "pos": 4,
+     "name": "Alvaro Carpe",
+     "team": "Red Bull KTM Ajo",
+     "color": "#ff6600",
+     "points": 205
+    },
+    {
+     "pos": 5,
+     "name": "Adrian Fernandez",
+     "team": "Leopard Racing",
+     "color": "#e4002b",
+     "points": 157
+    },
+    {
+     "pos": 6,
+     "name": "Marco Morelli",
+     "team": "CFMOTO Gaviota Aspar Team",
+     "color": "#ff6600",
+     "points": 140
+    },
+    {
+     "pos": 7,
+     "name": "Veda Pratama",
+     "team": "Honda Team Asia",
+     "color": "#e4002b",
+     "points": 131
+    },
+    {
+     "pos": 8,
+     "name": "Valentin Perrone",
+     "team": "Red Bull KTM Tech3",
+     "color": "#ff6600",
+     "points": 121
+    },
+    {
+     "pos": 9,
+     "name": "Hakim Danish",
+     "team": "AEON Credit - MT Helmets - MSI",
+     "color": "#ff6600",
+     "points": 116
+    },
+    {
+     "pos": 10,
+     "name": "Matteo Bertelle",
+     "team": "LEVEL UP - MTA",
+     "color": "#ff6600",
+     "points": 103
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "wsbk",
+   "group": "Motorcycles",
+   "series": "WorldSBK",
+   "title": "World Superbike",
+   "col": "Rider",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_Superbike_World_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Nicolò Bulega",
+     "points": 726,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Iker Lecuona",
+     "points": 563,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Yari Montella",
+     "points": 318,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Sam Lowes",
+     "points": 268,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Alex Lowes",
+     "points": 259,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Lorenzo Baldassarri",
+     "points": 236,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Axel Bassani",
+     "points": 222,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Alberto Surra",
+     "points": 198,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Álvaro Bautista",
+     "points": 167,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Garrett Gerloff",
+     "points": 165,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "wec",
+   "group": "Endurance & sports cars",
+   "series": "WEC",
+   "title": "WEC Hypercar drivers",
+   "col": "Crew",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_FIA_World_Endurance_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Sébastien Buemi / Brendon Hartley / Ryō Hirakawa",
+     "points": 114,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Mike Conway / Kamui Kobayashi / Nyck de Vries",
+     "points": 97,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Kevin Magnussen / Raffaele Marciello",
+     "points": 75,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Robin Frijns / René Rast",
+     "points": 75,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Dries Vanthoor",
+     "points": 69,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Antonio Fuoco / Miguel Molina / Nicklas Nielsen",
+     "points": 69,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Sheldon van der Linde",
+     "points": 65,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "James Calado / Antonio Giovinazzi / Alessandro Pier Guidi",
+     "points": 59,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Norman Nato / Will Stevens",
+     "points": 58,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Ferdinand Habsburg / Charles Milesi",
+     "points": 57,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "wec-m",
+   "group": "Endurance & sports cars",
+   "series": "WEC",
+   "title": "WEC Hypercar manufacturers",
+   "col": "Manufacturer",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_FIA_World_Endurance_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Toyota",
+     "points": 212,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "BMW",
+     "points": 154,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Ferrari",
+     "points": 130,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Cadillac",
+     "points": 118,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Alpine",
+     "points": 104,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Aston Martin",
+     "points": 58,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Peugeot",
+     "points": 24,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Genesis / Pos.",
+     "points": 14,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "imsa",
+   "group": "Endurance & sports cars",
+   "series": "IMSA",
+   "title": "IMSA GTP drivers",
+   "col": "Driver",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_IMSA_SportsCar_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Jack Aitken",
+     "points": 3020,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Laurin Heinrich",
+     "points": 2859,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Nick Yelloly / Renger van der Zande",
+     "points": 2723,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Kévin Estre",
+     "points": 2709,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Earl Bamber",
+     "points": 2672,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Sheldon van der Linde / Dries Vanthoor",
+     "points": 2650,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Julien Andlauer / Felipe Nasr",
+     "points": 2638,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Louis Delétraz / Jordan Taylor",
+     "points": 2556,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Tijmen van der Helm",
+     "points": 2525,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Tom Blomqvist / Colin Braun",
+     "points": 2465,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "wrc",
+   "group": "Rally",
+   "series": "WRC",
+   "title": "World Rally Championship",
+   "col": "Driver",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_World_Rally_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Elfyn Evans",
+     "points": 243,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Oliver Solberg",
+     "points": 238,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Sami Pajari",
+     "points": 237,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Sébastien Ogier",
+     "points": 189,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Adrien Fourmaux",
+     "points": 183,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Takamoto Katsuta",
+     "points": 175,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Thierry Neuville",
+     "points": 134,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Hayden Paddon",
+     "points": 38,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Josh McErlean",
+     "points": 35,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Esapekka Lappi",
+     "points": 33,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "nascar",
+   "group": "NASCAR",
+   "series": "NASCAR",
+   "title": "NASCAR Cup Series",
+   "col": "Driver",
+   "season": "2026",
+   "source": "NASCAR data feed",
+   "link": "https://www.nascar.com/standings/nascar-cup-series/",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Kyle Larson",
+     "team": "#5 Chevrolet",
+     "color": "#d6a400",
+     "points": 2469
+    },
+    {
+     "pos": 2,
+     "name": "Christopher Bell",
+     "team": "#20 Toyota",
+     "color": "#eb0a1e",
+     "points": 2402
+    },
+    {
+     "pos": 3,
+     "name": "Denny Hamlin",
+     "team": "#11 Toyota",
+     "color": "#eb0a1e",
+     "points": 2399
+    },
+    {
+     "pos": 4,
+     "name": "Chase Briscoe",
+     "team": "#19 Toyota",
+     "color": "#eb0a1e",
+     "points": 2385
+    },
+    {
+     "pos": 5,
+     "name": "Joey Logano",
+     "team": "#22 Ford",
+     "color": "#1f4fa0",
+     "points": 2366
+    },
+    {
+     "pos": 6,
+     "name": "Tyler Reddick",
+     "team": "#45 Toyota",
+     "color": "#eb0a1e",
+     "points": 2344
+    },
+    {
+     "pos": 7,
+     "name": "Ryan Blaney",
+     "team": "#12 Ford",
+     "color": "#1f4fa0",
+     "points": 2336
+    },
+    {
+     "pos": 8,
+     "name": "Ty Gibbs",
+     "team": "#54 Toyota",
+     "color": "#eb0a1e",
+     "points": 2309
+    },
+    {
+     "pos": 9,
+     "name": "William Byron",
+     "team": "#24 Chevrolet",
+     "color": "#d6a400",
+     "points": 2303
+    },
+    {
+     "pos": 10,
+     "name": "Chase Elliott",
+     "team": "#9 Chevrolet",
+     "color": "#d6a400",
+     "points": 2268
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "nascar-2",
+   "group": "NASCAR",
+   "series": "NASCAR",
+   "title": "NASCAR O'Reilly Series",
+   "col": "Driver",
+   "season": "2026",
+   "source": "NASCAR data feed",
+   "link": "https://www.nascar.com/standings/nascar-oreilly-auto-parts-series/",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Justin Allgaier",
+     "team": "#7 Chevrolet",
+     "color": "#d6a400",
+     "points": 2436
+    },
+    {
+     "pos": 2,
+     "name": "Jesse Love",
+     "team": "#2 Chevrolet",
+     "color": "#d6a400",
+     "points": 2414
+    },
+    {
+     "pos": 3,
+     "name": "Corey Day",
+     "team": "#17 Chevrolet",
+     "color": "#d6a400",
+     "points": 2413
+    },
+    {
+     "pos": 4,
+     "name": "Carson Kvapil",
+     "team": "#1 Chevrolet",
+     "color": "#d6a400",
+     "points": 2405
+    },
+    {
+     "pos": 5,
+     "name": "Sheldon Creed",
+     "team": "#00 Chevrolet",
+     "color": "#d6a400",
+     "points": 2394
+    },
+    {
+     "pos": 6,
+     "name": "Sam Mayer",
+     "team": "#41 Chevrolet",
+     "color": "#d6a400",
+     "points": 2339
+    },
+    {
+     "pos": 7,
+     "name": "Sammy Smith",
+     "team": "#8 Chevrolet",
+     "color": "#d6a400",
+     "points": 2329
+    },
+    {
+     "pos": 8,
+     "name": "Taylor Gray",
+     "team": "#54 Toyota",
+     "color": "#eb0a1e",
+     "points": 2277
+    },
+    {
+     "pos": 9,
+     "name": "Brandon Jones",
+     "team": "#20 Toyota",
+     "color": "#eb0a1e",
+     "points": 2253
+    },
+    {
+     "pos": 10,
+     "name": "Austin Hill",
+     "team": "#21 Chevrolet",
+     "color": "#d6a400",
+     "points": 2239
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "nascar-3",
+   "group": "NASCAR",
+   "series": "NASCAR",
+   "title": "NASCAR Truck Series",
+   "col": "Driver",
+   "season": "2026",
+   "source": "NASCAR data feed",
+   "link": "https://www.nascar.com/standings/nascar-craftsman-truck-series/",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Kaden Honeycutt",
+     "team": "#11 Toyota",
+     "color": "#eb0a1e",
+     "points": 2403
+    },
+    {
+     "pos": 2,
+     "name": "Layne Riggs",
+     "team": "#34 Ford",
+     "color": "#1f4fa0",
+     "points": 2383
+    },
+    {
+     "pos": 3,
+     "name": "Chandler Smith",
+     "team": "#38 Ford",
+     "color": "#1f4fa0",
+     "points": 2300
+    },
+    {
+     "pos": 4,
+     "name": "Ty Majeski",
+     "team": "#88 Ford",
+     "color": "#1f4fa0",
+     "points": 2275
+    },
+    {
+     "pos": 5,
+     "name": "Christian Eckes",
+     "team": "#91 Chevrolet",
+     "color": "#d6a400",
+     "points": 2263
+    },
+    {
+     "pos": 6,
+     "name": "Giovanni Ruggiero",
+     "team": "#17 Toyota",
+     "color": "#eb0a1e",
+     "points": 2224
+    },
+    {
+     "pos": 7,
+     "name": "Ben Rhodes",
+     "team": "#99 Ford",
+     "color": "#1f4fa0",
+     "points": 2217
+    },
+    {
+     "pos": 8,
+     "name": "Daniel Hemric",
+     "team": "#19 Chevrolet",
+     "color": "#d6a400",
+     "points": 2199
+    },
+    {
+     "pos": 9,
+     "name": "Tyler Ankrum",
+     "team": "#18 Chevrolet",
+     "color": "#d6a400",
+     "points": 2193
+    },
+    {
+     "pos": 10,
+     "name": "Grant Enfinger",
+     "team": "#9 Chevrolet",
+     "color": "#d6a400",
+     "points": 2178
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "dtm",
+   "group": "Touring & GT",
+   "series": "DTM",
+   "title": "DTM",
+   "col": "Driver",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_Deutsche_Tourenwagen_Masters",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Thomas Preining",
+     "points": 225,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Maro Engel",
+     "points": 213,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Marco Wittmann",
+     "points": 198,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Lucas Auer",
+     "points": 182,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Matteo Cairoli",
+     "points": 160,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Nicki Thiim",
+     "points": 149,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Ben Dörr",
+     "points": 139,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Arjun Maini",
+     "points": 133,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Ricardo Feller",
+     "points": 121,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Jules Gounon",
+     "points": 111,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "supercars",
+   "group": "Touring & GT",
+   "series": "Supercars",
+   "title": "Supercars Championship",
+   "col": "Driver",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_Supercars_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Matt Payne",
+     "points": 4150,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Broc Feeney (SC)",
+     "points": 4120,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Brodie Kostecki",
+     "points": 4096,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Chaz Mostert",
+     "points": 4078,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Will Brown (EC)",
+     "points": 4066,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Cameron Waters",
+     "points": 4057,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Anton De Pasquale",
+     "points": 4048,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Ryan Wood",
+     "points": 3198,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Kai Allen",
+     "points": 3143,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Jack Le Brocq",
+     "points": 3075,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  },
+  {
+   "id": "btcc",
+   "group": "Touring & GT",
+   "series": "BTCC",
+   "title": "British Touring Cars",
+   "col": "Driver",
+   "season": "2026",
+   "source": "Wikipedia (CC BY-SA)",
+   "link": "https://en.wikipedia.org/wiki/2026_British_Touring_Car_Championship",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Ashley Sutton",
+     "points": 516,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 2,
+     "name": "Tom Ingram",
+     "points": 387,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 3,
+     "name": "Dan Cammish",
+     "points": 372,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 4,
+     "name": "Josh Cook",
+     "points": 314,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 5,
+     "name": "Adam Morgan",
+     "points": 288,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 6,
+     "name": "Mikey Doble",
+     "points": 276,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
+     "name": "Ricky Collard",
+     "points": 273,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 8,
+     "name": "Daniel Rowbottom",
+     "points": 268,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 9,
+     "name": "Aiden Moffat",
+     "points": 254,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 10,
+     "name": "Charles Rainford",
+     "points": 251,
+     "team": "",
+     "color": ""
+    }
+   ],
+   "updated": "2026-11-05T09:31:47.925Z"
+  }
+ ]
+}
