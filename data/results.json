@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:27:38.445Z",
+ "updated": "2026-11-05T16:35:53.310Z",
  "status": {
   "F1": "ok",
   "MotoGP": "ok",
@@ -1095,6 +1095,14 @@
     },
     {
      "round": 21,
+     "name": "Grand Prix of Qatar",
+     "place": "Lusail International Circuit, Qatar",
+     "start": "2026-11-06T09:00:00Z",
+     "main": "2026-11-08T13:00:00Z",
+     "sessions": []
+    },
+    {
+     "round": 22,
      "name": "Grand Prix of Portugal",
      "place": "Autódromo Internacional do Algarve, Portugal",
      "start": "2026-11-20T09:00:00Z",
@@ -1102,7 +1110,7 @@
      "sessions": []
     },
     {
-     "round": 22,
+     "round": 23,
      "name": "Grand Prix of Valencia",
      "place": "Circuit Ricardo Tormo, Spain",
      "start": "2026-11-27T09:00:00Z",
