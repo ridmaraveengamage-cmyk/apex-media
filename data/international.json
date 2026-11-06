@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T03:50:26.278Z",
+ "updated": "2026-11-06T04:54:45.826Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,9 +147,9 @@
   }
  ],
  "bySeries": {
+  "Karting": 8,
   "F1": 15,
   "NASCAR": 14,
-  "Karting": 9,
   "IndyCar": 15,
   "WEC": 15,
   "MotoGP": 15,
@@ -165,6 +165,16 @@
  },
  "items": [
   {
+   "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – KA100 Junior",
+   "url": "https://www.ekartingnews.com/2026/11/05/ekn-exclusive-superkarts-usa-supernationals-29-preview-series-ka100-junior/",
+   "source": "eKartingNews",
+   "date": "2026-11-06T01:52:58.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "eKartingNews.com is proud to present our Preview Series for the Superkarts! USA SuperNationals 29. Leading up to the on-track action of the 2026 edition of the marquee SKUSA event, EKN will preview each of the 11…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
+  },
+  {
    "title": "Mercedes held its breath over Kimi Antonelli’s title-winning move on Charles Leclerc",
    "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-the-dark-2025-slump-that-built-a-champion-i-questioned-myself-over-and-over/10871786/",
    "source": "Motorsport.com",
@@ -172,7 +182,7 @@
    "series": "F1",
    "result": false,
    "summary": "All Kimi Antonelli needed to do at the Mexico City Grand Prix was finish ninth. Instead, the new world champion chose to clinch the title with a late-braking lunge on Charles Leclerc into Turn 1, and not everyone at…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YP74lEG2/s6/motorsport-com-graphics-79-3.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/YP74lEG2/s6/motorsport-com-graphics-79-3.jpg"
   },
   {
    "title": "All the stories that got the Sao Paulo paddock talking",
@@ -232,7 +242,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Before speaking to the media in an official press conference on Friday, Carson Hocevar has taken to YouTube to address his fans directly, posting an 18-minute apology video. Hocevar was suspended by Spire Motorsports…",
-   "image": "https://cdn-8.motorsport.com/images/amp/2QedlZa2/s6/screenshot-2026-11-05-at-5-59-.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/2QedlZa2/s6/screenshot-2026-11-05-at-5-59-.jpg"
   },
   {
    "title": "Antonelli reveals 'incredible' messages after becoming champion",
@@ -292,7 +302,7 @@
    "series": "F1",
    "result": false,
    "summary": "2026 Formula 1 champion Kimi Antonelli has opened up about his recent visit to Ayrton Senna's family home ahead of this weekend's Brazilian Grand Prix. The Mercedes driver went to Fazenda Dois Lagos, the Senna family…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YvKBDzn6/s6/motorsport-com-graphics-61.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YvKBDzn6/s6/motorsport-com-graphics-61.jpg"
   },
   {
    "title": "What we learned from day one of F1's Brazilian Grand Prix",
@@ -342,7 +352,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Long-time NASCAR driver Timmy Hill will be back full-time in 2027, after shutting down his part-time NASCAR Truck Series team. Hill will drive the No. 2 Ford for Team Reaume, and will actually begin his tenure this…",
-   "image": "https://cdn-3.motorsport.com/images/amp/2GdK3RQY/s6/gettyimages-2302272679.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/2GdK3RQY/s6/gettyimages-2302272679.jpg"
   },
   {
    "title": "Kyle Larson sits alone on stage for NASCAR Championship Media Day",
@@ -352,7 +362,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "For much of the past decade, NASCAR Cup Series Championship Race Media Day meant taking the remaining contenders and placing them on a stage together. With the return of the Chase for the Championship, and a points…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0qgKrlEY/s6/kyle-larson-on-stage-alone-no-.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0qgKrlEY/s6/kyle-larson-on-stage-alone-no-.jpg"
   },
   {
    "title": "Colton Herta backs Mexico IndyCar race following Pato O’Ward promoter callout",
@@ -363,16 +373,6 @@
    "result": false,
    "summary": "As the IndyCar Series prepares to head overseas for its newly announced international showcase in Barcelona, enthusiasm for taking the American open-wheel championship even further abroad is gathering momentum -…",
    "image": "https://cdn-5.motorsport.com/images/amp/0rVPjKd0/s6/colton-herta-cadillac-racing.jpg"
-  },
-  {
-   "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – KA100 Master",
-   "url": "https://www.ekartingnews.com/2026/11/05/ekn-exclusive-superkarts-usa-supernationals-29-preview-series-ka100-master/",
-   "source": "eKartingNews",
-   "date": "2026-11-05T18:33:01.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "eKartingNews.com is proud to present our Preview Series for the Superkarts! USA SuperNationals 29. Leading up to the on-track action of the 2026 edition of the marquee SKUSA event, EKN will preview each of the 11…",
-   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
   },
   {
    "title": "Signatech exploring options to remain in Hypercar after Alpine/Geely deal falls through",
@@ -1053,16 +1053,6 @@
    "result": false,
    "summary": "American Kart Manufacturers Inc. (AKM) today announced the launch of its newest chassis brand, Paul Tracy Kart (PTK), developed in partnership with 2003 CART champion Paul Tracy. The PTK line debuts with two liveries…",
    "image": null
-  },
-  {
-   "title": "2026 Rotax Max Challenge Grand Finals – Team USA – Preview",
-   "url": "https://www.ekartingnews.com/2026/10/26/2026-rotax-max-challenge-grand-finals-team-usa-preview/",
-   "source": "eKartingNews",
-   "date": "2026-10-26T12:31:56.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "The 2026 Rotax Max Challenge Grand Finals is scheduled for November 7-14 at the Kartodromo Internacional do Algarve in Portimão, Portugal. Nearly 400 drivers from over 50 countries will compete in eight categories for…",
-   "image": "https://www.ekartingnews.com/wp-content/uploads/2020/11/FIA-World-2020-P-Portimao-300x200.jpg"
   },
   {
    "title": "Sesks tight-lipped on WRC future after ERC season finale triumph",
