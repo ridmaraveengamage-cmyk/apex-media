@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T09:28:24.464Z",
+ "updated": "2026-11-06T10:32:04.133Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,12 +148,12 @@
  ],
  "bySeries": {
   "F1": 15,
+  "MotoGP": 15,
   "BTCC": 1,
   "Karting": 8,
   "NASCAR": 14,
   "IndyCar": 15,
   "WEC": 15,
-  "MotoGP": 15,
   "WRC": 13,
   "Motorsport": 5,
   "IMSA": 8,
@@ -164,6 +164,86 @@
   "WorldSBK": 1
  },
  "items": [
+  {
+   "title": "Why Russell had ‘to get out’ after Antonelli’s title win",
+   "url": "https://www.formula1.com/en/latest/article/i-need-to-get-out-of-here-russell-reveals-aftermath-of-antonellis-title-triumph-in-mexico.3Ufdj6zo0A9AUGZldRezUJ",
+   "source": "Formula1.com",
+   "date": "2026-11-06T10:32:04.133Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Nearly a week on from the Mexico City Grand Prix, George Russell has dissected his immediate reaction to Kimi Antonelli being crowned champion.",
+   "image": null
+  },
+  {
+   "title": "Hamilton's incredible F1 records ahead of his 400th GP",
+   "url": "https://www.formula1.com/en/latest/article/in-numbers-the-incredible-records-hamilton-holds-ahead-of-his-400th-grand-prix.1yNnQ8vuefRFhQj4AprTh0",
+   "source": "Formula1.com",
+   "date": "2026-11-06T10:32:04.133Z",
+   "series": "F1",
+   "result": false,
+   "summary": "As Lewis Hamilton prepares for his 400th Grand Prix in Brazil, discover the incredible F1 records he holds, including his number of wins, pole positions and podium finishes.",
+   "image": null
+  },
+  {
+   "title": "“I’ve never had a season where there’s been so many blows” – Russell",
+   "url": "https://www.racefans.net/2026/11/06/ive-never-had-a-season-where-theres-been-so-many-blows-russell/",
+   "source": "RaceFans",
+   "date": "2026-11-06T10:28:24.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell said he did not speak to media after the Mexican Grand Prix because he was \"extremely disappointed\" by his latest technical problem.",
+   "image": null
+  },
+  {
+   "title": "Who is racing in MotoGP's Qatar GP and who is absent?",
+   "url": "https://www.motorsport.com/motogp/news/who-is-racing-in-motogps-qatar-gp-and-who-is-absent/10872001/",
+   "source": "Motorsport.com",
+   "date": "2026-11-06T10:22:26.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "The MotoGP field for the Qatar Grand Prix has been severely depleted by Yamaha's withdrawal from the event. The Japanese manufacturer elected against sending its personnel to Doha due to the ongoing geopolitical…",
+   "image": "https://cdn-3.motorsport.com/images/amp/25dLrZk0/s6/atmosphere.jpg"
+  },
+  {
+   "title": "What's going on with Lawson's 'blurry' F1 future",
+   "url": "https://www.the-race.com/formula-1/whats-going-on-with-lawsons-blurry-f1-future/",
+   "source": "The Race",
+   "date": "2026-11-06T10:07:12.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Racing Bulls team boss Alan Permane has been given a big new extension but Liam Lawson's future remains in limbo",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1446748_HiRes.jpg"
+  },
+  {
+   "title": "Max Verstappen responds to Toto Wolff’s “ruthless” F1 driver claim",
+   "url": "https://www.crash.net/f1/news/1109347/1/max-verstappen-responds-toto-wolffs-ruthless-f1-driver-claim",
+   "source": "Crash.net",
+   "date": "2026-11-06T10:00:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen responds to Toto Wolff's scathing criticism about \"ruthless\" F1 drivers.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1451248_hires.jpg?width=1200"
+  },
+  {
+   "title": "F1's revenue stabilises after cancelled 2026 grands prix",
+   "url": "https://www.the-race.com/business/f1s-revenue-stabilises-after-cancelled-2026-grands-prix/",
+   "source": "The Race",
+   "date": "2026-11-06T09:51:23.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 1’s revenue has stabilised over the third quarter of 2026",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1447490_HiRes.jpg"
+  },
+  {
+   "title": "Kimi Antonelli: “My 2027 preparation starts now” after F1 title triumph",
+   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/",
+   "source": "Motorsport.com",
+   "date": "2026-11-06T09:42:17.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "It has been quite the week for Kimi Antonelli. After celebrating his record-breaking world title on the Mexico Grand Prix podium, where he was hoisted aloft by Lewis Hamilton and Max Verstappen, and at the post-race…",
+   "image": "https://cdn-8.motorsport.com/images/amp/YpbAzjM0/s6/andrea-kimi-antonelli-mercedes.jpg"
+  },
   {
    "title": "Hamilton wants Ferrari talks in Brazil after Mexico battle",
    "url": "https://www.formula1.com/en/latest/article/hamilton-wants-ferrari-talks-ahead-of-sao-paulo-grand-prix-after-intra-team-battle-with-leclerc.3JXGpQWTdOA2a9PiH7NL8X",
@@ -262,57 +342,7 @@
    "series": "F1",
    "result": false,
    "summary": "All Kimi Antonelli needed to do at the Mexico City Grand Prix was finish ninth. Instead, the new world champion chose to clinch the title with a late-braking lunge on Charles Leclerc into Turn 1, and not everyone at…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YP74lEG2/s6/motorsport-com-graphics-79-3.jpg"
-  },
-  {
-   "title": "All the stories that got the Sao Paulo paddock talking",
-   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-sao-paulo-paddock-talking.1TWHXxrs4N9xUspvYpgb3H",
-   "source": "Formula1.com",
-   "date": "2026-11-05T23:16:37.795Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1.com's Mike Seymour rounds up all the big talking points ahead of the 2026 Sao Paulo Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Norris wary of new McLaren upgrades in Sao Paulo",
-   "url": "https://www.formula1.com/en/latest/article/want-to-believe-that-we-can-still-make-improvements-norris-wary-of-new-mclaren-upgrades-in-sao-paulo.6NvdXqDIqBz1Mw1xveJv0k",
-   "source": "Formula1.com",
-   "date": "2026-11-05T23:16:37.795Z",
-   "series": "F1",
-   "result": false,
-   "summary": "McLaren will introduce new upgrades for the Sao Paulo Grand Prix this weekend, with Lando Norris stating he wants \"to believe that we can still make improvements\" to this year's car.",
-   "image": null
-  },
-  {
-   "title": "'I don’t know what else they want me to do’– Lawson on his future",
-   "url": "https://www.formula1.com/en/latest/article/i-dont-know-what-else-they-want-me-to-do-lawson-elaborates-on-uncertainty-around-his-f1-future.4raO0TJB58aCxyWdLRkOYv",
-   "source": "Formula1.com",
-   "date": "2026-11-05T23:16:37.795Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Liam Lawson has explained how he’s doing everything he can at Racing Bulls in order to retain his seat on the F1 grid.",
-   "image": null
-  },
-  {
-   "title": "Bottas offers update on Cadillac F1 future",
-   "url": "https://www.formula1.com/en/latest/article/in-my-head-it-should-be-okay-bottas-offers-update-on-cadillac-f1-future-amid-herta-reports.Kr1u7QDCDvIeoyCjP1CBL",
-   "source": "Formula1.com",
-   "date": "2026-11-05T23:16:37.795Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Valtteri Bottas admits that his Cadillac Formula 1 future \"should be okay\" amid speculation that the Finn will not be retained by the American team next season.",
-   "image": null
-  },
-  {
-   "title": "George Russell opens up on mental exhaustion after frustrating 2026 F1 season",
-   "url": "https://www.motorsport.com/f1/news/george-russell-opens-up-on-mental-exhaustion-after-frustrating-2026-f1-season/10871940/",
-   "source": "Motorsport.com",
-   "date": "2026-11-05T23:14:24.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell has admitted he is mentally exhausted after a season in which he has repeatedly had to overcome challenges. The Mercedes driver started 2026 as the favourite for the title, but after a string of issues…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6n7bwpO0/s6/motorsport-com-graphics-62.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/YP74lEG2/s6/motorsport-com-graphics-79-3.jpg"
   },
   {
    "title": "Carson Hocevar posts 18-minute apology video: \"I'm the bad guy\"",
@@ -323,26 +353,6 @@
    "result": false,
    "summary": "Before speaking to the media in an official press conference on Friday, Carson Hocevar has taken to YouTube to address his fans directly, posting an 18-minute apology video. Hocevar was suspended by Spire Motorsports…",
    "image": "https://cdn-7.motorsport.com/images/amp/2QedlZa2/s6/screenshot-2026-11-05-at-5-59-.jpg"
-  },
-  {
-   "title": "Antonelli reveals 'incredible' messages after becoming champion",
-   "url": "https://www.formula1.com/en/latest/article/the-support-has-been-incredible-antonelli-reveals-favourite-messages-after-becoming-world-champion.1QUQsQTsVGT4o6W3HoSFHa",
-   "source": "Formula1.com",
-   "date": "2026-11-05T22:20:51.129Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Kimi Antonelli admits that \"the support has been incredible\" since he became Formula 1's youngest World Champion, and has revealed his favourite messages ahead of the Sao Paulo Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Camara explains approach as he prepares for F1 debut",
-   "url": "https://www.formula1.com/en/latest/article/focus-on-things-i-can-control-camara-explains-approach-as-he-prepares-for-f1-debut.YTyRpyv4hrReigw7dSIFA",
-   "source": "Formula1.com",
-   "date": "2026-11-05T22:20:51.129Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Rafael Camara states he will \"focus on things that I can control\" as the Brazilian prepares to make his Formula 1 debut with Haas at his home event in the Sao Paulo Grand Prix.",
-   "image": null
   },
   {
    "title": "EKN Debrief: Episode 174 – ROK Vegas 2026",
@@ -372,7 +382,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "For much of the past decade, NASCAR Cup Series Championship Race Media Day meant taking the remaining contenders and placing them on a stage together. With the return of the Chase for the Championship, and a points…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0qgKrlEY/s6/kyle-larson-on-stage-alone-no-.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0qgKrlEY/s6/kyle-larson-on-stage-alone-no-.jpg"
   },
   {
    "title": "Colton Herta backs Mexico IndyCar race following Pato O’Ward promoter callout",
@@ -402,7 +412,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP world championship leader Marc Marquez has admitted he would rather be somewhere other than Doha on the eve of the Qatar Grand Prix. While the riders now appear fully resigned to racing in the unpopular event…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0rVPj4d0/s6/marc-marquez-ducati-team-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0rVPj4d0/s6/marc-marquez-ducati-team-2.jpg"
   },
   {
    "title": "How to watch NASCAR season finale at Homestead: Schedule, start time, entry list, TV",
@@ -442,7 +452,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Following their last-minute arrivals in Doha, top MotoGP riders have adopted a conciliatory tone about this weekend's hotly-debated Qatar Grand Prix. Given the ongoing conflict in the region, most riders were reluctant…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YP741W32/s6/pedro-acosta-red-bull-ktm-fact.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YP741W32/s6/pedro-acosta-red-bull-ktm-fact.jpg"
   },
   {
    "title": "Martin passed fit to practice at Qatar GP",
@@ -452,7 +462,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin has been declared fit to take part in first practice at the Qatar Grand Prix on Friday, giving the Aprilia rider a chance of prolonging his MotoGP world championship hopes. Martin broke his wrist at last…",
-   "image": "https://cdn-3.motorsport.com/images/amp/2wlKjdKY/s6/jorge-martin-aprilia-racing-te-2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/2wlKjdKY/s6/jorge-martin-aprilia-racing-te-2.jpg"
   },
   {
    "title": "Acosta signs Monster as personal sponsor",
@@ -462,7 +472,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Pedro Acosta has signed Monster Energy as a personal sponsor ahead of his switch to Ducati for the 2027 MotoGP season. A social media post with a video showing images of the open sea and a new logo playing with the…",
-   "image": "https://cdn-5.motorsport.com/images/amp/YBVjzKBY/s6/pedro-acosta-red-bull-ktm-fact.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YBVjzKBY/s6/pedro-acosta-red-bull-ktm-fact.jpg"
   },
   {
    "title": "Ogier set for partial WRC 2027 programme",
@@ -472,7 +482,7 @@
    "series": "WRC",
    "result": false,
    "summary": "Sebastien Ogier’s World Rally Championship programme for 2027 is yet to be finalised but Toyota expects the nine-time world champion to contest no more than three rallies. Ogier was absent from Toyota’s 2027 driver…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YE9EyoPY/s6/sebastien-ogier-toyota-gazoo-r.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YE9EyoPY/s6/sebastien-ogier-toyota-gazoo-r.jpg"
   },
   {
    "title": "Social Media: Williams show off 40-year-old Jacarepagua Brazilian GP trophy",
@@ -492,7 +502,7 @@
    "series": "Motorsport",
    "result": false,
    "summary": "1. FPZERO Simulators - Simulator Engineer - Sandy FPZERO Simulators is recruiting a Simulator Engineer. You will test and configure every simulator you build before it leaves, install simulators in clients’ homes and…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
   },
   {
    "title": "WEC title showdown: How Toyota’s two crews can win the crown at Monza",
@@ -512,7 +522,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Honda HRC has announced that Joan Mir will be absent this weekend's Qatar Grand Prix after his comeback at Sepang was cut short due to another episode of dizziness and partial loss of vision. British rider Jake Dixon…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2Qe8g5O2/s6/jake-dixon-team-hrc.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/2Qe8g5O2/s6/jake-dixon-team-hrc.jpg"
   },
   {
    "title": "2026 MotoGP Qatar Grand Prix – How to watch, session times & more",
@@ -522,7 +532,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Ducati's Marc Marquez could wrap up the 2026 MotoGP title this weekend at the Qatar Grand Prix, having pulled out a 44-point lead in the championship following his victory at Sepang last time. The Losail race is going…",
-   "image": "https://cdn-6.motorsport.com/images/amp/Y99KkdxY/s6/pedro-acosta-red-bull-ktm-fact.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/Y99KkdxY/s6/pedro-acosta-red-bull-ktm-fact.jpg"
   },
   {
    "title": "Hanley Motorsports announces multi-class IMSA arrival with BMW support and DXDT deal",
@@ -572,7 +582,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Joan Mir says Marc Marquez is closing in on the 2026 MotoGP title because his title rivals cracked under the pressure he put them under.​The factory Ducati star has staged a remarkable recovery in the championship race…",
-   "image": "https://cdn-6.motorsport.com/images/amp/2y7QVze6/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/2y7QVze6/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "McLaren announces latest WEC Hypercar driver for 2027",
@@ -602,7 +612,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "The factory Aprilia MotoGP team confirmed on Wednesday that Jorge Martín will travel to Qatar to try to race, despite not having recovered from the fracture to the radius in his right arm. The Spanish rider suffered a…",
-   "image": "https://cdn-4.motorsport.com/images/amp/25dLl490/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/25dLl490/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Charles and Alexandra Leclerc welcome their first child",
@@ -712,7 +722,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Francesco Bagnaia says the last three rounds of the 2026 MotoGP struggles will be about “surviving”, with no solution in sight for his ongoing issues with Ducati’s GP26. The three-time world champion had high hopes from…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6grQxJlY/s6/francesco-bagnaia-ducati-team.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/6grQxJlY/s6/francesco-bagnaia-ducati-team.jpg"
   },
   {
    "title": "ECR prepares for IR-28 transition with in-house Dynisma DMG-1 simulator",
@@ -752,7 +762,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marco Bezzecchi insists he is not giving up on his MotoGP title ambitions just yet, despite ceding further ground to Ducati’s Marc Marquez at the Malaysian Grand Prix. Having started the 2026 season as the favourite…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0JXR9ORY/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0JXR9ORY/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Harvick: NASCAR may penalize Hocevar for 'dirtiest of dirty tricks'",
@@ -842,7 +852,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Johann Zarco suffered his second technical retirement in as many MotoGP weekends as engine troubles robbed him of a strong result at the Malaysian Grand Prix. Starting eighth on the grid, the LCR rider made a quick…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6DGg8RKY/s6/johann-zarco-team-lcr-honda.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6DGg8RKY/s6/johann-zarco-team-lcr-honda.jpg"
   },
   {
    "title": "FIA reveals revised Junior WRC for 2027",
@@ -862,17 +872,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Sunday was a 'race day' at Sepang - and not just for the bikes. Meetings followed one another in the paddock of the Malaysian circuit throughout the day. At 11am, the team managers of the different teams met with the…",
-   "image": "https://cdn-5.motorsport.com/images/amp/2wBd3380/s6/track-overview.jpg"
-  },
-  {
-   "title": "Ai Ogura on brush with Marco Bezzecchi: \"It was my bad\"",
-   "url": "https://www.motorsport.com/motogp/news/ai-ogura-on-brush-with-marco-bezzecchi-it-was-my-bad/10870542/",
-   "source": "Motorsport.com",
-   "date": "2026-11-02T09:01:43.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Aprilias getting in each other's way has been a recurring theme in this year's MotoGP world championship - and the Malaysian Grand Prix provided another example of the phenomenon. This time it was Ai Ogura, on the…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0R7Bb8g2/s6/marco-bezzecchi-aprilia-leads--2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/2wBd3380/s6/track-overview.jpg"
   },
   {
    "title": "EKN Trackside: ROK Vegas 2026 – Sunday Report",
