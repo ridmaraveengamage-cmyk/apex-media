@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:45:24.539Z",
+ "updated": "2026-11-06T02:50:57.103Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 0
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -154,7 +154,7 @@
   "WEC": 15,
   "MotoGP": 15,
   "WRC": 13,
-  "Motorsport": 2,
+  "Motorsport": 6,
   "IMSA": 8,
   "DTM": 3,
   "Dakar": 2,
@@ -172,7 +172,7 @@
    "series": "F1",
    "result": false,
    "summary": "All Kimi Antonelli needed to do at the Mexico City Grand Prix was finish ninth. Instead, the new world champion chose to clinch the title with a late-braking lunge on Charles Leclerc into Turn 1, and not everyone at…",
-   "image": "https://cdn-5.motorsport.com/images/amp/YP74lEG2/s6/motorsport-com-graphics-79-3.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/YP74lEG2/s6/motorsport-com-graphics-79-3.jpg"
   },
   {
    "title": "All the stories that got the Sao Paulo paddock talking",
@@ -232,7 +232,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Before speaking to the media in an official press conference on Friday, Carson Hocevar has taken to YouTube to address his fans directly, posting an 18-minute apology video. Hocevar was suspended by Spire Motorsports…",
-   "image": "https://cdn-9.motorsport.com/images/amp/2QedlZa2/s6/screenshot-2026-11-05-at-5-59-.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/2QedlZa2/s6/screenshot-2026-11-05-at-5-59-.jpg"
   },
   {
    "title": "Antonelli reveals 'incredible' messages after becoming champion",
@@ -272,7 +272,7 @@
    "series": "F1",
    "result": false,
    "summary": "Let’s not sugarcoat it: George Russell had an incredibly tough 2026 campaign. With a magnet-like attraction to bad luck, the Briton spent a massive chunk of the season watching his 20-year-old team-mate storm away with…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0o5AwpDY/s6/motorsport-com-graphics-78-2.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0o5AwpDY/s6/motorsport-com-graphics-78-2.jpg"
   },
   {
    "title": "EKN Debrief: Episode 174 – ROK Vegas 2026",
@@ -292,7 +292,7 @@
    "series": "F1",
    "result": false,
    "summary": "2026 Formula 1 champion Kimi Antonelli has opened up about his recent visit to Ayrton Senna's family home ahead of this weekend's Brazilian Grand Prix. The Mercedes driver went to Fazenda Dois Lagos, the Senna family…",
-   "image": "https://cdn-4.motorsport.com/images/amp/YvKBDzn6/s6/motorsport-com-graphics-61.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YvKBDzn6/s6/motorsport-com-graphics-61.jpg"
   },
   {
    "title": "What we learned from day one of F1's Brazilian Grand Prix",
@@ -342,7 +342,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Long-time NASCAR driver Timmy Hill will be back full-time in 2027, after shutting down his part-time NASCAR Truck Series team. Hill will drive the No. 2 Ford for Team Reaume, and will actually begin his tenure this…",
-   "image": "https://cdn-5.motorsport.com/images/amp/2GdK3RQY/s6/gettyimages-2302272679.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/2GdK3RQY/s6/gettyimages-2302272679.jpg"
   },
   {
    "title": "Kyle Larson sits alone on stage for NASCAR Championship Media Day",
@@ -352,7 +352,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "For much of the past decade, NASCAR Cup Series Championship Race Media Day meant taking the remaining contenders and placing them on a stage together. With the return of the Chase for the Championship, and a points…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0qgKrlEY/s6/kyle-larson-on-stage-alone-no-.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0qgKrlEY/s6/kyle-larson-on-stage-alone-no-.jpg"
   },
   {
    "title": "Colton Herta backs Mexico IndyCar race following Pato O’Ward promoter callout",
@@ -402,7 +402,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Homestead-Miami Speedway reclaims its spot as the NASCAR season finale for the first time since 2019, crowning the champion for the Cup, O'Reilly, and Craftsman Truck Series. In Cup, Kyle Larson just needs to stay out…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0RrXaLB0/s6/kyle-larson-hendrick-motorspor.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/6DGgbN7Y/s6/nascar-championship-weekend-si-2.jpg"
   },
   {
    "title": "Legacy Motor Club adds even more investors, including Indy 500 winner Danny Sullivan",
@@ -412,7 +412,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Legacy Motor Club, co-owned by seven-time NASCAR Cup Series champion Jimmie Johnson, has added even more investors to its ownership group. “I wanted to bring together people who know what it takes to build something…",
-   "image": "https://cdn-8.motorsport.com/images/amp/0Zq88dR6/s6/erik-jones-legacy-motor-club.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0Zq88dR6/s6/erik-jones-legacy-motor-club.jpg"
   },
   {
    "title": "Where injured MotoGP riders stand ahead of Qatar GP",
@@ -463,6 +463,16 @@
    "result": false,
    "summary": "Sebastien Ogier’s World Rally Championship programme for 2027 is yet to be finalised but Toyota expects the nine-time world champion to contest no more than three rallies. Ogier was absent from Toyota’s 2027 driver…",
    "image": "https://cdn-3.motorsport.com/images/amp/YE9EyoPY/s6/sebastien-ogier-toyota-gazoo-r.jpg"
+  },
+  {
+   "title": "Social Media: Williams show off 40-year-old Jacarepagua Brazilian GP trophy",
+   "url": "https://www.racefans.net/2026/11/05/social-media-williams-show-off-their-1986-brazilian-grand-prix-trophy/",
+   "source": "RaceFans",
+   "date": "2026-11-05T11:20:01.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Williams show off their 1986 Brazilian Grand Prix trophy",
+   "image": null
   },
   {
    "title": "Top five roles on Motorsport Jobs this week",
@@ -522,7 +532,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Ryan Preece will have a new car number next year, taking over Roush's historic No. 6 with the looming exit of Brad Keselowski. Preece joined RFK Racing ahead of the 2025 season, driving the No. 60 Ford. He has since…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6grQw1mY/s6/brad-keselowski-no-6-rfk-racin.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6grQw1mY/s6/brad-keselowski-no-6-rfk-racin.jpg"
   },
   {
    "title": "John Hunter Nemechek joins Haas NASCAR O'Reilly team for 2027",
@@ -532,7 +542,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "John Hunter Nemechek has revealed his plans for the 2027 NASCAR season, returning to the O'Reilly Auto Parts Series (NOAPS) in a new deal to drive the No. 41 Haas Factory Team Chevrolet. Pye-Barker Fire & Safety will…",
-   "image": "https://cdn-8.motorsport.com/images/amp/0JXRXGQY/s6/john-hunter-nemechek-legacy-mo.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0JXRXGQY/s6/john-hunter-nemechek-legacy-mo.jpg"
   },
   {
    "title": "Oliver Solberg relishing Toyota’s historic Celica WRC revival for 2027",
@@ -595,6 +605,26 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Dream-----Can---t-wait-to-marry-you-all-over-again-next-year-xMy-absolute-dream-dress-@paolo_sebasti-1.jpg"
   },
   {
+   "title": "On This Day: Penske makes final CART appearance as longest season ends",
+   "url": "https://www.racefans.net/2026/11/04/on-this-day-2001-champ-car-fontana/",
+   "source": "RaceFans",
+   "date": "2026-11-04T00:01:00.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Penske's CART exit marks turning point in IndyCar split",
+   "image": null
+  },
+  {
+   "title": "Spotlight: Cadillac’s majority owner reportedly planning to sell stake",
+   "url": "https://www.racefans.net/2026/11/03/spotlight-cadillacs-majority-owner-reportedly-planning-to-sell-stake/",
+   "source": "RaceFans",
+   "date": "2026-11-03T23:43:08.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Cadillac heading for ownership change - report",
+   "image": null
+  },
+  {
    "title": "NASCAR VP explains Carson Hocevar, Josh Berry penalties",
    "url": "https://www.motorsport.com/nascar-cup/news/nascar-vp-explains-carson-hocevar-josh-berry-penalties/10871398/",
    "source": "Motorsport.com",
@@ -602,7 +632,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "NASCAR Vice President of Competition Elton Sawyer took to SiriusXM Radio on Tuesday to explain the rationale behind a pair of penalties to Carson Hocevar and Josh Berry for brake checking over the weekend at…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6n7bw7g0/s6/122327f596f7def61b4f9b535d235d.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6n7bw7g0/s6/122327f596f7def61b4f9b535d235d.jpg"
   },
   {
    "title": "NASCAR making progress with short track show but drivers still want more",
@@ -612,7 +642,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Despite a great deal of progress over the past four years, the NextGen car remains a work in progress regarding how it races on short tracks and specifically one like Martinsville Speedway. With each Goodyear tire…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YBVjzL8Y/s6/general-view.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YBVjzL8Y/s6/general-view.jpg"
   },
   {
    "title": "Superkarts! USA SuperNationals 29",
@@ -632,7 +662,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Carson 'Hurricane' Hocevar has been the story of the 2026 season, making headlines almost every week. Some of those moments were positive, like his epic Talladega win and post-race celebration, or his fan outreach and…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0R7B4Eo2/s6/carson-hocevar-spire-motorspor.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0R7B4Eo2/s6/carson-hocevar-spire-motorspor.jpg"
   },
   {
    "title": "Lamborghini facing loss as Grasser Racing Team and star driver eye McLaren switch?",
@@ -652,7 +682,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Carson Hocevar will not take part in this weekend's NASCAR Cup Series finale at Homestead-Miami Speedway. Spire Motorsports -- not NASCAR -- have taken action against their own driver, suspending him for one race…",
-   "image": "https://cdn-6.motorsport.com/images/amp/68VwEwB2/s6/carson-hocevar-no-77-spire-mot.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/68VwEwB2/s6/carson-hocevar-no-77-spire-mot.jpg"
   },
   {
    "title": "Lin Hodenius, James Roe partner for Lone Star Racing’s full-time IMSA GTD campaign for 2027",
@@ -722,7 +752,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "UPDATE: Spire Motorsports have suspended Carson Hocevar, forcing him to sit out the season finale at Homestead-Miami Speedway. Read Also: NASCAR CupSpire Motorsports suspends Carson Hocevar, parking him for NASCAR…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2jEA8PE0/s6/carson-hocevar-spire-motorspor.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/2jEA8PE0/s6/carson-hocevar-spire-motorspor.jpg"
   },
   {
    "title": "Toyota explains call to run Celica and Yaris models in WRC 2027",
@@ -762,7 +792,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Dodge is coming back to the NASCAR Cup Series in 2027 with Kaulig Racing but there are caveats aplenty. The body has been approved, with an unveil scheduled for the Snowball Derby Super Late race in December, but the…",
-   "image": "https://cdn-9.motorsport.com/images/amp/YMXbldl2/s6/hwem91wxyaagzue.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/YMXbldl2/s6/hwem91wxyaagzue.jpg"
   },
   {
    "title": "Dodge announces return to NASCAR Cup Series in 2027",
@@ -772,7 +802,17 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Dodge is returning to the NASCAR Cup Series in 2027, becoming the fourth manufacturer on the grid alongside Chevrolet, Toyota, and Ford. This is a year earlier than most projections, and there will be a tight…",
-   "image": "https://cdn-4.motorsport.com/images/amp/01QNpWr0/s6/brad-keselowski-wins-2012-nasc.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/01QNpWr0/s6/brad-keselowski-wins-2012-nasc.jpg"
+  },
+  {
+   "title": "Social Media: Russell vows to rediscover his performance after “more bad days than good” in 2026",
+   "url": "https://www.racefans.net/2026/11/02/social-media-russell-vows-to-rediscover-his-performance-after-more-bad-days-than-good-in-2026/",
+   "source": "RaceFans",
+   "date": "2026-11-02T20:47:07.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Tough to deal with year of \"more bad days than good\" - Russell",
+   "image": null
   },
   {
    "title": "Honda Racing US echoes Porsche urgency over unified 2030 rules framework",
