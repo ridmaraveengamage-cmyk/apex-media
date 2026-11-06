@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:37:55.553Z",
+ "updated": "2026-11-06T23:35:36.341Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -166,6 +166,86 @@
  },
  "items": [
   {
+   "title": "Camara reflects on 'very special' F1 weekend debut",
+   "url": "https://www.formula1.com/en/latest/article/camara-reflects-on-very-special-first-f1-outing-as-he-gears-up-for-haas-debut-in-sao-paulo.7FQp0PWMq4lsDsDAoosi4t",
+   "source": "Formula1.com",
+   "date": "2026-11-06T23:35:36.341Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Rafael Camara got his first taste behind the wheel of a 2026 F1 car as he gears up for his debut Grand Prix with Haas.",
+   "image": null
+  },
+  {
+   "title": "Red Bull ‘looking into quite a few changes’ for Verstappen",
+   "url": "https://www.formula1.com/en/latest/article/schmitz-confirms-red-bull-looking-into-quite-a-few-changes-following-verstappens-sao-paulo-issues.mt1q9B8dzsQIDHkp5YFUs",
+   "source": "Formula1.com",
+   "date": "2026-11-06T23:35:36.341Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen endured problems with his downshifts and steering during the first day of action at Interlagos.",
+   "image": null
+  },
+  {
+   "title": "What the teams said – Friday in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-brazil-2026.4WPgQlfi6v476KUJTYZeFM",
+   "source": "Formula1.com",
+   "date": "2026-11-06T23:35:36.341Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The drivers and teams report back from Friday practice at the Autodromo Jose Carlos Pace ahead of the 2026 Sao Paulo Grand Prix in Brazil.",
+   "image": null
+  },
+  {
+   "title": "Komatsu on why fast-tracking Camara was a ‘tough decision’",
+   "url": "https://www.formula1.com/en/latest/article/komatsu-explains-why-fast-tracking-camara-into-haas-seat-was-a-tough-decision-after-hirakawa-performance.6N8NbSuekc1oGCylHgVZ2g",
+   "source": "Formula1.com",
+   "date": "2026-11-06T23:35:36.341Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Rafael Camara has been given an earlier-than-expected debut at the Sao Paulo Grand Prix – but Haas Team Principal Ayao Komatsu has conceded that the decision was not a straightforward one.",
+   "image": null
+  },
+  {
+   "title": "Antonelli tops the times from Norris in Sao Paulo FP2",
+   "url": "https://www.formula1.com/en/latest/article/fp2-antonelli-tops-the-times-from-norris-in-second-practice-at-sao-paulo-gp.27XFbTG9Lji18qmtHbCJUA",
+   "source": "Formula1.com",
+   "date": "2026-11-06T23:35:36.341Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes' Kimi Antonelli returned to P1 during FP2 at Interlagos, leading Lando Norris and Max Verstappen.",
+   "image": null
+  },
+  {
+   "title": "Winners & losers from F1 2026 Brazilian GP Friday practice",
+   "url": "https://www.the-race.com/formula-1/winners-losers-from-f1-2026-brazilian-gp-friday-practice/",
+   "source": "The Race",
+   "date": "2026-11-06T23:25:22.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Our picks for the winners and losers of Friday practice for F1's 2026 Brazilian Grand Prix",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452065_HiRes.jpg"
+  },
+  {
+   "title": "Lando Norris reveals how Lewis Hamilton has changed his F1 championship ambitions",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/",
+   "source": "Motorsport.com",
+   "date": "2026-11-06T23:15:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lando Norris says Lewis Hamilton's seven Formula 1 world titles have left him dissatisfied with winning just one. Norris won his maiden championship in 2025 after a hard-fought battle against his McLaren team-mate Oscar…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YWKAlQKY/s6/motorsport-com-graphics-68.jpg"
+  },
+  {
+   "title": "F1 debutant Rafael Camara penalised for ‘dangerous’ Charles Leclerc incident",
+   "url": "https://www.crash.net/f1/news/1109553/1/f1-debutant-rafael-camara-penalised-dangerous-charles-leclerc-incident",
+   "source": "Crash.net",
+   "date": "2026-11-06T22:46:28.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Rafael Camara caused a \"clearly dangerous\" incident with Charles Leclerc on his F1 debut in Brazil.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/2303869558-926.jpg?width=1200"
+  },
+  {
    "title": "Ferrari have 'plenty to work on' in Brazil – Leclerc",
    "url": "https://www.formula1.com/en/latest/article/leclerc-concedes-theres-plenty-to-work-on-for-ferrari-ahead-of-sao-paulo-gp.2cWYwXJTouoM7r1LMyyhKr",
    "source": "Formula1.com",
@@ -196,16 +276,6 @@
    "image": null
   },
   {
-   "title": "Norris leads Antonelli and Verstappen in Sao Paulo FP1",
-   "url": "https://www.formula1.com/en/latest/article/fp1-norris-leads-antonelli-and-verstappen-in-opening-sao-paulo-gp-practice-session.3GXL3rAROwHsLxnxn9hReY",
-   "source": "Formula1.com",
-   "date": "2026-11-06T22:37:55.553Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris finished fastest in Free Practice 1 ahead of the Sao Paulo Grand Prix, the McLaren driver beating Kimi Antonelli and Max Verstappen to top spot.",
-   "image": null
-  },
-  {
    "title": "Why Max Verstappen ended F1 practice early in Brazil – Red Bull explains",
    "url": "https://www.motorsport.com/f1/news/why-max-verstappen-ended-f1-practice-early-in-brazil-red-bull-explains/10872364/",
    "source": "Motorsport.com",
@@ -213,10 +283,10 @@
    "series": "F1",
    "result": false,
    "summary": "Max Verstappen finished Friday's Formula 1 practice sessions in Sao Paulo in third place. The Dutchman occupied that position in both sessions, in fact, and was also around two and a half tenths off the fastest driver…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6O7zlJN6/s6/max-verstappen-red-bull-racing.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6O7zlJN6/s6/max-verstappen-red-bull-racing.jpg"
   },
   {
-   "title": "F1 debutant Camara punished for 'dangerous' Leclerc impeding",
+   "title": "‘Dangerous’ but also ‘brilliant’ - Rafael Camara’s F1 debut",
    "url": "https://www.the-race.com/formula-1/f1-debutant-camara-punished-for-dangerous-leclerc-impeding/",
    "source": "The Race",
    "date": "2026-11-06T22:24:10.000Z",
@@ -246,16 +316,6 @@
    "image": "https://cdn-6.motorsport.com/images/amp/6AlvXkvY/s6/motorsport-com-graphics-67.jpg"
   },
   {
-   "title": "F1 Brazil GP: Saturday schedule, weather forecast and how to watch",
-   "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-saturday-schedule-weather-forecast-and-how-to-watch/10872353/",
-   "source": "Motorsport.com",
-   "date": "2026-11-06T22:05:41.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 heads into Saturday at Interlagos with Kimi Antonelli fastest after second practice for the Brazil Grand Prix. The newly crowned world champion set a 1m10.763s to lead Lando Norris by 0.253s, with Max…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0Zq8lnd6/s6/andrea-kimi-antonelli-mercedes.jpg"
-  },
-  {
    "title": "Featured Comment: Keeping Lawson is the smart choice for Racing Bulls",
    "url": "https://www.racefans.net/2026/11/06/featured-comment-keeping-lawson-is-the-smart-choice-for-racing-bulls/",
    "source": "RaceFans",
@@ -266,26 +326,6 @@
    "image": null
   },
   {
-   "title": "McLaren’s upgrade is \"a pleasant surprise\" – but will it stay on the car in Brazil?",
-   "url": "https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/",
-   "source": "Motorsport.com",
-   "date": "2026-11-06T21:49:40.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "After one of the most turbulent world championship defences since Jenson Button in 2010, Lando Norris gave McLaren’s latest batch of car upgrades a cautious thumbs-up on the Friday of the Sao Paulo GP. Norris topped the…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YvKBDW16/s6/lando-norris-mclaren.jpg"
-  },
-  {
-   "title": "First impressions of McLaren’s big Brazil GP upgrade",
-   "url": "https://www.crash.net/f1/news/1109551/1/first-impressions-mclarens-big-brazil-gp-upgrades",
-   "source": "Crash.net",
-   "date": "2026-11-06T21:45:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "McLaren has given their first impressions of its major upgrade package for the Brazil GP",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1452058_hires.jpg?width=1200"
-  },
-  {
    "title": "Justin Allgaier retired and unretired without telling anyone",
    "url": "https://www.motorsport.com/nascar-os/news/justin-allgaier-retired-and-unretired-without-telling-anyone-/10872343/",
    "source": "Motorsport.com",
@@ -293,47 +333,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Justin Allgaier retired earlier this season but no one realized it with the 2024 NASCAR O’Reilly Series champion and veteran racer changing his mind before it could be made official. Instead, the JR Motorsports No. 7…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YN7vlp46/s6/justin-allgaier-no-7-jr-motors.jpg"
-  },
-  {
-   "title": "‘Ferrari comes first’ – Vasseur confirms Hamilton/Leclerc talks",
-   "url": "https://www.formula1.com/en/latest/article/im-not-asking-them-to-be-best-friends-vasseur-confirms-hamilton-and-leclerc-talks-after-mexico-battle.4ijCE2voRopz229owYCphO",
-   "source": "Formula1.com",
-   "date": "2026-11-06T21:37:55.257Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ferrari boss Fred Vasseur reveals details of talks with Lewis Hamilton and Charles Leclerc after their Mexico GP battle, as Toto Wolff weighs in.",
-   "image": null
-  },
-  {
-   "title": "AS IT HAPPENED: Second practice in Sao Paulo",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-brazil-2026.55F7KTtVUfyntiKo9q9nhn",
-   "source": "Formula1.com",
-   "date": "2026-11-06T21:37:55.257Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live coverage of the second Formula 1 practice session ahead of the 2026 Sao Paulo Grand Prix in Brazil.",
-   "image": null
-  },
-  {
-   "title": "Camara looking to learn from Bearman on surprise F1 debut",
-   "url": "https://www.formula1.com/en/latest/article/camara-looking-to-learn-from-bearman-on-surprise-f1-debut-in-brazil.5d47nAelIarNkqGhVsTedK",
-   "source": "Formula1.com",
-   "date": "2026-11-06T21:37:55.257Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Rafael Camara will be watching his fellow Ferrari Driver Academy colleague Ollie Bearman closely as the two team up at Haas for the first time this weekend.",
-   "image": null
-  },
-  {
-   "title": "AS IT HAPPENED: First practice for the Sao Paulo GP",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-brazil-2026.CYzUtCJCISC6hBcDRrctB",
-   "source": "Formula1.com",
-   "date": "2026-11-06T21:37:55.257Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live coverage of the first Formula 1 practice session for the 2026 Sao Paulo Grand Prix in Brazil.",
-   "image": null
+   "image": "https://cdn-4.motorsport.com/images/amp/YN7vlp46/s6/justin-allgaier-no-7-jr-motors.jpg"
   },
   {
    "title": "This was a different kind of Carson Hocevar press conference",
@@ -343,7 +343,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "For whatever reasons why, this was a different Carson Hocevar that conducted a press conference on Friday at Homestead-Miami, a day after posting an apology video for his actions the week before at Martinsville. Having…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0qgKrVOY/s6/carson-hocevar-at-press-confer.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0qgKrVOY/s6/carson-hocevar-at-press-confer.jpg"
   },
   {
    "title": "Wolff backs MotoGP's handling of calendar dissent",
@@ -363,7 +363,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Since the unpopular demolition of Auto Club Speedway, fans have been waiting for the planned short track that set to replace it in Southern California to come to fruition. However, it's yet to happen. The track hosted…",
-   "image": "https://cdn-6.motorsport.com/images/amp/YN7vlnP6/s6/gettyimages-2257826976.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/YN7vlnP6/s6/gettyimages-2257826976.jpg"
   },
   {
    "title": "Pecco Bagnaia 'feels like a factory rider again' as he finds form in Qatar",
@@ -373,7 +373,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "After the better part of two seasons in the doldrums, Francesco Bagnaia says he finally feels like a factory rider again. This follows a strong Friday at the Qatar Grand Prix. The works Ducati man looked competitive all…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0mXywa46/s6/francesco-bagnaia-ducati-team.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0mXywa46/s6/francesco-bagnaia-ducati-team.jpg"
   },
   {
    "title": "NASCAR CEO likes what Carson Hocevar “brings to the fan base,” but says on-track work remains",
@@ -383,7 +383,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "NASCAR wants to see Carson Hocevar succeed. He has emerged as a prominent new personality with a growing fan base that goes beyond traditional NASCAR fans. He went viral for his wild Talladega post-race celebration…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YP74lJj2/s6/carson-hocevar-with-the-fans-n-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YP74lJj2/s6/carson-hocevar-with-the-fans-n-2.jpg"
   },
   {
    "title": "Preseason Thunder will not return to Daytona in 2027",
@@ -393,7 +393,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Fans have been calling for the return of Preseason Thunder at Daytona International Speedway, which served as a pre-season test and the first glimpse of new driver/team combinations. In April, NASCAR's John Probst…",
-   "image": "https://cdn-5.motorsport.com/images/amp/2eZxZvjY/s6/ryan-preece-rfk-racing-shane-v.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/2eZxZvjY/s6/ryan-preece-rfk-racing-shane-v.jpg"
   },
   {
    "title": "NASCAR exploring cost cap after talks with Formula 1",
@@ -403,7 +403,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "During the annual State of the Sport address at Homestead-Miami Speedway on Friday, NASCAR CEO Steve O'Donnell touched on a variety of topics. Among them was the concept of a cost cap in NASCAR. Formula 1 introduced a…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0o5PD97Y/s6/joe-gibbs-rick-hendrick.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0o5PD97Y/s6/joe-gibbs-rick-hendrick.jpg"
   },
   {
    "title": "Jorge Martin targets first two rows at Qatar GP: 'I can manage the race with painkillers'",
@@ -413,7 +413,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin says he can be competitive at this weekend's Qatar Grand Prix despite riding with a broken wrist after his accident in Australia two weeks ago. Unlike his unsuccessful attempt to race at Sepang last…",
-   "image": "https://cdn-4.motorsport.com/images/amp/YvKBD1v6/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YvKBD1v6/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Why Hypercar drivers are going “blind” into Monza WEC qualifying",
@@ -423,7 +423,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Hypercar drivers feel they are going “blind” into qualifying at the Monza 6 Hours, with heavy rain preventing any representative dry-weather running on Friday. The final round of the 2026 World Endurance Championship…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0mXywZX6/s6/35-alpine-endurance-team-alpin.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0mXywZX6/s6/35-alpine-endurance-team-alpin.jpg"
   },
   {
    "title": "Steve O'Donnell touts growth, acknowledges challenges in State of NASCAR presser",
@@ -433,7 +433,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "A simple glance at the podium for the annual ‘State of NASCAR’ press conference reflects just how much has changed over the past calendar year. The season finale is now at Homestead-Miami Speedway instead of Phoenix…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YK15lW10/s6/nascar-chief-executive-officer.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/YK15lW10/s6/nascar-chief-executive-officer.jpg"
   },
   {
    "title": "Pedro Acosta on shock Friday failure in Qatar: 'It can't get worse than this'",
@@ -463,7 +463,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "In 2027, qualifying rainouts will be handled different by the Sanctioning Body. The metric, which decides the qualifying order, also decided the starting lineup in the event of a qualifying cancellation. However, many…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0mXyZJk6/s6/nascar-cup-field-on-pit-road.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0mXyZJk6/s6/nascar-cup-field-on-pit-road.jpg"
   },
   {
    "title": "MotoGP Qatar GP: Di Giannantonio tops practice; Martin and Marquez make the top 10 cut",
@@ -513,7 +513,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Ferrari believes abolishing the Balance of Performance should be the “final goal” for the World Endurance Championship’s rulemakers as they work towards finalising the framework for the 2030 Hypercar regulations…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6n7bokg0/s6/50-ferrari-af-corse-ferrari-49.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/6n7bokg0/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "Why Ferrari wants BoP 'deleted' for WEC's next regulation cycle",
@@ -603,7 +603,7 @@
    "series": "BTCC",
    "result": false,
    "summary": "Double British Touring Car Championship title winner Tom Ingram will remain at Excelr8 Motorsport until at least the end of the decade. While the 33-year-old’s continuation at the Hyundai squad for next season was…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0kZAe4j6/s6/tom-ingram-team-vertu.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0kZAe4j6/s6/tom-ingram-team-vertu.jpg"
   },
   {
    "title": "Carson Hocevar posts 18-minute apology video: \"I'm the bad guy\"",
@@ -613,7 +613,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Before speaking to the media in an official press conference on Friday, Carson Hocevar has taken to YouTube to address his fans directly, posting an 18-minute apology video. Hocevar was suspended by Spire Motorsports…",
-   "image": "https://cdn-8.motorsport.com/images/amp/2QedlZa2/s6/screenshot-2026-11-05-at-5-59-.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/2QedlZa2/s6/screenshot-2026-11-05-at-5-59-.jpg"
   },
   {
    "title": "EKN Debrief: Episode 174 – ROK Vegas 2026",
@@ -633,7 +633,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "For much of the past decade, NASCAR Cup Series Championship Race Media Day meant taking the remaining contenders and placing them on a stage together. With the return of the Chase for the Championship, and a points…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0qgKrlEY/s6/kyle-larson-on-stage-alone-no-.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0qgKrlEY/s6/kyle-larson-on-stage-alone-no-.jpg"
   },
   {
    "title": "Colton Herta backs Mexico IndyCar race following Pato O’Ward promoter callout",
@@ -663,7 +663,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP world championship leader Marc Marquez has admitted he would rather be somewhere other than Doha on the eve of the Qatar Grand Prix. While the riders now appear fully resigned to racing in the unpopular event…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0rVPj4d0/s6/marc-marquez-ducati-team-2.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/0rVPj4d0/s6/marc-marquez-ducati-team-2.jpg"
   },
   {
    "title": "How to watch NASCAR season finale at Homestead: Schedule, start time, entry list, TV",
@@ -673,7 +673,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Homestead-Miami Speedway reclaims its spot as the NASCAR season finale for the first time since 2019, crowning the champion for the Cup, O'Reilly, and Craftsman Truck Series. In Cup, Kyle Larson just needs to stay out…",
-   "image": "https://cdn-8.motorsport.com/images/amp/6DGgbN7Y/s6/nascar-championship-weekend-si-2.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/6DGgbN7Y/s6/nascar-championship-weekend-si-2.jpg"
   },
   {
    "title": "Legacy Motor Club adds even more investors, including Indy 500 winner Danny Sullivan",
@@ -683,7 +683,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Legacy Motor Club, co-owned by seven-time NASCAR Cup Series champion Jimmie Johnson, has added even more investors to its ownership group. “I wanted to bring together people who know what it takes to build something…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Zq88dR6/s6/erik-jones-legacy-motor-club.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0Zq88dR6/s6/erik-jones-legacy-motor-club.jpg"
   },
   {
    "title": "MotoGP riders open up on controversial Qatar GP: 'I was a bit worried'",
@@ -703,7 +703,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin has been declared fit to take part in first practice at the Qatar Grand Prix on Friday, giving the Aprilia rider a chance of prolonging his MotoGP world championship hopes. Martin broke his wrist at last…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlKjdKY/s6/jorge-martin-aprilia-racing-te-2.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/2wlKjdKY/s6/jorge-martin-aprilia-racing-te-2.jpg"
   },
   {
    "title": "Acosta signs Monster as personal sponsor",
@@ -783,7 +783,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Ryan Preece will have a new car number next year, taking over Roush's historic No. 6 with the looming exit of Brad Keselowski. Preece joined RFK Racing ahead of the 2025 season, driving the No. 60 Ford. He has since…",
-   "image": "https://cdn-9.motorsport.com/images/amp/6grQw1mY/s6/brad-keselowski-no-6-rfk-racin.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/6grQw1mY/s6/brad-keselowski-no-6-rfk-racin.jpg"
   },
   {
    "title": "John Hunter Nemechek joins Haas NASCAR O'Reilly team for 2027",
@@ -793,7 +793,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "John Hunter Nemechek has revealed his plans for the 2027 NASCAR season, returning to the O'Reilly Auto Parts Series (NOAPS) in a new deal to drive the No. 41 Haas Factory Team Chevrolet. Pye-Barker Fire & Safety will…",
-   "image": "https://cdn-8.motorsport.com/images/amp/0JXRXGQY/s6/john-hunter-nemechek-legacy-mo.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0JXRXGQY/s6/john-hunter-nemechek-legacy-mo.jpg"
   },
   {
    "title": "Oliver Solberg relishing Toyota’s historic Celica WRC revival for 2027",
@@ -823,7 +823,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "NASCAR Vice President of Competition Elton Sawyer took to SiriusXM Radio on Tuesday to explain the rationale behind a pair of penalties to Carson Hocevar and Josh Berry for brake checking over the weekend at…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6n7bw7g0/s6/122327f596f7def61b4f9b535d235d.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/6n7bw7g0/s6/122327f596f7def61b4f9b535d235d.jpg"
   },
   {
    "title": "Superkarts! USA SuperNationals 29",
