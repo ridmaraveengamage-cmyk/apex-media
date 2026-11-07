@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T05:20:46.934Z",
+ "updated": "2026-11-07T06:19:34.067Z",
  "status": {
   "F1": "ok",
   "MotoGP": "ok",
@@ -1579,98 +1579,7 @@
     "name": "Xfinity 500",
     "place": "Martinsville Speedway",
     "date": "2026-11-01",
-    "results": [
-     {
-      "pos": 1,
-      "name": "William Byron",
-      "team": "#24 Hendrick Motorsports",
-      "color": "#d6a400",
-      "time": "500 laps",
-      "points": 76,
-      "fastest": false
-     },
-     {
-      "pos": 2,
-      "name": "Chase Elliott",
-      "team": "#9 Hendrick Motorsports",
-      "color": "#d6a400",
-      "time": "Running",
-      "points": 45,
-      "fastest": false
-     },
-     {
-      "pos": 3,
-      "name": "Ty Gibbs",
-      "team": "#54 Joe Gibbs Racing",
-      "color": "#eb0a1e",
-      "time": "Running",
-      "points": 51,
-      "fastest": false
-     },
-     {
-      "pos": 4,
-      "name": "Josh Berry",
-      "team": "#21 Wood Brothers Racing",
-      "color": "#1f4fa0",
-      "time": "Running",
-      "points": 43,
-      "fastest": false
-     },
-     {
-      "pos": 5,
-      "name": "Shane Van Gisbergen",
-      "team": "#97 Trackhouse Racing",
-      "color": "#d6a400",
-      "time": "Running",
-      "points": 32,
-      "fastest": false
-     },
-     {
-      "pos": 6,
-      "name": "Denny Hamlin",
-      "team": "#11 Joe Gibbs Racing",
-      "color": "#eb0a1e",
-      "time": "Running",
-      "points": 31,
-      "fastest": false
-     },
-     {
-      "pos": 7,
-      "name": "Austin Dillon",
-      "team": "#3 Richard Childress Racing",
-      "color": "#d6a400",
-      "time": "Running",
-      "points": 30,
-      "fastest": false
-     },
-     {
-      "pos": 8,
-      "name": "Bubba Wallace",
-      "team": "#23 23XI Racing",
-      "color": "#eb0a1e",
-      "time": "+1 lap",
-      "points": 34,
-      "fastest": false
-     },
-     {
-      "pos": 9,
-      "name": "Kyle Larson",
-      "team": "#5 Hendrick Motorsports",
-      "color": "#d6a400",
-      "time": "+1 lap",
-      "points": 28,
-      "fastest": false
-     },
-     {
-      "pos": 10,
-      "name": "Christopher Bell",
-      "team": "#20 Joe Gibbs Racing",
-      "color": "#eb0a1e",
-      "time": "+1 lap",
-      "points": 35,
-      "fastest": false
-     }
-    ]
+    "results": []
    },
    "standings": {
     "drivers": [
