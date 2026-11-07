@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:21:57.243Z",
+ "updated": "2026-11-07T03:19:42.245Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,12 +147,12 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
   "NASCAR": 15,
+  "Karting": 6,
+  "F1": 15,
   "Motorsport": 2,
   "MotoGP": 15,
   "WEC": 15,
-  "Karting": 7,
   "IMSA": 10,
   "DTM": 4,
   "F2 / F3": 1,
@@ -165,6 +165,26 @@
   "WorldSBK": 1
  },
  "items": [
+  {
+   "title": "Kaden Honeycutt \"put my nuts on the dash\" to win Homestead and 2026 NASCAR Truck championship",
+   "url": "https://www.motorsport.com/nascar-truck/news/kaden-honeycutt-put-my-nuts-on-the-dash-to-win-homestead-and-2026-nascar-truck-championship/10872384/",
+   "source": "Motorsport.com",
+   "date": "2026-11-07T03:05:49.000Z",
+   "series": "NASCAR",
+   "result": false,
+   "summary": "Kaden Honeycutt is the 2026 NASCAR Craftsman Truck Series champion, winning the Homestead finale in the No. 11 TRICON Garage Toyota. After a five-win season, After a five-win season, he ended his title campaign with a…",
+   "image": "https://cdn-5.motorsport.com/images/amp/2wlKynBY/s6/kaden-honeycutt-wins-champions.jpg"
+  },
+  {
+   "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – KA100 Senior",
+   "url": "https://www.ekartingnews.com/2026/11/06/ekn-exclusive-superkarts-usa-supernationals-29-preview-series-ka100-senior/",
+   "source": "eKartingNews",
+   "date": "2026-11-07T02:22:43.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "eKartingNews.com is proud to present our Preview Series for the Superkarts! USA SuperNationals 29. Leading up to the on-track action of the 2026 edition of the marquee SKUSA event, EKN will preview each of the 11…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
+  },
   {
    "title": "Herta finally clears his last F1 superlicence hurdle",
    "url": "https://www.the-race.com/formula-1/herta-finally-clears-his-last-f1-superlicence-hurdle/",
@@ -203,7 +223,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "The one and only NASCAR Cup Series practice of championship weekend at Homestead-Miami Speedway has concluded on Friday night, with Chase Briscoe sitting atop the speed charts with a 32.680s (165.238mph) lap. He beat…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0LdelQV0/s6/kyle-larson-in-the-garage-no-5.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0LdelQV0/s6/kyle-larson-in-the-garage-no-5.jpg"
   },
   {
    "title": "Hamlin and Bell left with what could have been in NASCAR Chase",
@@ -213,7 +233,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Statistically, Kyle Larson has a 99.4 percent chance of winning the NASCAR Cup Series championship on Sunday at Homestead-Miami Speedway, leaving Christopher Bell and Denny Hamlin at a combined .6 percent. In short…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0o5Aw9PY/s6/christopher-bell-and-denny-ham.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0o5Aw9PY/s6/christopher-bell-and-denny-ham.jpg"
   },
   {
    "title": "Camara reflects on 'very special' F1 weekend debut",
@@ -283,7 +303,7 @@
    "series": "F1",
    "result": false,
    "summary": "Lando Norris says Lewis Hamilton's seven Formula 1 world titles have left him dissatisfied with winning just one. Norris won his maiden championship in 2025 after a hard-fought battle against his McLaren team-mate Oscar…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YWKAlQKY/s6/motorsport-com-graphics-68.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/YWKAlQKY/s6/motorsport-com-graphics-68.jpg"
   },
   {
    "title": "F1 debutant Rafael Camara penalised for ‘dangerous’ Charles Leclerc incident",
@@ -333,7 +353,7 @@
    "series": "F1",
    "result": false,
    "summary": "Max Verstappen finished Friday's Formula 1 practice sessions in Sao Paulo in third place. The Dutchman occupied that position in both sessions, in fact, and was also around two and a half tenths off the fastest driver…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6O7zlJN6/s6/max-verstappen-red-bull-racing.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/6O7zlJN6/s6/max-verstappen-red-bull-racing.jpg"
   },
   {
    "title": "Featured Comment: Keeping Lawson is the smart choice for Racing Bulls",
@@ -363,7 +383,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "For whatever reasons why, this was a different Carson Hocevar that conducted a press conference on Friday at Homestead-Miami, a day after posting an apology video for his actions the week before at Martinsville. Having…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0qgKrVOY/s6/carson-hocevar-at-press-confer.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0qgKrVOY/s6/carson-hocevar-at-press-confer.jpg"
   },
   {
    "title": "Wolff backs MotoGP's handling of calendar dissent",
@@ -383,7 +403,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Since the unpopular demolition of Auto Club Speedway, fans have been waiting for the planned short track that set to replace it in Southern California to come to fruition. However, it's yet to happen. The track hosted…",
-   "image": "https://cdn-3.motorsport.com/images/amp/YN7vlnP6/s6/gettyimages-2257826976.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YN7vlnP6/s6/gettyimages-2257826976.jpg"
   },
   {
    "title": "Pecco Bagnaia 'feels like a factory rider again' as he finds form in Qatar",
@@ -393,7 +413,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "After the better part of two seasons in the doldrums, Francesco Bagnaia says he finally feels like a factory rider again. This follows a strong Friday at the Qatar Grand Prix. The works Ducati man looked competitive all…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0mXywa46/s6/francesco-bagnaia-ducati-team.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0mXywa46/s6/francesco-bagnaia-ducati-team.jpg"
   },
   {
    "title": "NASCAR CEO likes what Carson Hocevar “brings to the fan base,” but notes \"challenges\"",
@@ -403,7 +423,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "NASCAR wants to see Carson Hocevar succeed. He has emerged as a prominent new personality with a growing fan base that goes beyond traditional NASCAR fans. He went viral for his wild Talladega post-race celebration…",
-   "image": "https://cdn-4.motorsport.com/images/amp/YP74lJj2/s6/carson-hocevar-with-the-fans-n-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YP74lJj2/s6/carson-hocevar-with-the-fans-n-2.jpg"
   },
   {
    "title": "Preseason Thunder will not return to Daytona in 2027",
@@ -413,7 +433,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Fans have been calling for the return of Preseason Thunder at Daytona International Speedway, which served as a pre-season test and the first glimpse of new driver/team combinations. In April, NASCAR's John Probst…",
-   "image": "https://cdn-4.motorsport.com/images/amp/2eZxZvjY/s6/ryan-preece-rfk-racing-shane-v.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/2eZxZvjY/s6/ryan-preece-rfk-racing-shane-v.jpg"
   },
   {
    "title": "NASCAR considering F1-style cost cap to boost team values",
@@ -443,7 +463,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Hypercar drivers feel they are going “blind” into qualifying at the Monza 6 Hours, with heavy rain preventing any representative dry-weather running on Friday. The final round of the 2026 World Endurance Championship…",
-   "image": "https://cdn-8.motorsport.com/images/amp/0mXywZX6/s6/35-alpine-endurance-team-alpin.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0mXywZX6/s6/35-alpine-endurance-team-alpin.jpg"
   },
   {
    "title": "Steve O'Donnell touts growth, acknowledges challenges in State of NASCAR presser",
@@ -466,16 +486,6 @@
    "image": "https://cdn-5.motorsport.com/images/amp/0Zq8lkN6/s6/pedro-acosta-red-bull-ktm-fact.jpg"
   },
   {
-   "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – X30 Junior",
-   "url": "https://www.ekartingnews.com/2026/11/06/ekn-exclusive-superkarts-usa-supernationals-29-preview-series-x30-junior/",
-   "source": "eKartingNews",
-   "date": "2026-11-06T18:00:29.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "eKartingNews.com is proud to present our Preview Series for the Superkarts! USA SuperNationals 29. Leading up to the on-track action of the 2026 edition of the marquee SKUSA event, EKN will preview each of the 11…",
-   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
-  },
-  {
    "title": "NASCAR confirms new qualifying rainout policy, mulls other 2027 changes",
    "url": "https://www.motorsport.com/nascar-cup/news/nascar-confirms-change-qualifying-rainout-policy-mulls-other-changes/10872218/",
    "source": "Motorsport.com",
@@ -493,7 +503,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Fabio Di Giannantonio hit form on one of his favourite tracks at Lusail on Friday, breaking the lap record to top evening practice at the MotoGP Qatar Grand Prix. The VR46 Ducati rider was fast from the moment he bolted…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0rVP8jW0/s6/fabio-di-giannantonio-vr46-rac-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0rVP8jW0/s6/fabio-di-giannantonio-vr46-rac-2.jpg"
   },
   {
    "title": "Surprise Ducati pacesetter on Qatar MotoGP Friday",
@@ -533,7 +543,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Ferrari believes abolishing the Balance of Performance should be the “final goal” for the World Endurance Championship’s rulemakers as they work towards finalising the framework for the 2030 Hypercar regulations…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6n7bokg0/s6/50-ferrari-af-corse-ferrari-49.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6n7bokg0/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "Why Ferrari wants BoP 'deleted' for WEC's next regulation cycle",
@@ -543,7 +553,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Ferrari believes abolishing the contentious Balance of Performance should be the “final goal” for the World Endurance Championship’s rulemakers as they work towards finalising the framework for the 2030 Hypercar…",
-   "image": "https://cdn-2.motorsport.com/images/amp/6n7bokg0/s6/50-ferrari-af-corse-ferrari-49.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6n7bokg0/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "\"FIA rating pushes drivers like me into retirement\" - Sebastien Bourdais",
@@ -553,7 +563,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Set to part ways with Cadillac following this weekend's World Endurance Championship finale in Monza, Sebastien Bourdais expressed clear frustration regarding the current FIA driver categorisation rules, which he feels…",
-   "image": "https://cdn-4.motorsport.com/images/amp/YP7rLvA2/s6/38-cadillac-hertz-team-jota-ca.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YP7rLvA2/s6/38-cadillac-hertz-team-jota-ca.jpg"
   },
   {
    "title": "Spotlight: Who won F1 and F2 in the same year? Colapinto knows his history",
@@ -593,7 +603,7 @@
    "series": "WEC",
    "result": false,
    "summary": "The 2026 World Endurance Championship has been the first challenging season Ferrari has faced since the beginning of its Hypercar programme. After winning the Le Mans 24 Hours on three consecutive occasions between…",
-   "image": "https://cdn-6.motorsport.com/images/amp/68Vwdp82/s6/50-ferrari-af-corse-ferrari-49.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/68Vwdp82/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "Marc Marquez jokes Alex would be a 'bad brother' if he risked title fight",
@@ -623,7 +633,7 @@
    "series": "BTCC",
    "result": false,
    "summary": "Double British Touring Car Championship title winner Tom Ingram will remain at Excelr8 Motorsport until at least the end of the decade. While the 33-year-old’s continuation at the Hyundai squad for next season was…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0kZAe4j6/s6/tom-ingram-team-vertu.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/0kZAe4j6/s6/tom-ingram-team-vertu.jpg"
   },
   {
    "title": "Carson Hocevar posts 18-minute apology video: \"I'm the bad guy\"",
@@ -673,7 +683,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Signatech hasn’t given up hope of contesting the 2027 World Endurance Championship with a rebadged version of the Alpine A424, despite negotiations with Geely collapsing at the 11th hour. Team principal Philippe Sinault…",
-   "image": "https://cdn-9.motorsport.com/images/amp/2jEAoeE0/s6/35-alpine-endurance-team-alpin.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/2jEAoeE0/s6/35-alpine-endurance-team-alpin.jpg"
   },
   {
    "title": "Marquez on Qatar GP: 'I would rather be somewhere else'",
@@ -683,7 +693,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP world championship leader Marc Marquez has admitted he would rather be somewhere other than Doha on the eve of the Qatar Grand Prix. While the riders now appear fully resigned to racing in the unpopular event…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0rVPj4d0/s6/marc-marquez-ducati-team-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0rVPj4d0/s6/marc-marquez-ducati-team-2.jpg"
   },
   {
    "title": "How to watch NASCAR season finale at Homestead: Schedule, start time, entry list, TV",
@@ -723,7 +733,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin has been declared fit to take part in first practice at the Qatar Grand Prix on Friday, giving the Aprilia rider a chance of prolonging his MotoGP world championship hopes. Martin broke his wrist at last…",
-   "image": "https://cdn-8.motorsport.com/images/amp/2wlKjdKY/s6/jorge-martin-aprilia-racing-te-2.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/2wlKjdKY/s6/jorge-martin-aprilia-racing-te-2.jpg"
   },
   {
    "title": "Acosta signs Monster as personal sponsor",
@@ -763,7 +773,7 @@
    "series": "WEC",
    "result": false,
    "summary": "The #8 Toyota TR010 crew of Sebastien Buemi, Brendon Hartley and Ryo Hirakawa hold a sizeable advantage over the #7 line-up of Mike Conway, Nyck de Vries and Kamui Kobayashi, as the 2026 World Endurance Championship…",
-   "image": "https://cdn-9.motorsport.com/images/amp/6zoDLR70/s6/8-toyota-gazoo-racing-toyota-t.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6zoDLR70/s6/8-toyota-gazoo-racing-toyota-t.jpg"
   },
   {
    "title": "Honda names Jake Dixon as Joan Mir's substitute for Qatar GP",
@@ -796,16 +806,6 @@
    "image": "https://cdn-9.motorsport.com/images/amp/YvKBDG76/s6/hanley-announcement-5.jpg"
   },
   {
-   "title": "Ryan Preece will switch to No. 6 for 2027 NASCAR Cup season",
-   "url": "https://www.motorsport.com/nascar-cup/news/ryan-preece-will-switch-to-no-6-rfk-racing-entry-for-2027-nascar-cup-season/10871544/",
-   "source": "Motorsport.com",
-   "date": "2026-11-04T16:39:07.000Z",
-   "series": "NASCAR",
-   "result": false,
-   "summary": "Ryan Preece will have a new car number next year, taking over Roush's historic No. 6 with the looming exit of Brad Keselowski. Preece joined RFK Racing ahead of the 2025 season, driving the No. 60 Ford. He has since…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6grQw1mY/s6/brad-keselowski-no-6-rfk-racin.jpg"
-  },
-  {
    "title": "Oliver Solberg relishing Toyota’s historic Celica WRC revival for 2027",
    "url": "https://www.motorsport.com/wrc/news/oliver-solberg-relishing-toyotas-historic-celica-wrc-revival-for-2027/10871512/",
    "source": "Motorsport.com",
@@ -823,7 +823,7 @@
    "series": "WEC",
    "result": false,
    "summary": "McLaren Racing has promoted Gregoire Saucy to a full-time race seat in its MCL-HY Hypercar for the team’s debut in the World Endurance Championship in 2027. The young Swiss driver, who began his sportscar career driving…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0kZXv7j6/s6/gregoire-saucy-mclaren-racing.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0kZXv7j6/s6/gregoire-saucy-mclaren-racing.jpg"
   },
   {
    "title": "Superkarts! USA SuperNationals 29",
@@ -913,7 +913,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Honda Racing Corporation USA (HRS US) has backed Porsche Motorsport’s call for swift progress on the World Endurance Championship (WEC) and IMSA 2030 Hypercar/GTP regulations, stressing that clear guidelines are needed…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlKrReY/s6/93-acura-meyer-shank-racing-w-.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/2wlKrReY/s6/93-acura-meyer-shank-racing-w-.jpg"
   },
   {
    "title": "'There’s more to come' as IndyCar and NASCAR leaders eye future doubleheaders",
@@ -983,7 +983,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Last month marked two years since Daniel Ricciardo’s last motor race to this day, as the eight-time grand prix winner regretfully, discreetly bowed out of Formula 1 – but is his career over? Ricciardo admits it likely…",
-   "image": "https://cdn-4.motorsport.com/images/amp/Y99DzGXY/s6/daniel-ricciardo-rb-f1-team.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/Y99DzGXY/s6/daniel-ricciardo-rb-f1-team.jpg"
   },
   {
    "title": "Porsche wants 2030 unified rules framework by Christmas before Le Mans decision",
@@ -1023,7 +1023,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Over the past two years, Eduardo Barrichello has become an increasingly difficult presence to overlook in sportscar racing. Whether it’s been the World Endurance Championship or the IMSA SportsCar Championship, his…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0mXydXq6/s6/23-heart-of-racing-team-aston-.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0mXydXq6/s6/23-heart-of-racing-team-aston-.jpg"
   },
   {
    "title": "EKN OutLap: EP114 – ROK Vegas 2026",
@@ -1086,16 +1086,6 @@
    "image": "https://cdn-9.motorsport.com/images/amp/0R7B4bA2/s6/25-bmw-m-team-wrt-bmw-m-hybrid.jpg"
   },
   {
-   "title": "Cascadia Karting Cup Expands to Three Events in 2027",
-   "url": "https://www.ekartingnews.com/2026/10/26/cascadia-karting-cup-expands-to-three-events-in-2027/",
-   "source": "eKartingNews",
-   "date": "2026-10-26T18:54:42.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "FTK Promotions is set to launch a new championship program for 2027, expanding the Cascadia Karting Cup presented by Shinko Racing Kart Tires to a three-event series. Fresh off the inaugural event at the Pat’s Acres…",
-   "image": null
-  },
-  {
    "title": "Herta endorses IndyCar’s international return with Barcelona while marveling at Palou’s dominance",
    "url": "https://www.motorsport.com/indycar/news/herta-endorses-indycars-international-return-with-barcelona-while-marveling-at-palous-dominance/10868677/",
    "source": "Motorsport.com",
@@ -1123,7 +1113,7 @@
    "series": "WEC",
    "result": false,
    "summary": "The new Toyota GR GT3 will make its competition debut in Japan next month ahead of a wider rollout in 2027. Rookie Racing, a team owned by Toyota chairman Akio Toyoda, will enter the Japanese marque’s next-generation…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0rVPZ8P0/s6/gettyimages-2285362749-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0rVPZ8P0/s6/gettyimages-2285362749-2.jpg"
   },
   {
    "title": "Dakar Rally moves 2027 event out of Saudi Arabia; new location to be announced",
@@ -1213,7 +1203,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Renault has agreed to sell its Viry-Chatillon engine facility to Belgian company Dumarey Group. According to an official statement, the Dumarey Group, which specialises in technology and development of powertrains and…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0L19edW2/s6/aerial-view-of-the-renault-fac-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0L19edW2/s6/aerial-view-of-the-renault-fac-2.jpg"
   },
   {
    "title": "IndyCar set to drop Nashville Superspeedway and D.C. for 2027; Barcelona announcement looms",
@@ -1273,7 +1263,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Porsche will withdraw its factory operation from the GTP class of the IMSA SportsCar Championship at the end of 2027, according to Motorsport.com's sister title Motorsport-Total.com. This stems from a decision made a…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6b8ZOne2/s6/6-porsche-penske-motorsport-po.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/6b8ZOne2/s6/6-porsche-penske-motorsport-po.jpg"
   },
   {
    "title": "Porsche boss Laudenbach says he is \"not happy\" with how things were handled by IMSA in 2026",
