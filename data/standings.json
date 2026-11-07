@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T04:23:48.791Z",
+ "updated": "2026-11-07T05:20:46.936Z",
  "groups": [
   "Single-seaters",
   "Motorcycles",
@@ -90,7 +90,7 @@
      "points": 42
     }
    ],
-   "updated": "2026-11-07T04:23:48.791Z"
+   "updated": "2026-11-07T05:20:46.936Z"
   },
   {
    "id": "f1-t",
@@ -173,7 +173,7 @@
      "points": 7
     }
    ],
-   "updated": "2026-11-07T04:23:48.791Z"
+   "updated": "2026-11-07T05:20:46.936Z"
   },
   {
    "id": "f2",
@@ -671,7 +671,7 @@
      "points": 134
     }
    ],
-   "updated": "2026-11-07T04:23:48.791Z"
+   "updated": "2026-11-07T05:20:46.936Z"
   },
   {
    "id": "moto2",
@@ -754,7 +754,7 @@
      "points": 89.5
     }
    ],
-   "updated": "2026-11-07T04:23:48.791Z"
+   "updated": "2026-11-07T05:20:46.936Z"
   },
   {
    "id": "moto3",
@@ -837,7 +837,7 @@
      "points": 103
     }
    ],
-   "updated": "2026-11-07T04:23:48.791Z"
+   "updated": "2026-11-07T05:20:46.936Z"
   },
   {
    "id": "wsbk",
@@ -1321,7 +1321,7 @@
      "points": 2268
     }
    ],
-   "updated": "2026-11-07T04:23:48.791Z"
+   "updated": "2026-11-07T05:20:46.936Z"
   },
   {
    "id": "nascar-2",
@@ -1404,7 +1404,7 @@
      "points": 2239
     }
    ],
-   "updated": "2026-11-07T04:23:48.791Z"
+   "updated": "2026-11-07T05:20:46.936Z"
   },
   {
    "id": "nascar-3",
@@ -1421,73 +1421,73 @@
      "name": "Kaden Honeycutt",
      "team": "#11 Toyota",
      "color": "#eb0a1e",
-     "points": 2403
+     "points": 2471
     },
     {
      "pos": 2,
      "name": "Layne Riggs",
      "team": "#34 Ford",
      "color": "#1f4fa0",
-     "points": 2383
+     "points": 2388
     },
     {
      "pos": 3,
      "name": "Chandler Smith",
      "team": "#38 Ford",
      "color": "#1f4fa0",
-     "points": 2300
+     "points": 2340
     },
     {
      "pos": 4,
      "name": "Ty Majeski",
      "team": "#88 Ford",
      "color": "#1f4fa0",
-     "points": 2275
+     "points": 2319
     },
     {
      "pos": 5,
      "name": "Christian Eckes",
      "team": "#91 Chevrolet",
      "color": "#d6a400",
-     "points": 2263
+     "points": 2308
     },
     {
      "pos": 6,
      "name": "Giovanni Ruggiero",
      "team": "#17 Toyota",
      "color": "#eb0a1e",
-     "points": 2224
+     "points": 2252
     },
     {
      "pos": 7,
-     "name": "Ben Rhodes",
-     "team": "#99 Ford",
-     "color": "#1f4fa0",
-     "points": 2217
-    },
-    {
-     "pos": 8,
      "name": "Daniel Hemric",
      "team": "#19 Chevrolet",
      "color": "#d6a400",
-     "points": 2199
+     "points": 2249
+    },
+    {
+     "pos": 8,
+     "name": "Ben Rhodes",
+     "team": "#99 Ford",
+     "color": "#1f4fa0",
+     "points": 2241
     },
     {
      "pos": 9,
-     "name": "Tyler Ankrum",
-     "team": "#18 Chevrolet",
-     "color": "#d6a400",
-     "points": 2193
-    },
-    {
-     "pos": 10,
      "name": "Grant Enfinger",
      "team": "#9 Chevrolet",
      "color": "#d6a400",
-     "points": 2178
+     "points": 2210
+    },
+    {
+     "pos": 10,
+     "name": "Tyler Ankrum",
+     "team": "#18 Chevrolet",
+     "color": "#d6a400",
+     "points": 2196
     }
    ],
-   "updated": "2026-11-07T04:23:48.791Z"
+   "updated": "2026-11-07T05:20:46.936Z"
   },
   {
    "id": "dtm",
