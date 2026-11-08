@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T21:11:43.171Z",
+ "updated": "2026-11-08T22:09:15.270Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,11 +148,11 @@
  ],
  "bySeries": {
   "F1": 15,
+  "NASCAR": 14,
   "WEC": 15,
   "MotoGP": 15,
-  "NASCAR": 15,
   "Karting": 4,
-  "Motorsport": 2,
+  "Motorsport": 1,
   "Supercars": 3,
   "IMSA": 14,
   "DTM": 4,
@@ -164,6 +164,156 @@
  },
  "items": [
   {
+   "title": "Leclerc and Hamilton lament ‘horrendous’ Sao Paulo GP",
+   "url": "https://www.formula1.com/en/latest/article/a-complete-disaster-leclerc-and-hamilton-lament-horrendous-ferrari-performance-in-sao-paulo.sdZmqEEwBaoAC8OmBxvYh",
+   "source": "Formula1.com",
+   "date": "2026-11-08T22:09:15.270Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc and Lewis Hamilton only scored eight points between them at the Sao Paulo Grand Prix, marking a disappointing race for Ferrari.",
+   "image": null
+  },
+  {
+   "title": "Leclerc and Antonelli hit with post-race penalties in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/leclerc-hit-with-post-race-penalty-for-sao-paulo-collision-with-lawson.scK3PbeAxR70InNjz1ph3",
+   "source": "Formula1.com",
+   "date": "2026-11-08T22:09:15.270Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc has lost his finishing position of P7 in Sao Paulo after receiving a penalty from the stewards.",
+   "image": null
+  },
+  {
+   "title": "'No idea what happened on that pit exit' spin – Russell",
+   "url": "https://www.formula1.com/en/latest/article/no-idea-what-happened-on-that-pit-exit-russell-reflects-on-spin-and-mercedes-title-win-in-sao-paulo.1C1TWOL9x9TBOkYyNxid7F",
+   "source": "Formula1.com",
+   "date": "2026-11-08T22:09:15.270Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell admits he has \"no idea what happened on that pit exit\" after suffering a spin in the Sao Paulo Grand Prix, but has hailed Mercedes' performance this year after the team secured the Constructors'…",
+   "image": null
+  },
+  {
+   "title": "Max Verstappen is your Sao Paulo GP Driver of the Day",
+   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-verstappen-gets-fan-vote-for-p21-to-podium-performance-in-sao-paulo.6lAa8RxSlJMqHxsNM0rAKF",
+   "source": "Formula1.com",
+   "date": "2026-11-08T22:09:15.270Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen picks up the Driver of the Day vote for the 2026 Sao Paulo Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Norris wins wet Sao Paulo GP thriller as Mercedes claim title",
+   "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
+   "source": "Formula1.com",
+   "date": "2026-11-08T22:09:15.270Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Lando Norris beat Max Verstappen to victory in a wet thriller in the Sao Paulo Grand Prix, as Mercedes clinched the 2026 Constructors' Championship.",
+   "image": null
+  },
+  {
+   "title": "AS IT HAPPENED: Norris wins Sao Paulo GP as Mercedes take Constructors'",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.1yG2rNPUND8MpWa1F0mFES",
+   "source": "Formula1.com",
+   "date": "2026-11-08T22:09:15.270Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Live coverage of the Formula 1 MSC Cruises Grande Premio de Sao Paulo 2026 in Brazil.",
+   "image": null
+  },
+  {
+   "title": "Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
+   "url": "https://www.autosport.com/f1/news/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-also-punished-after-f1-brazilian-gp/10873166/",
+   "source": "Autosport",
+   "date": "2026-11-08T21:59:31.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc was handed a five-second penalty after the Formula 1 Brazilian Grand Prix for his clash with Liam Lawson, dropping the Ferrari driver down to eighth place in the final results. The Monegasque was…",
+   "image": "https://cdn-9.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg"
+  },
+  {
+   "title": "Max Verstappen \"needs to understand what happened\" after \"night and day\" F1 comeback in Brazilian GP",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-needs-to-understand-what-happened-after-night-and-day-f1-comeback-in-brazil/10873146/",
+   "source": "Motorsport.com",
+   "date": "2026-11-08T21:53:41.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "For the third year in a row, Max Verstappen has produced an impressive comeback drive in Brazil. While he won from 17th on the grid in 2024 and drove from the pitlane to the podium last year, Verstappen finished this…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0o5AVQ7Y/s6/max-verstappen-red-bull-racing.jpg"
+  },
+  {
+   "title": "Stewards ruled Hamilton “gained no advantage” by passing Bearman off-track",
+   "url": "https://www.racefans.net/2026/11/08/stewards-ruled-hamilton-gained-no-advantage-by-passing-bearman-off-track/",
+   "source": "RaceFans",
+   "date": "2026-11-08T21:50:30.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Brazilian Grand Prix stewards have indicated Lewis Hamilton did not need to let Oliver Bearman overtake him in the Brazilian Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Kimi Antonelli and Mercedes punished for unsafe release in messy Brazil GP",
+   "url": "https://www.crash.net/f1/news/1110027/1/kimi-antonelli-and-mercedes-punished-unsafe-release-messy-brazil-gp",
+   "source": "Crash.net",
+   "date": "2026-11-08T21:43:19.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Kimi Antonelli has received a penalty for his unsafe release in Brazil.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453574_hires.jpg?width=1200"
+  },
+  {
+   "title": "Leclerc loses two points for Lawson collision",
+   "url": "https://www.the-race.com/all/leclerc-loses-two-points-for-lawson-collision/",
+   "source": "The Race",
+   "date": "2026-11-08T21:42:34.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc lost seventh in F1's Brazilian GP for making contact with Liam Lawson prior to overtaking him",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453788_HiRes-1.jpg"
+  },
+  {
+   "title": "George Russell explains unusual pit lane blunder during Brazil GP",
+   "url": "https://www.crash.net/f1/news/1110026/1/george-russell-explains-unusual-pit-lane-blunder-during-brazil-gp",
+   "source": "Crash.net",
+   "date": "2026-11-08T21:40:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell overcame a dramatic pit lane mistake to help Mercedes secure the Constructors' Championship in Brazil.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453952_hires.jpg?width=1200"
+  },
+  {
+   "title": "Charles Leclerc hit with Brazil GP penalty for Liam Lawson collision",
+   "url": "https://www.crash.net/f1/news/1110025/1/charles-leclerc-hit-brazil-gp-penalty-liam-lawson-collision",
+   "source": "Crash.net",
+   "date": "2026-11-08T21:27:22.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc has been punished for hitting Liam Lawson at the end of the Sao Paulo Grand Prix.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453411_hires.jpg?width=1200"
+  },
+  {
+   "title": "Kyle Larson wins 2026 NASCAR Cup championship with Stage 1 clinch at Homestead",
+   "url": "https://www.motorsport.com/nascar-cup/news/kyle-larson-wins-2026-nascar-cup-title-with-stage-1-clinch-at-homestead-/10873140/",
+   "source": "Motorsport.com",
+   "date": "2026-11-08T21:23:29.000Z",
+   "series": "NASCAR",
+   "result": true,
+   "summary": "Kyle Larson has done it, clinching the 2026 NASCAR Cup Series title by the end of Stage 1 at Homestead-Miami Speedway. Tyler Reddick won the opening stage, while Kyle Larson placed fourth, scoring seven stage points. He…",
+   "image": "https://cdn-4.motorsport.com/images/amp/6n7b5wO0/s6/denny-hamlin-kyle-larson-and-c.jpg"
+  },
+  {
+   "title": "Lawson moves up to seventh as stewards penalise Leclerc for collision",
+   "url": "https://www.racefans.net/2026/11/08/lawson-moves-up-to-seventh-as-stewards-penalise-leclerc-for-collision/",
+   "source": "RaceFans",
+   "date": "2026-11-08T21:21:37.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Liam Lawson has gained a position in the Brazilian Grand Prix result after the stewards penalised Charles Leclerc.",
+   "image": null
+  },
+  {
    "title": "Verstappen reflects on 'challenging' P21 to podium charge",
    "url": "https://www.formula1.com/en/latest/article/verstappen-reflects-on-challenging-sao-paulo-gp-as-he-charges-from-p21-to-the-podium.4g4jMP9fsJQwWOCfDLitK9",
    "source": "Formula1.com",
@@ -172,146 +322,6 @@
    "result": true,
    "summary": "Max Verstappen admits he \"overtook a lot of cars\" in a wet Sao Paulo Grand Prix, the Dutchman storming to the podium from the back of the grid as Red Bull claimed a double rostrum.",
    "image": null
-  },
-  {
-   "title": "Max Verstappen makes foul-mouthed Red Bull complaint despite Brazil GP P2",
-   "url": "https://www.crash.net/f1/news/1110024/1/max-verstappen-makes-foul-mouthed-red-bull-complaint-despite-brazil-gp-p2",
-   "source": "Crash.net",
-   "date": "2026-11-08T20:59:57.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen was unhappy with the state of his Red Bull F1 car despite charging to P2.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453799_hires.jpg?width=1200"
-  },
-  {
-   "title": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
-   "url": "https://www.autosport.com/f1/news/antonelli-explains-weird-spin-and-car-instability-which-cost-f1-brazilian-gp-win/10873132/",
-   "source": "Autosport",
-   "date": "2026-11-08T20:57:57.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Kimi Antonelli vowed to put aside his Brazilian Grand Prix anger to celebrate Mercedes winning the Formula 1 constructors' title, as he rued the balance issues and the spin that took him out of victory contention. The…",
-   "image": "https://cdn-3.motorsport.com/images/amp/2eZx8n9Y/s6/andrea-kimi-antonelli-mercedes-2.jpg"
-  },
-  {
-   "title": "Winners and losers from F1's 2026 Brazilian Grand Prix",
-   "url": "https://www.the-race.com/formula-1/winners-and-losers-from-f1-2026-brazilian-grand-prix/",
-   "source": "The Race",
-   "date": "2026-11-08T20:50:31.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "A title-clinched messily, a back-to-nearly-front charge and plenty of wild weather swings made this a fun Brazilian GP",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453478_HiRes.jpg"
-  },
-  {
-   "title": "F1 2026's best race? Our verdict on Brazil chaos",
-   "url": "https://www.the-race.com/formula-1/f1-2026-best-race-or-underwhelming-our-brazilian-gp-verdict/",
-   "source": "The Race",
-   "date": "2026-11-08T20:50:24.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 2026's best race? A preview for F1 2027? Here's what our team made of the Brazilian Grand Prix",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453426_HiRes.jpg"
-  },
-  {
-   "title": "Hamilton “didn’t hear that it was raining more” before high-speed spin",
-   "url": "https://www.racefans.net/2026/11/08/hamilton-didnt-hear-that-it-was-raining-more-before-high-speed-spin/",
-   "source": "RaceFans",
-   "date": "2026-11-08T20:46:37.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton said he spun late in the Brazilian Grand Prix because he didn't realise the conditions were deteriorating.",
-   "image": null
-  },
-  {
-   "title": "Lewis Hamilton reveals Ferrari radio confusion behind costly Brazil GP mistake",
-   "url": "https://www.crash.net/f1/news/1110022/1/lewis-hamilton-reveals-ferrari-radio-confusion-behind-costly-brazil-gp-mistake",
-   "source": "Crash.net",
-   "date": "2026-11-08T20:35:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton has explained how confusion over worsening weather conditions cost him valuable positions in the closing stages of the Brazil Grand Prix",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1452330_hires.jpg?width=1200"
-  },
-  {
-   "title": "Norris delighted to ‘give back’ to McLaren in Sao Paulo win",
-   "url": "https://www.formula1.com/en/latest/article/i-just-kept-it-cool-norris-delighted-to-give-something-back-to-mclaren-with-sao-paulo-win.5nqTdIq8oTW6NDdnwWBSdi",
-   "source": "Formula1.com",
-   "date": "2026-11-08T20:34:08.001Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Lando Norris bounced back from a challenging start to triumph at the Sao Paulo Grand Prix, taking McLaren back to the top for the first time since Round 12.",
-   "image": null
-  },
-  {
-   "title": "Why this title victory is one of Toto Wolff’s greatest triumphs",
-   "url": "https://www.formula1.com/en/latest/article/why-this-mercedes-title-victory-is-one-of-toto-wolffs-greatest-triumphs.520nWmdi7JAxC4ALa8HnPd",
-   "source": "Formula1.com",
-   "date": "2026-11-08T20:34:08.001Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 Hall of Fame journalist David Tremayne on Mercedes' return as Constructors' Champions.",
-   "image": null
-  },
-  {
-   "title": "OFFICIAL GRID: Who starts where for the Sao Paulo Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-sao-paulo-grand-prix.5Xx3QRgvo5BHgAm6lZRbZr",
-   "source": "Formula1.com",
-   "date": "2026-11-08T20:34:08.001Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The full official starting order for the 2026 Sao Paulo Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Our final Sao Paulo Grand Prix betting predictions",
-   "url": "https://www.formula1.com/en/latest/article/our-final-sao-paulo-grand-prix-betting-predictions-before-lights-out-in-brazil.FfeJ90d5ka32Pf2Hx8RhX",
-   "source": "Formula1.com",
-   "date": "2026-11-08T20:34:08.001Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Our expert betting writers bring you their final predictions and latest odds before the Sao Paulo Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Our Sao Paulo GP Bet Builder selections made",
-   "url": "https://www.formula1.com/en/latest/article/our-sao-paulo-grand-prix-bet-builder-selections-after-lando-norris-storms-to-pole-in-brazil.49xfUowVYgSd8fL1AnlpFV",
-   "source": "Formula1.com",
-   "date": "2026-11-08T20:34:08.001Z",
-   "series": "F1",
-   "result": false,
-   "summary": "We have picked a four-leg Bet Builder for Sao Paulo, including podium and top-six finish selections.",
-   "image": null
-  },
-  {
-   "title": "How F1 fans can avoid emotional betting in Brazil",
-   "url": "https://www.formula1.com/en/latest/article/how-f1-fans-can-avoid-emotional-betting-during-the-sao-paulo-grand-prix.5pWFgryIkSrF37ZBxPQrPQ",
-   "source": "Formula1.com",
-   "date": "2026-11-08T20:34:08.001Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during Sunday's race.",
-   "image": null
-  },
-  {
-   "title": "F1 CEO Stefano Domenicali sends heartfelt message to Mercedes after constructors' title victory",
-   "url": "https://www.motorsport.com/f1/news/f1-ceo-stefano-domenicali-sends-heartfelt-message-to-mercedes-after-constructors-title-victory/10873115/",
-   "source": "Motorsport.com",
-   "date": "2026-11-08T20:26:15.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Formula 1 CEO Stefano Domenicali has congratulated Mercedes on winning the 2026 constructors' championship while singling out team principal Toto Wolff for joining Sir Frank Williams in the record books. The Brackley…",
-   "image": "https://cdn-5.motorsport.com/images/amp/YWKARlxY/s6/motorsport-com-graphics-74.jpg"
-  },
-  {
-   "title": "Lando Norris suffers Brazil GP mishap as podium celebration goes wrong",
-   "url": "https://www.crash.net/f1/news/1110020/1/lando-norris-suffers-brazil-gp-mishap-podium-celebration-goes-wrong",
-   "source": "Crash.net",
-   "date": "2026-11-08T20:16:22.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Lando Norris was left red-faced on the podium after his victory in Brazil.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453724_hires.jpg?width=1200"
   },
   {
    "title": "Video: Lynn crashes out in controversial crash in final minutes of WEC season",
@@ -331,7 +341,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin, who finished seventh in Sunday's MotoGP race at Lusail, showcased his trademark resilience throughout the weekend in Qatar. Resilience that saw him go from considering skipping the race entirely early in…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Marc Marquez unveils simple plan as he closes in on MotoGP title: \"Train, eat, sleep, repeat\"",
@@ -341,7 +351,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez has revealed a change in approach as he looks to seal the MotoGP world championship when the series returns to Europe in two weeks. After securing 32 of a possible 37 points over the Qatar Grand Prix…",
-   "image": "https://cdn-4.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Casey Mears makes milestone 500th NASCAR Cup start he never meant to reach",
@@ -361,7 +371,7 @@
    "series": "MotoGP",
    "result": true,
    "summary": "Marco Bezzecchi bounced back from his crash in the sprint to take Qatar Grand Prix victory, ahead of Marc Marquez who must wait until the Portuguese round to seal the MotoGP world title. Bezzecchi used his superior pace…",
-   "image": "https://cdn-6.motorsport.com/images/amp/25dLrjJ0/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/25dLrjJ0/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Bezzecchi dominates but Marquez on brink of title",
@@ -381,17 +391,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Cadillac signed off the 2026 World Endurance Championship with a dominant victory in the Monza 6 Hours, while Toyota trio Brendon Hartley, Sebastien Buemi and Ryo Hirakawa sealed the drivers’ title despite finishing…",
-   "image": "https://cdn-3.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle-2.jpg"
-  },
-  {
-   "title": "Justin Allgaier is a Hall of Fame asset, nearing a Hall of Fame resume",
-   "url": "https://www.motorsport.com/nascar-os/news/justin-allgaier-is-a-hall-of-fame-asset-nearing-a-hall-of-fame-resume/10872987/",
-   "source": "Motorsport.com",
-   "date": "2026-11-08T15:59:53.000Z",
-   "series": "NASCAR",
-   "result": false,
-   "summary": "Almost immediately following the 2025 NASCAR O’Reilly Series season, Justin Allgaier told JR Motorsports he wasn’t coming back after 2026, and that he was going to have something of a silent swan song. He was going to…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YvKB3A16/s6/justin-allgaier-wins-champions.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle-2.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Pro Shifter",
@@ -451,7 +451,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Motorsport.com concludes our Kyle Busch Remembered' series, looking back on KB's 2015 and 2019 NASCAR Cup Series championships at Homestead-Miami Speedway. Along with two Cup titles, seven of Busch's record 234 career…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YXyKj8N6/s6/kyle-busch-champion-2.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/YXyKj8N6/s6/kyle-busch-champion-2.jpg"
   },
   {
    "title": "Farewell from WEC: Alpine A424 meets historic A442B predecessor",
@@ -471,27 +471,7 @@
    "series": "Supercars",
    "result": true,
    "summary": "Matt Payne has taken his sixth Supercars win of the season and cemented his points lead with an all-the-way – but in the end, narrow – win at Sandown Park in Melbourne. Payne put his Kelly Racing Ford Mustang on pole…",
-   "image": "https://cdn-8.motorsport.com/images/amp/63QaOwE2/s6/ev13-26-103801-mh7-8676.jpg"
-  },
-  {
-   "title": "How Kyle Larson can lose the NASCAR Cup championship at Homestead",
-   "url": "https://www.motorsport.com/nascar-cup/news/how-kyle-larson-can-lose-the-nascar-cup-championship-at-homestead/10871595/",
-   "source": "Motorsport.com",
-   "date": "2026-11-08T06:18:00.000Z",
-   "series": "NASCAR",
-   "result": false,
-   "summary": "A third NASCAR Cup Series championship is directly ahead of Kyle Larson, and he just needs to stay out of trouble at Homestead-Miami Speedway. However, he can still lose it if he's not careful. Christopher Bell and…",
-   "image": "https://cdn-5.motorsport.com/images/amp/24QGE94Y/s6/kyle-larson-no-5-hendrick-moto-3.jpg"
-  },
-  {
-   "title": "Social Media: Wolff believes Russell’s aborted lap would have put him second",
-   "url": "https://www.racefans.net/2026/11/07/social-media-wolff-believes-russells-aborted-lap-would-have-put-him-second/",
-   "source": "RaceFans",
-   "date": "2026-11-07T21:57:07.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Russell 'would have been second' with aborted lap - Wolff",
-   "image": null
+   "image": "https://cdn-3.motorsport.com/images/amp/63QaOwE2/s6/ev13-26-103801-mh7-8676.jpg"
   },
   {
    "title": "Josh Berry regrets Ryan Blaney brake check, expected NASCAR penalty",
@@ -501,7 +481,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "With nothing else to gain from denying it to the media like what happened immediately after the race at Martinsville on Sunday, Josh Berry admitted to brake checking Ryan Blaney out of contention, and expressed remorse…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YBVjrpnY/s6/josh-berry-wood-brothers-racin.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YBVjrpnY/s6/josh-berry-wood-brothers-racin.jpg"
   },
   {
    "title": "MotoGP Qatar GP: Full starting grid",
@@ -521,7 +501,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "In some ways, there are some parallels from Carson Hocevar to Ross Chastain, in that their ascension to the Cup Series came with a brash driving style and universal pushback from their peers. Chastain drew the ire of…",
-   "image": "https://cdn-8.motorsport.com/images/amp/Y9lN4g82/s6/ross-chastain-talks-with-carso.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/Y9lN4g82/s6/ross-chastain-talks-with-carso.jpg"
   },
   {
    "title": "NASCAR Cup Homestead starting lineup: Chase Briscoe snags pole over Hamlin",
@@ -531,7 +511,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "A full field of 40 cars entered the NASCAR Cup Series finale at Homestead-Miami Speedway. Chase Briscoe earned his second pole of the 2026 season with a 32.396s lap, beating Joe Gibbs Racing teammate Denny Hamlin by…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0JXRpBBY/s6/chase-briscoe-no-19-joe-gibbs-.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/0JXRpBBY/s6/chase-briscoe-no-19-joe-gibbs-.jpg"
   },
   {
    "title": "Jorge Martin on sprint battle with Marc Marquez as rival's airbag deployed: 'It was now or never!'",
@@ -581,7 +561,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Two-time MotoGP world champion Francesco Bagnaia has picked up two fractures in his right foot following his frightening accident during the Qatar Grand Prix sprint race on Saturday. The injury will prevent him from…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
   },
   {
    "title": "MotoGP Qatar Grand Prix: Marc Marquez wins thrilling sprint as Jorge Martin fights to third",
@@ -601,13 +581,13 @@
    "series": "NASCAR",
    "result": false,
    "summary": "What is the future of the the NASCAR O'Reilly Auto Parts car? The current chassis has been in existence since 2011, and NASCAR has talked about a future where a similar platform to the Next Gen car in Cup is utilized…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0JXRlZMY/s6/gettyimages-2297920815.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0JXRlZMY/s6/gettyimages-2297920815.jpg"
   },
   {
-   "title": "WEC Monza: Fuoco takes pole for Ferrari",
-   "url": "https://www.autosport.com/wec/news/wec-monza-antonio-fuoco-takes-pole-for-ferrari/10872570/",
-   "source": "Autosport",
-   "date": "2026-11-07T15:16:12.000Z",
+   "title": "WEC Monza: Antonio Fuoco takes pole for Ferrari",
+   "url": "https://www.motorsport.com/wec/news/wec-monza-antonio-fuoco-takes-pole-for-ferrari/10872565/",
+   "source": "Motorsport.com",
+   "date": "2026-11-07T15:15:16.000Z",
    "series": "WEC",
    "result": true,
    "summary": "Antonio Fuoco claimed a home pole position for Ferrari in qualifying for the World Endurance Championship finale at Monza. The Italian was the pacesetter throughout the two quick-fire sessions of qualifying on Saturday…",
@@ -671,7 +651,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "The one and only NASCAR Cup Series practice of championship weekend at Homestead-Miami Speedway has concluded on Friday night, with Chase Briscoe sitting atop the speed charts with a 32.680s (165.238mph) lap. He beat…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0LdelQV0/s6/kyle-larson-in-the-garage-no-5.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0LdelQV0/s6/kyle-larson-in-the-garage-no-5.jpg"
   },
   {
    "title": "Hamlin and Bell left with what could have been in NASCAR Chase",
@@ -681,7 +661,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Statistically, Kyle Larson has a 99.4 percent chance of winning the NASCAR Cup Series championship on Sunday at Homestead-Miami Speedway, leaving Christopher Bell and Denny Hamlin at a combined .6 percent. In short…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5Aw9PY/s6/christopher-bell-and-denny-ham.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/0o5Aw9PY/s6/christopher-bell-and-denny-ham.jpg"
   },
   {
    "title": "This was a different kind of Carson Hocevar press conference",
@@ -691,7 +671,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "For whatever reasons why, this was a different Carson Hocevar that conducted a press conference on Friday at Homestead-Miami, a day after posting an apology video for his actions the week before at Martinsville. Having…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0qgKrVOY/s6/carson-hocevar-at-press-confer.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0qgKrVOY/s6/carson-hocevar-at-press-confer.jpg"
   },
   {
    "title": "Building new Fontana short track \"will be a real challenge,\" says Steve O'Donnell",
@@ -701,7 +681,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Since the unpopular demolition of Auto Club Speedway, fans have been waiting for the planned short track that set to replace it in Southern California to come to fruition. However, it's yet to happen. The track hosted…",
-   "image": "https://cdn-4.motorsport.com/images/amp/YN7vlnP6/s6/gettyimages-2257826976.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YN7vlnP6/s6/gettyimages-2257826976.jpg"
   },
   {
    "title": "Pecco Bagnaia 'feels like a factory rider again' as he finds form in Qatar",
@@ -721,7 +701,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "NASCAR wants to see Carson Hocevar succeed. He has emerged as a prominent new personality with a growing fan base that goes beyond traditional NASCAR fans. He went viral for his wild Talladega post-race celebration…",
-   "image": "https://cdn-6.motorsport.com/images/amp/YP74lJj2/s6/carson-hocevar-with-the-fans-n-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/YP74lJj2/s6/carson-hocevar-with-the-fans-n-2.jpg"
   },
   {
    "title": "Preseason Thunder will not return to Daytona in 2027",
@@ -731,7 +711,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Fans have been calling for the return of Preseason Thunder at Daytona International Speedway, which served as a pre-season test and the first glimpse of new driver/team combinations. In April, NASCAR's John Probst…",
-   "image": "https://cdn-2.motorsport.com/images/amp/2eZxZvjY/s6/ryan-preece-rfk-racing-shane-v.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/2eZxZvjY/s6/ryan-preece-rfk-racing-shane-v.jpg"
   },
   {
    "title": "NASCAR considering F1-style cost cap to boost team values",
@@ -741,7 +721,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "During the annual State of the Sport address at Homestead-Miami Speedway on Friday, NASCAR CEO Steve O'Donnell touched on a variety of topics. Among them was the concept of a cost cap in NASCAR. Formula 1 introduced a…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0ZqA8v56/s6/fans-in-the-garage-area-2.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/0ZqA8v56/s6/fans-in-the-garage-area-2.jpg"
   },
   {
    "title": "Why Hypercar drivers are going “blind” into Monza WEC qualifying",
