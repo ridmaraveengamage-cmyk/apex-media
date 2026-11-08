@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T13:27:27.681Z",
+ "updated": "2026-11-08T14:15:12.901Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,12 +147,12 @@
   }
  ],
  "bySeries": {
+  "MotoGP": 15,
   "F1": 15,
   "NASCAR": 15,
   "WEC": 15,
   "Supercars": 3,
   "Motorsport": 2,
-  "MotoGP": 15,
   "Karting": 4,
   "IMSA": 12,
   "DTM": 4,
@@ -163,6 +163,26 @@
   "Formula E": 2
  },
  "items": [
+  {
+   "title": "Marini out as Qatar grid is reduced to 16 riders",
+   "url": "https://www.the-race.com/motogp/marini-out-as-motogp-grid-is-reduced-to-16-riders/",
+   "source": "The Race",
+   "date": "2026-11-08T13:40:26.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Honda MotoGP rider Luca Marini has withdrawn from the main Qatar Grand Prix race, reducing the field to 16 participants",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361834_HiRes.jpg"
+  },
+  {
+   "title": "Can Hamilton and Verstappen fight back for F1 Brazilian GP victory?",
+   "url": "https://www.autosport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872922/",
+   "source": "Autosport",
+   "date": "2026-11-08T13:29:32.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "With Lewis Hamilton and Max Verstappen 20th and 21st on the grid of the Brazilian Grand Prix, Sunday’s Formula 1 race promises to be fascinating – regardless of weather conditions. Hamilton and Verstappen happen to be…",
+   "image": "https://cdn-6.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver-2.jpg"
+  },
   {
    "title": "How F1 fans can avoid emotional betting in Brazil",
    "url": "https://www.formula1.com/en/latest/article/how-f1-fans-can-avoid-emotional-betting-during-the-sao-paulo-grand-prix.5pWFgryIkSrF37ZBxPQrPQ",
@@ -211,7 +231,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Motorsport.com concludes our Kyle Busch Remembered' series, looking back on KB's 2015 and 2019 NASCAR Cup Series championships at Homestead-Miami Speedway. Along with two Cup titles, seven of Busch's record 234 career…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YXyKj8N6/s6/kyle-busch-champion-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/YXyKj8N6/s6/kyle-busch-champion-2.jpg"
   },
   {
    "title": "Our final Sao Paulo Grand Prix betting predictions",
@@ -271,7 +291,7 @@
    "series": "F1",
    "result": false,
    "summary": "McLaren team principal Andrea Stella says the 2027-spec front wing concept introduced on the MCL40 at Formula 1’s Brazilian Grand Prix has improved the car’s driveability and predictability. The Woking-based outfit…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0o5AwWwY/s6/lando-norris-mclaren.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0o5AwWwY/s6/lando-norris-mclaren.jpg"
   },
   {
    "title": "Hamilton reflects on grid penalties and PU changes in Brazil",
@@ -314,16 +334,6 @@
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453212_hires.jpg?width=1200"
   },
   {
-   "title": "The wet-weather challenges thrown up by Brazilian GP qualifying",
-   "url": "https://www.autosport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872894/",
-   "source": "Autosport",
-   "date": "2026-11-08T11:09:51.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "One hour, 23 minutes. You could've squeezed most of a football match into the rain delay during Formula 1 qualifying for the Sao Paulo Grand Prix, and it looked for all the world like the session wouldn't actually get…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0qgK1NQY/s6/rafael-camara-haas-f1-team-3.jpg"
-  },
-  {
    "title": "Farewell from WEC: Alpine A424 meets historic A442B predecessor",
    "url": "https://www.motorsport.com/wec/news/wec-farewell-alpine-a424-meets-historic-a442b-predecessor/10872887/",
    "source": "Motorsport.com",
@@ -341,7 +351,7 @@
    "series": "Supercars",
    "result": true,
    "summary": "Matt Payne has taken his sixth Supercars win of the season and cemented his points lead with an all-the-way – but in the end, narrow – win at Sandown Park in Melbourne. Payne put his Kelly Racing Ford Mustang on pole…",
-   "image": "https://cdn-5.motorsport.com/images/amp/63QaOwE2/s6/ev13-26-103801-mh7-8676.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/63QaOwE2/s6/ev13-26-103801-mh7-8676.jpg"
   },
   {
    "title": "How Kyle Larson can lose the NASCAR Cup championship at Homestead",
@@ -361,7 +371,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Justin Allgaier is now a two-time NASCAR O'Reilly Auto Parts Series champion, and while he will get plenty of accolades for his on-track success, the driver of the No. 7 JR Motorsports Chevrolet is also a guiding force…",
-   "image": "https://cdn-1.motorsport.com/images/amp/25dLpll0/s6/gettyimages-2304028934.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/25dLpll0/s6/gettyimages-2304028934.jpg"
   },
   {
    "title": "Justin Allgaier wins 2026 NASCAR O'Reilly championship as Brandon Jones wins Homestead finale",
@@ -371,7 +381,7 @@
    "series": "NASCAR",
    "result": true,
    "summary": "It was the 40-year-old veteran Justin Allgaier who prevailed in a five-way fight for the 2026 NASCAR O’Reilly Auto Parts Series championship. Brandon Jones won the race for Joe Gibbs Racing, passing Carson Kvapil after…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0Zq8VER6/s6/justin-allgaier-wins-champions-2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0Zq8VER6/s6/justin-allgaier-wins-champions-2.jpg"
   },
   {
    "title": "Andrew Patterson crashes into Homestead sand barrels, red-flags NASCAR O’Reilly finale",
@@ -381,7 +391,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "The sand barrels at the entrance of Homestead-Miami Speedway have been the site of many wild accidents over the years. The NASCAR O'Reilly Auto Parts finale on Saturday played host to the latest incident at Homestead's…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0kZX95o6/s6/destroyed-sand-barrels-2.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0kZX95o6/s6/destroyed-sand-barrels-2.jpg"
   },
   {
    "title": "Social Media: Wolff believes Russell’s aborted lap would have put him second",
@@ -411,7 +421,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia’s Marco Bezzecchi will start the Qatar Grand Prix from pole position after breaking the lap record in qualifying. Marc Marquez will line up second on the grid and will have a chance of sealing his 10th world…",
-   "image": "https://cdn-6.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Ross Chastain says Rick Hendrick inspired, not neutered him in 2023",
@@ -441,7 +451,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin was a deeply satisfied rider after his startling ride to third place in the Qatar MotoGP sprint race on Saturday evening - an effort that drew praise from those he battled. Less comfortable with his…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Zq8VA46/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/0Zq8VA46/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Pro X30",
@@ -461,7 +471,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez says his clash with Marco Bezzecchi in the Qatar Grand Prix sprint race on Saturday was down to Bezzecchi misjudging his own speed - but his MotoGP rival disagrees. The pair made contact at Turn 1 on the…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0arElPw2/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0arElPw2/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Ferrari hails \"emotional\" Monza pole in final WEC race for 499P",
@@ -491,7 +501,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Two-time MotoGP world champion Francesco Bagnaia has picked up two fractures in his right foot following his frightening accident during the Qatar Grand Prix sprint race on Saturday. The injury will prevent him from…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
   },
   {
    "title": "MotoGP Qatar Grand Prix: Marc Marquez wins thrilling sprint as Jorge Martin fights to third",
@@ -501,7 +511,7 @@
    "series": "MotoGP",
    "result": true,
    "summary": "Marc Marquez emerged victorious from a MotoGP sprint race in Qatar after a controversial clash with Marco Bezzecchi which took the Italian out of the title fight. Jorge Martin put in a spectacular effort to ride to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Foot fractures for Bagnaia after scary Qatar sprint crash",
@@ -531,7 +541,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Antonio Fuoco claimed a home pole position for Ferrari in qualifying for the World Endurance Championship finale at Monza. The Italian was the pacesetter throughout the two quick-fire sessions of qualifying on Saturday…",
-   "image": "https://cdn-8.motorsport.com/images/amp/2dEo3WDY/s6/50-ferrari-af-corse-ferrari-49-2.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/2dEo3WDY/s6/50-ferrari-af-corse-ferrari-49-2.jpg"
   },
   {
    "title": "Haas justifies picking Rafael Camara over Ryo Hirakawa for F1 Brazilian GP",
@@ -551,7 +561,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia team manager Paolo Bonora has admitted that the remainder of the Qatar GP weekend will be challenging for his factory rider Jorge Martin as the Spaniard's condition deteriorated on Saturday. Martin was upbeat at…",
-   "image": "https://cdn-9.motorsport.com/images/amp/63Qa3Ol2/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/63Qa3Ol2/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "MotoGP Qatar GP: Bezzecchi storms to pole ahead of Marquez",
@@ -561,7 +571,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia's Marco Bezzecchi laid down a marker in qualifying for the Qatar Grand Prix, shattering the MotoGP lap record to win a pole duel with Ducati's Marc Marquez. Bezzecchi's team-mate Jorge Martin, who is also Marc's…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6x7L9BmY/s6/marco-bezzecchi-aprilia-racing-2.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/6x7L9BmY/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
    "title": "Toto Wolff defends MotoGP over Qatar: ‘The riders know nothing about what’s going on’",
@@ -571,7 +581,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Mercedes F1 chief Toto Wolff has defended MotoGP ’s decision to go ahead with this weekend’s Qatar Grand Prix at the Losail International Circuit, despite the difficult situation in the Middle East caused by the armed…",
-   "image": "https://cdn-9.motorsport.com/images/amp/27NooQX0/s6/toto-wolff-mercedes.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/27NooQX0/s6/toto-wolff-mercedes.jpg"
   },
   {
    "title": "Supercars Sandown: Kostecki wins to advance to finale",
@@ -581,7 +591,7 @@
    "series": "Supercars",
    "result": true,
    "summary": "In unseasonably chilly conditions, Kostecki and his Dick Johnson Racing Ford Mustang emerged from a cracking battle for the lead to take the lead and set the pace in a battle between drivers managing fuel consumption…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YE9EplGY/s6/brodie-kostecki-dick-johnson-r.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/YE9EplGY/s6/brodie-kostecki-dick-johnson-r.jpg"
   },
   {
    "title": "Chase Briscoe leads NASCAR Cup Homestead practice; Larson brushes wall and Reddick wrecks",
@@ -641,7 +651,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "After the better part of two seasons in the doldrums, Francesco Bagnaia says he finally feels like a factory rider again. This follows a strong Friday at the Qatar Grand Prix. The works Ducati man looked competitive all…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0mXywa46/s6/francesco-bagnaia-ducati-team.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0mXywa46/s6/francesco-bagnaia-ducati-team.jpg"
   },
   {
    "title": "NASCAR CEO likes what Carson Hocevar “brings to the fan base,” but notes \"challenges\"",
@@ -671,7 +681,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin says he can be competitive at this weekend's Qatar Grand Prix despite riding with a broken wrist after his accident in Australia two weeks ago. Unlike his unsuccessful attempt to race at Sepang last…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YvKBD1v6/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/YvKBD1v6/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Why Hypercar drivers are going “blind” into Monza WEC qualifying",
@@ -691,7 +701,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "KTM factory rider Pedro Acosta reckons the only way is up after his shock failure to make it directly into Qualifying 2 for the Qatar Grand Prix. The Spaniard struggled for speed on the soft rear tyre and simply wasn't…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0Zq8lkN6/s6/pedro-acosta-red-bull-ktm-fact.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0Zq8lkN6/s6/pedro-acosta-red-bull-ktm-fact.jpg"
   },
   {
    "title": "MotoGP Qatar GP: Di Giannantonio tops practice; Martin and Marquez make the top 10 cut",
@@ -771,17 +781,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez heads into this weekend's Qatar Grand Prix with a 44-point advantage over Jorge Martin and a 67-point advantage over Marco Bezzecchi, and with three rounds remaining, he has his first opportunity to secure…",
-   "image": "https://cdn-3.motorsport.com/images/amp/27NoByX0/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "Who is racing in MotoGP's Qatar GP and who is absent?",
-   "url": "https://www.motorsport.com/motogp/news/who-is-racing-in-motogps-qatar-gp-and-who-is-absent/10872001/",
-   "source": "Motorsport.com",
-   "date": "2026-11-06T10:22:26.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "The MotoGP field for the Qatar Grand Prix has been severely depleted by Yamaha's withdrawal from the event. The Japanese manufacturer elected against sending its personnel to Doha due to the ongoing geopolitical…",
-   "image": "https://cdn-5.motorsport.com/images/amp/25dLrZk0/s6/atmosphere.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/27NoByX0/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Ingram stays put at Excelr8 in BTCC until end of decade",
