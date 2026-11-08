@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:41:41.691Z",
+ "updated": "2026-11-08T19:41:17.371Z",
  "status": {
   "F1": "ok",
   "MotoGP": "ok",
@@ -679,97 +679,97 @@
     }
    ],
    "lastRace": {
-    "name": "Mexico City Grand Prix",
-    "place": "Autódromo Hermanos Rodríguez",
-    "date": "2026-11-01",
+    "name": "Brazilian Grand Prix",
+    "place": "Autódromo José Carlos Pace",
+    "date": "2026-11-08",
     "results": [
      {
       "pos": 1,
-      "name": "Max Verstappen",
-      "team": "Red Bull",
-      "color": "#3671c6",
-      "time": "2:20:28.772",
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "color": "#ff8000",
+      "time": "1:35:23.504",
       "points": 25,
       "fastest": false
      },
      {
       "pos": 2,
-      "name": "Lewis Hamilton",
-      "team": "Ferrari",
-      "color": "#e8002d",
-      "time": "+0.799",
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "color": "#3671c6",
+      "time": "+14.602",
       "points": 18,
-      "fastest": true
+      "fastest": false
      },
      {
       "pos": 3,
-      "name": "Andrea Kimi Antonelli",
-      "team": "Mercedes",
-      "color": "#27f4d2",
-      "time": "+4.006",
+      "name": "Isack Hadjar",
+      "team": "Red Bull",
+      "color": "#3671c6",
+      "time": "+24.485",
       "points": 15,
       "fastest": false
      },
      {
       "pos": 4,
-      "name": "Charles Leclerc",
-      "team": "Ferrari",
-      "color": "#e8002d",
-      "time": "+10.707",
+      "name": "George Russell",
+      "team": "Mercedes",
+      "color": "#27f4d2",
+      "time": "+33.991",
       "points": 12,
       "fastest": false
      },
      {
       "pos": 5,
-      "name": "Lando Norris",
-      "team": "McLaren",
-      "color": "#ff8000",
-      "time": "+11.778",
+      "name": "Andrea Kimi Antonelli",
+      "team": "Mercedes",
+      "color": "#27f4d2",
+      "time": "+36.017",
       "points": 10,
       "fastest": false
      },
      {
       "pos": 6,
-      "name": "George Russell",
-      "team": "Mercedes",
-      "color": "#27f4d2",
-      "time": "+12.263",
+      "name": "Oscar Piastri",
+      "team": "McLaren",
+      "color": "#ff8000",
+      "time": "+56.475",
       "points": 8,
       "fastest": false
      },
      {
       "pos": 7,
-      "name": "Liam Lawson",
-      "team": "RB F1 Team",
-      "color": "#6692ff",
-      "time": "+20.899",
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "color": "#e8002d",
+      "time": "+1:13.586",
       "points": 6,
       "fastest": false
      },
      {
       "pos": 8,
-      "name": "Gabriel Bortoleto",
-      "team": "Audi",
-      "color": "#bb0a30",
-      "time": "+22.041",
+      "name": "Liam Lawson",
+      "team": "RB F1 Team",
+      "color": "#6692ff",
+      "time": "+1:15.402",
       "points": 4,
       "fastest": false
      },
      {
       "pos": 9,
-      "name": "Isack Hadjar",
-      "team": "Red Bull",
-      "color": "#3671c6",
-      "time": "+22.503",
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "color": "#e8002d",
+      "time": "+4.427",
       "points": 2,
       "fastest": false
      },
      {
       "pos": 10,
-      "name": "Ryo Hirakawa",
-      "team": "Haas F1 Team",
-      "color": "#b6babd",
-      "time": "+25.373",
+      "name": "Nico Hülkenberg",
+      "team": "Audi",
+      "color": "#bb0a30",
+      "time": "+17.105",
       "points": 1,
       "fastest": false
      }
@@ -782,63 +782,63 @@
       "name": "Andrea Kimi Antonelli",
       "team": "Mercedes",
       "color": "#27f4d2",
-      "points": 380
+      "points": 390
      },
      {
       "pos": 2,
       "name": "Max Verstappen",
       "team": "Red Bull",
       "color": "#3671c6",
-      "points": 261
+      "points": 279
      },
      {
       "pos": 3,
-      "name": "Lewis Hamilton",
-      "team": "Ferrari",
-      "color": "#e8002d",
-      "points": 259
-     },
-     {
-      "pos": 4,
       "name": "George Russell",
       "team": "Mercedes",
       "color": "#27f4d2",
-      "points": 250
+      "points": 262
+     },
+     {
+      "pos": 4,
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "color": "#e8002d",
+      "points": 261
      },
      {
       "pos": 5,
       "name": "Charles Leclerc",
       "team": "Ferrari",
       "color": "#e8002d",
-      "points": 245
+      "points": 251
      },
      {
       "pos": 6,
       "name": "Lando Norris",
       "team": "McLaren",
       "color": "#ff8000",
-      "points": 221
+      "points": 246
      },
      {
       "pos": 7,
       "name": "Oscar Piastri",
       "team": "McLaren",
       "color": "#ff8000",
-      "points": 144
+      "points": 152
      },
      {
       "pos": 8,
       "name": "Isack Hadjar",
       "team": "Red Bull",
       "color": "#3671c6",
-      "points": 107
+      "points": 122
      },
      {
       "pos": 9,
       "name": "Liam Lawson",
       "team": "Red Bull",
       "color": "#3671c6",
-      "points": 83
+      "points": 87
      },
      {
       "pos": 10,
@@ -854,35 +854,35 @@
       "name": "Mercedes",
       "team": "",
       "color": "#27f4d2",
-      "points": 630
+      "points": 652
      },
      {
       "pos": 2,
       "name": "Ferrari",
       "team": "",
       "color": "#e8002d",
-      "points": 504
+      "points": 512
      },
      {
       "pos": 3,
       "name": "Red Bull",
       "team": "",
       "color": "#3671c6",
-      "points": 382
+      "points": 415
      },
      {
       "pos": 4,
       "name": "McLaren",
       "team": "",
       "color": "#ff8000",
-      "points": 365
+      "points": 398
      },
      {
       "pos": 5,
       "name": "RB F1 Team",
       "team": "",
       "color": "#6692ff",
-      "points": 108
+      "points": 112
      },
      {
       "pos": 6,
@@ -903,7 +903,7 @@
       "name": "Audi",
       "team": "",
       "color": "#bb0a30",
-      "points": 27
+      "points": 28
      },
      {
       "pos": 9,

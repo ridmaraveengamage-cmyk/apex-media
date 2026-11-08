@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:41:41.694Z",
+ "updated": "2026-11-08T19:41:17.397Z",
  "groups": [
   "Single-seaters",
   "Motorcycles",
@@ -24,63 +24,63 @@
      "name": "Andrea Kimi Antonelli",
      "team": "Mercedes",
      "color": "#27f4d2",
-     "points": 380
+     "points": 390
     },
     {
      "pos": 2,
      "name": "Max Verstappen",
      "team": "Red Bull",
      "color": "#3671c6",
-     "points": 261
+     "points": 279
     },
     {
      "pos": 3,
-     "name": "Lewis Hamilton",
-     "team": "Ferrari",
-     "color": "#e8002d",
-     "points": 259
-    },
-    {
-     "pos": 4,
      "name": "George Russell",
      "team": "Mercedes",
      "color": "#27f4d2",
-     "points": 250
+     "points": 262
+    },
+    {
+     "pos": 4,
+     "name": "Lewis Hamilton",
+     "team": "Ferrari",
+     "color": "#e8002d",
+     "points": 261
     },
     {
      "pos": 5,
      "name": "Charles Leclerc",
      "team": "Ferrari",
      "color": "#e8002d",
-     "points": 245
+     "points": 251
     },
     {
      "pos": 6,
      "name": "Lando Norris",
      "team": "McLaren",
      "color": "#ff8000",
-     "points": 221
+     "points": 246
     },
     {
      "pos": 7,
      "name": "Oscar Piastri",
      "team": "McLaren",
      "color": "#ff8000",
-     "points": 144
+     "points": 152
     },
     {
      "pos": 8,
      "name": "Isack Hadjar",
      "team": "Red Bull",
      "color": "#3671c6",
-     "points": 107
+     "points": 122
     },
     {
      "pos": 9,
      "name": "Liam Lawson",
      "team": "Red Bull",
      "color": "#3671c6",
-     "points": 83
+     "points": 87
     },
     {
      "pos": 10,
@@ -90,7 +90,7 @@
      "points": 42
     }
    ],
-   "updated": "2026-11-08T18:41:41.694Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "f1-t",
@@ -107,35 +107,35 @@
      "name": "Mercedes",
      "team": "",
      "color": "#27f4d2",
-     "points": 630
+     "points": 652
     },
     {
      "pos": 2,
      "name": "Ferrari",
      "team": "",
      "color": "#e8002d",
-     "points": 504
+     "points": 512
     },
     {
      "pos": 3,
      "name": "Red Bull",
      "team": "",
      "color": "#3671c6",
-     "points": 382
+     "points": 415
     },
     {
      "pos": 4,
      "name": "McLaren",
      "team": "",
      "color": "#ff8000",
-     "points": 365
+     "points": 398
     },
     {
      "pos": 5,
      "name": "RB F1 Team",
      "team": "",
      "color": "#6692ff",
-     "points": 108
+     "points": 112
     },
     {
      "pos": 6,
@@ -156,7 +156,7 @@
      "name": "Audi",
      "team": "",
      "color": "#bb0a30",
-     "points": 27
+     "points": 28
     },
     {
      "pos": 9,
@@ -173,7 +173,7 @@
      "points": 7
     }
    ],
-   "updated": "2026-11-08T18:41:41.694Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "f2",
@@ -256,7 +256,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "f3",
@@ -339,7 +339,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "indycar",
@@ -422,7 +422,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "fe",
@@ -505,7 +505,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "sf",
@@ -588,7 +588,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "motogp",
@@ -671,7 +671,7 @@
      "points": 147
     }
    ],
-   "updated": "2026-11-08T18:41:41.694Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "moto2",
@@ -754,7 +754,7 @@
      "points": 97
     }
    ],
-   "updated": "2026-11-08T18:41:41.694Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "moto3",
@@ -837,7 +837,7 @@
      "points": 103
     }
    ],
-   "updated": "2026-11-08T18:41:41.694Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "wsbk",
@@ -920,7 +920,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "wec",
@@ -1003,7 +1003,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "wec-m",
@@ -1072,7 +1072,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "imsa",
@@ -1155,7 +1155,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "wrc",
@@ -1238,7 +1238,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "nascar",
@@ -1321,7 +1321,7 @@
      "points": 2268
     }
    ],
-   "updated": "2026-11-08T18:41:41.694Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "nascar-2",
@@ -1404,7 +1404,7 @@
      "points": 2281
     }
    ],
-   "updated": "2026-11-08T18:41:41.694Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "nascar-3",
@@ -1487,7 +1487,7 @@
      "points": 2196
     }
    ],
-   "updated": "2026-11-08T18:41:41.694Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "dtm",
@@ -1570,7 +1570,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "supercars",
@@ -1611,7 +1611,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   },
   {
    "id": "btcc",
@@ -1694,7 +1694,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T17:10:08.798Z"
+   "updated": "2026-11-08T19:41:17.397Z"
   }
  ]
 }
