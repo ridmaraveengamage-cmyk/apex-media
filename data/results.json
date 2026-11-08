@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:08:48.679Z",
+ "updated": "2026-11-08T17:10:08.795Z",
  "status": {
   "F1": "ok",
   "MotoGP": "ok",
@@ -1214,49 +1214,49 @@
       "name": "Marc Marquez",
       "team": "Ducati Lenovo Team",
       "color": "#d40000",
-      "points": 411
+      "points": 431
      },
      {
       "pos": 2,
       "name": "Jorge Martin",
       "team": "Aprilia Racing",
       "color": "#41bfaa",
-      "points": 362
+      "points": 371
      },
      {
       "pos": 3,
       "name": "Marco Bezzecchi",
       "team": "Aprilia Racing",
       "color": "#41bfaa",
-      "points": 332
+      "points": 357
      },
      {
       "pos": 4,
       "name": "Pedro Acosta",
       "team": "Red Bull KTM Factory Racing",
       "color": "#ff6600",
-      "points": 299
+      "points": 309
      },
      {
       "pos": 5,
       "name": "Ai Ogura",
       "team": "SuperFile Trackhouse MotoGP Team",
       "color": "#41bfaa",
-      "points": 281
+      "points": 294
      },
      {
       "pos": 6,
       "name": "Fabio Di Giannantonio",
       "team": "Pertamina Enduro VR46 Racing Team",
       "color": "#d40000",
-      "points": 274
+      "points": 282
      },
      {
       "pos": 7,
       "name": "Raul Fernandez",
       "team": "SuperFile Trackhouse MotoGP Team",
       "color": "#41bfaa",
-      "points": 242
+      "points": 258
      },
      {
       "pos": 8,
@@ -1277,7 +1277,7 @@
       "name": "Enea Bastianini",
       "team": "Red Bull KTM Tech3",
       "color": "#ff6600",
-      "points": 136
+      "points": 147
      }
     ]
    }

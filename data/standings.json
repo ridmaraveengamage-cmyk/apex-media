@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:08:48.682Z",
+ "updated": "2026-11-08T17:10:08.798Z",
  "groups": [
   "Single-seaters",
   "Motorcycles",
@@ -90,7 +90,7 @@
      "points": 42
     }
    ],
-   "updated": "2026-11-08T16:08:48.682Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "f1-t",
@@ -173,7 +173,7 @@
      "points": 7
     }
    ],
-   "updated": "2026-11-08T16:08:48.682Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "f2",
@@ -256,7 +256,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "f3",
@@ -339,7 +339,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "indycar",
@@ -422,7 +422,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "fe",
@@ -505,7 +505,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "sf",
@@ -588,7 +588,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "motogp",
@@ -605,49 +605,49 @@
      "name": "Marc Marquez",
      "team": "Ducati Lenovo Team",
      "color": "#d40000",
-     "points": 411
+     "points": 431
     },
     {
      "pos": 2,
      "name": "Jorge Martin",
      "team": "Aprilia Racing",
      "color": "#41bfaa",
-     "points": 362
+     "points": 371
     },
     {
      "pos": 3,
      "name": "Marco Bezzecchi",
      "team": "Aprilia Racing",
      "color": "#41bfaa",
-     "points": 332
+     "points": 357
     },
     {
      "pos": 4,
      "name": "Pedro Acosta",
      "team": "Red Bull KTM Factory Racing",
      "color": "#ff6600",
-     "points": 299
+     "points": 309
     },
     {
      "pos": 5,
      "name": "Ai Ogura",
      "team": "SuperFile Trackhouse MotoGP Team",
      "color": "#41bfaa",
-     "points": 281
+     "points": 294
     },
     {
      "pos": 6,
      "name": "Fabio Di Giannantonio",
      "team": "Pertamina Enduro VR46 Racing Team",
      "color": "#d40000",
-     "points": 274
+     "points": 282
     },
     {
      "pos": 7,
      "name": "Raul Fernandez",
      "team": "SuperFile Trackhouse MotoGP Team",
      "color": "#41bfaa",
-     "points": 242
+     "points": 258
     },
     {
      "pos": 8,
@@ -668,10 +668,10 @@
      "name": "Enea Bastianini",
      "team": "Red Bull KTM Tech3",
      "color": "#ff6600",
-     "points": 136
+     "points": 147
     }
    ],
-   "updated": "2026-11-08T16:08:48.682Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "moto2",
@@ -754,7 +754,7 @@
      "points": 97
     }
    ],
-   "updated": "2026-11-08T16:08:48.682Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "moto3",
@@ -837,7 +837,7 @@
      "points": 103
     }
    ],
-   "updated": "2026-11-08T16:08:48.682Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "wsbk",
@@ -920,7 +920,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "wec",
@@ -1003,7 +1003,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "wec-m",
@@ -1072,7 +1072,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "imsa",
@@ -1155,7 +1155,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "wrc",
@@ -1238,7 +1238,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "nascar",
@@ -1321,7 +1321,7 @@
      "points": 2268
     }
    ],
-   "updated": "2026-11-08T16:08:48.682Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "nascar-2",
@@ -1404,7 +1404,7 @@
      "points": 2281
     }
    ],
-   "updated": "2026-11-08T16:08:48.682Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "nascar-3",
@@ -1487,7 +1487,7 @@
      "points": 2196
     }
    ],
-   "updated": "2026-11-08T16:08:48.682Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "dtm",
@@ -1570,7 +1570,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "supercars",
@@ -1611,7 +1611,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   },
   {
    "id": "btcc",
@@ -1694,7 +1694,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T17:10:08.798Z"
   }
  ]
 }
