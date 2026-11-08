@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:15:17.205Z",
+ "updated": "2026-11-08T15:11:55.375Z",
  "groups": [
   "Single-seaters",
   "Motorcycles",
@@ -90,7 +90,7 @@
      "points": 42
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T15:11:55.375Z"
   },
   {
    "id": "f1-t",
@@ -173,7 +173,7 @@
      "points": 7
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T15:11:55.375Z"
   },
   {
    "id": "f2",
@@ -671,7 +671,7 @@
      "points": 136
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T15:11:55.375Z"
   },
   {
    "id": "moto2",
@@ -688,7 +688,7 @@
      "name": "Manuel Gonzalez",
      "team": "LIQUI MOLY Dynavolt Intact GP",
      "color": "#9aa29a",
-     "points": 276.5
+     "points": 286.5
     },
     {
      "pos": 2,
@@ -702,59 +702,59 @@
      "name": "Ivan Ortola",
      "team": "QJMOTOR - MSI",
      "color": "#9aa29a",
-     "points": 199.5
+     "points": 219.5
     },
     {
      "pos": 4,
-     "name": "David Alonso",
-     "team": "CFMOTO RCB Aspar Team",
+     "name": "Daniel Holgado",
+     "team": "CFMOTO Power Electronics Aspar Team",
      "color": "#9aa29a",
-     "points": 191
+     "points": 215
     },
     {
      "pos": 5,
-     "name": "Daniel Holgado",
-     "team": "CFMOTO RCB Aspar Team",
+     "name": "David Alonso",
+     "team": "CFMOTO Power Electronics Aspar Team",
      "color": "#9aa29a",
-     "points": 190
+     "points": 204
     },
     {
      "pos": 6,
      "name": "Senna Agius",
      "team": "LIQUI MOLY Dynavolt Intact GP",
      "color": "#9aa29a",
-     "points": 166
+     "points": 175
     },
     {
      "pos": 7,
      "name": "Filip Salac",
      "team": "OnlyFans American Racing Team",
      "color": "#9aa29a",
-     "points": 155
+     "points": 162
     },
     {
      "pos": 8,
      "name": "Celestino Vietti",
      "team": "BETA Tools SpeedRS Team",
      "color": "#9aa29a",
-     "points": 140
+     "points": 146
     },
     {
      "pos": 9,
      "name": "Alonso Lopez",
      "team": "ITALJET Gresini Moto2",
      "color": "#9aa29a",
-     "points": 129.5
+     "points": 134.5
     },
     {
      "pos": 10,
-     "name": "Collin Veijer",
-     "team": "Red Bull KTM Ajo",
+     "name": "Daniel Muñoz",
+     "team": "Italtrans Racing Team",
      "color": "#9aa29a",
-     "points": 89.5
+     "points": 97
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T15:11:55.375Z"
   },
   {
    "id": "moto3",
@@ -837,7 +837,7 @@
      "points": 103
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T15:11:55.375Z"
   },
   {
    "id": "wsbk",
@@ -1321,7 +1321,7 @@
      "points": 2268
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T15:11:55.375Z"
   },
   {
    "id": "nascar-2",
@@ -1404,7 +1404,7 @@
      "points": 2281
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T15:11:55.375Z"
   },
   {
    "id": "nascar-3",
@@ -1487,7 +1487,7 @@
      "points": 2196
     }
    ],
-   "updated": "2026-11-08T14:15:17.205Z"
+   "updated": "2026-11-08T15:11:55.375Z"
   },
   {
    "id": "dtm",
