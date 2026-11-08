@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T02:47:46.466Z",
+ "updated": "2026-11-08T03:50:12.315Z",
  "groups": [
   "Single-seaters",
   "Motorcycles",
@@ -90,7 +90,7 @@
      "points": 42
     }
    ],
-   "updated": "2026-11-08T02:47:46.466Z"
+   "updated": "2026-11-08T03:50:12.315Z"
   },
   {
    "id": "f1-t",
@@ -173,7 +173,7 @@
      "points": 7
     }
    ],
-   "updated": "2026-11-08T02:47:46.466Z"
+   "updated": "2026-11-08T03:50:12.315Z"
   },
   {
    "id": "f2",
@@ -671,7 +671,7 @@
      "points": 136
     }
    ],
-   "updated": "2026-11-08T02:47:46.466Z"
+   "updated": "2026-11-08T03:50:12.315Z"
   },
   {
    "id": "moto2",
@@ -754,7 +754,7 @@
      "points": 89.5
     }
    ],
-   "updated": "2026-11-08T02:47:46.466Z"
+   "updated": "2026-11-08T03:50:12.315Z"
   },
   {
    "id": "moto3",
@@ -837,7 +837,7 @@
      "points": 103
     }
    ],
-   "updated": "2026-11-08T02:47:46.466Z"
+   "updated": "2026-11-08T03:50:12.315Z"
   },
   {
    "id": "wsbk",
@@ -1321,7 +1321,7 @@
      "points": 2268
     }
    ],
-   "updated": "2026-11-08T02:47:46.466Z"
+   "updated": "2026-11-08T03:50:12.315Z"
   },
   {
    "id": "nascar-2",
@@ -1338,73 +1338,73 @@
      "name": "Justin Allgaier",
      "team": "#7 Chevrolet",
      "color": "#d6a400",
-     "points": 2436
+     "points": 2477
     },
     {
      "pos": 2,
      "name": "Jesse Love",
      "team": "#2 Chevrolet",
      "color": "#d6a400",
-     "points": 2414
+     "points": 2463
     },
     {
      "pos": 3,
-     "name": "Corey Day",
-     "team": "#17 Chevrolet",
-     "color": "#d6a400",
-     "points": 2413
-    },
-    {
-     "pos": 4,
      "name": "Carson Kvapil",
      "team": "#1 Chevrolet",
      "color": "#d6a400",
-     "points": 2405
+     "points": 2449
     },
     {
-     "pos": 5,
+     "pos": 4,
      "name": "Sheldon Creed",
      "team": "#00 Chevrolet",
      "color": "#d6a400",
-     "points": 2394
+     "points": 2444
+    },
+    {
+     "pos": 5,
+     "name": "Corey Day",
+     "team": "#17 Chevrolet",
+     "color": "#d6a400",
+     "points": 2416
     },
     {
      "pos": 6,
      "name": "Sam Mayer",
      "team": "#41 Chevrolet",
      "color": "#d6a400",
-     "points": 2339
+     "points": 2387
     },
     {
      "pos": 7,
      "name": "Sammy Smith",
      "team": "#8 Chevrolet",
      "color": "#d6a400",
-     "points": 2329
+     "points": 2352
     },
     {
      "pos": 8,
-     "name": "Taylor Gray",
-     "team": "#54 Toyota",
-     "color": "#eb0a1e",
-     "points": 2277
-    },
-    {
-     "pos": 9,
      "name": "Brandon Jones",
      "team": "#20 Toyota",
      "color": "#eb0a1e",
-     "points": 2253
+     "points": 2314
+    },
+    {
+     "pos": 9,
+     "name": "Taylor Gray",
+     "team": "#54 Toyota",
+     "color": "#eb0a1e",
+     "points": 2300
     },
     {
      "pos": 10,
      "name": "Austin Hill",
      "team": "#21 Chevrolet",
      "color": "#d6a400",
-     "points": 2239
+     "points": 2281
     }
    ],
-   "updated": "2026-11-08T02:47:46.466Z"
+   "updated": "2026-11-08T03:50:12.315Z"
   },
   {
    "id": "nascar-3",
@@ -1487,7 +1487,7 @@
      "points": 2196
     }
    ],
-   "updated": "2026-11-08T02:47:46.466Z"
+   "updated": "2026-11-08T03:50:12.315Z"
   },
   {
    "id": "dtm",
