@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:00:10.263Z",
+ "updated": "2026-11-09T10:54:34.576Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -164,6 +164,66 @@
  },
  "items": [
   {
+   "title": "Piastri and management team mutually terminate agreement",
+   "url": "https://www.formula1.com/en/latest/article/piastri-and-management-team-mutually-terminate-agreement.a59N6pYIBGSiFmwMY1Xkk",
+   "source": "Formula1.com",
+   "date": "2026-11-09T10:54:34.576Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Oscar Piastri and his management team directed by Mark and Ann Webber have mutually terminated their agreement.",
+   "image": null
+  },
+  {
+   "title": "Antonelli ‘grateful’ for team glory amid Brazil frustration",
+   "url": "https://www.formula1.com/en/latest/article/they-helped-me-achieve-this-dream-antonelli-grateful-for-mercedes-glory-amid-brazil-frustration.3ZVoYyfjzeFZKrW0bUfXUn",
+   "source": "Formula1.com",
+   "date": "2026-11-09T10:54:34.576Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Kimi Antonelli was keen to prioritise Mercedes’ triumph in the Constructors’ Championship over his Sao Paulo Grand Prix performance.",
+   "image": null
+  },
+  {
+   "title": "What the teams said – Race day in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-brazil-2026.6WRrgNQ7FDoFnwzxR9Vjw7",
+   "source": "Formula1.com",
+   "date": "2026-11-09T10:54:34.576Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The drivers and teams report back from the Autodromo Jose Carlos Pace after the 2026 Sao Paulo Grand Prix in Brazil.",
+   "image": null
+  },
+  {
+   "title": "Wolff already thinking about 2027 despite constructors' win",
+   "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
+   "source": "Formula1.com",
+   "date": "2026-11-09T10:54:34.576Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Mercedes Team Principal Toto Wolff says he is already thinking about 2027 despite winning the Constructors' Championship in Brazil.",
+   "image": null
+  },
+  {
+   "title": "Winners and losers from MotoGP’s contentious Qatar Grand Prix",
+   "url": "https://www.motorsport.com/motogp/news/winners-and-losers-from-motogps-contentious-qatar-grand-prix/10873291/",
+   "source": "Motorsport.com",
+   "date": "2026-11-09T10:50:17.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "The Qatar Grand Prix featured plenty of drama throughout the weekend, but fortunately all the action was confined to the track. The Lusail round nevertheless had an unusual atmosphere following Yamaha's decision to…",
+   "image": "https://cdn-2.motorsport.com/images/amp/0mXyjRX6/s6/marc-marquez-ducati-team.jpg"
+  },
+  {
+   "title": "Max Verstappen owns up to rare unseen error at Brazil GP",
+   "url": "https://www.crash.net/f1/news/1110035/1/max-verstappen-owns-rare-unseen-error-brazil-gp",
+   "source": "Crash.net",
+   "date": "2026-11-09T10:19:04.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen admits he made a rare mistake at the start of the Sao Paulo Grand Prix.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453348_hires.jpg?width=1200"
+  },
+  {
    "title": "Vasseur explains Ferrari’s tyre struggles in Brazil",
    "url": "https://www.formula1.com/en/latest/article/if-youre-not-in-the-right-spot-youre-nowhere-vasseur-explains-ferraris-brazil-tyre-struggles.4BJ7k41PfxDI31jhSg9RU",
    "source": "Formula1.com",
@@ -204,16 +264,6 @@
    "image": null
   },
   {
-   "title": "'No idea what happened on that pit exit' spin – Russell",
-   "url": "https://www.formula1.com/en/latest/article/no-idea-what-happened-on-that-pit-exit-russell-reflects-on-spin-and-mercedes-title-win-in-sao-paulo.1C1TWOL9x9TBOkYyNxid7F",
-   "source": "Formula1.com",
-   "date": "2026-11-09T10:00:10.263Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell admits he has \"no idea what happened on that pit exit\" after suffering a spin in the Sao Paulo Grand Prix, but has hailed Mercedes' performance this year after the team secured the Constructors'…",
-   "image": null
-  },
-  {
    "title": "Qatar Grand Prix 2026 MotoGP rider rankings",
    "url": "https://www.the-race.com/motogp/qatar-grand-prix-2026-motogp-rider-rankings/",
    "source": "The Race",
@@ -251,7 +301,7 @@
    "series": "F1",
    "result": false,
    "summary": "When Fernando Alonso became Formula 1 world champion in 2005, he was just 24 years old, replacing Emerson Fittipaldi as the youngest champion in the sport's history. At last, Michael Schumacher had a challenger. And…",
-   "image": "https://cdn-6.motorsport.com/images/amp/68VwMBV2/s6/fernando-alonso-aston-martin-r.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/68VwMBV2/s6/fernando-alonso-aston-martin-r.jpg"
   },
   {
    "title": "Ezpeleta: Qatar GP “noise” left MotoGP unnecessarily exposed",
@@ -261,7 +311,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP has received a wave of criticism for its determination to keep the Qatar Grand Prix on the calendar, an area immersed in an armed conflict since the beginning of the year, even though the event was ultimately…",
-   "image": "https://cdn-5.motorsport.com/images/amp/68VwMWD2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/68VwMWD2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
    "title": "Piastri splits from Webber’s management team",
@@ -272,16 +322,6 @@
    "result": false,
    "summary": "McLaren driver Oscar Piastri has confirmed he is no longer being represented by Mark Webber's management team.",
    "image": null
-  },
-  {
-   "title": "Piastri and Webber terminate management agreement",
-   "url": "https://www.autosport.com/f1/news/oscar-piastri-splits-from-mark-webber-management/10873258/",
-   "source": "Autosport",
-   "date": "2026-11-09T08:43:40.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oscar Piastri and Mark Webber have mutually agreed to terminate their management agreement, the pair have announced. Webber and his wife Ann – who ran Mark’s career herself back in the day – became Piastri’s managers in…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0a9ajnr0/s6/oscar-piastri-mclaren-1st-posi.jpg"
   },
   {
    "title": "Oscar Piastri confirms split with F1 career manager Mark Webber",
@@ -311,7 +351,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Several World Endurance Championship drivers have questioned race control for not neutralising the Monza 6 Hours following a late crash involving a Cadillac hypercar. With just two minutes left on the clock, Jota driver…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7BEEM2/s6/untitled.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0R7BEEM2/s6/untitled.jpg"
   },
   {
    "title": "Kyle Larson, Cliff Daniels and the Hendrick 5 are who we say they are",
@@ -321,7 +361,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "When you combine the essence of Jeff Gordon, Tony Stewart, Ray Evernham, Chad Knaus and Jimmie Johnson, you basically get the Hendrick Motorsports No. 5 team, which is now doing a little bit of all the greats that came…",
-   "image": "https://cdn-2.motorsport.com/images/amp/6VyK99wY/s6/kyle-larson-wins-championship-.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/6VyK99wY/s6/kyle-larson-wins-championship-.jpg"
   },
   {
    "title": "Final NASCAR Cup points standings after 2026 Homestead finale",
@@ -331,7 +371,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "The 2026 NASCAR Cup season is officially over. Kyle Larson is a three-time champion, beating championship runner-up Christopher Bell by 49 points, and Denny Hamlin in third by 56 points. Homestead race winner Ryan…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YXyKjjd6/s6/kyle-larson-hendrick-motorspor.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/YXyKjjd6/s6/kyle-larson-hendrick-motorspor.jpg"
   },
   {
    "title": "Official race results: NASCAR Cup Homestead season finale",
@@ -341,27 +381,7 @@
    "series": "NASCAR",
    "result": true,
    "summary": "The 2026 NASCAR Cup season is over. While Kyle Larson claimed his third NASCAR Cup Series championship with Hendrick Motorsports, Ryan Blaney captured the checkered flag for Team Penske. Blaney made the pass for the win…",
-   "image": "https://cdn-7.motorsport.com/images/amp/25dLppQ0/s6/ryan-blaney-wins-race-no-12-te.jpg"
-  },
-  {
-   "title": "All the key moments from the 2026 Sao Paulo Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/sao-paulo-lowdown-all-the-key-moments-as-mercedes-secures-constructors-title-and-norris-wins-in-the-rain.2VjsvSp3rejjziq7VbVVOr",
-   "source": "Formula1.com",
-   "date": "2026-11-09T00:06:39.428Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris claimed victory in a wet thriller at the Sao Paulo Grand Prix, while Mercedes did enough to secure the 2026 Constructors' Championship last weekend.",
-   "image": null
-  },
-  {
-   "title": "How Lawson stated his case with a brilliant Brazilian weekend",
-   "url": "https://www.formula1.com/en/latest/article/how-lawson-stated-his-case-with-a-brilliant-brazilian-weekend.6pFeRcXLYj8qdZZt23LdhV",
-   "source": "Formula1.com",
-   "date": "2026-11-09T00:06:39.428Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lawson, who does not have a confirmed seat with Racing Bulls next season, finished P7 in Sao Paulo after starting on the second row.",
-   "image": null
+   "image": "https://cdn-1.motorsport.com/images/amp/25dLppQ0/s6/ryan-blaney-wins-race-no-12-te.jpg"
   },
   {
    "title": "Ryan Blaney wins Homestead NASCAR Cup finale as Kyle Larson claims 2026 title",
@@ -371,17 +391,7 @@
    "series": "NASCAR",
    "result": true,
    "summary": "Ryan Blaney has won the NASCAR Cup finale for the second consecutive year, as Kyle Larson was crowned a three-time NASCAR Cup Series champion at Homestead-Miami Speedway. Blaney took the lead from Tyler Reddick with an…",
-   "image": "https://cdn-3.motorsport.com/images/amp/01QNXXo0/s6/kyle-larson-hendrick-motorspor-3.jpg"
-  },
-  {
-   "title": "What Mercedes said about race-losing driver spins",
-   "url": "https://www.the-race.com/formula-1/mercedes-trying-to-understand-strange-behaviour-amid-driver-spins/",
-   "source": "The Race",
-   "date": "2026-11-08T23:32:25.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Mercedes is trying to understand why both Kimi Antonelli and George Russell were reporting “strange\" car behaviour in Brazil",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453556_HiRes.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/01QNXXo0/s6/kyle-larson-hendrick-motorspor-3.jpg"
   },
   {
    "title": "Kubica departs AF Corse Ferrari in WEC",
@@ -391,7 +401,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza 6 Hours finale, where…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
    "title": "Social Media: No hand injury after breaking another champagne bottle, says Norris",
@@ -411,10 +421,10 @@
    "series": "WEC",
    "result": false,
    "summary": "Former Formula 1 star Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
-   "title": "Video: Lynn crashes out in controversial crash in final minutes of WEC season",
+   "title": "Video: Lynn crashes out in controversial end to WEC season at Monza",
    "url": "https://www.racefans.net/2026/11/08/video-lynn-crashes-out-in-controversial-crash-in-final-minutes-of-wec-season/",
    "source": "RaceFans",
    "date": "2026-11-08T20:11:57.000Z",
@@ -431,7 +441,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin, who finished seventh in Sunday's MotoGP race at Lusail, showcased his trademark resilience throughout the weekend in Qatar. Resilience that saw him go from considering skipping the race entirely early in…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Marc Marquez unveils simple plan as he closes in on MotoGP title: \"Train, eat, sleep, repeat\"",
@@ -441,7 +451,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez has revealed a change in approach as he looks to seal the MotoGP world championship when the series returns to Europe in two weeks. After securing 32 of a possible 37 points over the Qatar Grand Prix…",
-   "image": "https://cdn-9.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Casey Mears becomes 50th driver to reach 500 NASCAR Cup starts",
@@ -461,7 +471,7 @@
    "series": "MotoGP",
    "result": true,
    "summary": "Marco Bezzecchi bounced back from his crash in the sprint to take Qatar Grand Prix victory, ahead of Marc Marquez who must wait until the Portuguese round to seal the MotoGP world title. Bezzecchi used his superior pace…",
-   "image": "https://cdn-9.motorsport.com/images/amp/25dLrjJ0/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/25dLrjJ0/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Bezzecchi dominates but Marquez on brink of title",
@@ -481,7 +491,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Cadillac signed off the 2026 World Endurance Championship with a dominant victory in the Monza 6 Hours, while Toyota trio Brendon Hartley, Sebastien Buemi and Ryo Hirakawa sealed the drivers’ title despite finishing…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle-2.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Pro Shifter",
@@ -511,7 +521,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Luca Marini has withdrawn from Sunday's Qatar Grand Prix, bringing the starting grid for the race down to a mere 16 bikes. Marini has been struggling all weekend with fatigue symptoms, to the point that he did not come…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YN7vl946/s6/luca-marini-honda-hrc.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/YN7vl946/s6/luca-marini-honda-hrc.jpg"
   },
   {
    "title": "Marini out as Qatar grid is reduced to 16 riders",
@@ -571,7 +581,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia’s Marco Bezzecchi will start the Qatar Grand Prix from pole position after breaking the lap record in qualifying. Marc Marquez will line up second on the grid and will have a chance of sealing his 10th world…",
-   "image": "https://cdn-9.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Ross Chastain says Rick Hendrick inspired, not neutered him in 2023",
@@ -601,7 +611,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin was a deeply satisfied rider after his startling ride to third place in the Qatar MotoGP sprint race on Saturday evening - an effort that drew praise from those he battled. Less comfortable with his…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0Zq8VA46/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0Zq8VA46/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Marc Marquez and Marco Bezzecchi disagree on Qatar MotoGP sprint clash",
@@ -611,7 +621,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez says his clash with Marco Bezzecchi in the Qatar Grand Prix sprint race on Saturday was down to Bezzecchi misjudging his own speed - but his MotoGP rival disagrees. The pair made contact at Turn 1 on the…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0arElPw2/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0arElPw2/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Ferrari hails \"emotional\" Monza pole in final WEC race for 499P",
@@ -641,7 +651,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Two-time MotoGP world champion Francesco Bagnaia has picked up two fractures in his right foot following his frightening accident during the Qatar Grand Prix sprint race on Saturday. The injury will prevent him from…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
   },
   {
    "title": "MotoGP Qatar Grand Prix: Marc Marquez wins thrilling sprint as Jorge Martin fights to third",
@@ -651,7 +661,7 @@
    "series": "MotoGP",
    "result": true,
    "summary": "Marc Marquez emerged victorious from a MotoGP sprint race in Qatar after a controversial clash with Marco Bezzecchi which took the Italian out of the title fight. Jorge Martin put in a spectacular effort to ride to…",
-   "image": "https://cdn-6.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Dale Earnhardt Jr. reveals his hopes for future NASCAR O'Reilly car platform",
@@ -691,17 +701,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia team manager Paolo Bonora has admitted that the remainder of the Qatar GP weekend will be challenging for his factory rider Jorge Martin as the Spaniard's condition deteriorated on Saturday. Martin was upbeat at…",
-   "image": "https://cdn-7.motorsport.com/images/amp/63Qa3Ol2/s6/jorge-martin-aprilia-racing-te.jpg"
-  },
-  {
-   "title": "MotoGP Qatar GP: Bezzecchi storms to pole ahead of Marquez",
-   "url": "https://www.autosport.com/motogp/news/motogp-qatar-gp-bezzecchi-storms-to-pole-ahead-of-marquez/10872487/",
-   "source": "Autosport",
-   "date": "2026-11-07T13:04:28.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Aprilia's Marco Bezzecchi laid down a marker in qualifying for the Qatar Grand Prix, shattering the MotoGP lap record to win a pole duel with Ducati's Marc Marquez. Bezzecchi's team-mate Jorge Martin, who is also Marc's…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6x7L9BmY/s6/marco-bezzecchi-aprilia-racing-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/63Qa3Ol2/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Supercars Sandown: Kostecki wins to advance to finale",
