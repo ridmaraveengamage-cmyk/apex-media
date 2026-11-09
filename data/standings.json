@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T19:29:34.975Z",
+ "updated": "2026-11-09T20:25:01.294Z",
  "groups": [
   "Single-seaters",
   "Motorcycles",
@@ -90,7 +90,7 @@
      "points": 42
     }
    ],
-   "updated": "2026-11-09T19:29:34.975Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "f1-t",
@@ -173,7 +173,7 @@
      "points": 7
     }
    ],
-   "updated": "2026-11-09T19:29:34.975Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "f2",
@@ -256,7 +256,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "f3",
@@ -339,7 +339,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "indycar",
@@ -422,7 +422,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "fe",
@@ -505,7 +505,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "sf",
@@ -588,7 +588,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "motogp",
@@ -671,7 +671,7 @@
      "points": 147
     }
    ],
-   "updated": "2026-11-09T19:29:34.975Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "moto2",
@@ -754,7 +754,7 @@
      "points": 97
     }
    ],
-   "updated": "2026-11-09T19:29:34.975Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "moto3",
@@ -837,7 +837,7 @@
      "points": 103
     }
    ],
-   "updated": "2026-11-09T19:29:34.975Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "wsbk",
@@ -920,7 +920,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "wec",
@@ -935,7 +935,7 @@
     {
      "pos": 1,
      "name": "Sébastien Buemi / Brendon Hartley / Ryō Hirakawa",
-     "points": 114,
+     "points": 115,
      "team": "",
      "color": ""
     },
@@ -949,7 +949,7 @@
     {
      "pos": 3,
      "name": "Kevin Magnussen / Raffaele Marciello",
-     "points": 83,
+     "points": 85,
      "team": "",
      "color": ""
     },
@@ -962,48 +962,48 @@
     },
     {
      "pos": 5,
-     "name": "Dries Vanthoor",
-     "points": 77,
+     "name": "Robin Frijns / René Rast",
+     "points": 81,
      "team": "",
      "color": ""
     },
     {
      "pos": 6,
+     "name": "Dries Vanthoor",
+     "points": 79,
+     "team": "",
+     "color": ""
+    },
+    {
+     "pos": 7,
      "name": "Jack Aitken",
      "points": 77,
      "team": "",
      "color": ""
     },
     {
-     "pos": 7,
-     "name": "Robin Frijns / René Rast",
-     "points": 77,
-     "team": "",
-     "color": ""
-    },
-    {
      "pos": 8,
-     "name": "Antonio Fuoco / Miguel Molina / Nicklas Nielsen",
-     "points": 76,
-     "team": "",
-     "color": ""
-    },
-    {
-     "pos": 9,
      "name": "James Calado / Antonio Giovinazzi / Alessandro Pier Guidi",
      "points": 74,
      "team": "",
      "color": ""
     },
     {
+     "pos": 9,
+     "name": "Antonio Fuoco / Miguel Molina / Nicklas Nielsen",
+     "points": 72,
+     "team": "",
+     "color": ""
+    },
+    {
      "pos": 10,
      "name": "Sheldon van der Linde",
-     "points": 67,
+     "points": 71,
      "team": "",
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "wec-m",
@@ -1018,42 +1018,42 @@
     {
      "pos": 1,
      "name": "Toyota",
-     "points": 213,
+     "points": 215,
      "team": "",
      "color": ""
     },
     {
      "pos": 3,
      "name": "9",
-     "points": 11,
+     "points": 10,
      "team": "",
      "color": ""
     },
     {
      "pos": 2,
      "name": "BMW",
-     "points": 166,
+     "points": 172,
      "team": "",
      "color": ""
     },
     {
      "pos": 7,
      "name": "2",
-     "points": 8,
+     "points": 6,
      "team": "",
      "color": ""
     },
     {
      "pos": 3,
      "name": "Ferrari",
-     "points": 152,
+     "points": 150,
      "team": "",
      "color": ""
     },
     {
      "pos": 6,
      "name": "Ret",
-     "points": 7,
+     "points": 8,
      "team": "",
      "color": ""
     },
@@ -1074,7 +1074,7 @@
     {
      "pos": 6,
      "name": "Aston Martin",
-     "points": 70,
+     "points": 58,
      "team": "",
      "color": ""
     },
@@ -1086,7 +1086,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "imsa",
@@ -1169,7 +1169,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "wrc",
@@ -1252,7 +1252,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "nascar",
@@ -1335,7 +1335,7 @@
      "points": 2306
     }
    ],
-   "updated": "2026-11-09T19:29:34.975Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "nascar-2",
@@ -1418,7 +1418,7 @@
      "points": 2281
     }
    ],
-   "updated": "2026-11-09T19:29:34.975Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "nascar-3",
@@ -1501,7 +1501,7 @@
      "points": 2196
     }
    ],
-   "updated": "2026-11-09T19:29:34.975Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "dtm",
@@ -1584,7 +1584,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "supercars",
@@ -1625,7 +1625,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   },
   {
    "id": "btcc",
@@ -1708,7 +1708,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T17:32:09.002Z"
+   "updated": "2026-11-09T20:25:01.294Z"
   }
  ]
 }
