@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T02:10:16.004Z",
+ "updated": "2026-11-09T03:20:28.957Z",
  "status": {
   "F1": "ok",
   "MotoGP": "ok",
@@ -1679,70 +1679,70 @@
       "name": "Kyle Larson",
       "team": "#5 Chevrolet",
       "color": "#d6a400",
-      "points": 2469
+      "points": 2501
      },
      {
       "pos": 2,
       "name": "Christopher Bell",
       "team": "#20 Toyota",
       "color": "#eb0a1e",
-      "points": 2402
+      "points": 2452
      },
      {
       "pos": 3,
       "name": "Denny Hamlin",
       "team": "#11 Toyota",
       "color": "#eb0a1e",
-      "points": 2399
+      "points": 2445
      },
      {
       "pos": 4,
-      "name": "Chase Briscoe",
-      "team": "#19 Toyota",
-      "color": "#eb0a1e",
-      "points": 2385
-     },
-     {
-      "pos": 5,
-      "name": "Joey Logano",
-      "team": "#22 Ford",
-      "color": "#1f4fa0",
-      "points": 2366
-     },
-     {
-      "pos": 6,
-      "name": "Tyler Reddick",
-      "team": "#45 Toyota",
-      "color": "#eb0a1e",
-      "points": 2344
-     },
-     {
-      "pos": 7,
       "name": "Ryan Blaney",
       "team": "#12 Ford",
       "color": "#1f4fa0",
-      "points": 2336
+      "points": 2407
+     },
+     {
+      "pos": 5,
+      "name": "Tyler Reddick",
+      "team": "#45 Toyota",
+      "color": "#eb0a1e",
+      "points": 2397
+     },
+     {
+      "pos": 6,
+      "name": "Chase Briscoe",
+      "team": "#19 Toyota",
+      "color": "#eb0a1e",
+      "points": 2386
+     },
+     {
+      "pos": 7,
+      "name": "Joey Logano",
+      "team": "#22 Ford",
+      "color": "#1f4fa0",
+      "points": 2386
      },
      {
       "pos": 8,
-      "name": "Ty Gibbs",
-      "team": "#54 Toyota",
-      "color": "#eb0a1e",
-      "points": 2309
-     },
-     {
-      "pos": 9,
       "name": "William Byron",
       "team": "#24 Chevrolet",
       "color": "#d6a400",
-      "points": 2303
+      "points": 2344
+     },
+     {
+      "pos": 9,
+      "name": "Ty Gibbs",
+      "team": "#54 Toyota",
+      "color": "#eb0a1e",
+      "points": 2335
      },
      {
       "pos": 10,
-      "name": "Chase Elliott",
-      "team": "#9 Chevrolet",
-      "color": "#d6a400",
-      "points": 2268
+      "name": "Austin Cindric",
+      "team": "#2 Ford",
+      "color": "#1f4fa0",
+      "points": 2306
      }
     ]
    }

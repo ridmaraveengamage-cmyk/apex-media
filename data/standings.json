@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T02:10:16.006Z",
+ "updated": "2026-11-09T03:20:28.959Z",
  "groups": [
   "Single-seaters",
   "Motorcycles",
@@ -90,7 +90,7 @@
      "points": 42
     }
    ],
-   "updated": "2026-11-09T02:10:16.006Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "f1-t",
@@ -173,7 +173,7 @@
      "points": 7
     }
    ],
-   "updated": "2026-11-09T02:10:16.006Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "f2",
@@ -256,7 +256,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "f3",
@@ -339,7 +339,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "indycar",
@@ -422,7 +422,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "fe",
@@ -505,7 +505,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "sf",
@@ -588,7 +588,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "motogp",
@@ -671,7 +671,7 @@
      "points": 147
     }
    ],
-   "updated": "2026-11-09T02:10:16.006Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "moto2",
@@ -754,7 +754,7 @@
      "points": 97
     }
    ],
-   "updated": "2026-11-09T02:10:16.006Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "moto3",
@@ -837,7 +837,7 @@
      "points": 103
     }
    ],
-   "updated": "2026-11-09T02:10:16.006Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "wsbk",
@@ -920,7 +920,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "wec",
@@ -1003,7 +1003,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "wec-m",
@@ -1086,7 +1086,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "imsa",
@@ -1169,7 +1169,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "wrc",
@@ -1252,7 +1252,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "nascar",
@@ -1269,73 +1269,73 @@
      "name": "Kyle Larson",
      "team": "#5 Chevrolet",
      "color": "#d6a400",
-     "points": 2469
+     "points": 2501
     },
     {
      "pos": 2,
      "name": "Christopher Bell",
      "team": "#20 Toyota",
      "color": "#eb0a1e",
-     "points": 2402
+     "points": 2452
     },
     {
      "pos": 3,
      "name": "Denny Hamlin",
      "team": "#11 Toyota",
      "color": "#eb0a1e",
-     "points": 2399
+     "points": 2445
     },
     {
      "pos": 4,
-     "name": "Chase Briscoe",
-     "team": "#19 Toyota",
-     "color": "#eb0a1e",
-     "points": 2385
-    },
-    {
-     "pos": 5,
-     "name": "Joey Logano",
-     "team": "#22 Ford",
-     "color": "#1f4fa0",
-     "points": 2366
-    },
-    {
-     "pos": 6,
-     "name": "Tyler Reddick",
-     "team": "#45 Toyota",
-     "color": "#eb0a1e",
-     "points": 2344
-    },
-    {
-     "pos": 7,
      "name": "Ryan Blaney",
      "team": "#12 Ford",
      "color": "#1f4fa0",
-     "points": 2336
+     "points": 2407
+    },
+    {
+     "pos": 5,
+     "name": "Tyler Reddick",
+     "team": "#45 Toyota",
+     "color": "#eb0a1e",
+     "points": 2397
+    },
+    {
+     "pos": 6,
+     "name": "Chase Briscoe",
+     "team": "#19 Toyota",
+     "color": "#eb0a1e",
+     "points": 2386
+    },
+    {
+     "pos": 7,
+     "name": "Joey Logano",
+     "team": "#22 Ford",
+     "color": "#1f4fa0",
+     "points": 2386
     },
     {
      "pos": 8,
-     "name": "Ty Gibbs",
-     "team": "#54 Toyota",
-     "color": "#eb0a1e",
-     "points": 2309
-    },
-    {
-     "pos": 9,
      "name": "William Byron",
      "team": "#24 Chevrolet",
      "color": "#d6a400",
-     "points": 2303
+     "points": 2344
+    },
+    {
+     "pos": 9,
+     "name": "Ty Gibbs",
+     "team": "#54 Toyota",
+     "color": "#eb0a1e",
+     "points": 2335
     },
     {
      "pos": 10,
-     "name": "Chase Elliott",
-     "team": "#9 Chevrolet",
-     "color": "#d6a400",
-     "points": 2268
+     "name": "Austin Cindric",
+     "team": "#2 Ford",
+     "color": "#1f4fa0",
+     "points": 2306
     }
    ],
-   "updated": "2026-11-09T02:10:16.006Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "nascar-2",
@@ -1418,7 +1418,7 @@
      "points": 2281
     }
    ],
-   "updated": "2026-11-09T02:10:16.006Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "nascar-3",
@@ -1501,7 +1501,7 @@
      "points": 2196
     }
    ],
-   "updated": "2026-11-09T02:10:16.006Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "dtm",
@@ -1584,7 +1584,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "supercars",
@@ -1612,20 +1612,20 @@
     },
     {
      "pos": 3,
-     "name": "Chaz Mostert",
+     "name": "Broc Feeney (SC)",
      "points": 5096,
      "team": "",
      "color": ""
     },
     {
      "pos": 4,
-     "name": "Broc Feeney (SC)",
+     "name": "Chaz Mostert",
      "points": 5078,
      "team": "",
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   },
   {
    "id": "btcc",
@@ -1708,7 +1708,7 @@
      "color": ""
     }
    ],
-   "updated": "2026-11-09T01:05:16.173Z"
+   "updated": "2026-11-09T03:20:28.959Z"
   }
  ]
 }
