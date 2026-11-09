@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T14:19:36.832Z",
+ "updated": "2026-11-09T15:27:22.404Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,13 +148,13 @@
  ],
  "bySeries": {
   "F1": 15,
+  "IMSA": 15,
+  "WEC": 15,
   "MotoGP": 15,
   "Karting": 5,
-  "WEC": 15,
   "NASCAR": 13,
   "Motorsport": 1,
   "Supercars": 3,
-  "IMSA": 14,
   "DTM": 4,
   "WRC": 13,
   "BTCC": 1,
@@ -163,6 +163,106 @@
   "Formula E": 2
  },
  "items": [
+  {
+   "title": "Rivals congratulate Mercedes on Constructors' Championship",
+   "url": "https://www.formula1.com/en/latest/article/rivals-congratulate-mercedes-on-2026-constructors-championship-after-sao-paulo-gp.5mQ3BkVs5HLP8LE8PduoWY",
+   "source": "Formula1.com",
+   "date": "2026-11-09T15:27:22.404Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes' wait for another Constructors' Championship ended last weekend, as the German manufacturer achieved the feat at the Sao Paulo Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Vasseur explains Ferrari’s tyre struggles in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/if-youre-not-in-the-right-spot-youre-nowhere-vasseur-explains-ferraris-brazil-tyre-struggles.4BJ7k41PfxDI31jhSg9RU",
+   "source": "Formula1.com",
+   "date": "2026-11-09T15:27:22.404Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Team Principal Fred Vasseur has outlined Ferrari's difficulties with getting their tyres into the right window during the Sao Paulo Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Antonelli ‘grateful’ for team glory amid Brazil frustration",
+   "url": "https://www.formula1.com/en/latest/article/they-helped-me-achieve-this-dream-antonelli-grateful-for-mercedes-glory-amid-brazil-frustration.3ZVoYyfjzeFZKrW0bUfXUn",
+   "source": "Formula1.com",
+   "date": "2026-11-09T15:27:22.404Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Kimi Antonelli was keen to prioritise Mercedes’ triumph in the Constructors’ Championship over his Sao Paulo Grand Prix performance.",
+   "image": null
+  },
+  {
+   "title": "What the teams said – Race day in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-brazil-2026.6WRrgNQ7FDoFnwzxR9Vjw7",
+   "source": "Formula1.com",
+   "date": "2026-11-09T15:27:22.404Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The drivers and teams report back from the Autodromo Jose Carlos Pace after the 2026 Sao Paulo Grand Prix in Brazil.",
+   "image": null
+  },
+  {
+   "title": "Conquest Racing locks in 2027 IMSA GTD lineup with Manny Franco full-time return",
+   "url": "https://www.motorsport.com/imsa/news/conquest-racing-locks-in-2027-imsa-gtd-lineup-with-manny-franco-full-time-return/10873389/",
+   "source": "Motorsport.com",
+   "date": "2026-11-09T15:25:04.000Z",
+   "series": "IMSA",
+   "result": false,
+   "summary": "Conquest Racing is gearing up for another campaign in the IMSA WeatherTech SportsCar Championship, marking its fourth consecutive season fielding a Ferrari in the Grand Touring Daytona (GTD) class during a landmark year…",
+   "image": "https://cdn-7.motorsport.com/images/amp/2dEo1jDY/s6/34-conquest-racing-ferrari-296.jpg"
+  },
+  {
+   "title": "New Christian Horner details emerge from Red Bull F1 sacking",
+   "url": "https://www.crash.net/f1/news/1110048/1/new-christian-horner-details-emerge-red-bull-f1-sacking",
+   "source": "Crash.net",
+   "date": "2026-11-09T15:22:19.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Christian Horner sheds new light on his Red Bull F1 sacking.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/si202507060281.jpg?width=1200"
+  },
+  {
+   "title": "Everything we learned from F1's 2026 Brazilian Grand Prix",
+   "url": "https://www.the-race.com/formula-1/everything-we-learned-from-f1s-2026-brazilian-grand-prix/",
+   "source": "The Race",
+   "date": "2026-11-09T15:15:16.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Our main takeaways from F1's thrill-a-minute Brazilian GP at Interlagos",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202611080333_hires_jpeg_24bit_rgb.jpg"
+  },
+  {
+   "title": "Malthe Jakobsen completes McLaren's WEC Hypercar driver line-up",
+   "url": "https://www.motorsport.com/wec/news/malthe-jakobsen-completes-mclarens-wec-hypercar-driver-line-up/10873353/",
+   "source": "Motorsport.com",
+   "date": "2026-11-09T15:00:17.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Malthe Jakobsen has been announced as McLaren’s final signing for its 2027 World Endurance Championship Hypercar project. Fresh from his stint with Peugeot, the Dane will be reunited with his former team-mate Mikkel…",
+   "image": "https://cdn-2.motorsport.com/images/amp/6grQEJbY/s6/malthe-jakobsen-mclaren-racing-3.jpg"
+  },
+  {
+   "title": "Aston Martin told Alonso he was “quicker than the Mercedes” at end of Brazilian GP",
+   "url": "https://www.racefans.net/2026/11/09/aston-martin-told-alonso-he-was-quicker-than-the-mercedes-at-end-of-brazilian-gp/",
+   "source": "RaceFans",
+   "date": "2026-11-09T14:35:19.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Fernando Alonso said it was \"insane we can keep up the pace\" with the Mercedes drivers in the latter stages of the Brazilan Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Fermin Aldeguer defends himself after Francesco Bagnaia crash: “It wasn’t a crazy move”",
+   "url": "https://www.motorsport.com/motogp/news/fermin-aldeguer-defends-himself-after-francesco-bagnaia-crash-it-wasnt-a-crazy-move/10873312/",
+   "source": "Motorsport.com",
+   "date": "2026-11-09T14:31:32.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Fermin Aldeguer has defended himself against criticism over his collision with Francesco Bagnaia which left the factory Ducati rider injured in the Qatar Grand Prix sprint. The Gresini rider was battling with KTM’s…",
+   "image": "https://cdn-3.motorsport.com/images/amp/6b8ZMww2/s6/francesco-bagnaia-ducati-team.jpg"
+  },
   {
    "title": "The 110 seconds that almost won Verstappen the Sao Paulo GP",
    "url": "https://www.formula1.com/en/latest/article/the-110-seconds-that-almost-won-verstappen-the-sao-paulo-grand-prix.1ekcYv2HICNUBqf0ZhUylV",
@@ -191,7 +291,7 @@
    "series": "F1",
    "result": false,
    "summary": "Mercedes is considering giving George Russell “all the force” to secure a 1-2 in the drivers’ championship after a nightmare run of form. Three rounds remain in the 2026 season - assuming the Qatar and Abu Dhabi grands…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6zoDvWa0/s6/max-verstappen-red-bull-racing.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6zoDvWa0/s6/max-verstappen-red-bull-racing.jpg"
   },
   {
    "title": "Lewis Hamilton sends message to Ferrari fans after 'devastating' Brazil GP",
@@ -201,7 +301,7 @@
    "series": "F1",
    "result": false,
    "summary": "Lewis Hamilton has told fans he is \"devastated\" by the outcome of his Brazilian Grand Prix, which began with an impressive charge from the back of the grid and finished with a spin in the closing laps. The Ferrari…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0arE3jP2/s6/motorsport-com-graphics-78.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0arE3jP2/s6/motorsport-com-graphics-78.jpg"
   },
   {
    "title": "Ayrton Senna's rare Honda NSX smashes auction estimate with record six-figure sale",
@@ -211,7 +311,7 @@
    "series": "F1",
    "result": false,
    "summary": "A Honda NSX used by three-time Formula 1 champion Ayrton Senna has set an auction record for the model. The car, which had been estimated to sell for between £500,000 and £800,000 prior to the auction, sold for £871,250…",
-   "image": "https://cdn-3.motorsport.com/images/amp/YP748WQ2/s6/motorsport-com-graphics-77.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/YP748WQ2/s6/motorsport-com-graphics-77.jpg"
   },
   {
    "title": "How Verstappen outperformed Red Bull’s simulations in Brazil",
@@ -231,7 +331,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia Racing CEO Massimo Rivola explained why he disagreed with the stewards’ decision not to penalise Marc Marquez for his collision with Marco Bezzecchi in Saturday’s Qatar Grand Prix sprint. Halfway through the…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6DGgB1wY/s6/massimo-rivola-ceo-de-aprilia--2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGgB1wY/s6/massimo-rivola-ceo-de-aprilia--2.jpg"
   },
   {
    "title": "Hoogendoorn and Venant Victorious in Italy to Become 2026 FIA Karting World Champions",
@@ -264,66 +364,6 @@
    "image": "https://www.crash.net/sites/default/files/2026-11/261108_r20_brazil_dp_av1_2670.jpg?width=1200"
   },
   {
-   "title": "How the Racing Bulls pendulum is swinging back towards undeniable Liam Lawson",
-   "url": "https://www.motorsport.com/f1/news/how-the-racing-bulls-pendulum-is-swinging-back-towards-undeniable-liam-lawson/10873304/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T11:55:10.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "When job security is in short supply, there's one solution for an F1 driver. Be so good they can't ignore you. That's easier said than done, but it certainly seems to be what Liam Lawson has taken to heart as he battled…",
-   "image": "https://cdn-5.motorsport.com/images/amp/2QedBBa2/s6/liam-lawson-racing-bulls-2.jpg"
-  },
-  {
-   "title": "Stella reveals how McLaren triumphed at Interlagos",
-   "url": "https://www.formula1.com/en/latest/article/technically-a-very-interesting-race-stella-reveals-how-norris-and-mclaren-triumphed-at-interlagos.SRa4ORrmm9CcPqhwssoum",
-   "source": "Formula1.com",
-   "date": "2026-11-09T11:54:17.205Z",
-   "series": "F1",
-   "result": false,
-   "summary": "McLaren Team Principal Andrea Stella has explained how McLaren made the right calls to seal Lando Norris' victory at the Sao Paulo Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "All the key moments from the 2026 Sao Paulo Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/sao-paulo-lowdown-all-the-key-moments-as-mercedes-secures-constructors-title-and-norris-wins-in-the-rain.2VjsvSp3rejjziq7VbVVOr",
-   "source": "Formula1.com",
-   "date": "2026-11-09T11:54:17.205Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris claimed victory in a wet thriller at the Sao Paulo Grand Prix, while Mercedes did enough to secure the 2026 Constructors' Championship last weekend.",
-   "image": null
-  },
-  {
-   "title": "How Lawson stated his case with a brilliant Brazilian weekend",
-   "url": "https://www.formula1.com/en/latest/article/how-lawson-stated-his-case-with-a-brilliant-brazilian-weekend.6pFeRcXLYj8qdZZt23LdhV",
-   "source": "Formula1.com",
-   "date": "2026-11-09T11:54:17.205Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lawson, who does not have a confirmed seat with Racing Bulls next season, finished P7 in Sao Paulo after starting on the second row.",
-   "image": null
-  },
-  {
-   "title": "How Max Verstappen beat Red Bull's own simulation tools with P2 in Brazil",
-   "url": "https://www.motorsport.com/f1/news/how-max-verstappen-beat-red-bulls-own-simulation-tools-with-p2-in-brazil/10873308/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T11:33:44.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "For the third year in a row, Verstappen produced an impressive comeback drive in the Formula 1 Sao Paulo Grand Prix. While the Dutchman won from 17th on the grid in 2024 and climbed from the pitlane to third place last…",
-   "image": "https://cdn-8.motorsport.com/images/amp/6Alv98EY/s6/max-verstappen-red-bull-racing-3.jpg"
-  },
-  {
-   "title": "Who slept best last night: Toto Wolff",
-   "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-toto-wolff-10873302/10873302/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T11:13:10.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Toto Wolff didn't need to brag when, on Sunday evening in Sao Paulo, he was asked about his records, which now put him alongside two of F1's greats. The question of how it feels to match Frank Williams' tally of…",
-   "image": "https://cdn-8.motorsport.com/images/amp/24QGbXdY/s6/george-russell-mercedes-andrea.jpg"
-  },
-  {
    "title": "The 'fear' Martin banished with his injured Qatar GP ride",
    "url": "https://www.the-race.com/motogp/jorge-martin-motogp-qatar-fear-banished/",
    "source": "The Race",
@@ -334,16 +374,6 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1362284_HiRes-1.jpg"
   },
   {
-   "title": "Piastri and management team mutually terminate agreement",
-   "url": "https://www.formula1.com/en/latest/article/piastri-and-management-team-mutually-terminate-agreement.a59N6pYIBGSiFmwMY1Xkk",
-   "source": "Formula1.com",
-   "date": "2026-11-09T10:54:34.576Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oscar Piastri and his management team directed by Mark and Ann Webber have mutually terminated their agreement.",
-   "image": null
-  },
-  {
    "title": "Winners and losers from MotoGP’s contentious Qatar Grand Prix",
    "url": "https://www.motorsport.com/motogp/news/winners-and-losers-from-motogps-contentious-qatar-grand-prix/10873291/",
    "source": "Motorsport.com",
@@ -351,7 +381,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "The Qatar Grand Prix featured plenty of drama throughout the weekend, but fortunately all the action was confined to the track. The Lusail round nevertheless had an unusual atmosphere following Yamaha's decision to…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0mXyjRX6/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0mXyjRX6/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Qatar Grand Prix 2026 MotoGP rider rankings",
@@ -371,7 +401,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP has received a wave of criticism for its determination to keep the Qatar Grand Prix on the calendar, an area immersed in an armed conflict since the beginning of the year, even though the event was ultimately…",
-   "image": "https://cdn-2.motorsport.com/images/amp/68VwMWD2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/68VwMWD2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
    "title": "WEC drivers question lack of full-course yellow after heavy Monza crash",
@@ -381,7 +411,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Several World Endurance Championship drivers have questioned race control for not neutralising the Monza 6 Hours following a late crash involving a Cadillac hypercar. With just two minutes left on the clock, Jota driver…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7BEEM2/s6/untitled.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0R7BEEM2/s6/untitled.jpg"
   },
   {
    "title": "Kyle Larson, Cliff Daniels and the Hendrick 5 are who we say they are",
@@ -391,7 +421,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "When you combine the essence of Jeff Gordon, Tony Stewart, Ray Evernham, Chad Knaus and Jimmie Johnson, you basically get the Hendrick Motorsports No. 5 team, which is now doing a little bit of all the greats that came…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6VyK99wY/s6/kyle-larson-wins-championship-.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6VyK99wY/s6/kyle-larson-wins-championship-.jpg"
   },
   {
    "title": "Final NASCAR Cup points standings after 2026 Homestead finale",
@@ -401,7 +431,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "The 2026 NASCAR Cup season is officially over. Kyle Larson is a three-time champion, beating championship runner-up Christopher Bell by 49 points, and Denny Hamlin in third by 56 points. Homestead race winner Ryan…",
-   "image": "https://cdn-6.motorsport.com/images/amp/YXyKjjd6/s6/kyle-larson-hendrick-motorspor.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/YXyKjjd6/s6/kyle-larson-hendrick-motorspor.jpg"
   },
   {
    "title": "Official race results: NASCAR Cup Homestead season finale",
@@ -411,7 +441,7 @@
    "series": "NASCAR",
    "result": true,
    "summary": "The 2026 NASCAR Cup season is over. While Kyle Larson claimed his third NASCAR Cup Series championship with Hendrick Motorsports, Ryan Blaney captured the checkered flag for Team Penske. Blaney made the pass for the win…",
-   "image": "https://cdn-1.motorsport.com/images/amp/25dLppQ0/s6/ryan-blaney-wins-race-no-12-te.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/25dLppQ0/s6/ryan-blaney-wins-race-no-12-te.jpg"
   },
   {
    "title": "Ryan Blaney wins Homestead NASCAR Cup finale as Kyle Larson claims 2026 title",
@@ -431,7 +461,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza 6 Hours finale, where…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
    "title": "Social Media: No hand injury after breaking another champagne bottle, says Norris",
@@ -451,7 +481,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Former Formula 1 star Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
    "title": "Video: Lynn crashes out in controversial end to WEC season at Monza",
@@ -471,7 +501,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin, who finished seventh in Sunday's MotoGP race at Lusail, showcased his trademark resilience throughout the weekend in Qatar. Resilience that saw him go from considering skipping the race entirely early in…",
-   "image": "https://cdn-8.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Marc Marquez unveils simple plan as he closes in on MotoGP title: \"Train, eat, sleep, repeat\"",
@@ -481,7 +511,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez has revealed a change in approach as he looks to seal the MotoGP world championship when the series returns to Europe in two weeks. After securing 32 of a possible 37 points over the Qatar Grand Prix…",
-   "image": "https://cdn-5.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Casey Mears becomes 50th driver to reach 500 NASCAR Cup starts",
@@ -501,7 +531,7 @@
    "series": "MotoGP",
    "result": true,
    "summary": "Marco Bezzecchi bounced back from his crash in the sprint to take Qatar Grand Prix victory, ahead of Marc Marquez who must wait until the Portuguese round to seal the MotoGP world title. Bezzecchi used his superior pace…",
-   "image": "https://cdn-9.motorsport.com/images/amp/25dLrjJ0/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/25dLrjJ0/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Bezzecchi dominates but Marquez on brink of title",
@@ -521,7 +551,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Cadillac signed off the 2026 World Endurance Championship with a dominant victory in the Monza 6 Hours, while Toyota trio Brendon Hartley, Sebastien Buemi and Ryo Hirakawa sealed the drivers’ title despite finishing…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle-2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle-2.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Pro Shifter",
@@ -541,7 +571,7 @@
    "series": "WEC",
    "result": false,
    "summary": "A heavy accident brought an abrupt end to the World Endurance Championship tenure of the #35 Alpine during the Monza 6 Hours when Charles Milesi suffered a massive off at Parabolica. The Frenchman, sharing the #35 entry…",
-   "image": "https://cdn-9.motorsport.com/images/amp/YN7vlVb6/s6/35-alpine-endurance-team-alpin.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/YN7vlVb6/s6/35-alpine-endurance-team-alpin.jpg"
   },
   {
    "title": "Qatar Grand Prix grid down to 16 as Luca Marini withdraws",
@@ -551,7 +581,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Luca Marini has withdrawn from Sunday's Qatar Grand Prix, bringing the starting grid for the race down to a mere 16 bikes. Marini has been struggling all weekend with fatigue symptoms, to the point that he did not come…",
-   "image": "https://cdn-5.motorsport.com/images/amp/YN7vl946/s6/luca-marini-honda-hrc.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/YN7vl946/s6/luca-marini-honda-hrc.jpg"
   },
   {
    "title": "Marini out as Qatar grid is reduced to 16 riders",
@@ -581,7 +611,7 @@
    "series": "WEC",
    "result": false,
    "summary": "After 14 years, the 6 Hours of Monza marks the end of a joint chapter between Signatech and Renault subsidiary Alpine. To mark the farewell, the two Alpine A424s joined the historic Renault-Alpine A442B once again for…",
-   "image": "https://cdn-8.motorsport.com/images/amp/5YXW1A72/s6/wec-abschied-alpine-a424-trifft-auf-historischen-vorgaenger-a442b-26110801.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/5YXW1A72/s6/wec-abschied-alpine-a424-trifft-auf-historischen-vorgaenger-a442b-26110801.jpg"
   },
   {
    "title": "Supercars Sandown: Payne Sunday win sets up title challenge",
@@ -591,7 +621,7 @@
    "series": "Supercars",
    "result": true,
    "summary": "Matt Payne has taken his sixth Supercars win of the season and cemented his points lead with an all-the-way – but in the end, narrow – win at Sandown Park in Melbourne. Payne put his Kelly Racing Ford Mustang on pole…",
-   "image": "https://cdn-7.motorsport.com/images/amp/63QaOwE2/s6/ev13-26-103801-mh7-8676.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/63QaOwE2/s6/ev13-26-103801-mh7-8676.jpg"
   },
   {
    "title": "Josh Berry regrets Ryan Blaney brake check, expected NASCAR penalty",
@@ -611,7 +641,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia’s Marco Bezzecchi will start the Qatar Grand Prix from pole position after breaking the lap record in qualifying. Marc Marquez will line up second on the grid and will have a chance of sealing his 10th world…",
-   "image": "https://cdn-6.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Ross Chastain says Rick Hendrick inspired, not neutered him in 2023",
@@ -641,7 +671,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin was a deeply satisfied rider after his startling ride to third place in the Qatar MotoGP sprint race on Saturday evening - an effort that drew praise from those he battled. Less comfortable with his…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0Zq8VA46/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0Zq8VA46/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Marc Marquez and Marco Bezzecchi disagree on Qatar MotoGP sprint clash",
@@ -651,7 +681,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez says his clash with Marco Bezzecchi in the Qatar Grand Prix sprint race on Saturday was down to Bezzecchi misjudging his own speed - but his MotoGP rival disagrees. The pair made contact at Turn 1 on the…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0arElPw2/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/0arElPw2/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Ferrari hails \"emotional\" Monza pole in final WEC race for 499P",
@@ -674,16 +704,6 @@
    "image": "https://cdn-7.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle.jpg"
   },
   {
-   "title": "Bagnaia out of Qatar MotoGP with fractures in right foot",
-   "url": "https://www.autosport.com/motogp/news/francesco-bagnaia-out-of-qatar-grand-prix-with-fractures-in-right-foot/10872671/",
-   "source": "Autosport",
-   "date": "2026-11-07T18:31:22.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Two-time MotoGP world champion Francesco Bagnaia has picked up two fractures in his right foot following his frightening accident during the Qatar Grand Prix sprint race on Saturday. The injury will prevent him from…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
-  },
-  {
    "title": "Dale Earnhardt Jr. reveals his hopes for future NASCAR O'Reilly car platform",
    "url": "https://www.motorsport.com/nascar-cup/news/dale-earnhardt-jr-reveals-his-hopes-for-the-future-of-nascar-oreilly-car/10872585/",
    "source": "Motorsport.com",
@@ -701,7 +721,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Antonio Fuoco claimed a home pole position for Ferrari in qualifying for the World Endurance Championship finale at Monza. The Italian was the pacesetter throughout the two quick-fire sessions of qualifying on Saturday…",
-   "image": "https://cdn-3.motorsport.com/images/amp/2dEo3WDY/s6/50-ferrari-af-corse-ferrari-49-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/2dEo3WDY/s6/50-ferrari-af-corse-ferrari-49-2.jpg"
   },
   {
    "title": "Haas justifies picking Rafael Camara over Ryo Hirakawa for F1 Brazilian GP",
@@ -761,7 +781,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Hypercar drivers feel they are going “blind” into qualifying at the Monza 6 Hours, with heavy rain preventing any representative dry-weather running on Friday. The final round of the 2026 World Endurance Championship…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0mXywZX6/s6/35-alpine-endurance-team-alpin.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0mXywZX6/s6/35-alpine-endurance-team-alpin.jpg"
   },
   {
    "title": "Kellymoss returns to IMSA WeatherTech championship full-time in 2027",
@@ -771,7 +791,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Longtime Porsche customer team Kellymoss will return to full-time IMSA WeatherTech SportsCar Championship competition in 2027. Michael Clark will make his IMSA debut in the Grand Touring Daytona (GTD) class in the #17…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8Zwee2/s6/kellymoss-indianapolis-8-hour-.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6b8Zwee2/s6/kellymoss-indianapolis-8-hour-.jpg"
   },
   {
    "title": "\"Parked the truck in the paddock aged eight\": Cairoli shares Kimi Antonelli anecdotes",
@@ -791,7 +811,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Ferrari believes abolishing the contentious Balance of Performance should be the “final goal” for the World Endurance Championship’s rulemakers as they work towards finalising the framework for the 2030 Hypercar…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6n7bokg0/s6/50-ferrari-af-corse-ferrari-49.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/6n7bokg0/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "\"FIA rating pushes drivers like me into retirement\" - Sebastien Bourdais",
@@ -801,7 +821,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Set to part ways with Cadillac following this weekend's World Endurance Championship finale in Monza, Sebastien Bourdais expressed clear frustration regarding the current FIA driver categorisation rules, which he feels…",
-   "image": "https://cdn-5.motorsport.com/images/amp/YP7rLvA2/s6/38-cadillac-hertz-team-jota-ca.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YP7rLvA2/s6/38-cadillac-hertz-team-jota-ca.jpg"
   },
   {
    "title": "New WRC constructor offers update on 2027 car development",
@@ -812,16 +832,6 @@
    "result": false,
    "summary": "New World Rally Championship constructor RMC Motorsport has teased an element of its new car revealing that it is making “strong progress” ahead of its expected debut next year. Earlier this year the experienced Spanish…",
    "image": "https://cdn-9.motorsport.com/images/amp/2Qedlg32/s6/26-10-31-render-faro-v1.jpg"
-  },
-  {
-   "title": "Why the 2026 WEC season has proven to be challenging for Ferrari",
-   "url": "https://www.motorsport.com/wec/news/ferrari-2026-hypercar-challenging-year/10872031/",
-   "source": "Motorsport.com",
-   "date": "2026-11-06T11:46:43.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "The 2026 World Endurance Championship has been the first challenging season Ferrari has faced since the beginning of its Hypercar programme. After winning the Le Mans 24 Hours on three consecutive occasions between…",
-   "image": "https://cdn-9.motorsport.com/images/amp/68Vwdp82/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "Ingram stays put at Excelr8 in BTCC until end of decade",
@@ -871,7 +881,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Hanley Motorsports Incorporated (HMI) and DXDT Racing are combining forces to launch a multi-tier IMSA program for the 2027 season, competing under the HMI banner in both the WeatherTech SportsCar Championship and…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YvKBDG76/s6/hanley-announcement-5.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YvKBDG76/s6/hanley-announcement-5.jpg"
   },
   {
    "title": "Oliver Solberg relishing Toyota’s historic Celica WRC revival for 2027",
@@ -911,7 +921,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Lone Star Racing is stepping up to a full-time campaign in the IMSA WeatherTech SportsCar Championship’s Grand Touring Daytona (GTD) class for the 2027 season, expanding beyond its long-standing role as an Endurance Cup…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6b8jEwr2/s6/80-lone-star-racing-mercedes-a.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6b8jEwr2/s6/80-lone-star-racing-mercedes-a.jpg"
   },
   {
    "title": "ECR prepares for IR-28 transition with in-house Dynisma DMG-1 simulator",
@@ -971,7 +981,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Honda Racing Corporation USA (HRS US) has backed Porsche Motorsport’s call for swift progress on the World Endurance Championship (WEC) and IMSA 2030 Hypercar/GTP regulations, stressing that clear guidelines are needed…",
-   "image": "https://cdn-2.motorsport.com/images/amp/2wlKrReY/s6/93-acura-meyer-shank-racing-w-.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/2wlKrReY/s6/93-acura-meyer-shank-racing-w-.jpg"
   },
   {
    "title": "'There’s more to come' as IndyCar and NASCAR leaders eye future doubleheaders",
@@ -1041,7 +1051,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "As World Endurance Championship (WEC) and IMSA stakeholders prepare for the next generation of top-class sports car racing, Porsche Motorsport head Thomas Laudenbach has emphasized the urgency of establishing a clear…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6grQXajY/s6/7-porsche-penske-motorsport-po.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/6grQXajY/s6/7-porsche-penske-motorsport-po.jpg"
   },
   {
    "title": "IndyCar veteran Sting Ray Robb secures United Autosports Asian Le Mans seat",
@@ -1061,7 +1071,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Over the past two years, Eduardo Barrichello has become an increasingly difficult presence to overlook in sportscar racing. Whether it’s been the World Endurance Championship or the IMSA SportsCar Championship, his…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0mXydXq6/s6/23-heart-of-racing-team-aston-.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0mXydXq6/s6/23-heart-of-racing-team-aston-.jpg"
   },
   {
    "title": "AJ Foyt Racing signs Josh Pierson to multi-year deal beginning with 2027 IndyCar season",
@@ -1101,7 +1111,7 @@
    "series": "IMSA",
    "result": true,
    "summary": "When Manthey expanded its program to North America, the transition appeared to deliver the typical dominance associated with the team at first glance. The German squad swept to victory in its second race at the Twelve…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YMXbx5v2/s6/911-manthey-porsche-911-klaus--2.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/YMXbx5v2/s6/911-manthey-porsche-911-klaus--2.jpg"
   },
   {
    "title": "How a philosophy shift brought BMW to new heights in 2026",
@@ -1231,7 +1241,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "On the verge of conquering Japan’s highest tier of open-wheel racing, Kakunoshin ‘Kaku’ Ohta has set his sights across the Pacific. The 27-year-old native has surged to the front of the Super Formula championship…",
-   "image": "https://cdn-5.motorsport.com/images/amp/68VWyAX2/s6/kakunoshin-ohta-docomo-team-da.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/68VWyAX2/s6/kakunoshin-ohta-docomo-team-da.jpg"
   },
   {
    "title": "Inception Racing switches to Corvette for 2027 IMSA GTD season",
@@ -1241,7 +1251,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Inception Racing will embark on its fifth consecutive full-time IMSA WeatherTech SportsCar Championship campaign in 2027, beginning a new era for the team as it transitions to Chevrolet's flagship GT3 platform, the…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0ZR9Ja80/s6/70-inception-racing-ferrari-29-2.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0ZR9Ja80/s6/70-inception-racing-ferrari-29-2.jpg"
   },
   {
    "title": "Jon Armstrong announces WRC co-driver split for 2027",
@@ -1271,7 +1281,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Porsche will withdraw its factory operation from the GTP class of the IMSA SportsCar Championship at the end of 2027, according to Motorsport.com's sister title Motorsport-Total.com. This stems from a decision made a…",
-   "image": "https://cdn-8.motorsport.com/images/amp/6b8ZOne2/s6/6-porsche-penske-motorsport-po.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/6b8ZOne2/s6/6-porsche-penske-motorsport-po.jpg"
   },
   {
    "title": "Porsche boss Laudenbach says he is \"not happy\" with how things were handled by IMSA in 2026",
@@ -1281,7 +1291,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Porsche motorsport boss Thomas Laudenbach has expressed his dissatisfaction with how “things were handled” in the 2026 IMSA season. While not allowed to talk about Balance of Performance (BoP) directly, it is obvious he…",
-   "image": "https://cdn-2.motorsport.com/images/amp/25dLZND0/s6/6-porsche-penske-motorsport-po.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/25dLZND0/s6/6-porsche-penske-motorsport-po.jpg"
   },
   {
    "title": "Philipp Eng and BMW to part ways after 11 years",
@@ -1291,7 +1301,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "BMW M Motorsport and Philipp Eng will part ways following the conclusion of the 2026 season, ending a successful 11-year partnership between the Austrian driver and the German manufacturer. Both parties have mutually…",
-   "image": "https://cdn-9.motorsport.com/images/amp/b6n4mWR2/s6/philipp-eng-verlaesst-bmw-nach-elf-jahren-als-werksfahrer-26102101.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/b6n4mWR2/s6/philipp-eng-verlaesst-bmw-nach-elf-jahren-als-werksfahrer-26102101.jpg"
   },
   {
    "title": "Mirko Bortolotti risked another disqualification: How Grasser saved second place",
@@ -1321,7 +1331,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "TDS Racing is expanding its presence in North America, confirming a return to a two-car LMP2 effort in the IMSA WeatherTech SportsCar Championship for the first time in three years. The French squad, led by Xavier…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6b8jdx32/s6/11-tds-racing-oreca-lmp2-07-to.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6b8jdx32/s6/11-tds-racing-oreca-lmp2-07-to.jpg"
   },
   {
    "title": "WRC star Thierry Neuville makes successful historic circuit racing debut",
