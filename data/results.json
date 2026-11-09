@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T23:08:18.596Z",
+ "updated": "2026-11-09T00:06:54.690Z",
  "status": {
   "F1": "ok",
   "MotoGP": "ok",
@@ -724,9 +724,9 @@
       "name": "Andrea Kimi Antonelli",
       "team": "Mercedes",
       "color": "#27f4d2",
-      "time": "+36.017",
+      "time": "+41.017",
       "points": 10,
-      "fastest": false
+      "fastest": true
      },
      {
       "pos": 6,
@@ -739,19 +739,19 @@
      },
      {
       "pos": 7,
-      "name": "Charles Leclerc",
-      "team": "Ferrari",
-      "color": "#e8002d",
-      "time": "+1:13.586",
+      "name": "Liam Lawson",
+      "team": "RB F1 Team",
+      "color": "#6692ff",
+      "time": "+1:15.402",
       "points": 6,
       "fastest": false
      },
      {
       "pos": 8,
-      "name": "Liam Lawson",
-      "team": "RB F1 Team",
-      "color": "#6692ff",
-      "time": "+1:15.402",
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "color": "#e8002d",
+      "time": "+1:18.586",
       "points": 4,
       "fastest": false
      },
@@ -810,7 +810,7 @@
       "name": "Charles Leclerc",
       "team": "Ferrari",
       "color": "#e8002d",
-      "points": 251
+      "points": 249
      },
      {
       "pos": 6,
@@ -838,7 +838,7 @@
       "name": "Liam Lawson",
       "team": "Red Bull",
       "color": "#3671c6",
-      "points": 87
+      "points": 89
      },
      {
       "pos": 10,
@@ -861,7 +861,7 @@
       "name": "Ferrari",
       "team": "",
       "color": "#e8002d",
-      "points": 512
+      "points": 510
      },
      {
       "pos": 3,
@@ -882,7 +882,7 @@
       "name": "RB F1 Team",
       "team": "",
       "color": "#6692ff",
-      "points": 112
+      "points": 114
      },
      {
       "pos": 6,
@@ -1111,34 +1111,34 @@
     }
    ],
    "lastRace": {
-    "name": "Grand Prix of Malaysia",
-    "place": "Petronas Sepang International Circuit",
-    "date": "2026-11-01",
+    "name": "Grand Prix of Qatar",
+    "place": "Lusail International Circuit",
+    "date": "2026-11-08",
     "results": [
      {
       "pos": 1,
-      "name": "Marc Marquez",
-      "team": "Ducati Lenovo Team",
-      "color": "#d40000",
-      "time": "40:14.236",
+      "name": "Marco Bezzecchi",
+      "team": "Aprilia Racing",
+      "color": "#41bfaa",
+      "time": "41:29.173",
       "points": 25,
       "fastest": false
      },
      {
       "pos": 2,
-      "name": "Pedro Acosta",
-      "team": "Red Bull KTM Factory Racing",
-      "color": "#ff6600",
-      "time": "+4.172",
+      "name": "Marc Marquez",
+      "team": "Ducati Lenovo Team",
+      "color": "#d40000",
+      "time": "+3.083",
       "points": 20,
       "fastest": false
      },
      {
       "pos": 3,
-      "name": "Alex Marquez",
-      "team": "BK8 Gresini Racing MotoGP",
-      "color": "#d40000",
-      "time": "+5.955",
+      "name": "Raul Fernandez",
+      "team": "SuperFile Trackhouse MotoGP Team",
+      "color": "#41bfaa",
+      "time": "+3.614",
       "points": 16,
       "fastest": false
      },
@@ -1147,7 +1147,7 @@
       "name": "Ai Ogura",
       "team": "SuperFile Trackhouse MotoGP Team",
       "color": "#41bfaa",
-      "time": "+6.759",
+      "time": "+4.885",
       "points": 13,
       "fastest": false
      },
@@ -1156,25 +1156,25 @@
       "name": "Enea Bastianini",
       "team": "Red Bull KTM Tech3",
       "color": "#ff6600",
-      "time": "+10.896",
+      "time": "+6.948",
       "points": 11,
       "fastest": false
      },
      {
       "pos": 6,
-      "name": "Marco Bezzecchi",
-      "team": "Aprilia Racing",
-      "color": "#41bfaa",
-      "time": "+11.259",
+      "name": "Pedro Acosta",
+      "team": "Red Bull KTM Factory Racing",
+      "color": "#ff6600",
+      "time": "+7.413",
       "points": 10,
       "fastest": false
      },
      {
       "pos": 7,
-      "name": "Luca Marini",
-      "team": "Honda HRC Castrol",
-      "color": "#e4002b",
-      "time": "+17.724",
+      "name": "Jorge Martin",
+      "team": "Aprilia Racing",
+      "color": "#41bfaa",
+      "time": "+14.023",
       "points": 9,
       "fastest": false
      },
@@ -1183,25 +1183,25 @@
       "name": "Fabio Di Giannantonio",
       "team": "Pertamina Enduro VR46 Racing Team",
       "color": "#d40000",
-      "time": "+17.790",
+      "time": "+15.517",
       "points": 8,
       "fastest": false
      },
      {
       "pos": 9,
-      "name": "Brad Binder",
-      "team": "Red Bull KTM Factory Racing",
-      "color": "#ff6600",
-      "time": "+23.729",
+      "name": "Johann Zarco",
+      "team": "Castrol Honda LCR",
+      "color": "#e4002b",
+      "time": "+16.257",
       "points": 7,
       "fastest": false
      },
      {
       "pos": 10,
-      "name": "Franco Morbidelli",
-      "team": "Pertamina Enduro VR46 Racing Team",
+      "name": "Iker Lecuona",
+      "team": "BK8 Gresini Racing MotoGP",
       "color": "#d40000",
-      "time": "+25.097",
+      "time": "+17.958",
       "points": 6,
       "fastest": false
      }
@@ -1576,53 +1576,53 @@
     }
    ],
    "lastRace": {
-    "name": "Xfinity 500",
-    "place": "Martinsville Speedway",
-    "date": "2026-11-01",
+    "name": "NASCAR Cup Series Championship Race",
+    "place": "Homestead-Miami Speedway",
+    "date": "2026-11-08",
     "results": [
      {
       "pos": 1,
-      "name": "William Byron",
-      "team": "#24 Hendrick Motorsports",
-      "color": "#d6a400",
-      "time": "500 laps",
-      "points": 76,
+      "name": "Ryan Blaney",
+      "team": "#12 Team Penske",
+      "color": "#1f4fa0",
+      "time": "267 laps",
+      "points": 71,
       "fastest": false
      },
      {
       "pos": 2,
-      "name": "Chase Elliott",
-      "team": "#9 Hendrick Motorsports",
-      "color": "#d6a400",
+      "name": "Tyler Reddick",
+      "team": "#45 23XI Racing",
+      "color": "#eb0a1e",
       "time": "Running",
-      "points": 45,
+      "points": 53,
       "fastest": false
      },
      {
       "pos": 3,
-      "name": "Ty Gibbs",
-      "team": "#54 Joe Gibbs Racing",
-      "color": "#eb0a1e",
+      "name": "William Byron",
+      "team": "#24 Hendrick Motorsports",
+      "color": "#d6a400",
       "time": "Running",
-      "points": 51,
+      "points": 41,
       "fastest": false
      },
      {
       "pos": 4,
-      "name": "Josh Berry",
-      "team": "#21 Wood Brothers Racing",
-      "color": "#1f4fa0",
+      "name": "Christopher Bell",
+      "team": "#20 Joe Gibbs Racing",
+      "color": "#eb0a1e",
       "time": "Running",
-      "points": 43,
+      "points": 50,
       "fastest": false
      },
      {
       "pos": 5,
-      "name": "Shane Van Gisbergen",
-      "team": "#97 Trackhouse Racing",
-      "color": "#d6a400",
+      "name": "Bubba Wallace",
+      "team": "#23 23XI Racing",
+      "color": "#eb0a1e",
       "time": "Running",
-      "points": 32,
+      "points": 36,
       "fastest": false
      },
      {
@@ -1631,43 +1631,43 @@
       "team": "#11 Joe Gibbs Racing",
       "color": "#eb0a1e",
       "time": "Running",
-      "points": 31,
+      "points": 46,
       "fastest": false
      },
      {
       "pos": 7,
-      "name": "Austin Dillon",
-      "team": "#3 Richard Childress Racing",
-      "color": "#d6a400",
+      "name": "Austin Cindric",
+      "team": "#2 Team Penske",
+      "color": "#1f4fa0",
       "time": "Running",
-      "points": 30,
+      "points": 43,
       "fastest": false
      },
      {
       "pos": 8,
-      "name": "Bubba Wallace",
-      "team": "#23 23XI Racing",
-      "color": "#eb0a1e",
-      "time": "+1 lap",
-      "points": 34,
+      "name": "Daniel Suárez",
+      "team": "#7 Spire Motorsports",
+      "color": "#d6a400",
+      "time": "Running",
+      "points": 33,
       "fastest": false
      },
      {
       "pos": 9,
-      "name": "Kyle Larson",
-      "team": "#5 Hendrick Motorsports",
-      "color": "#d6a400",
-      "time": "+1 lap",
+      "name": "Noah Gragson",
+      "team": "#4 Front Row Motorsports",
+      "color": "#1f4fa0",
+      "time": "Running",
       "points": 28,
       "fastest": false
      },
      {
       "pos": 10,
-      "name": "Christopher Bell",
-      "team": "#20 Joe Gibbs Racing",
-      "color": "#eb0a1e",
-      "time": "+1 lap",
-      "points": 35,
+      "name": "Michael McDowell",
+      "team": "#71 Spire Motorsports",
+      "color": "#d6a400",
+      "time": "Running",
+      "points": 27,
       "fastest": false
      }
     ]

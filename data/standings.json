@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T23:08:18.599Z",
+ "updated": "2026-11-09T00:06:54.693Z",
  "groups": [
   "Single-seaters",
   "Motorcycles",
@@ -52,7 +52,7 @@
      "name": "Charles Leclerc",
      "team": "Ferrari",
      "color": "#e8002d",
-     "points": 251
+     "points": 249
     },
     {
      "pos": 6,
@@ -80,7 +80,7 @@
      "name": "Liam Lawson",
      "team": "Red Bull",
      "color": "#3671c6",
-     "points": 87
+     "points": 89
     },
     {
      "pos": 10,
@@ -90,7 +90,7 @@
      "points": 42
     }
    ],
-   "updated": "2026-11-08T23:08:18.599Z"
+   "updated": "2026-11-09T00:06:54.693Z"
   },
   {
    "id": "f1-t",
@@ -114,7 +114,7 @@
      "name": "Ferrari",
      "team": "",
      "color": "#e8002d",
-     "points": 512
+     "points": 510
     },
     {
      "pos": 3,
@@ -135,7 +135,7 @@
      "name": "RB F1 Team",
      "team": "",
      "color": "#6692ff",
-     "points": 112
+     "points": 114
     },
     {
      "pos": 6,
@@ -173,7 +173,7 @@
      "points": 7
     }
    ],
-   "updated": "2026-11-08T23:08:18.599Z"
+   "updated": "2026-11-09T00:06:54.693Z"
   },
   {
    "id": "f2",
@@ -671,7 +671,7 @@
      "points": 147
     }
    ],
-   "updated": "2026-11-08T23:08:18.599Z"
+   "updated": "2026-11-09T00:06:54.693Z"
   },
   {
    "id": "moto2",
@@ -754,7 +754,7 @@
      "points": 97
     }
    ],
-   "updated": "2026-11-08T23:08:18.599Z"
+   "updated": "2026-11-09T00:06:54.693Z"
   },
   {
    "id": "moto3",
@@ -837,7 +837,7 @@
      "points": 103
     }
    ],
-   "updated": "2026-11-08T23:08:18.599Z"
+   "updated": "2026-11-09T00:06:54.693Z"
   },
   {
    "id": "wsbk",
@@ -1335,7 +1335,7 @@
      "points": 2268
     }
    ],
-   "updated": "2026-11-08T23:08:18.599Z"
+   "updated": "2026-11-09T00:06:54.693Z"
   },
   {
    "id": "nascar-2",
@@ -1418,7 +1418,7 @@
      "points": 2281
     }
    ],
-   "updated": "2026-11-08T23:08:18.599Z"
+   "updated": "2026-11-09T00:06:54.693Z"
   },
   {
    "id": "nascar-3",
@@ -1501,7 +1501,7 @@
      "points": 2196
     }
    ],
-   "updated": "2026-11-08T23:08:18.599Z"
+   "updated": "2026-11-09T00:06:54.693Z"
   },
   {
    "id": "dtm",
