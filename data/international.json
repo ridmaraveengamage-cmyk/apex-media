@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:22:05.016Z",
+ "updated": "2026-11-10T13:39:50.832Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,8 +148,8 @@
  ],
  "bySeries": {
   "F1": 15,
-  "WEC": 15,
   "MotoGP": 15,
+  "WEC": 15,
   "NASCAR": 13,
   "Karting": 4,
   "IndyCar": 15,
@@ -157,12 +157,92 @@
   "IMSA": 14,
   "Supercars": 3,
   "DTM": 4,
-  "WRC": 12,
+  "WRC": 11,
   "BTCC": 1,
   "Dakar": 2,
   "Formula E": 2
  },
  "items": [
+  {
+   "title": "Why McLaren went the opposite way to Mercedes' front wing",
+   "url": "https://www.formula1.com/en/latest/article/why-mclaren-went-the-opposite-way-to-mercedes-on-their-front-wing.6adMZ9ne0eiXVRofKcPgF8",
+   "source": "Formula1.com",
+   "date": "2026-11-10T13:39:50.832Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mark Hughes and Giorgio Piola investigate the front wing switch that helped McLaren's Lando Norris win the Sao Paulo Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "The best images from Mercedes' title celebrations",
+   "url": "https://www.formula1.com/en/latest/article/gallery-the-best-images-from-mercedes-title-celebrations-2026.1GRUyTDIodPm4vvlVEydw5",
+   "source": "Formula1.com",
+   "date": "2026-11-10T13:39:50.832Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes sealed the Teams' Championship in Sao Paulo on Sunday after a double points finish from George Russell and Kimi Antonelli.",
+   "image": null
+  },
+  {
+   "title": "5 Winners and 5 Losers from Sao Paulo",
+   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-sao-paulo.3fmqE8g482DzZTO98sG7Bf",
+   "source": "Formula1.com",
+   "date": "2026-11-10T13:39:50.832Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lawrence Barretto selects his winners and losers at the Autodromo Jose Carlos Pace.",
+   "image": null
+  },
+  {
+   "title": "How Verstappen outperformed Red Bull’s simulations in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/mekies-explains-how-verstappen-outperformed-red-bulls-own-simulations-in-brazil.1ps87tyvjdEf23vDCaDXOZ",
+   "source": "Formula1.com",
+   "date": "2026-11-10T13:39:50.832Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Laurent Mekies has praised Max Verstappen for his sublime recovery from P21 to P2 at the Sao Paulo Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Stella reveals how McLaren triumphed at Interlagos",
+   "url": "https://www.formula1.com/en/latest/article/technically-a-very-interesting-race-stella-reveals-how-norris-and-mclaren-triumphed-at-interlagos.SRa4ORrmm9CcPqhwssoum",
+   "source": "Formula1.com",
+   "date": "2026-11-10T13:39:50.832Z",
+   "series": "F1",
+   "result": false,
+   "summary": "McLaren Team Principal Andrea Stella has explained how McLaren made the right calls to seal Lando Norris' victory at the Sao Paulo Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Piastri and management team mutually terminate agreement",
+   "url": "https://www.formula1.com/en/latest/article/piastri-and-management-team-mutually-terminate-agreement.a59N6pYIBGSiFmwMY1Xkk",
+   "source": "Formula1.com",
+   "date": "2026-11-10T13:39:50.832Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Oscar Piastri and his management team directed by Mark and Ann Webber have mutually terminated their agreement.",
+   "image": null
+  },
+  {
+   "title": "Valentino Rossi in new autobiography: '2015 still hurts, Marc Marquez wanted me to lose'",
+   "url": "https://www.motorsport.com/motogp/news/rossi-autobiography-revisits-marquez-2015-feud/10873453/",
+   "source": "Motorsport.com",
+   "date": "2026-11-10T13:03:17.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Valentino Rossi has revisited his 2015 feud with Marc Marquez in his new autobiography, maintaining that the Spaniard interfered in his MotoGP title battle with Jorge Lorenzo. The nine-time world champion previously…",
+   "image": "https://cdn-5.motorsport.com/images/amp/6n7AkNA0/s6/valentino-rossi-celebra-la-vic.jpg"
+  },
+  {
+   "title": "Max Verstappen makes bold ‘I’d quit’ claim over F1's best driver debate",
+   "url": "https://www.crash.net/f1/news/1110060/1/max-verstappen-makes-bold-id-quit-claim-over-f1s-best-driver-debate",
+   "source": "Crash.net",
+   "date": "2026-11-10T12:55:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen remains confident in his abilities despite missing out on the Formula 1 drivers' title for the second consecutive season",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453962_hires.jpg?width=1200"
+  },
   {
    "title": "Rivals congratulate Mercedes on Constructors' Championship",
    "url": "https://www.formula1.com/en/latest/article/rivals-congratulate-mercedes-on-2026-constructors-championship-after-sao-paulo-gp.5mQ3BkVs5HLP8LE8PduoWY",
@@ -171,16 +251,6 @@
    "series": "F1",
    "result": false,
    "summary": "Mercedes' wait for another Constructors' Championship ended last weekend, as the German manufacturer achieved the feat at the Sao Paulo Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Vasseur explains Ferrari’s tyre struggles in Brazil",
-   "url": "https://www.formula1.com/en/latest/article/if-youre-not-in-the-right-spot-youre-nowhere-vasseur-explains-ferraris-brazil-tyre-struggles.4BJ7k41PfxDI31jhSg9RU",
-   "source": "Formula1.com",
-   "date": "2026-11-10T12:22:05.016Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Team Principal Fred Vasseur has outlined Ferrari's difficulties with getting their tyres into the right window during the Sao Paulo Grand Prix.",
    "image": null
   },
   {
@@ -231,7 +301,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Toyota says the battle for the drivers’ title was effectively decided before the Monza 6 Hours, hinting at the Balance of Performance as a contributing factor for an anticlimactic end to the 2026 World Endurance…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8ZM4j2/s6/8-toyota-gazoo-racing-toyota-t.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6b8ZM4j2/s6/8-toyota-gazoo-racing-toyota-t.jpg"
   },
   {
    "title": "Alonso credits ‘phenomenal’ car after strong drive in Brazil",
@@ -264,36 +334,6 @@
    "image": null
   },
   {
-   "title": "Mercedes to investigate ‘very strange’ car behaviour after Brazil GP",
-   "url": "https://www.crash.net/f1/news/1110055/1/mercedes-investigate-very-strange-car-behaviour-after-brazil-gp",
-   "source": "Crash.net",
-   "date": "2026-11-10T10:40:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The Mercedes team principal believes an overlooked issue may have contributed to George Russell and Kimi Antonelli's struggles at Interlagos",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453954_hires.jpg?width=1200"
-  },
-  {
-   "title": "Honda struggling to explain Lance Stroll’s 13th DNF of the season",
-   "url": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T10:25:06.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Honda says it needs to find the root cause of Lance Stroll’s multiple battery issues after yet another retirement for the Aston Martin Formula 1 driver in the Brazilian Grand Prix. Stroll’s race in Sao Paulo ended after…",
-   "image": "https://cdn-2.motorsport.com/images/amp/Y9lNZkP2/s6/lance-stroll-aston-martin-raci-2.jpg"
-  },
-  {
-   "title": "Red Bull boss admits Max Verstappen is ‘beating the sim’ after Brazil GP comeback",
-   "url": "https://www.crash.net/f1/news/1110053/1/red-bull-boss-admits-max-verstappen-beating-sim-after-brazil-gp-comeback",
-   "source": "Crash.net",
-   "date": "2026-11-10T09:50:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Red Bull's team principal admitted that even the team's expectations were exceeded by Max Verstappen's recovery drive in Brazil",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453684_hires.jpg?width=1200"
-  },
-  {
    "title": "Massimo Rivola: 'Aprilia didn’t lose the championship, Marc Marquez won it'",
    "url": "https://www.motorsport.com/motogp/news/aprilia-didnt-lose-title-marc-marquez-won-massimo-rivola/10873461/",
    "source": "Motorsport.com",
@@ -301,7 +341,7 @@
    "series": "MotoGP",
    "result": true,
    "summary": "Aprilia Racing CEO Massimo Rivola insists his team didn't lose the 2026 MotoGP title, but that Marc Marquez won it through his outstanding performances on the Ducati. Marquez is on the verge of securing his 10th…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0rVPOjy0/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0rVPOjy0/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "The Monza heartbreak that left Genesis without a podium in maiden WEC campaign",
@@ -311,37 +351,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Genesis’s maiden campaign in the World Endurance Championship ended without a single podium finish after its leading hypercar retired from the Monza 6 Hours due to a technical issue. Paul-Loup Chatin was running a…",
-   "image": "https://cdn-8.motorsport.com/images/amp/2GdK1kVY/s6/19-genesis-magma-racing-genesi.jpg"
-  },
-  {
-   "title": "F1's underrated rain master has proven himself again",
-   "url": "https://www.the-race.com/formula-1/f1s-underrated-rain-master-has-proven-himself-again/",
-   "source": "The Race",
-   "date": "2026-11-10T08:54:32.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Why does one F1 driver keep having to prove his clearly excellent wet-weather credentials? Edd Straw investigates",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452909_HiRes.jpg"
-  },
-  {
-   "title": "Laurent Mekies: Liam Lawson’s fate has nothing to do with me",
-   "url": "https://www.motorsport.com/f1/news/laurent-mekies-liam-lawsons-fate-has-nothing-to-do-with-me/10873368/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T08:28:03.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Red Bull team principal Laurent Mekies says it’s up to Racing Bulls whether to retain Liam Lawson or promote Nikola Tsolov to a race seat in the 2027 Formula 1 season. Rookie Arvid Lindblad is set to get a second…",
-   "image": "https://cdn-6.motorsport.com/images/amp/YE9wPXPY/s6/liam-lawson-racing-bulls-laure.jpg"
-  },
-  {
-   "title": "5 betting lessons learnt after Norris wins in Brazil",
-   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-lando-norris-wins-the-sao-paulo-grand-prix-in-brazil.5yqAHXsmHN6KYWGDkNYvUt",
-   "source": "Formula1.com",
-   "date": "2026-11-10T08:11:39.268Z",
-   "series": "F1",
-   "result": true,
-   "summary": "The battle for race wins remains wide open heading into the season-closing triple header.",
-   "image": null
+   "image": "https://cdn-7.motorsport.com/images/amp/2GdK1kVY/s6/19-genesis-magma-racing-genesi.jpg"
   },
   {
    "title": "Joe Gibbs Racing moves to resolve one portion of Spire countersuit",
@@ -351,7 +361,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "While not entirely justifying the claims made against it, Joe Gibbs Racing has moved to satisfy one of the counterclaims brought against it by Spire Motorsports by issuing a payment in exchange for the services of car…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0JXRpGEY/s6/gettyimages-2271045447-780x520.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0JXRpGEY/s6/gettyimages-2271045447-780x520.jpg"
   },
   {
    "title": "Alex Bowman hits out at critics in snarky post, shooting down early exit rumors",
@@ -361,7 +371,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "This was not a fun year to be Alex Bowman. He missed four races while suffering from vertigo, endured some big crashes, and ended the year 26th in the final standings -- his worst since joining Hendrick Motorsports. He…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0rVPVGG0/s6/alex-bowman-hendrick-motorspor.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0rVPVGG0/s6/alex-bowman-hendrick-motorspor.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Predictions",
@@ -381,7 +391,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "In 2024, Ryan Blaney lost the Homestead race in pretty brutal fashion. He held the lead entering Turn 3 on the final lap, only to have Tyler Reddick rip around his outside and snatch the win away from the No. 12 Team…",
-   "image": "https://cdn-9.motorsport.com/images/amp/YXyKjG56/s6/ryan-blaney-wins-no-12-team-pe.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YXyKjG56/s6/ryan-blaney-wins-no-12-team-pe.jpg"
   },
   {
    "title": "IndyCar 2026 season review: Dale Coyne Racing",
@@ -511,7 +521,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Fermin Aldeguer has defended himself against criticism over his collision with Francesco Bagnaia which left the factory Ducati rider injured in the Qatar Grand Prix sprint. The Gresini rider was battling with KTM’s…",
-   "image": "https://cdn-9.motorsport.com/images/amp/6b8ZMww2/s6/francesco-bagnaia-ducati-team-3.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/6b8ZMww2/s6/francesco-bagnaia-ducati-team-3.jpg"
   },
   {
    "title": "Aprilia: “Marco Bezzecchi couldn’t avoid the collision; Marc Marquez moved in on him\"",
@@ -521,7 +531,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia Racing CEO Massimo Rivola explained why he disagreed with the stewards’ decision not to penalise Marc Marquez for his collision with Marco Bezzecchi in Saturday’s Qatar Grand Prix sprint. Halfway through the…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6DGgB1wY/s6/massimo-rivola-ceo-de-aprilia--2.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6DGgB1wY/s6/massimo-rivola-ceo-de-aprilia--2.jpg"
   },
   {
    "title": "Hoogendoorn and Venant Victorious in Italy to Become 2026 FIA Karting World Champions",
@@ -551,7 +561,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "The Qatar Grand Prix featured plenty of drama throughout the weekend, but fortunately all the action was confined to the track. The Lusail round nevertheless had an unusual atmosphere following Yamaha's decision to…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0mXyjRX6/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/0mXyjRX6/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Qatar Grand Prix 2026 MotoGP rider rankings",
@@ -571,7 +581,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP has received a wave of criticism for its determination to keep the Qatar Grand Prix on the calendar, an area immersed in an armed conflict since the beginning of the year, even though the event was ultimately…",
-   "image": "https://cdn-9.motorsport.com/images/amp/68VwMWD2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/68VwMWD2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
    "title": "WEC drivers question lack of full-course yellow after heavy Monza crash",
@@ -631,7 +641,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza 6 Hours finale, where…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
    "title": "Social Media: No hand injury after breaking another champagne bottle, says Norris",
@@ -671,7 +681,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin, who finished seventh in Sunday's MotoGP race at Lusail, showcased his trademark resilience throughout the weekend in Qatar. Resilience that saw him go from considering skipping the race entirely early in…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Marc Marquez unveils simple plan as he closes in on MotoGP title: \"Train, eat, sleep, repeat\"",
@@ -681,7 +691,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez has revealed a change in approach as he looks to seal the MotoGP world championship when the series returns to Europe in two weeks. After securing 32 of a possible 37 points over the Qatar Grand Prix…",
-   "image": "https://cdn-6.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Casey Mears becomes 50th driver to reach 500 NASCAR Cup starts",
@@ -721,7 +731,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Luca Marini has withdrawn from Sunday's Qatar Grand Prix, bringing the starting grid for the race down to a mere 16 bikes. Marini has been struggling all weekend with fatigue symptoms, to the point that he did not come…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YN7vl946/s6/luca-marini-honda-hrc.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YN7vl946/s6/luca-marini-honda-hrc.jpg"
   },
   {
    "title": "Kyle Busch Remembered: Winning two NASCAR Cup championships at Homestead",
@@ -751,7 +761,7 @@
    "series": "Supercars",
    "result": true,
    "summary": "Matt Payne has taken his sixth Supercars win of the season and cemented his points lead with an all-the-way – but in the end, narrow – win at Sandown Park in Melbourne. Payne put his Kelly Racing Ford Mustang on pole…",
-   "image": "https://cdn-7.motorsport.com/images/amp/63QaOwE2/s6/ev13-26-103801-mh7-8676.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/63QaOwE2/s6/ev13-26-103801-mh7-8676.jpg"
   },
   {
    "title": "MotoGP Qatar GP: Full starting grid",
@@ -771,7 +781,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin was a deeply satisfied rider after his startling ride to third place in the Qatar MotoGP sprint race on Saturday evening - an effort that drew praise from those he battled. Less comfortable with his…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Zq8VA46/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0Zq8VA46/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Marc Marquez and Marco Bezzecchi disagree on Qatar MotoGP sprint clash",
@@ -781,7 +791,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez says his clash with Marco Bezzecchi in the Qatar Grand Prix sprint race on Saturday was down to Bezzecchi misjudging his own speed - but his MotoGP rival disagrees. The pair made contact at Turn 1 on the…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0arElPw2/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0arElPw2/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Ferrari hails \"emotional\" Monza pole in final WEC race for 499P",
@@ -802,16 +812,6 @@
    "result": false,
    "summary": "Ryo Hirakawa is unsure whether even bold strategic calls will be enough to propel Toyota towards the front in the World Endurance Championship's Monza finale after a difficult qualifying session. Hirakawa admitted the…",
    "image": "https://cdn-7.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle.jpg"
-  },
-  {
-   "title": "Bagnaia out of Qatar MotoGP with fractures in right foot",
-   "url": "https://www.autosport.com/motogp/news/francesco-bagnaia-out-of-qatar-grand-prix-with-fractures-in-right-foot/10872671/",
-   "source": "Autosport",
-   "date": "2026-11-07T18:31:22.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Two-time MotoGP world champion Francesco Bagnaia has picked up two fractures in his right foot following his frightening accident during the Qatar Grand Prix sprint race on Saturday. The injury will prevent him from…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
   },
   {
    "title": "WEC Monza: Antonio Fuoco takes pole for Ferrari",
@@ -1322,16 +1322,6 @@
    "result": false,
    "summary": "Formula E chief executive Jeff Dodds has said that he'd still love to see Max Verstappen drive the new Gen4 car, the most powerful yet used in the championship. He hasn't yet discussed it with the four-time Formula 1…",
    "image": "https://cdn-9.motorsport.com/images/amp/YpbAopX0/s6/72945935-11.jpg"
-  },
-  {
-   "title": "WRC star Thierry Neuville makes successful historic circuit racing debut",
-   "url": "https://www.motorsport.com/wrc/news/wrc-star-thierry-neuville-makes-successful-historic-circuit-racing-debut/10866477/",
-   "source": "Motorsport.com",
-   "date": "2026-10-20T12:30:04.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "World Rally Championship driver Thierry Neuville took victory on his historic circuit racing debut at the Imola Classic. The 2024 WRC champion swapped rally machinery for a Ford Escort RS1600 and his own BMW M3 E30…",
-   "image": "https://cdn-8.motorsport.com/images/amp/6n7Ayxl0/s6/thierry-neuville-hyundai-world.jpg"
   }
  ]
 }
