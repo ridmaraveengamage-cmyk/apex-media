@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:23:23.864Z",
+ "updated": "2026-11-10T10:26:57.225Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,22 +147,42 @@
   }
  ],
  "bySeries": {
-  "WEC": 15,
   "F1": 15,
+  "MotoGP": 15,
+  "WEC": 15,
   "NASCAR": 13,
   "Karting": 4,
   "IndyCar": 15,
   "Motorsport": 2,
   "IMSA": 14,
-  "MotoGP": 15,
   "Supercars": 3,
   "DTM": 4,
-  "WRC": 13,
+  "WRC": 12,
   "BTCC": 1,
   "Dakar": 2,
   "Formula E": 2
  },
  "items": [
+  {
+   "title": "Red Bull boss admits Max Verstappen is ‘beating the sim’ after Brazil GP comeback",
+   "url": "https://www.crash.net/f1/news/1110053/1/red-bull-boss-admits-max-verstappen-beating-sim-after-brazil-gp-comeback",
+   "source": "Crash.net",
+   "date": "2026-11-10T09:50:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Red Bull's team principal admitted that even the team's expectations were exceeded by Max Verstappen's recovery drive in Brazil",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453684_hires.jpg?width=1200"
+  },
+  {
+   "title": "Massimo Rivola: 'Aprilia didn’t lose the championship, Marc Marquez won it'",
+   "url": "https://www.motorsport.com/motogp/news/aprilia-didnt-lose-title-marc-marquez-won-massimo-rivola/10873461/",
+   "source": "Motorsport.com",
+   "date": "2026-11-10T09:46:01.000Z",
+   "series": "MotoGP",
+   "result": true,
+   "summary": "Aprilia Racing CEO Massimo Rivola insists his team didn't lose the 2026 MotoGP title, but that Marc Marquez won it through his outstanding performances on the Ducati. Marquez is on the verge of securing his 10th…",
+   "image": "https://cdn-2.motorsport.com/images/amp/0rVPOjy0/s6/marc-marquez-ducati-team.jpg"
+  },
   {
    "title": "The Monza heartbreak that left Genesis without a podium in maiden WEC campaign",
    "url": "https://www.motorsport.com/wec/news/the-monza-heartbreak-that-left-genesis-without-a-podium-in-maiden-wec-campaign/10873445/",
@@ -171,7 +191,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Genesis’s maiden campaign in the World Endurance Championship ended without a single podium finish after its leading hypercar retired from the Monza 6 Hours due to a technical issue. Paul-Loup Chatin was running a…",
-   "image": "https://cdn-3.motorsport.com/images/amp/2GdK1kVY/s6/19-genesis-magma-racing-genesi.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/2GdK1kVY/s6/19-genesis-magma-racing-genesi.jpg"
   },
   {
    "title": "F1's underrated rain master has proven himself again",
@@ -180,7 +200,7 @@
    "date": "2026-11-10T08:54:32.000Z",
    "series": "F1",
    "result": false,
-   "summary": "Why does this driver keep having to prove his clearly excellent wet-weather credentials? Edd Straw investigates",
+   "summary": "Why does one F1 driver keep having to prove his clearly excellent wet-weather credentials? Edd Straw investigates",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452909_HiRes.jpg"
   },
   {
@@ -191,7 +211,7 @@
    "series": "F1",
    "result": false,
    "summary": "Red Bull team principal Laurent Mekies says it’s up to Racing Bulls whether to retain Liam Lawson or promote Nikola Tsolov to a race seat in the 2027 Formula 1 season. Rookie Arvid Lindblad is set to get a second…",
-   "image": "https://cdn-5.motorsport.com/images/amp/YE9wPXPY/s6/liam-lawson-racing-bulls-laure.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YE9wPXPY/s6/liam-lawson-racing-bulls-laure.jpg"
   },
   {
    "title": "5 betting lessons learnt after Norris wins in Brazil",
@@ -231,7 +251,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "While not entirely justifying the claims made against it, Joe Gibbs Racing has moved to satisfy one of the counterclaims brought against it by Spire Motorsports by issuing a payment in exchange for the services of car…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0JXRpGEY/s6/gettyimages-2271045447-780x520.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0JXRpGEY/s6/gettyimages-2271045447-780x520.jpg"
   },
   {
    "title": "5 Winners and 5 Losers from Sao Paulo",
@@ -281,7 +301,7 @@
    "series": "F1",
    "result": false,
    "summary": "American DJ Steve Aoki will return to the Las Vegas Grand Prix grid this year for a performance before the race on 21 November. He will be joined by fellow DJ MORTEN and singer Jordin Sparks as part of the pre-race…",
-   "image": "https://cdn-8.motorsport.com/images/amp/6n7b5XR0/s6/motorsport-com-graphics-84.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6n7b5XR0/s6/motorsport-com-graphics-84.jpg"
   },
   {
    "title": "Lewis Hamilton to share flight with Mercedes after former team's F1 title triumph",
@@ -291,7 +311,7 @@
    "series": "F1",
    "result": true,
    "summary": "Seven-time Formula 1 champion Lewis Hamilton's trip back from Interlagos could have been an awkward one after Mercedes team principal Toto Wolff revealed that the Ferrari driver would be travelling with the newly…",
-   "image": "https://cdn-4.motorsport.com/images/amp/2QedBGJ2/s6/motorsport-com-graphics-83.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/2QedBGJ2/s6/motorsport-com-graphics-83.jpg"
   },
   {
    "title": "George Russell \"keeps getting kicked\" as F1 pundit addresses 2026 struggles",
@@ -324,16 +344,6 @@
    "image": null
   },
   {
-   "title": "The 110 seconds that almost won Verstappen the Sao Paulo GP",
-   "url": "https://www.formula1.com/en/latest/article/the-110-seconds-that-almost-won-verstappen-the-sao-paulo-grand-prix.1ekcYv2HICNUBqf0ZhUylV",
-   "source": "Formula1.com",
-   "date": "2026-11-09T20:24:57.308Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Michael Lamonato looks at how Max Verstappen's wet-weather skill carried him from 21st on the grid into contention at Interlagos – and what stopped him turning a rapid opening into victory.",
-   "image": null
-  },
-  {
    "title": "Alex Bowman hits out at critics in snarky post, shooting down early exit rumors",
    "url": "https://www.motorsport.com/nascar-cup/news/alex-bowman-shoots-down-2027-rumors-in-snarky-response-to-critics/10873440/",
    "source": "Motorsport.com",
@@ -341,7 +351,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "This was not a fun year to be Alex Bowman. He missed four races while suffering from vertigo, endured some big crashes, and ended the year 26th in the final standings -- his worst since joining Hendrick Motorsports. He…",
-   "image": "https://cdn-8.motorsport.com/images/amp/0rVPVGG0/s6/alex-bowman-hendrick-motorspor.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0rVPVGG0/s6/alex-bowman-hendrick-motorspor.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Predictions",
@@ -361,7 +371,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "In 2024, Ryan Blaney lost the Homestead race in pretty brutal fashion. He held the lead entering Turn 3 on the final lap, only to have Tyler Reddick rip around his outside and snatch the win away from the No. 12 Team…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YXyKjG56/s6/ryan-blaney-wins-no-12-team-pe.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YXyKjG56/s6/ryan-blaney-wins-no-12-team-pe.jpg"
   },
   {
    "title": "IndyCar 2026 season review: Dale Coyne Racing",
@@ -371,7 +381,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Dale Coyne Racing (DCR) delivered some gritty performances during the 2026 IndyCar Series season. Running a traditional two-car program, DCR blended veteran setup experience in Romain Grosjean’s #18 Honda with the fresh…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6VyK9GVY/s6/dennis-hauger-and-romain-grosj.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6VyK9GVY/s6/dennis-hauger-and-romain-grosj.jpg"
   },
   {
    "title": "Noah Gragson apologizes to Daniel Suarez for spinning him at Homestead",
@@ -381,7 +391,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "On Lap 254 of 267 at Homestead-Miami Speedway, the one and only on-track incident occurred when Noah Gragson got into the left-rear of Daniel Suarez, spinning him out in the battle for 11th. Gragson became frustrated…",
-   "image": "https://cdn-3.motorsport.com/images/amp/25dLpVE0/s6/screenshot-2026-11-09-at-12-16.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/25dLpVE0/s6/screenshot-2026-11-09-at-12-16.jpg"
   },
   {
    "title": "Ex-DTM champion Guven fails to clear Formula E license hurdle: What is Porsche doing?",
@@ -391,7 +401,7 @@
    "series": "WEC",
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
-   "image": "https://cdn-6.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
   },
   {
    "title": "Ferrari explains tyre pressure mistake in Monza WEC",
@@ -401,7 +411,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "Winners and losers from a different NASCAR Cup finale at Homestead",
@@ -411,7 +421,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "The 36th and final NASCAR Cup race of 2026 is history, inspection is clear, and all results are final. Ryan Blaney got to celebrate a race win while Kyle Larson was officially crowned a three-time champion. The season…",
-   "image": "https://cdn-9.motorsport.com/images/amp/6lmARpm0/s6/denny-hamlin-joe-gibbs-racing.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/6lmARpm0/s6/denny-hamlin-joe-gibbs-racing.jpg"
   },
   {
    "title": "How Aston Martin’s fuel gamble in Monza WEC fell short by just three seconds",
@@ -421,7 +431,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Aston Martin lost a podium in a dramatic climax to the 2026 World Endurance Championship in Monza due to two penalties that dropped the #007 Valkyrie down to 12th place. Having struggled with early strategy calls that…",
-   "image": "https://cdn-2.motorsport.com/images/amp/6zoD89e0/s6/007-heart-of-racing-aston-mart.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/6zoD89e0/s6/007-heart-of-racing-aston-mart.jpg"
   },
   {
    "title": "Brad Keselowski expects \"lots of soul searching\" in off-season as he reflects on 2026",
@@ -481,7 +491,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Malthe Jakobsen has been announced as McLaren’s final signing for its 2027 World Endurance Championship Hypercar project. Fresh from his stint with Peugeot, the Dane will be reunited with his former team-mate Mikkel…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6grQEJbY/s6/malthe-jakobsen-mclaren-racing-3.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6grQEJbY/s6/malthe-jakobsen-mclaren-racing-3.jpg"
   },
   {
    "title": "Fermin Aldeguer defends himself after Francesco Bagnaia crash: “It wasn’t a crazy move”",
@@ -491,7 +501,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Fermin Aldeguer has defended himself against criticism over his collision with Francesco Bagnaia which left the factory Ducati rider injured in the Qatar Grand Prix sprint. The Gresini rider was battling with KTM’s…",
-   "image": "https://cdn-2.motorsport.com/images/amp/6b8ZMww2/s6/francesco-bagnaia-ducati-team.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6b8ZMww2/s6/francesco-bagnaia-ducati-team-3.jpg"
   },
   {
    "title": "Aprilia: “Marco Bezzecchi couldn’t avoid the collision; Marc Marquez moved in on him\"",
@@ -501,7 +511,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia Racing CEO Massimo Rivola explained why he disagreed with the stewards’ decision not to penalise Marc Marquez for his collision with Marco Bezzecchi in Saturday’s Qatar Grand Prix sprint. Halfway through the…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6DGgB1wY/s6/massimo-rivola-ceo-de-aprilia--2.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6DGgB1wY/s6/massimo-rivola-ceo-de-aprilia--2.jpg"
   },
   {
    "title": "Hoogendoorn and Venant Victorious in Italy to Become 2026 FIA Karting World Champions",
@@ -531,7 +541,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "The Qatar Grand Prix featured plenty of drama throughout the weekend, but fortunately all the action was confined to the track. The Lusail round nevertheless had an unusual atmosphere following Yamaha's decision to…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0mXyjRX6/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0mXyjRX6/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Qatar Grand Prix 2026 MotoGP rider rankings",
@@ -551,7 +561,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP has received a wave of criticism for its determination to keep the Qatar Grand Prix on the calendar, an area immersed in an armed conflict since the beginning of the year, even though the event was ultimately…",
-   "image": "https://cdn-3.motorsport.com/images/amp/68VwMWD2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/68VwMWD2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
    "title": "WEC drivers question lack of full-course yellow after heavy Monza crash",
@@ -561,7 +571,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Several World Endurance Championship drivers have questioned race control for not neutralising the Monza 6 Hours following a late crash involving a Cadillac hypercar. With just two minutes left on the clock, Jota driver…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0R7BEEM2/s6/untitled.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0R7BEEM2/s6/untitled.jpg"
   },
   {
    "title": "Kyle Larson, Cliff Daniels and the Hendrick 5 are who we say they are",
@@ -611,7 +621,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza 6 Hours finale, where…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
    "title": "Social Media: No hand injury after breaking another champagne bottle, says Norris",
@@ -631,7 +641,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Former Formula 1 star Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
    "title": "Video: Lynn crashes out in controversial end to WEC season at Monza",
@@ -651,7 +661,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin, who finished seventh in Sunday's MotoGP race at Lusail, showcased his trademark resilience throughout the weekend in Qatar. Resilience that saw him go from considering skipping the race entirely early in…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Marc Marquez unveils simple plan as he closes in on MotoGP title: \"Train, eat, sleep, repeat\"",
@@ -661,7 +671,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez has revealed a change in approach as he looks to seal the MotoGP world championship when the series returns to Europe in two weeks. After securing 32 of a possible 37 points over the Qatar Grand Prix…",
-   "image": "https://cdn-2.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Casey Mears becomes 50th driver to reach 500 NASCAR Cup starts",
@@ -691,7 +701,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Cadillac signed off the 2026 World Endurance Championship with a dominant victory in the Monza 6 Hours, while Toyota trio Brendon Hartley, Sebastien Buemi and Ryo Hirakawa sealed the drivers’ title despite finishing…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle-2.jpg"
   },
   {
    "title": "Charles Milesi \"can’t really remember what happened\" in huge WEC crash",
@@ -701,7 +711,7 @@
    "series": "WEC",
    "result": false,
    "summary": "A heavy accident brought an abrupt end to the World Endurance Championship tenure of the #35 Alpine during the Monza 6 Hours when Charles Milesi suffered a massive off at Parabolica. The Frenchman, sharing the #35 entry…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YN7vlVb6/s6/35-alpine-endurance-team-alpin.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YN7vlVb6/s6/35-alpine-endurance-team-alpin.jpg"
   },
   {
    "title": "Qatar Grand Prix grid down to 16 as Luca Marini withdraws",
@@ -711,7 +721,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Luca Marini has withdrawn from Sunday's Qatar Grand Prix, bringing the starting grid for the race down to a mere 16 bikes. Marini has been struggling all weekend with fatigue symptoms, to the point that he did not come…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YN7vl946/s6/luca-marini-honda-hrc.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YN7vl946/s6/luca-marini-honda-hrc.jpg"
   },
   {
    "title": "Kyle Busch Remembered: Winning two NASCAR Cup championships at Homestead",
@@ -731,7 +741,7 @@
    "series": "WEC",
    "result": false,
    "summary": "After 14 years, the 6 Hours of Monza marks the end of a joint chapter between Signatech and Renault subsidiary Alpine. To mark the farewell, the two Alpine A424s joined the historic Renault-Alpine A442B once again for…",
-   "image": "https://cdn-3.motorsport.com/images/amp/5YXW1A72/s6/wec-abschied-alpine-a424-trifft-auf-historischen-vorgaenger-a442b-26110801.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/5YXW1A72/s6/wec-abschied-alpine-a424-trifft-auf-historischen-vorgaenger-a442b-26110801.jpg"
   },
   {
    "title": "Supercars Sandown: Payne Sunday win sets up title challenge",
@@ -751,7 +761,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia’s Marco Bezzecchi will start the Qatar Grand Prix from pole position after breaking the lap record in qualifying. Marc Marquez will line up second on the grid and will have a chance of sealing his 10th world…",
-   "image": "https://cdn-8.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Jorge Martin on sprint battle with Marc Marquez as rival's airbag deployed: 'It was now or never!'",
@@ -761,7 +771,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin was a deeply satisfied rider after his startling ride to third place in the Qatar MotoGP sprint race on Saturday evening - an effort that drew praise from those he battled. Less comfortable with his…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0Zq8VA46/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0Zq8VA46/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Marc Marquez and Marco Bezzecchi disagree on Qatar MotoGP sprint clash",
@@ -771,7 +781,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez says his clash with Marco Bezzecchi in the Qatar Grand Prix sprint race on Saturday was down to Bezzecchi misjudging his own speed - but his MotoGP rival disagrees. The pair made contact at Turn 1 on the…",
-   "image": "https://cdn-8.motorsport.com/images/amp/0arElPw2/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/0arElPw2/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Ferrari hails \"emotional\" Monza pole in final WEC race for 499P",
@@ -781,7 +791,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Antonio Fuoco scored an emotional pole for Ferrari in the Monza 6 Hours, which will not only bring the 2026 World Endurance Championship to a close on Sunday but also mark the final outing for the 499P in its current…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YXyKl3o6/s6/50-ferrari-af-corse-nicklas-ni.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YXyKl3o6/s6/50-ferrari-af-corse-nicklas-ni.jpg"
   },
   {
    "title": "Toyota fears “big gap” to rivals in Monza WEC after worst qualifying of 2026",
@@ -791,7 +801,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Ryo Hirakawa is unsure whether even bold strategic calls will be enough to propel Toyota towards the front in the World Endurance Championship's Monza finale after a difficult qualifying session. Hirakawa admitted the…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle.jpg"
   },
   {
    "title": "Bagnaia out of Qatar MotoGP with fractures in right foot",
@@ -801,17 +811,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Two-time MotoGP world champion Francesco Bagnaia has picked up two fractures in his right foot following his frightening accident during the Qatar Grand Prix sprint race on Saturday. The injury will prevent him from…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
-  },
-  {
-   "title": "MotoGP Qatar Grand Prix: Marc Marquez wins thrilling sprint as Jorge Martin fights to third",
-   "url": "https://www.motorsport.com/motogp/news/motogp-qatar-grand-prix-marc-marquez-wins-thrilling-sprint-as-jorge-martin-fights-to-third/10872615/",
-   "source": "Motorsport.com",
-   "date": "2026-11-07T16:51:56.000Z",
-   "series": "MotoGP",
-   "result": true,
-   "summary": "Marc Marquez emerged victorious from a MotoGP sprint race in Qatar after a controversial clash with Marco Bezzecchi which took the Italian out of the title fight. Jorge Martin put in a spectacular effort to ride to…",
-   "image": "https://cdn-9.motorsport.com/images/amp/27No3Qv0/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
   },
   {
    "title": "WEC Monza: Antonio Fuoco takes pole for Ferrari",
@@ -821,7 +821,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Antonio Fuoco claimed a home pole position for Ferrari in qualifying for the World Endurance Championship finale at Monza. The Italian was the pacesetter throughout the two quick-fire sessions of qualifying on Saturday…",
-   "image": "https://cdn-4.motorsport.com/images/amp/2dEo3WDY/s6/50-ferrari-af-corse-ferrari-49-2.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/2dEo3WDY/s6/50-ferrari-af-corse-ferrari-49-2.jpg"
   },
   {
    "title": "Supercars Sandown: Kostecki wins to advance to finale",
@@ -871,7 +871,7 @@
    "series": "BTCC",
    "result": false,
    "summary": "Double British Touring Car Championship title winner Tom Ingram will remain at Excelr8 Motorsport until at least the end of the decade. While the 33-year-old’s continuation at the Hyundai squad for next season was…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0kZAe4j6/s6/tom-ingram-team-vertu.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0kZAe4j6/s6/tom-ingram-team-vertu.jpg"
   },
   {
    "title": "EKN Debrief: Episode 174 – ROK Vegas 2026",
@@ -1332,16 +1332,6 @@
    "result": false,
    "summary": "World Rally Championship driver Thierry Neuville took victory on his historic circuit racing debut at the Imola Classic. The 2024 WRC champion swapped rally machinery for a Ford Escort RS1600 and his own BMW M3 E30…",
    "image": "https://cdn-5.motorsport.com/images/amp/6n7Ayxl0/s6/thierry-neuville-hyundai-world.jpg"
-  },
-  {
-   "title": "FIA ratifies key 2027 WRC sporting regulations",
-   "url": "https://www.motorsport.com/wrc/news/fia-ratifies-key-2027-wrc-sporting-regulations/10866455/",
-   "source": "Motorsport.com",
-   "date": "2026-10-20T09:45:02.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "The FIA has formally confirmed a raft of key sporting regulations pertaining to the 2027 World Rally Championship ahead of the introduction of a new technical ruleset. Following the latest World Motor Sport Council…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6AlvpQNY/s6/fia-wrc.jpg"
   }
  ]
 }
