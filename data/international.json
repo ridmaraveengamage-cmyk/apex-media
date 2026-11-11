@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:02:29.089Z",
+ "updated": "2026-11-11T01:58:40.551Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,7 +148,7 @@
  ],
  "bySeries": {
   "F1": 15,
-  "NASCAR": 14,
+  "NASCAR": 13,
   "Motorsport": 5,
   "IMSA": 14,
   "Karting": 5,
@@ -164,6 +164,26 @@
   "Formula E": 1
  },
  "items": [
+  {
+   "title": "F1 ACADEMY announces 2027 calendar",
+   "url": "https://www.formula1.com/en/latest/article/f1-academy-unveils-calendar-for-2027-season.1mYuyMEiCaWyI8pAfg5K0O",
+   "source": "Formula1.com",
+   "date": "2026-11-11T01:58:40.551Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 ACADEMY has revealed its calendar for the 2027 campaign, with the all-female series’ fifth season featuring seven rounds.",
+   "image": null
+  },
+  {
+   "title": "Samantha Busch full speech as she accepts Kyle Busch's Most Popular Driver award",
+   "url": "https://www.motorsport.com/nascar-cup/news/samantha-busch-full-speech-as-she-accepts-kyle-most-popular-driver-award/10873742/",
+   "source": "Motorsport.com",
+   "date": "2026-11-11T01:13:40.000Z",
+   "series": "NASCAR",
+   "result": false,
+   "summary": "Kyle Busch is the 2026 NASCAR Cup Series Most Popular Driver, joining Dale Earnhardt as the only drivers to ever win the award posthumously. Chase Elliott had won the award every year between 2018 and 2025, but withdrew…",
+   "image": "https://cdn-6.motorsport.com/images/amp/0Lde3Jv0/s6/gettyimages-2304511879.jpg"
+  },
   {
    "title": "Alonso credits ‘phenomenal’ car after strong drive in Brazil",
    "url": "https://www.formula1.com/en/latest/article/alonso-credits-phenomenal-car-after-strong-showing-in-sao-paulo.7d9xmDFQhJ3IRqGx0xuFHK",
@@ -185,16 +205,6 @@
    "image": null
   },
   {
-   "title": "Kyle Busch posthumously wins NASCAR Cup Most Popular Driver Award",
-   "url": "https://www.motorsport.com/nascar-cup/news/kyle-busch-posthumously-wins-nascar-cup-most-popular-driver-award-/10873695/",
-   "source": "Motorsport.com",
-   "date": "2026-11-11T00:47:34.000Z",
-   "series": "NASCAR",
-   "result": true,
-   "summary": "Kyle Busch is the 2026 NASCAR Cup Series Most Popular Driver, becoming just the second driver to ever win the award posthumously, joining fellow Richard Childress Racing driver and seven-time Cup champion Dale…",
-   "image": "https://cdn-6.motorsport.com/images/amp/25d3DGl0/s6/kyle-busch-richard-childress-r-2.jpg"
-  },
-  {
    "title": "Oscar Piastri reveals unexpected upside of being out of F1 title fight",
    "url": "https://www.motorsport.com/f1/news/oscar-piastri-reveals-unexpected-upside-of-being-out-of-f1-title-fight/10873740/",
    "source": "Motorsport.com",
@@ -212,7 +222,7 @@
    "series": "F1",
    "result": false,
    "summary": "McLaren Formula 1 driver Lando Norris has questioned Charles Leclerc's penalty after the Brazilian Grand Prix, which cost the Ferrari driver seventh place. Leclerc tapped the left rear of Liam Lawson's Racing Bulls car…",
-   "image": "https://cdn-9.motorsport.com/images/amp/6n7b5kA0/s6/motorsport-com-graphics-85.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/6n7b5kA0/s6/motorsport-com-graphics-85.jpg"
   },
   {
    "title": "Max Verstappen names the one condition that would make him retire from F1",
@@ -222,7 +232,7 @@
    "series": "F1",
    "result": false,
    "summary": "Max Verstappen says he would walk away from Formula 1 if he ever stopped believing he was the best driver in the field. The four-time world champion has not won the title since 2024, with Lando Norris taking the…",
-   "image": "https://cdn-7.motorsport.com/images/amp/2QedBrA2/s6/motorsport-com-graphics-86.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/2QedBrA2/s6/motorsport-com-graphics-86.jpg"
   },
   {
    "title": "Lewis Hamilton tours Gaza aid operation at Egypt's Rafah border",
@@ -232,7 +242,7 @@
    "series": "F1",
    "result": false,
    "summary": "Lewis Hamilton has been to see the aid operation at Egypt's border with Gaza, two days after racing at the Sao Paulo Grand Prix. The seven-time world champion arrived in El Arish, in Egypt's North Sinai region, on…",
-   "image": "https://cdn-9.motorsport.com/images/amp/6lmARkL0/s6/motorsport-com-graphics-85-2.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6lmARkL0/s6/motorsport-com-graphics-85-2.jpg"
   },
   {
    "title": "Social Media: Hamilton witnesses humanitarian relief effort in Gaza Strip",
@@ -252,7 +262,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "FOX Sports' Jamie Little will no longer appear in the broadcast booth as a play-by-play for the NASCAR Truck Series or ARCA Menard's Series. However, she will continue in her role as a pit reporter for NASCAR and…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6Alv9O1Y/s6/gettyimages-2200980647.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6Alv9O1Y/s6/gettyimages-2200980647.jpg"
   },
   {
    "title": "Logano, Sargeant, and Muniz among Ford drivers taking part in Daytona exhibition race",
@@ -262,7 +272,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
   },
   {
    "title": "Paddock Insider: Superkarts! USA SuperNationals 29",
@@ -302,7 +312,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "For A.J. Foyt Racing, the 2026 season in the IndyCar Series was a textbook example of resilience through fluctuating form. The legendary squad remained a persistent, hard-racing mid-field threat through a turbulent…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YpbP8Dj0/s6/caio-collet-aj-foyt-enterprise-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/YpbP8Dj0/s6/caio-collet-aj-foyt-enterprise-2.jpg"
   },
   {
    "title": "Ryan Blaney to skip events after suffering fall 'requiring medical attention'",
@@ -312,7 +322,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "NASCAR Cup Series start Ryan Blaney suffered an undisclosed injury on Monday evening, requiring medical attention. The Team Penske Ford driver just won the season finale at Homestead-Miami Speedway, ending the year…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Zq8V5M6/s6/ryan-blaney-team-penske.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0Zq8V5M6/s6/ryan-blaney-team-penske.jpg"
   },
   {
    "title": "Mick Schumacher to skip wrist operation before 2027 IndyCar season",
@@ -322,7 +332,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Mick Schumacher will head into his sophomore IndyCar campaign without undergoing surgery on his left wrist, opting instead to continue with conservative treatment and physical therapy. The German driver, who has…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0kZAwwo6/s6/mick-schumacher-rahal-letterma.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0kZAwwo6/s6/mick-schumacher-rahal-letterma.jpg"
   },
   {
    "title": "Hendrick Motorsports pokes fun at Denny Hamlin with Snickers photo: \"That was all Rick\"",
@@ -332,7 +342,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "In a July edition of Denny Hamlin's podcast, Actions Detrimental, Hamlin was speaking about the then-struggling Hendrick Motorsports. \"They need to have a Snickers,\" Hamlin said of HMS during the summer. \"They've not…",
-   "image": "https://cdn-2.motorsport.com/images/amp/2GdK17rY/s6/rick-hendrick-cliff-daniels-ky.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/2GdK17rY/s6/rick-hendrick-cliff-daniels-ky.jpg"
   },
   {
    "title": "Why McLaren went the opposite way to Mercedes' front wing",
@@ -362,7 +372,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "AJ Foyt Racing, GM Defense, and the Congressional Medal of Honor Society have launched Project Accelerator, a motorsports-driven networking platform designed to connect leaders across the defense, technology, and racing…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6O7zrg56/s6/cmoh-iso1-110926.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6O7zrg56/s6/cmoh-iso1-110926.jpg"
   },
   {
    "title": "PALMER: Why Norris’ Sao Paulo victory was one of his best ever wins",
@@ -402,7 +412,7 @@
    "series": "Motorsport",
    "result": false,
    "summary": "1. Pirelli Motorsport - Motorsport Trackside Engineer - Didcot Pirelli Motorsport is recruiting a Motorsport Trackside Engineer. You will be analysing and interpreting race data for Pirelli and allocated motorsport…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
   },
   {
    "title": "David Coulthard’s urgent plea to Lando Norris after taking firework to the face on Brazil GP podium",
@@ -415,16 +425,6 @@
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453648_hires.jpg?width=1200"
   },
   {
-   "title": "Who impressed our Power Rankings judges in Sao Paulo?",
-   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-sao-paulo-grand-prix.4dgXaQOufQtljKWj7Q7Yhs",
-   "source": "Formula1.com",
-   "date": "2026-11-10T16:49:06.092Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Find out who featured at the top of the Power Rankings table after the Sao Paulo Grand Prix weekend.",
-   "image": null
-  },
-  {
    "title": "Jake Walker returns to Turner Motorsport for full-time 2027 IMSA GTD drive",
    "url": "https://www.motorsport.com/imsa/news/jake-walker-returns-to-turner-motorsport-for-full-time-2027-imsa-gtd-drive/10873685/",
    "source": "Motorsport.com",
@@ -432,7 +432,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Turner Motorsport is set to celebrate a milestone 30th season of professional racing in 2027, renewing its long-standing exclusivity with BMW and welcoming a familiar face back to its full-time driver lineup. The New…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YE9E9OPY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YE9E9OPY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
   },
   {
    "title": "Who won the teammate battles of NASCAR Cup 2026?",
@@ -442,7 +442,7 @@
    "series": "NASCAR",
    "result": true,
    "summary": "There are eleven multi-car teams with sizes ranging from two to four cars in the NASCAR Cup Series, but which driver from each can claim to be the best? In some organizations, there was a clear leader on the track, but…",
-   "image": "https://cdn-2.motorsport.com/images/amp/6VyKOkLY/s6/carson-hocevar-no-77-spire-mot.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6VyKOkLY/s6/carson-hocevar-no-77-spire-mot.jpg"
   },
   {
    "title": "What we learned from an unexpected MotoGP cameo",
@@ -472,7 +472,7 @@
    "series": "WRC",
    "result": false,
    "summary": "New World Rally Championship constructor Project Rally One has again called upon rally legend Sebastien Loeb to test its 2027 car ahead of its debut in Monte Carlo next year. The nine-time world rally champion joined…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6grQENjY/s6/sebastien-loeb-2.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6grQENjY/s6/sebastien-loeb-2.jpg"
   },
   {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
@@ -512,7 +512,7 @@
    "series": "F2 / F3",
    "result": false,
    "summary": "The Qatar and Abu Dhabi grands prix which will conclude Formula 1’s 2026 season are set to proceed as planned, provided there is no dramatic escalation of the Iran war. The Middle Eastern conflict, which started in late…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws-2.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws-2.jpg"
   },
   {
    "title": "Bedrin seals GB3 title after dream Barcelona finale",
@@ -522,7 +522,7 @@
    "series": "Motorsport",
    "result": false,
    "summary": "VRD Racing’s Nikita Bedrin claimed the GB3 title in fine style at the Circuit de Barcelona-Catalunya last weekend, with two victories and a run to third in the season finale. The Italian-based driver entered the weekend…",
-   "image": "https://cdn-3.motorsport.com/images/amp/YpbAXWJ0/s6/je-3688429-hires.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/YpbAXWJ0/s6/je-3688429-hires.jpg"
   },
   {
    "title": "Valentino Rossi in new autobiography: '2015 still hurts, Marc Marquez wanted me to lose'",
@@ -572,7 +572,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "While not entirely justifying the claims made against it, Joe Gibbs Racing has moved to satisfy one of the counterclaims brought against it by Spire Motorsports by issuing a payment in exchange for the services of car…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0JXRpGEY/s6/gettyimages-2271045447-780x520.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0JXRpGEY/s6/gettyimages-2271045447-780x520.jpg"
   },
   {
    "title": "Alex Bowman hits out at critics in snarky post, shooting down early exit rumors",
@@ -582,7 +582,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "This was not a fun year to be Alex Bowman. He missed four races while suffering from vertigo, endured some big crashes, and ended the year 26th in the final standings -- his worst since joining Hendrick Motorsports. He…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0rVPVGG0/s6/alex-bowman-hendrick-motorspor.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0rVPVGG0/s6/alex-bowman-hendrick-motorspor.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Predictions",
@@ -602,7 +602,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "In 2024, Ryan Blaney lost the Homestead race in pretty brutal fashion. He held the lead entering Turn 3 on the final lap, only to have Tyler Reddick rip around his outside and snatch the win away from the No. 12 Team…",
-   "image": "https://cdn-6.motorsport.com/images/amp/YXyKjG56/s6/ryan-blaney-wins-no-12-team-pe.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YXyKjG56/s6/ryan-blaney-wins-no-12-team-pe.jpg"
   },
   {
    "title": "Noah Gragson apologizes to Daniel Suarez for spinning him at Homestead",
@@ -642,7 +642,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "The 36th and final NASCAR Cup race of 2026 is history, inspection is clear, and all results are final. Ryan Blaney got to celebrate a race win while Kyle Larson was officially crowned a three-time champion. The season…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6lmARpm0/s6/denny-hamlin-joe-gibbs-racing.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6lmARpm0/s6/denny-hamlin-joe-gibbs-racing.jpg"
   },
   {
    "title": "How Aston Martin’s fuel gamble in Monza WEC fell short by just three seconds",
@@ -662,7 +662,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Brad Keselowski does not know what he'll be doing in 2027. The former NASCAR Cup Series champion with 36 career wins and over 600 starts at the highest level of the sport will leave RFK Racing where he is a co-owner due…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2GdKy3rY/s6/brad-keselowski-rfk-racing.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/2GdKy3rY/s6/brad-keselowski-rfk-racing.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
@@ -692,7 +692,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Trackhouse Racing is making a change atop the pit box for the No. 97 Trackhouse Racing Chevrolet in 2027. Blake Harris will become Shane van Gisbergen’s new crew chief, moving over from the No. 48 Hendrick Motorsports…",
-   "image": "https://cdn-5.motorsport.com/images/amp/YE9EVGwY/s6/gettyimages-2213224996.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/YE9EVGwY/s6/gettyimages-2213224996.jpg"
   },
   {
    "title": "Conquest Racing locks in 2027 IMSA GTD lineup with Manny Franco full-time return",
@@ -782,7 +782,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP has received a wave of criticism for its determination to keep the Qatar Grand Prix on the calendar, an area immersed in an armed conflict since the beginning of the year, even though the event was ultimately…",
-   "image": "https://cdn-6.motorsport.com/images/amp/68VwMWD2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/68VwMWD2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
    "title": "WEC drivers question lack of full-course yellow after heavy Monza crash",
@@ -802,17 +802,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "When you combine the essence of Jeff Gordon, Tony Stewart, Ray Evernham, Chad Knaus and Jimmie Johnson, you basically get the Hendrick Motorsports No. 5 team, which is now doing a little bit of all the greats that came…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6VyK99wY/s6/kyle-larson-wins-championship-.jpg"
-  },
-  {
-   "title": "Final NASCAR Cup points standings after 2026 Homestead finale",
-   "url": "https://www.motorsport.com/nascar-cup/news/final-nascar-cup-points-standings-after-2026-homestead-finale/10873205/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T00:40:32.000Z",
-   "series": "NASCAR",
-   "result": false,
-   "summary": "The 2026 NASCAR Cup season is officially over. Kyle Larson is a three-time champion, beating championship runner-up Christopher Bell by 49 points, and Denny Hamlin in third by 56 points. Homestead race winner Ryan…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YXyKjjd6/s6/kyle-larson-hendrick-motorspor.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6VyK99wY/s6/kyle-larson-wins-championship-.jpg"
   },
   {
    "title": "Kubica departs AF Corse Ferrari in WEC",
@@ -822,7 +812,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza 6 Hours finale, where…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
    "title": "Social Media: No hand injury after breaking another champagne bottle, says Norris",
