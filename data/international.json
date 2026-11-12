@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:21:20.397Z",
+ "updated": "2026-11-12T19:28:24.559Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -154,7 +154,7 @@
   "NASCAR": 13,
   "WEC": 14,
   "WRC": 13,
-  "Motorsport": 7,
+  "Motorsport": 6,
   "Formula E": 2,
   "BTCC": 2,
   "Karting": 5,
@@ -165,6 +165,36 @@
  },
  "items": [
   {
+   "title": "Tsolov to serve as Red Bull and Racing Bulls reserve driver",
+   "url": "https://www.formula1.com/en/latest/article/tsolov-to-join-red-bull-and-racing-bulls-as-reserve-driver-for-2027.390fvkyiS2t5fnyVjvxqFq",
+   "source": "Formula1.com",
+   "date": "2026-11-12T19:28:24.559Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 2 racer Nikola Tsolov will step up to a role as Red Bull and Racing Bulls’ reserve driver next season.",
+   "image": null
+  },
+  {
+   "title": "Russell launches new karting academy for young racers",
+   "url": "https://www.formula1.com/en/latest/article/karting-is-where-it-all-started-for-me-russell-launches-new-academy-to-develop-young-racers.5kVDwrQLjkeQ8bYLZ5sqQ2",
+   "source": "Formula1.com",
+   "date": "2026-11-12T19:28:24.559Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes driver George Russell has founded a karting academy to support and develop the next generation of young racers.",
+   "image": null
+  },
+  {
+   "title": "Why Racing Bulls stuck with Lawson and Lindblad",
+   "url": "https://www.formula1.com/en/latest/article/analysis-why-racing-bulls-stuck-with-lawson-and-lindblad-for-2027.5qokKr7EMWk8s3SNCSPwC",
+   "source": "Formula1.com",
+   "date": "2026-11-12T19:28:24.559Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Racing Bulls have retained Liam Lawson and Arvid Lindblad for 2027, but with Red Bull junior Nikola Tsolov pushing for promotion, Lawrence Barretto looks at why they decided against a change?",
+   "image": null
+  },
+  {
    "title": "Why the F1 driver market might produce one last twist",
    "url": "https://www.formula1.com/en/latest/article/analysis-why-the-f1-driver-market-might-produce-one-last-twist-for-2027.6t7AwtqfHWkDqSgQZ3ElQ3",
    "source": "Formula1.com",
@@ -172,16 +202,6 @@
    "series": "F1",
    "result": false,
    "summary": "Following Racing Bulls’ confirmation of their unchanged driver line-up, Lawrence Barretto dissects everything that’s still left to play for on the 2027 grid.",
-   "image": null
-  },
-  {
-   "title": "Lawson and Lindblad to remain at Racing Bulls for 2027",
-   "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx",
-   "source": "Formula1.com",
-   "date": "2026-11-12T18:21:20.397Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Racing Bulls will retain their current pairing of Liam Lawson and Arvid Lindblad for the upcoming 2027 season.",
    "image": null
   },
   {
@@ -222,7 +242,7 @@
    "series": "F1",
    "result": false,
    "summary": "Former Haas Formula 1 team principal Guenther Steiner has warned that Oscar Piastri could find his McLaren future under threat if he has another season like 2026. Piastri, who fought for the world title in 2025, has…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YXyKjJK6/s6/motorsport-com-graphics-94.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/YXyKjJK6/s6/motorsport-com-graphics-94.jpg"
   },
   {
    "title": "IndyCar 2026 season review: ECR",
@@ -252,7 +272,7 @@
    "series": "F1",
    "result": false,
    "summary": "Mercedes team principal Toto Wolff says the squad wasn’t “complete losers” in its four years without a Formula 1 world title. The Silver Arrows claimed their ninth constructors’ championship on Sunday at the Brazilian…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YWKARzOY/s6/lewis-hamilton-mercedes-amg-ge.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YWKARzOY/s6/lewis-hamilton-mercedes-amg-ge.jpg"
   },
   {
    "title": "Hello Kitty launches racing-inspired F1 Academy range for Las Vegas finale",
@@ -262,7 +282,7 @@
    "series": "F1",
    "result": false,
    "summary": "Hello Kitty is heading back to the Las Vegas Grand Prix, with a new F1 Academy merchandise collection on sale ahead of the all-female series' finale on the Strip. Sanrio, the Japanese company that owns Hello Kitty and…",
-   "image": "https://cdn-3.motorsport.com/images/amp/2jEAyzP0/s6/motorsport-com-graphics-93.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/2jEAyzP0/s6/motorsport-com-graphics-93.jpg"
   },
   {
    "title": "Court of Appeal to hear Audi’s case over Tsunoda decision on November 25th",
@@ -282,7 +302,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Ahead of another fiercely competitive Le Mans Prototype 2 (LMP2) campaign in the IMSA WeatherTech SportsCar Championship, Tower Motorsports has assembled a formidable roster for its #8 ORECA LMP2 07 as it sets its…",
-   "image": "https://cdn-1.motorsport.com/images/amp/68VWqPl2/s6/8-tower-motorsports-oreca-lmp2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/68VWqPl2/s6/8-tower-motorsports-oreca-lmp2.jpg"
   },
   {
    "title": "Nick Sanchez will compete for 2027 NASCAR Truck title with McAnally-Hilgemann",
@@ -302,7 +322,7 @@
    "series": "F1",
    "result": false,
    "summary": "The 2026 São Paulo Grand Prix was a monumental weekend for Red Bull Racing. While Max Verstappen stole the headlines with a logic-defying charge from 21st to finish second, his team-mate Isack Hadjar quietly delivered…",
-   "image": "https://cdn-3.motorsport.com/images/amp/Y9lNz382/s6/motorsport-com-graphics-96-2.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/Y9lNz382/s6/motorsport-com-graphics-96-2.jpg"
   },
   {
    "title": "Why Corvette’s new LMGT3 champion Jonny Edgar has a bright future",
@@ -312,7 +332,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Jonny Edgar is emerging as one of the brightest prospects in the World Endurance Championship following his title-winning campaign with TF Sport in 2026. The young Briton was always expected to make it big in…",
-   "image": "https://cdn-5.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
   },
   {
    "title": "F1 Academy champion Alisha Palmowski reveals key lesson from Max Verstappen",
@@ -322,7 +342,7 @@
    "series": "F1",
    "result": false,
    "summary": "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work. The Briton, who races for Campos Racing as part of Red Bull's junior…",
-   "image": "https://cdn-4.motorsport.com/images/amp/2y7QrOX6/s6/motorsport-com-graphics-92.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/2y7QrOX6/s6/motorsport-com-graphics-92.jpg"
   },
   {
    "title": "Trivia: False Start",
@@ -343,26 +363,6 @@
    "result": false,
    "summary": "The Sao Paulo Grand Prix last weekend proved to be a day of celebration for Mercedes, as the German manufacturer secured the 2026 Constructors' Championship.",
    "image": null
-  },
-  {
-   "title": "Ex-F1 star Romain Grosjean makes significant racing career declaration",
-   "url": "https://www.crash.net/f1/news/1110100/1/ex-f1-star-romain-grosjean-makes-significant-racing-career-declaration",
-   "source": "Crash.net",
-   "date": "2026-11-12T16:31:30.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Romain Grosjean says his time in single-seaters is likely over",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1339828_hires.jpg?width=1200"
-  },
-  {
-   "title": "Hearing set for Audi appeal against rival",
-   "url": "https://www.the-race.com/formula-1/audi-appeal-f1-italian-gp-yuki-tsunoda/",
-   "source": "The Race",
-   "date": "2026-11-12T16:30:27.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA has announced the hearing date for Audi’s appeal against Yuki Tsunoda not getting a penalty at Formula 1’s Italian Grand Prix",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1434343_HiRes.jpg"
   },
   {
    "title": "Jack Miller explains what he wants to achieve in WorldSBK after MotoGP exit",
@@ -392,7 +392,7 @@
    "series": "WRC",
    "result": false,
    "summary": "Argentina is poised to make its World Rally Championship return in 2028 after signing a multi-year contract. The South American nation has a rich history in the WRC with its rocky gravel stages featuring regularly from…",
-   "image": "https://cdn-4.motorsport.com/images/amp/2wBaAv80/s6/dani-sordo-carlos-del-barrio-h.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/2wBaAv80/s6/dani-sordo-carlos-del-barrio-h.jpg"
   },
   {
    "title": "'The most tradable sport nobody trades': Inside race prediction platform RPM",
@@ -433,16 +433,6 @@
    "result": false,
    "summary": "Over the past six weeks, MotoGP riders progressively hardened their stance in an attempt to put pressure on the championship promoter, which remained determined to honour its contract with the Qatari government. Under…",
    "image": "https://cdn-2.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
-  },
-  {
-   "title": "Social media: Russell launches GR63 Academy to find 25 future racers",
-   "url": "https://www.racefans.net/2026/11/12/social-media-russell-launches-gr63-academy-to-find-25-future-racers/",
-   "source": "RaceFans",
-   "date": "2026-11-12T09:29:55.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Russell launches karting academy to find \"hidden stars\"",
-   "image": null
   },
   {
    "title": "Austin Cindric wins Ford Veterans Day Classic at Daytona",
