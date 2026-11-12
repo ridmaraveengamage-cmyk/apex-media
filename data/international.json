@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:32:32.518Z",
+ "updated": "2026-11-12T17:25:20.194Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,14 +148,14 @@
  ],
  "bySeries": {
   "F1": 15,
+  "IMSA": 13,
+  "NASCAR": 13,
+  "WEC": 14,
   "MotoGP": 15,
   "WRC": 13,
   "Motorsport": 6,
   "Formula E": 2,
-  "NASCAR": 12,
   "IndyCar": 13,
-  "IMSA": 12,
-  "WEC": 14,
   "BTCC": 2,
   "Karting": 5,
   "DTM": 4,
@@ -164,6 +164,86 @@
   "Dakar": 2
  },
  "items": [
+  {
+   "title": "Why Racing Bulls stuck with Lawson and Lindblad",
+   "url": "https://www.formula1.com/en/latest/article/analysis-why-racing-bulls-stuck-with-lawson-and-lindblad-for-2027.5qokKr7EMWk8s3SNCSPwC",
+   "source": "Formula1.com",
+   "date": "2026-11-12T17:25:20.194Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Racing Bulls have retained Liam Lawson and Arvid Lindblad for 2027, but with Red Bull junior Nikola Tsolov pushing for promotion, Lawrence Barretto looks at why they decided against a change?",
+   "image": null
+  },
+  {
+   "title": "‘He was immediately fast’ – Antonelli’s junior racing boss on his early potential",
+   "url": "https://www.formula1.com/en/latest/article/he-was-immediately-fast-antonellis-junior-racing-boss-on-his-early-potential.3Hy1WZWp1lMwf0VTncC2xB",
+   "source": "Formula1.com",
+   "date": "2026-11-12T17:25:20.194Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Rene Rosin ran Antonelli from F4 up to F2 with the legendary PREMA Racing team, and says the potential was clear from the young Italian's earliest days in the sport.",
+   "image": null
+  },
+  {
+   "title": "Court of Appeal to hear Audi’s case over Tsunoda decision on November 25th",
+   "url": "https://www.racefans.net/2026/11/12/court-of-appeal-to-hear-audis-case-over-tsunoda-decision-on-november-25th/",
+   "source": "RaceFans",
+   "date": "2026-11-12T16:52:19.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Audi is challenging the stewards decision' not to penalise Yuki Tsunoda for an infringement in the Italian Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Renger van der Zande moves to IMSA’s LMP2 class full-time with Tower Motorsports",
+   "url": "https://www.motorsport.com/imsa/news/renger-van-der-zande-moves-to-imsas-lmp2-class-full-time-with-tower-motorsports/10874179/",
+   "source": "Motorsport.com",
+   "date": "2026-11-12T16:43:09.000Z",
+   "series": "IMSA",
+   "result": false,
+   "summary": "Ahead of another fiercely competitive Le Mans Prototype 2 (LMP2) campaign in the IMSA WeatherTech SportsCar Championship, Tower Motorsports has assembled a formidable roster for its #8 ORECA LMP2 07 as it sets its…",
+   "image": "https://cdn-5.motorsport.com/images/amp/68VWqPl2/s6/8-tower-motorsports-oreca-lmp2.jpg"
+  },
+  {
+   "title": "Nick Sanchez will compete for 2027 NASCAR Truck title with McAnally-Hilgemann",
+   "url": "https://www.motorsport.com/nascar-truck/news/nick-sanchez-will-compete-for-2027-nascar-truck-title-with-mcanally-hilgemann/10874170/",
+   "source": "Motorsport.com",
+   "date": "2026-11-12T16:42:41.000Z",
+   "series": "NASCAR",
+   "result": false,
+   "summary": "On Thursday, McAnally-Hilgemann Racing announced that Nick Sanchez will compete for the 2027 NASCAR FedEx Freight Truck Series championship with the team, driving the No. 18 entry. “This is a tremendous opportunity to…",
+   "image": "https://cdn-5.motorsport.com/images/amp/2y7QQNy6/s6/nick-sanchez-peterson-racing-c.jpg"
+  },
+  {
+   "title": "Laurent Mekies: Brazil was Isack Hadjar’s “best race” for Red Bull",
+   "url": "https://www.motorsport.com/f1/news/laurent-mekies-brazil-was-isack-hadjars-best-race-for-red-bull/10874059/",
+   "source": "Motorsport.com",
+   "date": "2026-11-12T16:41:01.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The 2026 São Paulo Grand Prix was a monumental weekend for Red Bull Racing. While Max Verstappen stole the headlines with a logic-defying charge from 21st to finish second, his team-mate Isack Hadjar quietly delivered…",
+   "image": "https://cdn-5.motorsport.com/images/amp/Y9lNz382/s6/motorsport-com-graphics-96-2.jpg"
+  },
+  {
+   "title": "Why Corvette’s new LMGT3 champion Jonny Edgar has a bright future",
+   "url": "https://www.motorsport.com/wec/news/why-corvettes-new-lmgt3-champion-jonny-edgar-has-a-bright-future/10874124/",
+   "source": "Motorsport.com",
+   "date": "2026-11-12T16:39:26.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Jonny Edgar is emerging as one of the brightest prospects in the World Endurance Championship following his title-winning campaign with TF Sport in 2026. The young Briton was always expected to make it big in…",
+   "image": "https://cdn-7.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
+  },
+  {
+   "title": "F1 Academy champion Alisha Palmowski reveals key lesson from Max Verstappen",
+   "url": "https://www.motorsport.com/f1/news/f1-academy-champion-alisha-palmowski-reveals-key-lesson-from-max-verstappen/10874174/",
+   "source": "Motorsport.com",
+   "date": "2026-11-12T16:35:22.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work. The Briton, who races for Campos Racing as part of Red Bull's junior…",
+   "image": "https://cdn-3.motorsport.com/images/amp/2y7QrOX6/s6/motorsport-com-graphics-92.jpg"
+  },
   {
    "title": "Trivia: False Start",
    "url": "https://www.formula1.com/en/latest/article/trivia-false-start.403Q768qyuqJKKSGfQE9C1",
@@ -175,16 +255,6 @@
    "image": null
   },
   {
-   "title": "Lawson and Lindblad to remain at Racing Bulls for 2027",
-   "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx",
-   "source": "Formula1.com",
-   "date": "2026-11-12T16:32:32.518Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Racing Bulls will retain their current pairing of Liam Lawson and Arvid Lindblad for the upcoming 2027 season.",
-   "image": null
-  },
-  {
    "title": "Where do Mercedes rank among Teams' Championship winners",
    "url": "https://www.formula1.com/en/latest/article/where-do-mercedes-rank-in-the-list-of-constructors-championship-winners.4Cr98XypZEcBtcbsBqOtEB",
    "source": "Formula1.com",
@@ -193,6 +263,16 @@
    "result": false,
    "summary": "The Sao Paulo Grand Prix last weekend proved to be a day of celebration for Mercedes, as the German manufacturer secured the 2026 Constructors' Championship.",
    "image": null
+  },
+  {
+   "title": "Ex-F1 star Romain Grosjean makes significant racing career declaration",
+   "url": "https://www.crash.net/f1/news/1110100/1/ex-f1-star-romain-grosjean-makes-significant-racing-career-declaration",
+   "source": "Crash.net",
+   "date": "2026-11-12T16:31:30.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Romain Grosjean says his time in single-seaters is likely over",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1339828_hires.jpg?width=1200"
   },
   {
    "title": "Hearing set for Audi appeal against rival",
@@ -212,7 +292,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jack Miller says his priority after switching to the World Superbike Championship in 2027 will be to become the best rider he can be in the series, rather than target a return to MotoGP. After 12 seasons in the premier…",
-   "image": "https://cdn-6.motorsport.com/images/amp/YvKB1Pn6/s6/jack-miller-pramac-racing.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/YvKB1Pn6/s6/jack-miller-pramac-racing.jpg"
   },
   {
    "title": "Tsolov to serve as Red Bull and Racing Bulls reserve driver",
@@ -272,7 +352,7 @@
    "series": "WRC",
    "result": false,
    "summary": "Argentina is poised to make its World Rally Championship return in 2028 after signing a multi-year contract. The South American nation has a rich history in the WRC with its rocky gravel stages featuring regularly from…",
-   "image": "https://cdn-8.motorsport.com/images/amp/2d1e5GeY/s6/sebastien-ogier-julien-ingrass-3.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/2d1e5GeY/s6/sebastien-ogier-julien-ingrass-3.jpg"
   },
   {
    "title": "Argentina set to make WRC comeback in 2028",
@@ -282,7 +362,7 @@
    "series": "WRC",
    "result": false,
    "summary": "Argentina is poised to make its World Rally Championship return in 2028 after signing a multi-year contract. The South American nation has a rich history in the WRC with its rocky gravel stages featuring regularly from…",
-   "image": "https://cdn-8.motorsport.com/images/amp/2wBaAv80/s6/dani-sordo-carlos-del-barrio-h.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/2wBaAv80/s6/dani-sordo-carlos-del-barrio-h.jpg"
   },
   {
    "title": "'The most tradable sport nobody trades': Inside race prediction platform RPM",
@@ -302,57 +382,7 @@
    "series": "F1",
    "result": false,
    "summary": "Ferrari team principal Fred Vasseur has shut down speculation of ongoing friction between Lewis Hamilton and Charles Leclerc, confirming the two drivers resolved their issues during a private sit-down discussion ahead…",
-   "image": "https://cdn-6.motorsport.com/images/amp/YP7489X2/s6/motorsport-com-graphics-91-2.jpg"
-  },
-  {
-   "title": "F1 could be sold within two years, claims former Liberty Media boss",
-   "url": "https://www.crash.net/f1/news/1110094/1/f1-could-be-sold-within-two-years-claims-former-liberty-media-boss",
-   "source": "Crash.net",
-   "date": "2026-11-12T13:11:01.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Former Liberty Media boss Greg Maffei thinks F1 could be sold within the next two years",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453937_hires.jpg?width=1200"
-  },
-  {
-   "title": "Our verdict on Lawson earning a 2027 F1 extension",
-   "url": "https://www.the-race.com/formula-1/liam-lawson-2027-f1-extension-our-verdict/",
-   "source": "The Race",
-   "date": "2026-11-12T13:04:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Liam Lawson has secured another year with Racing Bulls - but is it the right move?",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-BGP-06-11-26-0862.jpg"
-  },
-  {
-   "title": "Ricciardo reacts to his best career moments",
-   "url": "https://www.formula1.com/en/latest/article/i-know-f1-is-serious-but-we-can-still-make-it-fun-ricciardo-reacts-to-his-best-career-moments.NaM7kMUTZmxIzbRrJPoHY",
-   "source": "Formula1.com",
-   "date": "2026-11-12T13:03:43.447Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Former Red Bull and McLaren racer Daniel Ricciardo sat down with F1 to take a look back at his career highlights, from his sublime Monaco victory to unforgettable 'shoey' celebration.",
-   "image": null
-  },
-  {
-   "title": "Bruno Senna recounts Antonelli’s visit to his family farm",
-   "url": "https://www.formula1.com/en/latest/article/it-showed-why-hes-a-world-champion-bruno-senna-recounts-antonellis-visit-to-his-family-farm.29P3uPrOthkJo2tTjljCwW",
-   "source": "Formula1.com",
-   "date": "2026-11-12T13:03:43.447Z",
-   "series": "F1",
-   "result": false,
-   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Bruno Senna opened up on Kimi Antonelli's emotional visit to the family estate of three-time champion Ayrton Senna.",
-   "image": null
-  },
-  {
-   "title": "Bearman relieved ‘horrible three weeks’ for Haas are over",
-   "url": "https://www.formula1.com/en/latest/article/bearman-relieved-horrible-three-weeks-for-haas-are-over.2DZIcOEVILLVUfQT00bStA",
-   "source": "Formula1.com",
-   "date": "2026-11-12T13:03:43.447Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ollie Bearman finished 17th in Sao Paulo on Sunday and afterwards cut a despondent figure as he revealed how pleased he was to be heading home after a tough triple header.",
-   "image": null
+   "image": "https://cdn-8.motorsport.com/images/amp/YP7489X2/s6/motorsport-com-graphics-91-2.jpg"
   },
   {
    "title": "Mexico to open Formula E season after Jeddah postponement",
@@ -362,7 +392,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "Mexico City will now serve as the season opener for the 2026/27 Formula E campaign after the postponement of the Jeddah E-Prix. The Saudi Arabian circuit was scheduled to kickstart the Gen4 era on 18-19 December with a…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6DGqNNxY/s6/taylor-barnard-ds-penske-3.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6DGqNNxY/s6/taylor-barnard-ds-penske-3.jpg"
   },
   {
    "title": "Formula E postpones Jeddah E-Prix with Mexico now the season opener",
@@ -372,7 +402,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "Mexico City will now serve as the season opener for the 2026/27 Formula E campaign after the postponement of the Jeddah E-Prix. The Saudi Arabian circuit was scheduled to kickstart the Gen4 era on 18-19 December with a…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0o5PvQ7Y/s6/edoardo-mortara-mahindra-racin.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0o5PvQ7Y/s6/edoardo-mortara-mahindra-racin.jpg"
   },
   {
    "title": "It is time to heal the wounds with the MotoGP Qatar GP over",
@@ -382,7 +412,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Over the past six weeks, MotoGP riders progressively hardened their stance in an attempt to put pressure on the championship promoter, which remained determined to honour its contract with the Qatari government. Under…",
-   "image": "https://cdn-8.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
   },
   {
    "title": "Austin Cindric wins Ford Veterans Day Classic at Daytona",
@@ -392,7 +422,7 @@
    "series": "NASCAR",
    "result": true,
    "summary": "2022 Daytona 500 winner Austin Cindric, representing the Air Force, won the first-ever Proud to Honor Veterans Day Classic, featuring 12 Ford Mustangs in a 30-minute contest around the Daytona International Speedway…",
-   "image": "https://cdn-9.motorsport.com/images/amp/6zoD8370/s6/gettyimages-2304689083-2.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6zoD8370/s6/gettyimages-2304689083-2.jpg"
   },
   {
    "title": "Kevin Harvick: NASCAR needs a Gen 7.5 car and 'some hard conversations'",
@@ -402,7 +432,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Kevin Harvick has said this all along but he reiterated it on Wednesday in the aftermath of NASCAR CEO Steve O’Donnell dismissing the notion of another new car for the Cup Series in the coming seasons. Harvick, the 2014…",
-   "image": "https://cdn-4.motorsport.com/images/amp/Y9lNzMb2/s6/screenshot-2026-01-30-at-1-04-.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/Y9lNzMb2/s6/screenshot-2026-01-30-at-1-04-.jpg"
   },
   {
    "title": "Frankie Muniz \"a little sore,\" released from hospital after Daytona crash",
@@ -462,7 +492,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Wright Motorsports is gearing up for a championship push in the 2027 IMSA WeatherTech SportsCar Championship, confirming the return of its signature dark green #120 Porsche 911 GT3 R (992) for a fourth consecutive…",
-   "image": "https://cdn-5.motorsport.com/images/amp/63QaZJ42/s6/120-wright-motorsports-porsche.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/63QaZJ42/s6/120-wright-motorsports-porsche.jpg"
   },
   {
    "title": "John Klausmeier joins 23XI Racing as technical director",
@@ -492,7 +522,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Three-time MotoGP world champion Jorge Lorenzo has likened Marc Marquez to Formula 1 stars Ayrton Senna and Max Verstappen amid his brilliant form during the 2026 season. Mistakes by Marco Bezzecchi and an untimely…",
-   "image": "https://cdn-9.motorsport.com/images/amp/2eZxw4pY/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/2eZxw4pY/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Records set by Toyota's WEC 2026 title-winning trio",
@@ -502,7 +532,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Sebastien Buemi, Brendon Hartley and Ryo Hirakawa had already established their credentials in sportscar racing, but their names were etched into history last week following their success in the 2026 World Endurance…",
-   "image": "https://cdn-2.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca-2.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca-2.jpg"
   },
   {
    "title": "Maverick Vinales to undergo extensive medical checks: “If I have something broken, I'll stop”",
@@ -512,7 +542,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Maverick Vinales ended the Qatar Grand Prix weekend just as concerned as he had started it, admitting he was considering stepping away again because of his left shoulder injury. The KTM MotoGP rider will undergo an…",
-   "image": "https://cdn-7.motorsport.com/images/amp/2wlKMyWY/s6/maverick-vinales-red-bull-ktm-.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/2wlKMyWY/s6/maverick-vinales-red-bull-ktm-.jpg"
   },
   {
    "title": "Bagnaia undergoes successful surgery on double foot fracture",
@@ -522,7 +552,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Francesco Bagnaia has successfully undergone surgery to repair two fractures sustained in his right foot during Saturday's MotoGP sprint race at the Qatar Grand Prix. He will now begin his rehabilitation as soon as…",
-   "image": "https://cdn-9.motorsport.com/images/amp/24QGbeXY/s6/francesco-bagnaia-ducati-team.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/24QGbeXY/s6/francesco-bagnaia-ducati-team.jpg"
   },
   {
    "title": "Double Mini champion gets big BTCC break for 2027",
@@ -532,7 +562,7 @@
    "series": "BTCC",
    "result": false,
    "summary": "Two-time Mini Challenge champion Tom Ovenden is to step up to the British Touring Car Championship for 2027 with Excelr8 Motorsport. The 22-year-old remains within the same organisation with which he claimed the…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YpbPNZg0/s6/tom-ovenden-mini-challenge-cha-2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YpbPNZg0/s6/tom-ovenden-mini-challenge-cha-2.jpg"
   },
   {
    "title": "Samantha Busch full speech as she accepts Kyle Busch's Most Popular Driver award",
@@ -572,7 +602,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
   },
   {
    "title": "Paddock Insider: Superkarts! USA SuperNationals 29",
@@ -642,7 +672,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Turner Motorsport is set to celebrate a milestone 30th season of professional racing in 2027, renewing its long-standing exclusivity with BMW and welcoming a familiar face back to its full-time driver lineup. The New…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YE9E9OPY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YE9E9OPY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
   },
   {
    "title": "Who won the teammate battles of NASCAR Cup 2026?",
@@ -682,7 +712,7 @@
    "series": "WRC",
    "result": false,
    "summary": "New World Rally Championship constructor Project Rally One has again called upon rally legend Sebastien Loeb to test its 2027 car ahead of its debut in Monte Carlo next year. The nine-time world rally champion joined…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6grQENjY/s6/sebastien-loeb-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6grQENjY/s6/sebastien-loeb-2.jpg"
   },
   {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
@@ -712,7 +742,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Juan Manuel Fangio, one of Formula 1's most iconic World Champions and a two-time winner at Sebring, and multi-time Sebring winner Hurley Haywood have been selected as part of the third \"Class of 75\" driver group. This…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0Zq8Vjb6/s6/winningmaserati-juanmanuelfang.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0Zq8Vjb6/s6/winningmaserati-juanmanuelfang.jpg"
   },
   {
    "title": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
@@ -722,7 +752,7 @@
    "series": "F2 / F3",
    "result": false,
    "summary": "The Qatar and Abu Dhabi grands prix which will conclude Formula 1’s 2026 season are set to proceed as planned, provided there is no dramatic escalation of the Iran war. The Middle Eastern conflict, which started in late…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws-2.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws-2.jpg"
   },
   {
    "title": "Bedrin seals GB3 title after dream Barcelona finale",
@@ -732,7 +762,7 @@
    "series": "Motorsport",
    "result": false,
    "summary": "VRD Racing’s Nikita Bedrin claimed the GB3 title in fine style at the Circuit de Barcelona-Catalunya last weekend, with two victories and a run to third in the season finale. The Italian-based driver entered the weekend…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YpbAXWJ0/s6/je-3688429-hires.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YpbAXWJ0/s6/je-3688429-hires.jpg"
   },
   {
    "title": "Valentino Rossi in new autobiography: '2015 still hurts, Marc Marquez wanted me to lose'",
@@ -742,7 +772,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Valentino Rossi has revisited his 2015 feud with Marc Marquez in his new autobiography, maintaining that the Spaniard interfered in his MotoGP title battle with Jorge Lorenzo. The nine-time world champion previously…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6n7AkNA0/s6/valentino-rossi-celebra-la-vic.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6n7AkNA0/s6/valentino-rossi-celebra-la-vic.jpg"
   },
   {
    "title": "Toyota “sad” WEC drivers' title was effectively decided before Monza finale",
@@ -752,7 +782,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Toyota says the battle for the drivers’ title was effectively decided before the Monza 6 Hours, hinting at the Balance of Performance as a contributing factor for an anticlimactic end to the 2026 World Endurance…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6b8ZM4j2/s6/8-toyota-gazoo-racing-toyota-t.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6b8ZM4j2/s6/8-toyota-gazoo-racing-toyota-t.jpg"
   },
   {
    "title": "Massimo Rivola: 'Aprilia didn’t lose the championship, Marc Marquez won it'",
@@ -802,7 +832,7 @@
    "series": "WEC",
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
-   "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
   },
   {
    "title": "Ferrari explains tyre pressure mistake in Monza WEC",
@@ -812,7 +842,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "How Aston Martin’s fuel gamble in Monza WEC fell short by just three seconds",
@@ -822,7 +852,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Aston Martin lost a podium in a dramatic climax to the 2026 World Endurance Championship in Monza due to two penalties that dropped the #007 Valkyrie down to 12th place. Having struggled with early strategy calls that…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6zoD89e0/s6/007-heart-of-racing-aston-mart.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/6zoD89e0/s6/007-heart-of-racing-aston-mart.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
@@ -852,7 +882,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Conquest Racing is gearing up for another campaign in the IMSA WeatherTech SportsCar Championship, marking its fourth consecutive season fielding a Ferrari in the Grand Touring Daytona (GTD) class during a landmark year…",
-   "image": "https://cdn-5.motorsport.com/images/amp/2dEo1jDY/s6/34-conquest-racing-ferrari-296.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/2dEo1jDY/s6/34-conquest-racing-ferrari-296.jpg"
   },
   {
    "title": "Malthe Jakobsen completes McLaren's WEC Hypercar driver line-up",
@@ -872,7 +902,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Fermin Aldeguer has defended himself against criticism over his collision with Francesco Bagnaia which left the factory Ducati rider injured in the Qatar Grand Prix sprint. The Gresini rider was battling with KTM’s…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6b8ZMww2/s6/francesco-bagnaia-ducati-team-3.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6b8ZMww2/s6/francesco-bagnaia-ducati-team-3.jpg"
   },
   {
    "title": "Aprilia: “Marco Bezzecchi couldn’t avoid the collision; Marc Marquez moved in on him\"",
@@ -882,7 +912,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia Racing CEO Massimo Rivola explained why he disagreed with the stewards’ decision not to penalise Marc Marquez for his collision with Marco Bezzecchi in Saturday’s Qatar Grand Prix sprint. Halfway through the…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6DGgB1wY/s6/massimo-rivola-ceo-de-aprilia--2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGgB1wY/s6/massimo-rivola-ceo-de-aprilia--2.jpg"
   },
   {
    "title": "Hoogendoorn and Venant Victorious in Italy to Become 2026 FIA Karting World Champions",
@@ -902,7 +932,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "The Qatar Grand Prix featured plenty of drama throughout the weekend, but fortunately all the action was confined to the track. The Lusail round nevertheless had an unusual atmosphere following Yamaha's decision to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0mXyjRX6/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0mXyjRX6/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Ezpeleta: Qatar GP “noise” left MotoGP unnecessarily exposed",
@@ -922,7 +952,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Several World Endurance Championship drivers have questioned race control for not neutralising the Monza 6 Hours following a late crash involving a Cadillac hypercar. With just two minutes left on the clock, Jota driver…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0R7BEEM2/s6/untitled.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0R7BEEM2/s6/untitled.jpg"
   },
   {
    "title": "Robert Kubica announces exit from AF Corse’s privateer Hypercar in WEC",
@@ -932,7 +962,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Former Formula 1 star Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
    "title": "Jorge Martin will be \"almost 100% fit\" in Portugal as heroic Qatar display keeps title hopes alive",
@@ -942,7 +972,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jorge Martin, who finished seventh in Sunday's MotoGP race at Lusail, showcased his trademark resilience throughout the weekend in Qatar. Resilience that saw him go from considering skipping the race entirely early in…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0JXRpvOY/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
    "title": "Marc Marquez unveils simple plan as he closes in on MotoGP title: \"Train, eat, sleep, repeat\"",
@@ -952,7 +982,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez has revealed a change in approach as he looks to seal the MotoGP world championship when the series returns to Europe in two weeks. After securing 32 of a possible 37 points over the Qatar Grand Prix…",
-   "image": "https://cdn-7.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Charles Milesi \"can’t really remember what happened\" in huge WEC crash",
@@ -962,7 +992,7 @@
    "series": "WEC",
    "result": false,
    "summary": "A heavy accident brought an abrupt end to the World Endurance Championship tenure of the #35 Alpine during the Monza 6 Hours when Charles Milesi suffered a massive off at Parabolica. The Frenchman, sharing the #35 entry…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YN7vlVb6/s6/35-alpine-endurance-team-alpin.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YN7vlVb6/s6/35-alpine-endurance-team-alpin.jpg"
   },
   {
    "title": "Farewell from WEC: Alpine A424 meets historic A442B predecessor",
@@ -972,7 +1002,7 @@
    "series": "WEC",
    "result": false,
    "summary": "After 14 years, the 6 Hours of Monza marks the end of a joint chapter between Signatech and Renault subsidiary Alpine. To mark the farewell, the two Alpine A424s joined the historic Renault-Alpine A442B once again for…",
-   "image": "https://cdn-1.motorsport.com/images/amp/5YXW1A72/s6/wec-abschied-alpine-a424-trifft-auf-historischen-vorgaenger-a442b-26110801.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/5YXW1A72/s6/wec-abschied-alpine-a424-trifft-auf-historischen-vorgaenger-a442b-26110801.jpg"
   },
   {
    "title": "Supercars Sandown: Payne Sunday win sets up title challenge",
@@ -992,17 +1022,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Antonio Fuoco scored an emotional pole for Ferrari in the Monza 6 Hours, which will not only bring the 2026 World Endurance Championship to a close on Sunday but also mark the final outing for the 499P in its current…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YXyKl3o6/s6/50-ferrari-af-corse-nicklas-ni.jpg"
-  },
-  {
-   "title": "Toyota fears “big gap” to rivals in Monza WEC after worst qualifying of 2026",
-   "url": "https://www.motorsport.com/wec/news/toyota-fears-big-gap-to-rivals-in-monza-wec-after-worst-qualifying-of-2026/10872667/",
-   "source": "Motorsport.com",
-   "date": "2026-11-07T18:40:51.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Ryo Hirakawa is unsure whether even bold strategic calls will be enough to propel Toyota towards the front in the World Endurance Championship's Monza finale after a difficult qualifying session. Hirakawa admitted the…",
-   "image": "https://cdn-6.motorsport.com/images/amp/YvKB3lE6/s6/sebastien-buemi-brendon-hartle.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/YXyKl3o6/s6/50-ferrari-af-corse-nicklas-ni.jpg"
   },
   {
    "title": "Supercars Sandown: Kostecki wins to advance to finale",
@@ -1022,7 +1042,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Longtime Porsche customer team Kellymoss will return to full-time IMSA WeatherTech SportsCar Championship competition in 2027. Michael Clark will make his IMSA debut in the Grand Touring Daytona (GTD) class in the #17…",
-   "image": "https://cdn-8.motorsport.com/images/amp/6b8Zwee2/s6/kellymoss-indianapolis-8-hour-.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6b8Zwee2/s6/kellymoss-indianapolis-8-hour-.jpg"
   },
   {
    "title": "\"Parked the truck in the paddock aged eight\": Cairoli shares Kimi Antonelli anecdotes",
@@ -1092,7 +1112,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Hanley Motorsports Incorporated (HMI) and DXDT Racing are combining forces to launch a multi-tier IMSA program for the 2027 season, competing under the HMI banner in both the WeatherTech SportsCar Championship and…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YvKBDG76/s6/hanley-announcement-5.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YvKBDG76/s6/hanley-announcement-5.jpg"
   },
   {
    "title": "Oliver Solberg relishing Toyota’s historic Celica WRC revival for 2027",
@@ -1122,7 +1142,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Lone Star Racing is stepping up to a full-time campaign in the IMSA WeatherTech SportsCar Championship’s Grand Touring Daytona (GTD) class for the 2027 season, expanding beyond its long-standing role as an Endurance Cup…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6b8jEwr2/s6/80-lone-star-racing-mercedes-a.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6b8jEwr2/s6/80-lone-star-racing-mercedes-a.jpg"
   },
   {
    "title": "ECR prepares for IR-28 transition with in-house Dynisma DMG-1 simulator",
@@ -1182,7 +1202,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Honda Racing Corporation USA (HRS US) has backed Porsche Motorsport’s call for swift progress on the World Endurance Championship (WEC) and IMSA 2030 Hypercar/GTP regulations, stressing that clear guidelines are needed…",
-   "image": "https://cdn-3.motorsport.com/images/amp/2wlKrReY/s6/93-acura-meyer-shank-racing-w-.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlKrReY/s6/93-acura-meyer-shank-racing-w-.jpg"
   },
   {
    "title": "'There’s more to come' as IndyCar and NASCAR leaders eye future doubleheaders",
@@ -1242,7 +1262,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "As World Endurance Championship (WEC) and IMSA stakeholders prepare for the next generation of top-class sports car racing, Porsche Motorsport head Thomas Laudenbach has emphasized the urgency of establishing a clear…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6grQXajY/s6/7-porsche-penske-motorsport-po.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/6grQXajY/s6/7-porsche-penske-motorsport-po.jpg"
   },
   {
    "title": "IndyCar veteran Sting Ray Robb secures United Autosports Asian Le Mans seat",
@@ -1262,7 +1282,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Over the past two years, Eduardo Barrichello has become an increasingly difficult presence to overlook in sportscar racing. Whether it’s been the World Endurance Championship or the IMSA SportsCar Championship, his…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0mXydXq6/s6/23-heart-of-racing-team-aston-.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0mXydXq6/s6/23-heart-of-racing-team-aston-.jpg"
   },
   {
    "title": "AJ Foyt Racing signs Josh Pierson to multi-year deal beginning with 2027 IndyCar season",
@@ -1302,7 +1322,7 @@
    "series": "IMSA",
    "result": true,
    "summary": "When Manthey expanded its program to North America, the transition appeared to deliver the typical dominance associated with the team at first glance. The German squad swept to victory in its second race at the Twelve…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YMXbx5v2/s6/911-manthey-porsche-911-klaus--2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YMXbx5v2/s6/911-manthey-porsche-911-klaus--2.jpg"
   },
   {
    "title": "How a philosophy shift brought BMW to new heights in 2026",
@@ -1312,7 +1332,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Heading into the 2026 season, BMW was under immense pressure. After three years of limited success, the update package for the M Hybrid V8 really needed to deliver. In IMSA, the challenge was compounded by a late-notice…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7B4bA2/s6/25-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0R7B4bA2/s6/25-bmw-m-team-wrt-bmw-m-hybrid.jpg"
   },
   {
    "title": "Sesks tight-lipped on WRC future after ERC season finale triumph",
