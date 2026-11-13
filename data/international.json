@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:51:51.431Z",
+ "updated": "2026-11-13T20:50:52.002Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -163,6 +163,16 @@
   "Dakar": 2
  },
  "items": [
+  {
+   "title": "Mercedes' incredible history of Formula 1 success",
+   "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq",
+   "source": "Formula1.com",
+   "date": "2026-11-13T20:50:52.002Z",
+   "series": "F1",
+   "result": false,
+   "summary": "As Mercedes claim their ninth F1 Constructors' title in 2026, discover the Silver Arrows' incredible history in Formula 1.",
+   "image": null
+  },
   {
    "title": "Toto Wolff's journey from Williams to nine F1 titles",
    "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn",
@@ -351,16 +361,6 @@
    "series": "F1",
    "result": false,
    "summary": "Padel has become increasingly popular among F1 drivers, with Aston Martin the latest team to embrace the sport through a new racket collection.",
-   "image": null
-  },
-  {
-   "title": "F1 ACADEMY Champion Palmowski graduates to Formula Regional",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-champion-alisha-palmowski-graduates-to-formula-regional-with-fully-funded-seat.39A1mu7n4LQ3ljJdTyFlhW",
-   "source": "Formula1.com",
-   "date": "2026-11-13T14:51:07.599Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 ACADEMY Champion Alisha Palmowski will make the step up to the Formula Regional European Championship (FREC), with F1 ACADEMY and Red Bull Racing announcing she will receive a fully-funded seat with Rodin Motorsport…",
    "image": null
   },
   {
