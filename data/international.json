@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:06:51.684Z",
+ "updated": "2026-11-14T18:44:58.016Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -153,9 +153,9 @@
   "MotoGP": 15,
   "Formula E": 3,
   "Motorsport": 7,
+  "Karting": 6,
   "IMSA": 12,
   "IndyCar": 12,
-  "Karting": 6,
   "WRC": 12,
   "BTCC": 2,
   "DTM": 4,
@@ -164,6 +164,16 @@
  },
  "items": [
   {
+   "title": "Why the F1 driver market might produce one last twist",
+   "url": "https://www.formula1.com/en/latest/article/analysis-why-the-f1-driver-market-might-produce-one-last-twist-for-2027.6t7AwtqfHWkDqSgQZ3ElQ3",
+   "source": "Formula1.com",
+   "date": "2026-11-14T18:44:58.016Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Following Racing Bulls’ confirmation of their unchanged driver line-up, Lawrence Barretto dissects everything that’s still left to play for on the 2027 grid.",
+   "image": null
+  },
+  {
    "title": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
    "url": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/",
    "source": "Motorsport.com",
@@ -171,7 +181,7 @@
    "series": "F1",
    "result": false,
    "summary": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit. The Australian driver has endured a difficult…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6zoD8ea0/s6/motorsport-com-graphics-2026-1.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6zoD8ea0/s6/motorsport-com-graphics-2026-1.jpg"
   },
   {
    "title": "The ten closest finishes from the 2026 NASCAR season",
@@ -181,7 +191,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Keeping up Motorsport.com's annual tradition, it's time to take a look back at the ten closest finishes of the 2026 season in the Cup, O'Reilly, and Truck Series. Feel free to check out the 2025 list HERE. Once again…",
-   "image": "https://cdn-4.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
   },
   {
    "title": "YouTuber's full-size 3D-printed F1 car passes its V12 test fit",
@@ -191,7 +201,7 @@
    "series": "F1",
    "result": false,
    "summary": "YouTuber Mike Lake has managed to fit a V12 engine in his full-size 3D-printed replica of a Formula 1 car. He and his team dropped a Mercedes M120 into the plastic body. The 6.0-litre engine was Mercedes' first…",
-   "image": "https://cdn-2.motorsport.com/images/amp/2jEAy5k0/s6/motorsport-com-graphics-2026-1.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/2jEAy5k0/s6/motorsport-com-graphics-2026-1.jpg"
   },
   {
    "title": "‘Lewis suspected a conspiracy’ – Nico Rosberg explains how Lewis Hamilton F1 rivalry went awry at Mercedes",
@@ -201,7 +211,7 @@
    "series": "F1",
    "result": false,
    "summary": "When Lewis Hamilton joined Nico Rosberg at Mercedes for the 2013 Formula 1 season, it was a feel-good story: two long-time friends becoming team-mates. However, their amicable relationship soon turned sour, as Mercedes…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7BEVZ2/s6/lewis-hamilton-mercdes-nico-ro.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0R7BEVZ2/s6/lewis-hamilton-mercdes-nico-ro.jpg"
   },
   {
    "title": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
@@ -211,7 +221,7 @@
    "series": "F1",
    "result": false,
    "summary": "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend. The Ferrari driver became only the second driver in the…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YE9EV1qY/s6/motorsport-com-graphics-2026-1.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YE9EV1qY/s6/motorsport-com-graphics-2026-1.jpg"
   },
   {
    "title": "Button explains what will ‘keep Alonso going’ at Aston Martin",
@@ -231,7 +241,7 @@
    "series": "WEC",
    "result": false,
    "summary": "BMW says it can be \"proud\" of its results in the 2026 World Endurance Championship after finishing second in the manufacturers' standings, despite failing to mount a sustained title challenge to Toyota. Kevin…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
   },
   {
    "title": "Our writers on Antonelli’s title success and what it means",
@@ -291,7 +301,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP’s title race is heading towards a foregone conclusion at next week’s Portuguese Grand Prix, with Marc Marquez all but certain to take his 10th world championship crown. That his dominance in sprint races has been…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
   },
   {
    "title": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
@@ -301,7 +311,7 @@
    "series": "F1",
    "result": true,
    "summary": "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for their second year under the new formula in…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6lmARXD0/s6/motorsport-com-graphics-2026-1-2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/6lmARXD0/s6/motorsport-com-graphics-2026-1-2.jpg"
   },
   {
    "title": "Lawson's top-six hopes after new Racing Bulls deal",
@@ -334,16 +344,6 @@
    "image": null
   },
   {
-   "title": "FIA boss looking to make controversial change to presidency rule",
-   "url": "https://www.crash.net/f1/news/1110114/1/fia-boss-looking-make-controversial-change-presidency-rule",
-   "source": "Crash.net",
-   "date": "2026-11-14T12:00:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "FIA boss Mohammed Ben Sulayem is looking to make a controversial change to a key rule.",
-   "image": "https://www.crash.net/sites/default/files/2026-05/xpb_1337940_hires.jpg?width=1200"
-  },
-  {
    "title": "2027 Formula E drivers and teams: The line-up so far",
    "url": "https://www.motorsport.com/formula-e/news/2027-formula-e-drivers-and-teams-the-line-up-so-far/10874464/",
    "source": "Motorsport.com",
@@ -351,7 +351,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "The 2026-27 Formula E season will be a before and after for the electric championship. The arrival of Gen4, the new single-seater, will bring a different weekend format, different circuits and a car capable of more. The…",
-   "image": "https://cdn-9.motorsport.com/images/amp/YMX3BMV2/s6/pilotos-y-equipos-de-formula-e.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YMX3BMV2/s6/pilotos-y-equipos-de-formula-e.jpg"
   },
   {
    "title": "Ferrari Style opens two-floor flagship with exclusive New York capsule collection",
@@ -361,7 +361,7 @@
    "series": "Motorsport",
    "result": false,
    "summary": "The first Ferrari Style flagship store in New York has opened on the corner of Prince Street and Mercer Street in Manhattan's SoHo district. Ferrari signed a lease on 3,700 square feet back in 2024 for a two-storey unit…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27No3wx0/s6/motorsport-com-graphics-2026-1.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/27No3wx0/s6/motorsport-com-graphics-2026-1.jpg"
   },
   {
    "title": "How Qatar red flag helped Johann Zarco put Barcelona crash behind him",
@@ -371,7 +371,17 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Johann Zarco suffered a double accident during the Catalan Grand Prix last May, from which he is still recovering, both physically and psychologically. His knee injury was so serious that it threatened to jeopardise his…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0kZX9vD6/s6/johann-zarco-team-lcr-honda.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0kZX9vD6/s6/johann-zarco-team-lcr-honda.jpg"
+  },
+  {
+   "title": "EKN Trackside: Superkarts! USA SuperNationals 29 – Friday Report",
+   "url": "https://www.ekartingnews.com/2026/11/13/ekn-trackside-superkarts-usa-supernationals-29-friday-report/",
+   "source": "eKartingNews",
+   "date": "2026-11-14T07:00:49.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "The first wheel-to-wheel activity took place on Friday for the Superkarts! USA SuperNationals 29 outside the Las Vegas Motor Speedway. It was a day that felt like two days wrapped up in one, with the morning groups…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
   },
   {
    "title": "Carson Hocevar and Cleetus McFarland win LeMullets 2026 in epic finish",
@@ -381,7 +391,7 @@
    "series": "NASCAR",
    "result": true,
    "summary": "Carson Hocevar and Cleetus McFarland have won the 2026 edition of the 2.4 Hours of LeMullets, a full-contact Crown Vic around the Freedom Factory short track in Florida The 3/8-mile oval also had a chicane of sorts on…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6VyK9qNY/s6/carson-hocevar-and-cleetus-mcf.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/6VyK9qNY/s6/carson-hocevar-and-cleetus-mcf.jpg"
   },
   {
    "title": "On This Day: Racing rules in spotlight as Hamilton takes Brazil win from Verstappen",
@@ -401,7 +411,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "The live NBC broadcast for the 2026 NASCAR Cup Series finale at Homestead-Miami Speedway earned a 1.37 rating and 2.471 million viewers this past weekend. That is down from the 2025 finale at Phoenix Raceway, also on…",
-   "image": "https://cdn-2.motorsport.com/images/amp/24QGbbeY/s6/start-of-nascar-cup-finale-wit.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/24QGbbeY/s6/start-of-nascar-cup-finale-wit.jpg"
   },
   {
    "title": "Chase Elliott's car chief leaves Hendrick for NASCAR Truck crew chief role",
@@ -411,7 +421,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "McAnally-Hilgemann Racing (MHR) has revealed its crew chief lineup for the 2027 NASCAR FedEx Freight Truck Series, which includes a notable name from the Cup garage. Matt Barndt, who was the car chief for Chase Elliott…",
-   "image": "https://cdn-9.motorsport.com/images/amp/2y7QrNp6/s6/gettyimages-2303431627.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/2y7QrNp6/s6/gettyimages-2303431627.jpg"
   },
   {
    "title": "Myers Riley Motorsports adds Andretti alongside returning Fraga for 2027 IMSA GTD campaign",
@@ -451,7 +461,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Honda technical director Romano Albesiano believes aerodynamics will play an “even more important role” in MotoGP under the 2027 regulations, despite the rulemakers' intention to curb its influence. As part of a push to…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6x7ZVxjY/s6/trackhouse-racing-rear-wing.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6x7ZVxjY/s6/trackhouse-racing-rear-wing.jpg"
   },
   {
    "title": "Sebastien Bourdais hopes latest WEC success will remind teams of his value",
@@ -482,16 +492,6 @@
    "result": false,
    "summary": "Former Formula 1 driver Romain Grosjean, who survived a fireball crash six years ago in Bahrain, is preparing to call time on his single-seater racing career.",
    "image": null
-  },
-  {
-   "title": "EKN Trackside: Superkarts! USA SuperNationals 29 – Thursday Report",
-   "url": "https://www.ekartingnews.com/2026/11/12/ekn-trackside-superkarts-usa-supernationals-29-thursday-report/",
-   "source": "eKartingNews",
-   "date": "2026-11-13T06:00:46.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "The Superkarts! USA SuperNationals 29 completed the second day of on track action outside the Las Vegas Motor Speedway on Thursday. Following a full day of practice for the morning and afternoon groups, including 11…",
-   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
   },
   {
    "title": "MotoGP makes major US TV step with ESPN deal",
@@ -541,7 +541,7 @@
    "series": "WRC",
    "result": false,
    "summary": "Argentina is poised to make its World Rally Championship return in 2028 after signing a multi-year contract. The South American nation has a rich history in the WRC with its rocky gravel stages featuring regularly from…",
-   "image": "https://cdn-3.motorsport.com/images/amp/2d1e5GeY/s6/sebastien-ogier-julien-ingrass-3.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/2d1e5GeY/s6/sebastien-ogier-julien-ingrass-3.jpg"
   },
   {
    "title": "Argentina set to make WRC comeback in 2028",
@@ -571,7 +571,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "Mexico City will now serve as the season opener for the 2026/27 Formula E campaign after the postponement of the Jeddah E-Prix. The Saudi Arabian circuit was scheduled to kickstart the Gen4 era on 18-19 December with a…",
-   "image": "https://cdn-9.motorsport.com/images/amp/6DGqNNxY/s6/taylor-barnard-ds-penske-3.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6DGqNNxY/s6/taylor-barnard-ds-penske-3.jpg"
   },
   {
    "title": "Formula E postpones Jeddah E-Prix with Mexico now the season opener",
@@ -591,7 +591,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Over the past six weeks, MotoGP riders progressively hardened their stance in an attempt to put pressure on the championship promoter, which remained determined to honour its contract with the Qatari government. Under…",
-   "image": "https://cdn-2.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
   },
   {
    "title": "Social media: Russell launches GR63 Academy to find 25 future racers",
@@ -611,7 +611,7 @@
    "series": "NASCAR",
    "result": true,
    "summary": "2022 Daytona 500 winner Austin Cindric, representing the Air Force, won the first-ever Proud to Honor Veterans Day Classic, featuring 12 Ford Mustangs in a 30-minute contest around the Daytona International Speedway…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6zoD8370/s6/gettyimages-2304689083-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/6zoD8370/s6/gettyimages-2304689083-2.jpg"
   },
   {
    "title": "Kevin Harvick: NASCAR needs a Gen 7.5 car and 'some hard conversations'",
@@ -621,7 +621,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Kevin Harvick has said this all along but he reiterated it on Wednesday in the aftermath of NASCAR CEO Steve O’Donnell dismissing the notion of another new car for the Cup Series in the coming seasons. Harvick, the 2014…",
-   "image": "https://cdn-9.motorsport.com/images/amp/Y9lNzMb2/s6/screenshot-2026-01-30-at-1-04-.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/Y9lNzMb2/s6/screenshot-2026-01-30-at-1-04-.jpg"
   },
   {
    "title": "Frankie Muniz \"a little sore,\" released from hospital after Daytona crash",
@@ -651,7 +651,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Ford has officially unveiled its new Mustang for the 2027 NASCAR Cup season, which will be utilized by Team Penske, RFK Racing, and Front Row Motorsports. “When we introduced the Mustang Dark Horse SC in January and…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YK15xQ10/s6/ford.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YK15xQ10/s6/ford.jpg"
   },
   {
    "title": "Kyle Larson admits he didn't think Cup title was possible in NASCAR champion's speech",
@@ -661,7 +661,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "At the NASCAR Award's in Miami, Kyle Larson accepted his third NASCAR Cup Series championship with a speech full of thanks to the people of Hendrick Motorsports who made it all possible. However, Larson began his speech…",
-   "image": "https://cdn-2.motorsport.com/images/amp/2GdK1GEY/s6/kyle-larson-with-championship--2.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/2GdK1GEY/s6/kyle-larson-with-championship--2.jpg"
   },
   {
    "title": "Wright Motorsports names full-time 2027 IMSA GTD lineup as Sargent joins Adelson",
@@ -711,7 +711,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Sebastien Buemi, Brendon Hartley and Ryo Hirakawa had already established their credentials in sportscar racing, but their names were etched into history last week following their success in the 2026 World Endurance…",
-   "image": "https://cdn-7.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca-2.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca-2.jpg"
   },
   {
    "title": "Maverick Vinales to undergo extensive medical checks: “If I have something broken, I'll stop”",
@@ -731,7 +731,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Francesco Bagnaia has successfully undergone surgery to repair two fractures sustained in his right foot during Saturday's MotoGP sprint race at the Qatar Grand Prix. He will now begin his rehabilitation as soon as…",
-   "image": "https://cdn-6.motorsport.com/images/amp/24QGbeXY/s6/francesco-bagnaia-ducati-team.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/24QGbeXY/s6/francesco-bagnaia-ducati-team.jpg"
   },
   {
    "title": "Double Mini champion gets big BTCC break for 2027",
@@ -741,7 +741,7 @@
    "series": "BTCC",
    "result": false,
    "summary": "Two-time Mini Challenge champion Tom Ovenden is to step up to the British Touring Car Championship for 2027 with Excelr8 Motorsport. The 22-year-old remains within the same organisation with which he claimed the…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YpbPNZg0/s6/tom-ovenden-mini-challenge-cha-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YpbPNZg0/s6/tom-ovenden-mini-challenge-cha-2.jpg"
   },
   {
    "title": "Samantha Busch full speech as she accepts Kyle Busch's Most Popular Driver award",
@@ -751,7 +751,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Kyle Busch is the 2026 NASCAR Cup Series Most Popular Driver, joining Dale Earnhardt as the only drivers to ever win the award posthumously. Chase Elliott had won the award every year between 2018 and 2025, but withdrew…",
-   "image": "https://cdn-6.motorsport.com/images/amp/24QGbJNY/s6/gettyimages-2304524884-2.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/24QGbJNY/s6/gettyimages-2304524884-2.jpg"
   },
   {
    "title": "Social Media: Hamilton witnesses humanitarian relief effort in Gaza Strip",
