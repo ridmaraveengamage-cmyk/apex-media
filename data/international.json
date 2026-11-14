@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:38:14.763Z",
+ "updated": "2026-11-14T00:54:47.449Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,11 +147,11 @@
   }
  ],
  "bySeries": {
+  "Motorsport": 8,
   "F1": 15,
   "NASCAR": 12,
   "IMSA": 13,
   "IndyCar": 12,
-  "Motorsport": 7,
   "MotoGP": 15,
   "Karting": 6,
   "WEC": 13,
@@ -163,6 +163,16 @@
   "Dakar": 2
  },
  "items": [
+  {
+   "title": "On This Day: Racing rules in spotlight as Hamilton takes Brazil win from Verstappen",
+   "url": "https://www.racefans.net/2026/11/14/on-this-day-2021-brazilian-grand-prix/",
+   "source": "RaceFans",
+   "date": "2026-11-14T00:01:00.000Z",
+   "series": "Motorsport",
+   "result": true,
+   "summary": "Hamilton passes Verstappen for vital Brazilian GP win",
+   "image": null
+  },
   {
    "title": "Why are F1 drivers obsessed with padel?",
    "url": "https://www.formula1.com/en/latest/article/why-f1-drivers-love-padel-as-aston-martin-become-the-latest-to-embrace-the-sport.2n2jOtb63TbalovQuHIIUi",
