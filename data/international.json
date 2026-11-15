@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T21:36:13.728Z",
+ "updated": "2026-11-15T22:13:56.780Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 15
+   "count": 0
   },
   {
    "name": "Formula1.com",
@@ -153,16 +153,36 @@
   "Karting": 6,
   "NASCAR": 12,
   "Formula E": 3,
-  "Motorsport": 5,
   "IMSA": 12,
-  "IndyCar": 12,
+  "IndyCar": 11,
   "WRC": 12,
+  "Motorsport": 1,
   "BTCC": 2,
   "DTM": 4,
   "Supercars": 2,
   "Dakar": 1
  },
  "items": [
+  {
+   "title": "Our writers on Antonelli’s title success and what it means",
+   "url": "https://www.formula1.com/en/latest/article/our-writers-on-antonellis-title-success-and-what-it-means.2FAfHA49byUlrrTfVgWKWc",
+   "source": "Formula1.com",
+   "date": "2026-11-15T22:13:56.780Z",
+   "series": "F1",
+   "result": false,
+   "summary": "After Kimi Antonelli was crowned the 2026 Formula 1 Drivers' World Champion, we asked our writers to give us their take on his achievement.",
+   "image": null
+  },
+  {
+   "title": "Lewis Hamilton criticises ex-F1 drivers for \"talking smack\" about young stars",
+   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/",
+   "source": "Motorsport.com",
+   "date": "2026-11-15T22:11:44.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Seven-time Formula 1 champion Lewis Hamilton has criticised former drivers for \"talking smack\" about the young stars of the series, saying he has always been determined not to become \"that type of driver\". The Briton…",
+   "image": "https://cdn-2.motorsport.com/images/amp/01QNXVQ0/s6/motorsport-com-graphics-2026-1.jpg"
+  },
   {
    "title": "Why are F1 drivers obsessed with padel?",
    "url": "https://www.formula1.com/en/latest/article/why-f1-drivers-love-padel-as-aston-martin-become-the-latest-to-embrace-the-sport.2n2jOtb63TbalovQuHIIUi",
@@ -191,7 +211,7 @@
    "series": "F1",
    "result": false,
    "summary": "The narrative surrounding Red Bull Racing over the last half-decade has consistently featured a rotating cast of drivers struggling - and often failing - to survive alongside Max Verstappen. Former team principal…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6DGg5JJY/s6/motorsport-com-graphics-2026-1-3.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6DGg5JJY/s6/motorsport-com-graphics-2026-1-3.jpg"
   },
   {
    "title": "Retaining Liam Lawson isn't enough – Red Bull must stop treating him like a failure",
@@ -201,7 +221,7 @@
    "series": "F1",
    "result": false,
    "summary": "Liam Lawson never failed at Red Bull Racing in 2025. It was Red Bull that failed Liam Lawson. Retaining his services for another year isn't just a logical decision, but perhaps the first sign that the organisation is…",
-   "image": "https://cdn-5.motorsport.com/images/amp/YpbAe4N0/s6/liam-lawson-racing-bulls.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YpbAe4N0/s6/liam-lawson-racing-bulls.jpg"
   },
   {
    "title": "QUIZ: Can you identify these F1 tracks from just one picture?",
@@ -231,7 +251,7 @@
    "series": "F1",
    "result": false,
    "summary": "For years, Red Bull Racing's dual-leadership structure between team principal Christian Horner and motorsport advisor Dr. Helmut Marko was praised as a ruthless but highly effective system. But Horner is now pointing to…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0Zq8V7L6/s6/motorsport-com-graphics-2026-1-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0Zq8V7L6/s6/motorsport-com-graphics-2026-1-2.jpg"
   },
   {
    "title": "Yamaha may not be competitive immediately in MotoGP's 850cc era, says Pramac",
@@ -241,7 +261,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Pramac doesn’t expect Yamaha to race at the front from the outset of MotoGP’s 850cc era, but believes the Japanese manufacturer can close the gap by the end of the 2027 season. Having already overhauled the M1 this year…",
-   "image": "https://cdn-8.motorsport.com/images/amp/0kZXBoK6/s6/jack-miller-pramac-racing.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0kZXBoK6/s6/jack-miller-pramac-racing.jpg"
   },
   {
    "title": "Has Ferrari solved its Lewis Hamilton-Charles Leclerc problem? Fred Vasseur shares peace talk details",
@@ -271,7 +291,7 @@
    "series": "F1",
    "result": false,
    "summary": "When the rain falls at Interlagos, chaos usually follows. For Mercedes, the 2026 São Paulo Grand Prix was a turbulent affair. The Brackley-based squad arrived in Brazil needing to execute a clean race to officially wrap…",
-   "image": "https://cdn-4.motorsport.com/images/amp/Y9lNzKA2/s6/motorsport-com-graphics-2026-1-3.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/Y9lNzKA2/s6/motorsport-com-graphics-2026-1-3.jpg"
   },
   {
    "title": "Piastri on his tough 2026 and why it could make him stronger",
@@ -314,26 +334,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca.jpg"
   },
   {
-   "title": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him",
-   "url": "https://www.formula1.com/en/latest/article/its-10-years-since-ron-dennis-left-f1-i-miss-him.1HKS8KLe46myFMW6qOzsdY",
-   "source": "Formula1.com",
-   "date": "2026-11-15T10:42:02.576Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 Hall of Fame journalist David Tremayne remembers one of the titans of the paddock, a decade after he walked away from the sport in which he'd been so successful.",
-   "image": null
-  },
-  {
-   "title": "Button explains what will ‘keep Alonso going’ at Aston Martin",
-   "url": "https://www.formula1.com/en/latest/article/exclusive-button-explains-what-will-keep-alonso-going-as-spaniard-prepares-for-another-year-with-aston-martin.7bxjUs5DZSH18UP0SEqFWD",
-   "source": "Formula1.com",
-   "date": "2026-11-15T10:42:02.576Z",
-   "series": "F1",
-   "result": false,
-   "summary": "2009 F1 World Champion, and Aston Martin Ambassador, Jenson Button details what Fernando Alonso's re-signing means for the team.",
-   "image": null
-  },
-  {
    "title": "EKN Trackside: Superkarts! USA SuperNationals 29 – Situation Saturday Report",
    "url": "https://www.ekartingnews.com/2026/11/14/ekn-trackside-superkarts-usa-supernationals-29-situation-saturday-report/",
    "source": "eKartingNews",
@@ -351,7 +351,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Keeping up Motorsport.com's annual tradition, it's time to take a look back at the ten closest finishes of the 2026 season in the Cup, O'Reilly, and Truck Series. Feel free to check out the 2025 list HERE. Once again…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
   },
   {
    "title": "BMW \"proud of what we achieved\" after securing runner-up in 2026 WEC",
@@ -361,7 +361,7 @@
    "series": "WEC",
    "result": false,
    "summary": "BMW says it can be \"proud\" of its results in the 2026 World Endurance Championship after finishing second in the manufacturers' standings, despite failing to mount a sustained title challenge to Toyota. Kevin…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
   },
   {
    "title": "The numbers that reveal how MotoGP sprint races have decided the title fight",
@@ -404,16 +404,6 @@
    "image": "https://cdn-4.motorsport.com/images/amp/6VyK9qNY/s6/carson-hocevar-and-cleetus-mcf.jpg"
   },
   {
-   "title": "On This Day: Racing rules in spotlight as Hamilton takes Brazil win from Verstappen",
-   "url": "https://www.racefans.net/2026/11/14/on-this-day-2021-brazilian-grand-prix/",
-   "source": "RaceFans",
-   "date": "2026-11-14T00:01:00.000Z",
-   "series": "Motorsport",
-   "result": true,
-   "summary": "Hamilton passes Verstappen for vital Brazilian GP win",
-   "image": null
-  },
-  {
    "title": "TV ratings released for NASCAR Cup season finale",
    "url": "https://www.motorsport.com/nascar-cup/news/tv-ratings-released-for-nascar-cup-season-finale/10874404/",
    "source": "Motorsport.com",
@@ -454,16 +444,6 @@
    "image": "https://cdn-6.motorsport.com/images/amp/6grQEAlY/s6/rinus-veekay-honda-indy-200-at.jpg"
   },
   {
-   "title": "Featured Comment: Pay more attention to Racing Bulls helping Red Bull",
-   "url": "https://www.racefans.net/2026/11/13/featured-comment-pay-more-attention-to-racing-bulls-helping-red-bull/",
-   "source": "RaceFans",
-   "date": "2026-11-13T15:35:32.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Racing Bulls deserve more scrutiny for helping a 'rival' team",
-   "image": null
-  },
-  {
    "title": "Why aerodynamics will become \"even more important\" under 2027 MotoGP regulations",
    "url": "https://www.autosport.com/motogp/news/why-aerodynamics-will-become-even-more-important-under-2027-motogp-regulations/10874342/",
    "source": "Autosport",
@@ -492,16 +472,6 @@
    "result": false,
    "summary": "Iker Lecuona had to adapt to a different Ducati during the MotoGP weekend in Qatar. Having previously ridden Fermin Aldeguer's GP25, the Spaniard took over Alex Marquez's bike in Losail, giving him access to the latest…",
    "image": "https://cdn-2.motorsport.com/images/amp/YE9EpVwY/s6/iker-lecuona-gresini-racing.jpg"
-  },
-  {
-   "title": "Grosjean admits his single-seater career is likely over after ending IndyCar season 19th",
-   "url": "https://www.racefans.net/2026/11/13/grosjean-admits-his-single-seater-racing-career-is-likely-over-after-ending-indycar-season-19th/",
-   "source": "RaceFans",
-   "date": "2026-11-13T08:39:39.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "Former Formula 1 driver Romain Grosjean, who survived a fireball crash six years ago in Bahrain, is preparing to call time on his single-seater racing career.",
-   "image": null
   },
   {
    "title": "MotoGP makes major US TV step with ESPN deal",
@@ -604,16 +574,6 @@
    "image": "https://cdn-6.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
   },
   {
-   "title": "Social media: Russell launches GR63 Academy to find 25 future racers",
-   "url": "https://www.racefans.net/2026/11/12/social-media-russell-launches-gr63-academy-to-find-25-future-racers/",
-   "source": "RaceFans",
-   "date": "2026-11-12T09:29:55.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Russell launches karting academy to find \"hidden stars\"",
-   "image": null
-  },
-  {
    "title": "Austin Cindric wins Ford Veterans Day Classic at Daytona",
    "url": "https://www.motorsport.com/general/news/austin-cindric-wins-ford-veterans-day-classic-at-daytona/10873980/",
    "source": "Motorsport.com",
@@ -642,16 +602,6 @@
    "result": false,
    "summary": "Frankie Muniz was involved in a scary crash while practicing for the Proud to Honor Veterans Day Classic at Daytona International Speedway, and had to be cut from his Ford Mustang by safety crews. While awake and alert…",
    "image": "https://cdn-2.motorsport.com/images/amp/0rGXNgW2/s6/frankie-muniz-reaume-brothers-.jpg"
-  },
-  {
-   "title": "On This Day: Bourdais wins in final bow for Champ Car’s Lola in Mexico City",
-   "url": "https://www.racefans.net/2026/11/12/on-this-day-2006-champ-car-mexico-city/",
-   "source": "RaceFans",
-   "date": "2026-11-12T00:01:00.000Z",
-   "series": "Motorsport",
-   "result": true,
-   "summary": "Bourdais wins nail-biting Champ Car finale in damp Mexico City",
-   "image": null
   },
   {
    "title": "Ford unveils new Mustang body for 2027 NASCAR Cup season",
