@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:36:58.993Z",
+ "updated": "2026-11-15T16:15:26.054Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,8 +147,8 @@
   }
  ],
  "bySeries": {
-  "MotoGP": 15,
   "F1": 15,
+  "MotoGP": 15,
   "WEC": 14,
   "NASCAR": 12,
   "Formula E": 3,
@@ -164,6 +164,16 @@
  },
  "items": [
   {
+   "title": "Christian Horner blames Red Bull leadership structure for missing F1’s future stars",
+   "url": "https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/",
+   "source": "Motorsport.com",
+   "date": "2026-11-15T16:01:16.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "For years, Red Bull Racing's dual-leadership structure between team principal Christian Horner and motorsport advisor Dr. Helmut Marko was praised as a ruthless but highly effective system. But Horner is now pointing to…",
+   "image": "https://cdn-7.motorsport.com/images/amp/0Zq8V7L6/s6/motorsport-com-graphics-2026-1-2.jpg"
+  },
+  {
    "title": "Yamaha may not be competitive immediately in MotoGP's 850cc era, says Pramac",
    "url": "https://www.motorsport.com/motogp/news/yamaha-may-not-be-competitive-immediately-in-motogps-850cc-era-says-pramac/10874647/",
    "source": "Motorsport.com",
@@ -171,7 +181,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Pramac doesn’t expect Yamaha to race at the front from the outset of MotoGP’s 850cc era, but believes the Japanese manufacturer can close the gap by the end of the 2027 season. Having already overhauled the M1 this year…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0kZXBoK6/s6/jack-miller-pramac-racing.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0kZXBoK6/s6/jack-miller-pramac-racing.jpg"
   },
   {
    "title": "Has Ferrari solved its Lewis Hamilton-Charles Leclerc problem? Fred Vasseur shares peace talk details",
@@ -201,7 +211,7 @@
    "series": "F1",
    "result": false,
    "summary": "Liam Lawson never failed at Red Bull Racing in 2025. It was Red Bull that failed Liam Lawson. Retaining his services for another year isn't just a logical decision, but perhaps the first sign that the organisation is…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YP743Le2/s6/liam-lawson-red-bull-2.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/YP743Le2/s6/liam-lawson-red-bull-2.jpg"
   },
   {
    "title": "Mercedes pitwall admits floundering Ferraris relieved title pressure in São Paulo",
@@ -251,7 +261,7 @@
    "series": "WEC",
    "result": false,
    "summary": "The 2026 World Endurance Championship season finale at Monza should have been a high-stakes showdown between the two Toyota TR010 Hybrids, completely free of team orders. Instead, it delivered an anticlimax that exposed…",
-   "image": "https://cdn-4.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca.jpg"
   },
   {
    "title": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him",
@@ -324,16 +334,6 @@
    "image": null
   },
   {
-   "title": "Inside Turkey’s revamp for the return of a modern F1 classic",
-   "url": "https://www.autosport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874610/",
-   "source": "Autosport",
-   "date": "2026-11-15T09:39:18.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Finding the right balance is often a challenge in modern Formula 1. That applies to the technical regulations: striking a balance between satisfying drivers and purists on the one hand, and delivering the spectacle F1…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YE9EVzGY/s6/track-action-2.jpg"
-  },
-  {
    "title": "The ten closest finishes from the 2026 NASCAR season",
    "url": "https://www.motorsport.com/nascar-cup/news/the-ten-closest-finishes-from-the-2026-nascar-season/10874229/",
    "source": "Motorsport.com",
@@ -341,7 +341,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Keeping up Motorsport.com's annual tradition, it's time to take a look back at the ten closest finishes of the 2026 season in the Cup, O'Reilly, and Truck Series. Feel free to check out the 2025 list HERE. Once again…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
   },
   {
    "title": "BMW \"proud of what we achieved\" after securing runner-up in 2026 WEC",
@@ -351,7 +351,7 @@
    "series": "WEC",
    "result": false,
    "summary": "BMW says it can be \"proud\" of its results in the 2026 World Endurance Championship after finishing second in the manufacturers' standings, despite failing to mount a sustained title challenge to Toyota. Kevin…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
   },
   {
    "title": "The numbers that reveal how MotoGP sprint races have decided the title fight",
@@ -361,7 +361,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP’s title race is heading towards a foregone conclusion at next week’s Portuguese Grand Prix, with Marc Marquez all but certain to take his 10th world championship crown. That his dominance in sprint races has been…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
   },
   {
    "title": "2027 Formula E drivers and teams: The line-up so far",
@@ -471,7 +471,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Honda technical director Romano Albesiano believes aerodynamics will play an “even more important role” in MotoGP under the 2027 regulations, despite the rulemakers' intention to curb its influence. As part of a push to…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6x7ZVxjY/s6/trackhouse-racing-rear-wing.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/6x7ZVxjY/s6/trackhouse-racing-rear-wing.jpg"
   },
   {
    "title": "Sebastien Bourdais hopes latest WEC success will remind teams of his value",
@@ -551,7 +551,7 @@
    "series": "WRC",
    "result": false,
    "summary": "Argentina is poised to make its World Rally Championship return in 2028 after signing a multi-year contract. The South American nation has a rich history in the WRC with its rocky gravel stages featuring regularly from…",
-   "image": "https://cdn-4.motorsport.com/images/amp/2d1e5GeY/s6/sebastien-ogier-julien-ingrass-3.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/2d1e5GeY/s6/sebastien-ogier-julien-ingrass-3.jpg"
   },
   {
    "title": "Argentina set to make WRC comeback in 2028",
@@ -581,7 +581,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "Mexico City will now serve as the season opener for the 2026/27 Formula E campaign after the postponement of the Jeddah E-Prix. The Saudi Arabian circuit was scheduled to kickstart the Gen4 era on 18-19 December with a…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6DGqNNxY/s6/taylor-barnard-ds-penske-3.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/6DGqNNxY/s6/taylor-barnard-ds-penske-3.jpg"
   },
   {
    "title": "Formula E postpones Jeddah E-Prix with Mexico now the season opener",
@@ -601,7 +601,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Over the past six weeks, MotoGP riders progressively hardened their stance in an attempt to put pressure on the championship promoter, which remained determined to honour its contract with the Qatari government. Under…",
-   "image": "https://cdn-8.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
   },
   {
    "title": "Social media: Russell launches GR63 Academy to find 25 future racers",
@@ -721,7 +721,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Sebastien Buemi, Brendon Hartley and Ryo Hirakawa had already established their credentials in sportscar racing, but their names were etched into history last week following their success in the 2026 World Endurance…",
-   "image": "https://cdn-3.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca-2.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca-2.jpg"
   },
   {
    "title": "Maverick Vinales to undergo extensive medical checks: “If I have something broken, I'll stop”",
