@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:15:26.054Z",
+ "updated": "2026-11-15T17:13:08.008Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -164,6 +164,16 @@
  },
  "items": [
   {
+   "title": "Behind the lens with Mark Sutton for Antonelli's F1 title triumph",
+   "url": "https://www.formula1.com/en/latest/article/one-of-the-best-experiences-of-my-life-mark-sutton-on-photographing-antonellis-f1-title.2oqpziZe3WQ5B2xFvPWsnU",
+   "source": "Formula1.com",
+   "date": "2026-11-15T17:13:08.008Z",
+   "series": "F1",
+   "result": true,
+   "summary": "F1 photographer Mark Sutton reflects on capturing Kimi Antonelli's 2026 championship, from the emotional celebrations at Monza to his title triumph in Mexico.",
+   "image": null
+  },
+  {
    "title": "Christian Horner blames Red Bull leadership structure for missing F1’s future stars",
    "url": "https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/",
    "source": "Motorsport.com",
@@ -171,7 +181,7 @@
    "series": "F1",
    "result": false,
    "summary": "For years, Red Bull Racing's dual-leadership structure between team principal Christian Horner and motorsport advisor Dr. Helmut Marko was praised as a ruthless but highly effective system. But Horner is now pointing to…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0Zq8V7L6/s6/motorsport-com-graphics-2026-1-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0Zq8V7L6/s6/motorsport-com-graphics-2026-1-2.jpg"
   },
   {
    "title": "Yamaha may not be competitive immediately in MotoGP's 850cc era, says Pramac",
@@ -181,7 +191,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Pramac doesn’t expect Yamaha to race at the front from the outset of MotoGP’s 850cc era, but believes the Japanese manufacturer can close the gap by the end of the 2027 season. Having already overhauled the M1 this year…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0kZXBoK6/s6/jack-miller-pramac-racing.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0kZXBoK6/s6/jack-miller-pramac-racing.jpg"
   },
   {
    "title": "Has Ferrari solved its Lewis Hamilton-Charles Leclerc problem? Fred Vasseur shares peace talk details",
@@ -261,7 +271,7 @@
    "series": "WEC",
    "result": false,
    "summary": "The 2026 World Endurance Championship season finale at Monza should have been a high-stakes showdown between the two Toyota TR010 Hybrids, completely free of team orders. Instead, it delivered an anticlimax that exposed…",
-   "image": "https://cdn-9.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca.jpg"
   },
   {
    "title": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him",
@@ -324,16 +334,6 @@
    "image": null
   },
   {
-   "title": "Mercedes' incredible history of Formula 1 success",
-   "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq",
-   "source": "Formula1.com",
-   "date": "2026-11-15T09:44:48.469Z",
-   "series": "F1",
-   "result": false,
-   "summary": "As Mercedes claim their ninth F1 Constructors' title in 2026, discover the Silver Arrows' incredible history in Formula 1.",
-   "image": null
-  },
-  {
    "title": "The ten closest finishes from the 2026 NASCAR season",
    "url": "https://www.motorsport.com/nascar-cup/news/the-ten-closest-finishes-from-the-2026-nascar-season/10874229/",
    "source": "Motorsport.com",
@@ -341,7 +341,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Keeping up Motorsport.com's annual tradition, it's time to take a look back at the ten closest finishes of the 2026 season in the Cup, O'Reilly, and Truck Series. Feel free to check out the 2025 list HERE. Once again…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
   },
   {
    "title": "BMW \"proud of what we achieved\" after securing runner-up in 2026 WEC",
@@ -351,7 +351,7 @@
    "series": "WEC",
    "result": false,
    "summary": "BMW says it can be \"proud\" of its results in the 2026 World Endurance Championship after finishing second in the manufacturers' standings, despite failing to mount a sustained title challenge to Toyota. Kevin…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
   },
   {
    "title": "The numbers that reveal how MotoGP sprint races have decided the title fight",
@@ -361,7 +361,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP’s title race is heading towards a foregone conclusion at next week’s Portuguese Grand Prix, with Marc Marquez all but certain to take his 10th world championship crown. That his dominance in sprint races has been…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
   },
   {
    "title": "2027 Formula E drivers and teams: The line-up so far",
@@ -471,7 +471,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Honda technical director Romano Albesiano believes aerodynamics will play an “even more important role” in MotoGP under the 2027 regulations, despite the rulemakers' intention to curb its influence. As part of a push to…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6x7ZVxjY/s6/trackhouse-racing-rear-wing.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/6x7ZVxjY/s6/trackhouse-racing-rear-wing.jpg"
   },
   {
    "title": "Sebastien Bourdais hopes latest WEC success will remind teams of his value",
@@ -481,7 +481,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Sebastien Bourdais hopes his victory in the World Endurance Championship’s Monza finale will help his chances of securing a drive for 2027, even though he insists he does not need to prove his worth. The Frenchman…",
-   "image": "https://cdn-7.motorsport.com/images/amp/63QaOg82/s6/race-winners-earl-bamber-and-s.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/63QaOg82/s6/race-winners-earl-bamber-and-s.jpg"
   },
   {
    "title": "Iker Lecuona felt significant differences between Ducati's GP25 and GP26",
@@ -531,7 +531,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Jonny Edgar is emerging as one of the brightest prospects in the World Endurance Championship following his title-winning campaign with TF Sport in 2026. The young Briton was always expected to make it big in…",
-   "image": "https://cdn-8.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
   },
   {
    "title": "Jack Miller explains what he wants to achieve in WorldSBK after MotoGP exit",
@@ -551,7 +551,7 @@
    "series": "WRC",
    "result": false,
    "summary": "Argentina is poised to make its World Rally Championship return in 2028 after signing a multi-year contract. The South American nation has a rich history in the WRC with its rocky gravel stages featuring regularly from…",
-   "image": "https://cdn-6.motorsport.com/images/amp/2d1e5GeY/s6/sebastien-ogier-julien-ingrass-3.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/2d1e5GeY/s6/sebastien-ogier-julien-ingrass-3.jpg"
   },
   {
    "title": "Argentina set to make WRC comeback in 2028",
@@ -581,7 +581,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "Mexico City will now serve as the season opener for the 2026/27 Formula E campaign after the postponement of the Jeddah E-Prix. The Saudi Arabian circuit was scheduled to kickstart the Gen4 era on 18-19 December with a…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6DGqNNxY/s6/taylor-barnard-ds-penske-3.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6DGqNNxY/s6/taylor-barnard-ds-penske-3.jpg"
   },
   {
    "title": "Formula E postpones Jeddah E-Prix with Mexico now the season opener",
@@ -601,7 +601,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Over the past six weeks, MotoGP riders progressively hardened their stance in an attempt to put pressure on the championship promoter, which remained determined to honour its contract with the Qatari government. Under…",
-   "image": "https://cdn-6.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
   },
   {
    "title": "Social media: Russell launches GR63 Academy to find 25 future racers",
@@ -721,7 +721,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Sebastien Buemi, Brendon Hartley and Ryo Hirakawa had already established their credentials in sportscar racing, but their names were etched into history last week following their success in the 2026 World Endurance…",
-   "image": "https://cdn-2.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca-2.jpg"
   },
   {
    "title": "Maverick Vinales to undergo extensive medical checks: “If I have something broken, I'll stop”",
@@ -781,7 +781,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
   },
   {
    "title": "Paddock Insider: Superkarts! USA SuperNationals 29",
@@ -911,7 +911,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Genesis’s maiden campaign in the World Endurance Championship ended without a single podium finish after its leading hypercar retired from the Monza 6 Hours due to a technical issue. Paul-Loup Chatin was running a…",
-   "image": "https://cdn-2.motorsport.com/images/amp/2GdK1kVY/s6/19-genesis-magma-racing-genesi.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/2GdK1kVY/s6/19-genesis-magma-racing-genesi.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Predictions",
@@ -931,7 +931,7 @@
    "series": "WEC",
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
-   "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
   },
   {
    "title": "Ferrari explains tyre pressure mistake in Monza WEC",
@@ -941,7 +941,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "How Aston Martin’s fuel gamble in Monza WEC fell short by just three seconds",
@@ -951,7 +951,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Aston Martin lost a podium in a dramatic climax to the 2026 World Endurance Championship in Monza due to two penalties that dropped the #007 Valkyrie down to 12th place. Having struggled with early strategy calls that…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6zoD89e0/s6/007-heart-of-racing-aston-mart.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6zoD89e0/s6/007-heart-of-racing-aston-mart.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
@@ -1021,7 +1021,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Former Formula 1 star Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
    "title": "Supercars Sandown: Payne Sunday win sets up title challenge",
