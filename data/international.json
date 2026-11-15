@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T08:02:32.967Z",
+ "updated": "2026-11-15T08:50:38.367Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -152,17 +152,27 @@
   "WEC": 14,
   "MotoGP": 15,
   "Formula E": 3,
-  "Motorsport": 7,
+  "Motorsport": 6,
   "Karting": 6,
   "IMSA": 12,
   "IndyCar": 12,
   "WRC": 12,
   "BTCC": 2,
   "DTM": 4,
-  "Supercars": 3,
+  "Supercars": 2,
   "Dakar": 2
  },
  "items": [
+  {
+   "title": "Poll: How many F1 drivers could have won the championship in Antonelli’s car?",
+   "url": "https://www.racefans.net/2026/11/15/how-many-f1-drivers-could-have-won-the-championship-in-antonellis-car/",
+   "source": "RaceFans",
+   "date": "2026-11-15T08:30:30.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Andrea Kimi Antonelli is the 2026 world champion - but which of his rivals could have won it in his car? Join in this week's poll.",
+   "image": null
+  },
   {
    "title": "Lawson's top-six hopes after new Racing Bulls deal",
    "url": "https://www.formula1.com/en/latest/article/the-extra-gear-liam-lawsons-top-six-hopes-examined-after-securing-new-racing-bulls-deal.4FuO5PyKE8vCtfqm1OyxrJ",
@@ -201,7 +211,7 @@
    "series": "F1",
    "result": false,
    "summary": "Mercedes stormed out of the gates in 2026, quickly establishing a dominant lead that ultimately secured both the drivers' and constructors' championships. But as the season nears its conclusion, the performance gap…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0Zq8VQo6/s6/motorsport-com-graphics-2026-1-2.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0Zq8VQo6/s6/motorsport-com-graphics-2026-1-2.jpg"
   },
   {
    "title": "Why the F1 driver market might produce one last twist",
@@ -221,7 +231,7 @@
    "series": "F1",
    "result": false,
    "summary": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit. The Australian driver has endured a difficult…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6zoD8ea0/s6/motorsport-com-graphics-2026-1.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6zoD8ea0/s6/motorsport-com-graphics-2026-1.jpg"
   },
   {
    "title": "The ten closest finishes from the 2026 NASCAR season",
@@ -231,7 +241,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Keeping up Motorsport.com's annual tradition, it's time to take a look back at the ten closest finishes of the 2026 season in the Cup, O'Reilly, and Truck Series. Feel free to check out the 2025 list HERE. Once again…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
   },
   {
    "title": "YouTuber's full-size 3D-printed F1 car passes its V12 test fit",
@@ -241,7 +251,7 @@
    "series": "F1",
    "result": false,
    "summary": "YouTuber Mike Lake has managed to fit a V12 engine in his full-size 3D-printed replica of a Formula 1 car. He and his team dropped a Mercedes M120 into the plastic body. The 6.0-litre engine was Mercedes' first…",
-   "image": "https://cdn-9.motorsport.com/images/amp/2jEAy5k0/s6/motorsport-com-graphics-2026-1.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/2jEAy5k0/s6/motorsport-com-graphics-2026-1.jpg"
   },
   {
    "title": "‘Lewis suspected a conspiracy’ – Nico Rosberg explains how Lewis Hamilton F1 rivalry went awry at Mercedes",
@@ -251,7 +261,7 @@
    "series": "F1",
    "result": false,
    "summary": "When Lewis Hamilton joined Nico Rosberg at Mercedes for the 2013 Formula 1 season, it was a feel-good story: two long-time friends becoming team-mates. However, their amicable relationship soon turned sour, as Mercedes…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0R7BEVZ2/s6/lewis-hamilton-mercdes-nico-ro.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0R7BEVZ2/s6/lewis-hamilton-mercdes-nico-ro.jpg"
   },
   {
    "title": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
@@ -261,7 +271,7 @@
    "series": "F1",
    "result": false,
    "summary": "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend. The Ferrari driver became only the second driver in the…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YE9EV1qY/s6/motorsport-com-graphics-2026-1.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YE9EV1qY/s6/motorsport-com-graphics-2026-1.jpg"
   },
   {
    "title": "Button explains what will ‘keep Alonso going’ at Aston Martin",
@@ -281,7 +291,7 @@
    "series": "WEC",
    "result": false,
    "summary": "BMW says it can be \"proud\" of its results in the 2026 World Endurance Championship after finishing second in the manufacturers' standings, despite failing to mount a sustained title challenge to Toyota. Kevin…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
   },
   {
    "title": "Our writers on Antonelli’s title success and what it means",
@@ -324,16 +334,6 @@
    "image": null
   },
   {
-   "title": "Mercedes' incredible history of Formula 1 success",
-   "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq",
-   "source": "Formula1.com",
-   "date": "2026-11-14T13:27:47.315Z",
-   "series": "F1",
-   "result": false,
-   "summary": "As Mercedes claim their ninth F1 Constructors' title in 2026, discover the Silver Arrows' incredible history in Formula 1.",
-   "image": null
-  },
-  {
    "title": "The numbers that reveal how MotoGP sprint races have decided the title fight",
    "url": "https://www.autosport.com/motogp/news/the-numbers-that-reveal-how-motogp-sprint-races-have-decided-the-title-fight/10874488/",
    "source": "Autosport",
@@ -351,7 +351,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "The 2026-27 Formula E season will be a before and after for the electric championship. The arrival of Gen4, the new single-seater, will bring a different weekend format, different circuits and a car capable of more. The…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YMX3BMV2/s6/pilotos-y-equipos-de-formula-e.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/YMX3BMV2/s6/pilotos-y-equipos-de-formula-e.jpg"
   },
   {
    "title": "Ferrari Style opens two-floor flagship with exclusive New York capsule collection",
@@ -361,7 +361,7 @@
    "series": "Motorsport",
    "result": false,
    "summary": "The first Ferrari Style flagship store in New York has opened on the corner of Prince Street and Mercer Street in Manhattan's SoHo district. Ferrari signed a lease on 3,700 square feet back in 2024 for a two-storey unit…",
-   "image": "https://cdn-6.motorsport.com/images/amp/27No3wx0/s6/motorsport-com-graphics-2026-1.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/27No3wx0/s6/motorsport-com-graphics-2026-1.jpg"
   },
   {
    "title": "How Qatar red flag helped Johann Zarco put Barcelona crash behind him",
@@ -471,7 +471,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Sebastien Bourdais hopes his victory in the World Endurance Championship’s Monza finale will help his chances of securing a drive for 2027, even though he insists he does not need to prove his worth. The Frenchman…",
-   "image": "https://cdn-6.motorsport.com/images/amp/63QaOg82/s6/race-winners-earl-bamber-and-s.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/63QaOg82/s6/race-winners-earl-bamber-and-s.jpg"
   },
   {
    "title": "Iker Lecuona felt significant differences between Ducati's GP25 and GP26",
@@ -521,7 +521,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Jonny Edgar is emerging as one of the brightest prospects in the World Endurance Championship following his title-winning campaign with TF Sport in 2026. The young Briton was always expected to make it big in…",
-   "image": "https://cdn-7.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
   },
   {
    "title": "Jack Miller explains what he wants to achieve in WorldSBK after MotoGP exit",
@@ -754,16 +754,6 @@
    "image": "https://cdn-7.motorsport.com/images/amp/24QGbJNY/s6/gettyimages-2304524884-2.jpg"
   },
   {
-   "title": "Social Media: Hamilton witnesses humanitarian relief effort in Gaza Strip",
-   "url": "https://www.racefans.net/2026/11/10/social-media-hamilton-witnesses-humanitarian-relief-effort-in-gaza-strip/",
-   "source": "RaceFans",
-   "date": "2026-11-10T21:38:25.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Hamilton visits Gaza Strip to witness relief efforts",
-   "image": null
-  },
-  {
    "title": "Jamie Little will not return to NASCAR broadcast booth in 2027",
    "url": "https://www.motorsport.com/nascar-cup/news/jamie-little-says-she-will-not-return-to-nascar-broadcast-booth/10873724/",
    "source": "Motorsport.com",
@@ -891,7 +881,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Toyota says the battle for the drivers’ title was effectively decided before the Monza 6 Hours, hinting at the Balance of Performance as a contributing factor for an anticlimactic end to the 2026 World Endurance…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6b8ZM4j2/s6/8-toyota-gazoo-racing-toyota-t.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/6b8ZM4j2/s6/8-toyota-gazoo-racing-toyota-t.jpg"
   },
   {
    "title": "Massimo Rivola: 'Aprilia didn’t lose the championship, Marc Marquez won it'",
@@ -911,7 +901,7 @@
    "series": "WEC",
    "result": true,
    "summary": "Genesis’s maiden campaign in the World Endurance Championship ended without a single podium finish after its leading hypercar retired from the Monza 6 Hours due to a technical issue. Paul-Loup Chatin was running a…",
-   "image": "https://cdn-7.motorsport.com/images/amp/2GdK1kVY/s6/19-genesis-magma-racing-genesi.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/2GdK1kVY/s6/19-genesis-magma-racing-genesi.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Predictions",
@@ -931,7 +921,7 @@
    "series": "WEC",
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
-   "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
   },
   {
    "title": "Ferrari explains tyre pressure mistake in Monza WEC",
@@ -951,7 +941,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Aston Martin lost a podium in a dramatic climax to the 2026 World Endurance Championship in Monza due to two penalties that dropped the #007 Valkyrie down to 12th place. Having struggled with early strategy calls that…",
-   "image": "https://cdn-9.motorsport.com/images/amp/6zoD89e0/s6/007-heart-of-racing-aston-mart.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/6zoD89e0/s6/007-heart-of-racing-aston-mart.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
@@ -981,7 +971,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Malthe Jakobsen has been announced as McLaren’s final signing for its 2027 World Endurance Championship Hypercar project. Fresh from his stint with Peugeot, the Dane will be reunited with his former team-mate Mikkel…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6grQEJbY/s6/malthe-jakobsen-mclaren-racing-3.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/6grQEJbY/s6/malthe-jakobsen-mclaren-racing-3.jpg"
   },
   {
    "title": "Fermin Aldeguer defends himself after Francesco Bagnaia crash: “It wasn’t a crazy move”",
@@ -1031,7 +1021,7 @@
    "series": "WEC",
    "result": false,
    "summary": "Former Formula 1 star Robert Kubica has revealed that he will not race for Ferrari’s satellite team AF Corse in the 2027 World Endurance Championship. The 41-year-old made that announcement shortly after Sunday’s Monza…",
-   "image": "https://cdn-8.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/6grBLomY/s6/robert-kubica-af-corse-ferrari.jpg"
   },
   {
    "title": "Charles Milesi \"can’t really remember what happened\" in huge WEC crash",
@@ -1041,7 +1031,7 @@
    "series": "WEC",
    "result": false,
    "summary": "A heavy accident brought an abrupt end to the World Endurance Championship tenure of the #35 Alpine during the Monza 6 Hours when Charles Milesi suffered a massive off at Parabolica. The Frenchman, sharing the #35 entry…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YN7vlVb6/s6/35-alpine-endurance-team-alpin.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YN7vlVb6/s6/35-alpine-endurance-team-alpin.jpg"
   },
   {
    "title": "Supercars Sandown: Payne Sunday win sets up title challenge",
@@ -1342,16 +1332,6 @@
    "result": false,
    "summary": "The 2027 Dakar Rally will no longer take place in Saudi Arabia as originally planned, with organisers Amaury Sport Organisation (ASO) and Saudi Motorsport Company (SMC) confirming that the event will be relocated to a…",
    "image": "https://cdn-9.motorsport.com/images/amp/0mXRLmX6/s6/227-ford-m-sport-ford-nani-rom.jpg"
-  },
-  {
-   "title": "Supercars Gold Coast: Feeney converts Race 2 pole to win after Saturday defeat",
-   "url": "https://www.autosport.com/supercars/news/supercars-gold-coast-broc-feeney-converts-race-2-pole-to-win-after-saturday-defeat/10868190/",
-   "source": "Autosport",
-   "date": "2026-10-25T08:13:35.000Z",
-   "series": "Supercars",
-   "result": false,
-   "summary": "Broc Feeney had never won a Supercars race on the streets of the Gold Coast before Sunday but he was on top form, taking a convincing win in the second of the Supercars Finals. For the second day in a row, Feeney…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YK13Q3r0/s6/broc-feeney-triple-eight-race--2.jpg"
   }
  ]
 }
