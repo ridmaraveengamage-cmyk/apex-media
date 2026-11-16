@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:58:54.123Z",
+ "updated": "2026-11-16T18:52:06.380Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,12 +147,12 @@
   }
  ],
  "bySeries": {
-  "F1": 16,
+  "F1": 15,
+  "Formula E": 6,
   "NASCAR": 13,
   "MotoGP": 15,
-  "Formula E": 5,
   "IndyCar": 12,
-  "Motorsport": 6,
+  "Motorsport": 5,
   "IMSA": 12,
   "WEC": 15,
   "Karting": 6,
@@ -164,6 +163,36 @@
   "Dakar": 1
  },
  "items": [
+  {
+   "title": "5 storylines we're excited about ahead of the Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-las-vegas-grand-prix.3fjavheTbHD8fjZI0i7BWd",
+   "source": "Formula1.com",
+   "date": "2026-11-16T18:52:06.380Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Las Vegas for Round 21 of the 2026 season.",
+   "image": null
+  },
+  {
+   "title": "Williams, Aston Martin among new F1 liveries for Las Vegas GP as Acura \"replaces\" Honda",
+   "url": "https://www.motorsport.com/f1/news/williams-aston-martin-among-new-f1-liveries-for-las-vegas-gp-as-acura-replaces-honda/10874925/",
+   "source": "Motorsport.com",
+   "date": "2026-11-16T18:45:08.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Williams and Aston Martin are among the F1 teams to have revamped their car liveries for this weekend's Las Vegas Grand Prix. F1 heads to Las Vegas for its third of three US races, with the entertainment capital having…",
+   "image": "https://cdn-9.motorsport.com/images/amp/2GdKxKQY/s6/williams-las-vegas-livery.jpg"
+  },
+  {
+   "title": "Formula E Jarama test: Mahindra leads Nissan as Gen4 era begins",
+   "url": "https://www.autosport.com/formula-e/news/formula-e-jarama-test-mahindra-leads-nissan-as-gen4-era-begins/10874921/",
+   "source": "Autosport",
+   "date": "2026-11-16T18:07:32.000Z",
+   "series": "Formula E",
+   "result": false,
+   "summary": "Mahindra driver Edoardo Mortara topped the opening day of Formula E's 2027 pre-season testing at Jarama, as Formula E's Gen4 got underway on the outskirts of Madrid. Swiss-born Mortara posted a time of 1m24.344s in the…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YpbAkPj0/s6/edoardo-mortara-mahindra-racin.jpg"
+  },
   {
    "title": "Terry Crews on America's growing love for F1",
    "url": "https://www.formula1.com/en/latest/article/americans-are-becoming-more-formula-1-terry-crews-on-why-f1-is-winning-over-the-us.6Uqdsu4AlrP8Y3fxNUMesa",
@@ -232,7 +261,7 @@
    "series": "F1",
    "result": false,
    "summary": "Lando Norris's new junior team LN4 Fusion has signed former Red Bull junior Oliver Goethe as its first driver for the 2027 Formula 2 season. The 22-year-old will make the move from MP Motorsport for his third season in…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0LdereN0/s6/motorsport-com-graphics.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0LdereN0/s6/motorsport-com-graphics.jpg"
   },
   {
    "title": "Lando Norris: F1 needs better rain tyres as wet Las Vegas would be \"scary\"",
@@ -243,6 +272,16 @@
    "result": false,
    "summary": "World champion Lando Norris hopes Formula 1 tyre supplier Pirelli will field much-improved rain tyres in 2027 as he expects the current range won't work properly at a low-downforce circuit like Las Vegas. Following…",
    "image": "https://cdn-2.motorsport.com/images/amp/27No3ae0/s6/lando-norris-mclaren.jpg"
+  },
+  {
+   "title": "Hamilton tells F1 to spend £50 million in promoting under-represented talent",
+   "url": "https://www.racefans.net/2026/11/16/hamilton-tells-f1-to-spend-50-million-in-promoting-under-represented-talent/",
+   "source": "RaceFans",
+   "date": "2026-11-16T17:10:16.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton's Mission 44 organisation says Formula 1 fans want to see greater representation in the championship.",
+   "image": null
   },
   {
    "title": "How bad was it? Ranking Connor Zilisch's rookie season against other ROTY winners",
@@ -292,7 +331,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Aprilia appears to set focus heavily on aerodynamics at the start of MotoGP's 850cc era, with test rider Lorenzo Savadori posting a photo of its 2027-spec bike after the Jerez test. The image quickly attracted…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0JXRpENY/s6/dettagli-aprilia-850cc.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0JXRpENY/s6/dettagli-aprilia-850cc.jpg"
   },
   {
    "title": "Toto Wolff predicts Kimi Antonelli will become more popular in Italy than Michael Schumacher",
@@ -302,47 +341,7 @@
    "series": "F1",
    "result": false,
    "summary": "Mercedes team principal Toto Wolff is no stranger to making bold statements, but his latest assessment of Kimi Antonelli's popularity might actually shock the dedicated Ferrari fanbase. Following Antonelli's historic…",
-   "image": "https://cdn-4.motorsport.com/images/amp/2dEoloBY/s6/motorsport-com-graphics-5-2.jpg"
-  },
-  {
-   "title": "Spotlight: Aston Martin reveals one-off livery for Las Vegas Grand Prix",
-   "url": "https://www.racefans.net/2026/11/16/spotlight-aston-martin-reveals-one-off-livery-for-las-vegas-grand-prix/",
-   "source": "RaceFans",
-   "date": "2026-11-16T16:10:54.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Aston Martin reveals special livery for Las Vegas Grand Prix",
-   "image": null
-  },
-  {
-   "title": "Christian Horner’s private message to Toto Wolff revealed after Kimi Antonelli's 2026 F1 title",
-   "url": "https://www.motorsport.com/f1/news/christian-horners-private-message-to-toto-wolff-revealed-respect-for-you/10874823/",
-   "source": "Motorsport.com",
-   "date": "2026-11-16T16:02:29.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "At the height of their bitter championship battles, the idea of Christian Horner sending Toto Wolff a warm congratulatory text would have seemed entirely fictional to most Formula 1 fans. But following Kimi Antonelli's…",
-   "image": "https://cdn-2.motorsport.com/images/amp/6O7zEzX6/s6/motorsport-com-graphics-4-2.jpg"
-  },
-  {
-   "title": "Zak Brown recalls McLaren's \"very toxic environment\" after joining team in 2016",
-   "url": "https://www.motorsport.com/f1/news/zak-brown-recalls-mclarens-very-toxic-environment-after-joining-team-in-2016/10874891/",
-   "source": "Motorsport.com",
-   "date": "2026-11-16T15:54:25.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "McLaren Racing CEO Zak Brown has described the team he joined in 2016 as \"a very toxic environment\", blaming a revolving door of leaders for years of poor results on and off the track. The American arrived at McLaren a…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YXyKXKd6/s6/motorsport-com-graphics-3.jpg"
-  },
-  {
-   "title": "Australian GP boss to leave role weeks after final MotoGP race at Phillip Island",
-   "url": "https://www.crash.net/motogp/news/1110135/1/australian-gp-boss-leave-role-weeks-after-final-motogp-race-phillip-island",
-   "source": "Crash.net",
-   "date": "2026-11-16T15:28:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Travis Auld will leave his role at the Australian GP at the end of 2026",
-   "image": "https://www.crash.net/sites/default/files/2026-10/gng_1357419_hires_1600x900.jpg?width=1200"
+   "image": "https://cdn-2.motorsport.com/images/amp/2dEoloBY/s6/motorsport-com-graphics-5-2.jpg"
   },
   {
    "title": "The features set to define Formula E’s Gen4 era",
@@ -352,7 +351,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "The Gen4 is aiming to change Formula E forever. This is not simply an ambition but a promise that reflects the direction taken in developing the next generation of electric single-seaters since 2023. The targets have…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0o5AkPaY/s6/stoffel-vandoorne-jaguar-tcs-r-2.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0o5AkPaY/s6/stoffel-vandoorne-jaguar-tcs-r-2.jpg"
   },
   {
    "title": "Formula E Gen4: Double the downforce and greater freedom with electronic controls",
@@ -362,7 +361,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "The Gen4 is aiming to change Formula E forever. This is not simply an ambition but a promise that reflects the direction taken in developing the next generation of electric single-seaters since 2023. The targets have…",
-   "image": "https://cdn-3.motorsport.com/images/amp/YpbAkPj0/s6/edoardo-mortara-mahindra-racin-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YpbAkPj0/s6/edoardo-mortara-mahindra-racin-2.jpg"
   },
   {
    "title": "Andretti Global unveils new 2027 look for Will Power with zone® Premium Nicotine Pouches partnership",
@@ -372,7 +371,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Andretti Global has announced a new multi-year partnership with zone® Premium Nicotine Pouches, the latest innovation from ITG Brands, ahead of the 2027 IndyCar Series season. Under the agreement, zone will serve as the…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6VyK5KwY/s6/ic-zoneannouncement-16x9.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6VyK5KwY/s6/ic-zoneannouncement-16x9.jpg"
   },
   {
    "title": "HMD Motorsports enters new era following acquisition by PV3 Enterprises",
@@ -382,7 +381,7 @@
    "series": "Motorsport",
    "result": false,
    "summary": "PV3 Enterprises, LLC has officially acquired HMD Motorsports, marking a major expansion of its footprint in American open-wheel racing. Beginning with the 2027 Indy NXT by Firestone season, the powerhouse organization…",
-   "image": "https://cdn-3.motorsport.com/images/amp/0R7ByBM2/s6/unnamed.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0R7ByBM2/s6/unnamed.jpg"
   },
   {
    "title": "United Autosports confirms Boulle, di Resta, and Aguilera for 2027 IMSA LMP2 campaign",
@@ -392,7 +391,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "United Autosports has finalized the driver roster for its #22 LMP2 entry ahead of the 2027 IMSA WeatherTech SportsCar Championship, pairing returning 2024 LMP2 champion Nick Boulle with veteran pro-driver Paul di Resta…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0o5PldDY/s6/22-united-autosports-usa-oreca.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0o5PldDY/s6/22-united-autosports-usa-oreca.jpg"
   },
   {
    "title": "2027 Formula E grid: Every team's livery revealed",
@@ -402,7 +401,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "Andretti Felipe Drugovich, Andretti Formula E Photo by: Jed Leicester / LAT Images via Getty Images After changing its livery mid-season in 2025-26, Andretti has unveiled another new colour scheme for 2027. The American…",
-   "image": "https://cdn-8.motorsport.com/images/amp/0o5AkPaY/s6/stoffel-vandoorne-jaguar-tcs-r.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0o5AkPaY/s6/stoffel-vandoorne-jaguar-tcs-r.jpg"
   },
   {
    "title": "World first McLaren-liveried Etihad aircraft takes to the skies after Norris victory",
@@ -412,7 +411,7 @@
    "series": "Motorsport",
    "result": true,
    "summary": "McLaren and partner Etihad have pulled off what is arguably F1’s biggest ever partnership showcase – by branding an entire Boeing 787 Dreamliner in the team’s famous papaya livery, complete with a highly exclusive…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0JXR7wQY/s6/image-2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0JXR7wQY/s6/image-2.jpg"
   },
   {
    "title": "What the WEC can learn from the controversial Monza finish",
@@ -432,7 +431,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Francesco Bagnaia will be absent from this weekend’s Portuguese Grand Prix as he continues his recovery from an injury he sustained during the Qatar MotoGP weekend. The factory Ducati rider fractured his foot after…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
   },
   {
    "title": "Bagnaia ruled out of Portimao, Ducati calls up Lecuona",
@@ -522,7 +521,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP’s title race is heading towards a foregone conclusion at next week’s Portuguese Grand Prix, with Marc Marquez all but certain to take his 10th world championship crown. That his dominance in sprint races has been…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
   },
   {
    "title": "2027 Formula E drivers and teams: The line-up so far",
@@ -622,7 +621,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Honda technical director Romano Albesiano believes aerodynamics will play an “even more important role” in MotoGP under the 2027 regulations, despite the rulemakers' intention to curb its influence. As part of a push to…",
-   "image": "https://cdn-8.motorsport.com/images/amp/6x7ZVxjY/s6/trackhouse-racing-rear-wing.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/6x7ZVxjY/s6/trackhouse-racing-rear-wing.jpg"
   },
   {
    "title": "Sebastien Bourdais hopes latest WEC success will remind teams of his value",
@@ -722,7 +721,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "Mexico City will now serve as the season opener for the 2026/27 Formula E campaign after the postponement of the Jeddah E-Prix. The Saudi Arabian circuit was scheduled to kickstart the Gen4 era on 18-19 December with a…",
-   "image": "https://cdn-7.motorsport.com/images/amp/0o5PvQ7Y/s6/edoardo-mortara-mahindra-racin.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/0o5PvQ7Y/s6/edoardo-mortara-mahindra-racin.jpg"
   },
   {
    "title": "It is time to heal the wounds with the MotoGP Qatar GP over",
@@ -733,16 +732,6 @@
    "result": false,
    "summary": "Over the past six weeks, MotoGP riders progressively hardened their stance in an attempt to put pressure on the championship promoter, which remained determined to honour its contract with the Qatari government. Under…",
    "image": "https://cdn-6.motorsport.com/images/amp/Y9lNzLP2/s6/marc-marquez-ducati-team-3.jpg"
-  },
-  {
-   "title": "Social media: Russell launches GR63 Academy to find 25 future racers",
-   "url": "https://www.racefans.net/2026/11/12/social-media-russell-launches-gr63-academy-to-find-25-future-racers/",
-   "source": "RaceFans",
-   "date": "2026-11-12T09:29:55.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Russell launches karting academy to find \"hidden stars\"",
-   "image": null
   },
   {
    "title": "Austin Cindric wins Ford Veterans Day Classic at Daytona",

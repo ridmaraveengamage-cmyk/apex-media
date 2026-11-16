@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:59:03.397Z",
+ "updated": "2026-11-16T18:52:08.972Z",
  "status": {
   "F1": "ok",
   "MotoGP": "ok",
@@ -1579,98 +1579,7 @@
     "name": "NASCAR Cup Series Championship Race",
     "place": "Homestead-Miami Speedway",
     "date": "2026-11-08",
-    "results": [
-     {
-      "pos": 1,
-      "name": "Ryan Blaney",
-      "team": "#12 Team Penske",
-      "color": "#1f4fa0",
-      "time": "267 laps",
-      "points": 71,
-      "fastest": false
-     },
-     {
-      "pos": 2,
-      "name": "Tyler Reddick",
-      "team": "#45 23XI Racing",
-      "color": "#eb0a1e",
-      "time": "Running",
-      "points": 53,
-      "fastest": false
-     },
-     {
-      "pos": 3,
-      "name": "William Byron",
-      "team": "#24 Hendrick Motorsports",
-      "color": "#d6a400",
-      "time": "Running",
-      "points": 41,
-      "fastest": false
-     },
-     {
-      "pos": 4,
-      "name": "Christopher Bell",
-      "team": "#20 Joe Gibbs Racing",
-      "color": "#eb0a1e",
-      "time": "Running",
-      "points": 50,
-      "fastest": false
-     },
-     {
-      "pos": 5,
-      "name": "Bubba Wallace",
-      "team": "#23 23XI Racing",
-      "color": "#eb0a1e",
-      "time": "Running",
-      "points": 36,
-      "fastest": false
-     },
-     {
-      "pos": 6,
-      "name": "Denny Hamlin",
-      "team": "#11 Joe Gibbs Racing",
-      "color": "#eb0a1e",
-      "time": "Running",
-      "points": 46,
-      "fastest": false
-     },
-     {
-      "pos": 7,
-      "name": "Austin Cindric",
-      "team": "#2 Team Penske",
-      "color": "#1f4fa0",
-      "time": "Running",
-      "points": 43,
-      "fastest": false
-     },
-     {
-      "pos": 8,
-      "name": "Daniel Suárez",
-      "team": "#7 Spire Motorsports",
-      "color": "#d6a400",
-      "time": "Running",
-      "points": 33,
-      "fastest": false
-     },
-     {
-      "pos": 9,
-      "name": "Noah Gragson",
-      "team": "#4 Front Row Motorsports",
-      "color": "#1f4fa0",
-      "time": "Running",
-      "points": 28,
-      "fastest": false
-     },
-     {
-      "pos": 10,
-      "name": "Michael McDowell",
-      "team": "#71 Spire Motorsports",
-      "color": "#d6a400",
-      "time": "Running",
-      "points": 27,
-      "fastest": false
-     }
-    ]
+    "results": []
    },
    "standings": {
     "drivers": [
