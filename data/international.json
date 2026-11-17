@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:26:48.340Z",
+ "updated": "2026-11-17T21:23:36.479Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,22 +147,32 @@
   }
  ],
  "bySeries": {
+  "Motorsport": 6,
   "F1": 15,
   "IMSA": 12,
   "IndyCar": 10,
-  "Motorsport": 5,
   "NASCAR": 14,
   "MotoGP": 15,
   "WRC": 11,
   "Dakar": 2,
   "Formula E": 6,
   "WEC": 14,
-  "Karting": 6,
+  "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Social Media: FIA president indicates agreement reached on next power unit formula",
+   "url": "https://www.racefans.net/2026/11/17/social-media-fia-president-indicates-agreement-reached-on-next-power-unit-formula/",
+   "source": "RaceFans",
+   "date": "2026-11-17T20:37:09.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "V8 engines are coming to F1 \"soon\", claims Ben Sulayem",
+   "image": null
+  },
   {
    "title": "Cadillac reveal special livery for Las Vegas Grand Prix",
    "url": "https://www.formula1.com/en/latest/article/gallery-cadillac-reveal-special-livery-for-las-vegas-grand-prix.1b7NXQe83gP2LzjiCQf2ES",
@@ -574,6 +584,16 @@
    "image": "https://cdn-7.motorsport.com/images/amp/YpbAzqX0/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
+   "title": "EKN Trackside: Superkarts! USA SuperNationals 29 – SuperSunday Report",
+   "url": "https://www.ekartingnews.com/2026/11/15/ekn-trackside-superkarts-usa-supernationals-29-supersunday-report/",
+   "source": "eKartingNews",
+   "date": "2026-11-16T06:00:09.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "A perfect day for racing greeted the near 600 entries for the final day of action for Superkarts! USA SuperNationals 29 outside the Las Vegas Motor Speedway. Four days of on-track activities led up to SuperSunday, where…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
+  },
+  {
    "title": "Joe Gibbs Racing plans to push back on Denny Hamlin retirement timeline",
    "url": "https://www.motorsport.com/nascar-cup/news/joe-gibbs-racing-plans-to-push-back-on-denny-hamlin-retirement-timeline-/10874733/",
    "source": "Motorsport.com",
@@ -602,16 +622,6 @@
    "result": false,
    "summary": "The 2026 World Endurance Championship season finale at Monza should have been a high-stakes showdown between the two Toyota TR010 Hybrids, completely free of team orders. Instead, it delivered an anticlimax that exposed…",
    "image": "https://cdn-2.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca.jpg"
-  },
-  {
-   "title": "EKN Trackside: Superkarts! USA SuperNationals 29 – Situation Saturday Report",
-   "url": "https://www.ekartingnews.com/2026/11/14/ekn-trackside-superkarts-usa-supernationals-29-situation-saturday-report/",
-   "source": "eKartingNews",
-   "date": "2026-11-15T06:00:52.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "The final day of heat racing was held on Saturday for the Superkarts! USA SuperNationals 29 outside the Las Vegas Motor Speedway. While the wet weather stayed away all day, strong winds blew through the area during the…",
-   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
   },
   {
    "title": "The ten closest finishes from the 2026 NASCAR season",
@@ -1192,16 +1202,6 @@
    "result": false,
    "summary": "Double British Touring Car Championship title winner Tom Ingram will remain at Excelr8 Motorsport until at least the end of the decade. While the 33-year-old’s continuation at the Hyundai squad for next season was…",
    "image": "https://cdn-4.motorsport.com/images/amp/0kZAe4j6/s6/tom-ingram-team-vertu.jpg"
-  },
-  {
-   "title": "EKN Debrief: Episode 174 – ROK Vegas 2026",
-   "url": "https://www.ekartingnews.com/2026/11/05/ekn-debrief-episode-174-rok-vegas-2026/",
-   "source": "eKartingNews",
-   "date": "2026-11-05T21:48:39.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "The ROK Vegas 2026 presented by ROK Cup USA took place outside the Rio Hotel & Casino Las Vegas over October 28-November 1. The five days of action for the ninth edition of the event saw the over 350 entries battle on…",
-   "image": null
   },
   {
    "title": "Colton Herta backs Mexico IndyCar race following Pato O’Ward promoter callout",
