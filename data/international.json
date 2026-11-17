@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T15:25:15.052Z",
+ "updated": "2026-11-17T16:32:09.839Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,13 +148,13 @@
  ],
  "bySeries": {
   "F1": 15,
+  "IndyCar": 10,
+  "Motorsport": 5,
   "NASCAR": 14,
   "IMSA": 12,
   "MotoGP": 15,
-  "Motorsport": 4,
-  "WRC": 12,
-  "Dakar": 2,
-  "IndyCar": 11,
+  "WRC": 11,
+  "Dakar": 3,
   "Formula E": 6,
   "WEC": 14,
   "Karting": 6,
@@ -163,6 +163,86 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Williams retain Jade Jacquet for 2027 F1 ACADEMY campaign",
+   "url": "https://www.formula1.com/en/latest/article/williams-retain-jade-jacquet-for-2027-f1-academy-campaign.5BcvOHlUPr9OJXYXq30dnE",
+   "source": "Formula1.com",
+   "date": "2026-11-17T16:32:09.839Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Williams have announced that Jade Jacquet will continue to represent the team for a second F1 ACADEMY season, with the French driver remaining with ART Grand Prix in 2027.",
+   "image": null
+  },
+  {
+   "title": "How the Sphere became the heart of the Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/how-the-sphere-became-the-heart-of-the-las-vegas-grand-prix.1xiIUVGfOPf8kGx8oHY7V9",
+   "source": "Formula1.com",
+   "date": "2026-11-17T16:32:09.839Z",
+   "series": "F1",
+   "result": false,
+   "summary": "It's eye-catching, spectacular and unmistakably Las Vegas. The Sphere has become an integral part of the Las Vegas Grand Prix, and we explore how and why.",
+   "image": null
+  },
+  {
+   "title": "Aston Martin showcase bespoke Las Vegas Grand Prix livery",
+   "url": "https://www.formula1.com/en/latest/article/gallery-aston-martin-showcase-bespoke-livery-for-las-vegas-grand-prix.7f71lWPYrxvriroCo30iaY",
+   "source": "Formula1.com",
+   "date": "2026-11-17T16:32:09.839Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Aston Martin will run a special livery on the AMR26 for the Las Vegas Grand Prix weekend.",
+   "image": null
+  },
+  {
+   "title": "Las Vegas Grand Prix betting guide and latest odds",
+   "url": "https://www.formula1.com/en/latest/article/las-vegas-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.5sEja0aYqYkyfdSZ9sTibF",
+   "source": "Formula1.com",
+   "date": "2026-11-17T16:32:09.839Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Our experts bring you all the important betting information you need before making your predictions for Vegas.",
+   "image": null
+  },
+  {
+   "title": "IndyCar 2026 season review: Team Penske",
+   "url": "https://www.motorsport.com/indycar/news/indycar-2026-season-review-team-penske/10875117/",
+   "source": "Motorsport.com",
+   "date": "2026-11-17T16:22:06.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "For Team Penske, the 2026 IndyCar Series season was a campaign defined by successful succession planning, oval authority, and the lingering sting of coming up agonizingly short on the sport’s biggest stages. Entering…",
+   "image": "https://cdn-3.motorsport.com/images/amp/25dLwnD0/s6/david-malukas-team-penske.jpg"
+  },
+  {
+   "title": "Inspiring the next generation of mechanics",
+   "url": "https://www.autosport.com/general/news/inspiring-the-next-generation-of-mechanics/10875024/",
+   "source": "Autosport",
+   "date": "2026-11-17T16:02:02.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Every successful Formula 1 team, in fact, every car that drives on the road, is entirely reliant on highly skilled mechanics and technicians, whose technical knowledge and capabilities are essential to performance…",
+   "image": "https://cdn-4.motorsport.com/images/amp/YK15z5B0/s6/mexican-gp.jpg"
+  },
+  {
+   "title": "All the special liveries for F1's Las Vegas Grand Prix",
+   "url": "https://www.the-race.com/formula-1/f1-all-special-liveries-las-vegas-grand-prix/",
+   "source": "The Race",
+   "date": "2026-11-17T15:56:37.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "It's time for the Las Vegas Grand Prix - and with it, a host of special liveries for F1 teams",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/FW48_Vegas_Livery_camera_top_AA_23.jpg"
+  },
+  {
+   "title": "Toto Wolff offers blunt response to Kimi Antonelli to Ferrari question",
+   "url": "https://www.crash.net/f1/news/1110156/1/toto-wolff-offers-blunt-response-kimi-antonelli-ferrari-question",
+   "source": "Crash.net",
+   "date": "2026-11-17T15:42:25.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Toto Wolff addresses the prospect of Kimi Antonelli moving to Ferrari one day.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1415432_hires.jpg?width=1200"
+  },
   {
    "title": "Brown on why McLaren struggled to fight for title in 2026",
    "url": "https://www.formula1.com/en/latest/article/weve-just-got-to-do-a-better-job-brown-explains-why-mclaren-struggled-to-challenge-for-the-championship-in-2026.4vyTtKngYi0IPSrhXhRozz",
@@ -174,16 +254,6 @@
    "image": null
   },
   {
-   "title": "5 storylines we're excited about ahead of the Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-las-vegas-grand-prix.3fjavheTbHD8fjZI0i7BWd",
-   "source": "Formula1.com",
-   "date": "2026-11-17T15:25:15.052Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Las Vegas for Round 21 of the 2026 season.",
-   "image": null
-  },
-  {
    "title": "Corey Heim will drive No. 67 in 2027 NASCAR Cup season",
    "url": "https://www.motorsport.com/nascar-cup/news/corey-heim-will-drive-no-67-in-2027-nascar-cup-season/10875096/",
    "source": "Motorsport.com",
@@ -191,7 +261,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "Until Tuesday, 23XI Racing's full-time lineup for 2027 was missing one thing -- the car number for Corey Heim. When Heim was announced as Riley Herbst's replacement, the original plan was for him to take over the No. 35…",
-   "image": "https://cdn-9.motorsport.com/images/amp/YBVjZDBY/s6/corey-heim-23xi-racing.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YBVjZDBY/s6/corey-heim-23xi-racing.jpg"
   },
   {
    "title": "Mercedes plan to debut ADUO upgrade on Antonelli's car only",
@@ -211,7 +281,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Toyota insists its new GR GT3 “perfectly matches” the foundations on which GT3 racing is based, amid concerns raised by SRO founder Stephane Ratel about the future of the category. Earlier this summer, SRO owner Ratel…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0rVPkAG0/s6/toyota-gr-gt3.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0rVPkAG0/s6/toyota-gr-gt3.jpg"
   },
   {
    "title": "Why George Russell won’t get Mercedes F1 engine upgrade at Las Vegas GP",
@@ -234,16 +304,6 @@
    "image": null
   },
   {
-   "title": "Williams unveil special livery for Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/williams-unveil-special-one-off-livery-for-las-vegas-grand-prix.01klQqq0PYu7wjugCtr98K",
-   "source": "Formula1.com",
-   "date": "2026-11-17T14:16:10.188Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The Williams FW48 will sport a unique livery across the Las Vegas Grand Prix weekend.",
-   "image": null
-  },
-  {
    "title": "What time is the 2026 Las Vegas GP and how can I watch it?",
    "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-las-vegas-grand-prix-and-how-can-i-watch-it.5klYngWOQMjROxZ3nEp5Pr",
    "source": "Formula1.com",
@@ -251,16 +311,6 @@
    "series": "F1",
    "result": false,
    "summary": "Here are all the timings – along with all the additional information you need – for the 21st Grand Prix weekend of the 2026 season from Las Vegas.",
-   "image": null
-  },
-  {
-   "title": "McLaren determined to take fight for P3 ‘down to the wire’",
-   "url": "https://www.formula1.com/en/latest/article/well-make-sure-it-goes-down-to-the-wire-mclaren-on-determination-to-finish-p3-in-teams-championship.2CPaMf6YTIkLE4pZlahf9y",
-   "source": "Formula1.com",
-   "date": "2026-11-17T14:16:10.188Z",
-   "series": "F1",
-   "result": false,
-   "summary": "On the latest episode of F1 Nation, Racing Director Randy Singh opened up on the pressure McLaren are under to clinch P3 in the Teams’ Championship.",
    "image": null
   },
   {
@@ -281,7 +331,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Honda says MotoGP’s next-generation 850cc bikes will remain relatively close to the current 1000cc machines because the loss of engine power has largely been offset by gains in other areas. While manufacturers continue…",
-   "image": "https://cdn-8.motorsport.com/images/amp/0R7wM9O2/s6/aleix-espargaro-honda-hrc.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/0R7wM9O2/s6/aleix-espargaro-honda-hrc.jpg"
   },
   {
    "title": "Honda predicts new 850cc bikes \"could be as fast\" as current MotoGP machines",
@@ -291,7 +341,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Honda says MotoGP’s next-generation 850cc bikes will remain relatively close to the current 1000cc machines because the loss of engine power has largely been offset by gains in other areas. While manufacturers continue…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YK15lZz0/s6/luca-marini-honda-hrc-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YK15lZz0/s6/luca-marini-honda-hrc-2.jpg"
   },
   {
    "title": "F1's 'stupid' speed limit to change in 2027? What you need to know",
@@ -311,7 +361,7 @@
    "series": "Motorsport",
    "result": false,
    "summary": "· The 39th annual Autosport Awards will take place on 3 February, 2027, at the Roundhouse in Camden, London, bringing together the biggest names from international motorsport. · Expanded fan-voted categories will…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlEQpMY/s6/lando-norris-mclaren-sir-jacki-2.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/2wlEQpMY/s6/lando-norris-mclaren-sir-jacki-2.jpg"
   },
   {
    "title": "Ferrari boss Fred Vasseur “overwhelmed” by job claims Bernie Ecclestone",
@@ -322,16 +372,6 @@
    "result": false,
    "summary": "Ex-F1 boss Bernie Ecclestone launches scathing attack on Ferrari and Fred Vasseur.",
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1450961_hires.jpg?width=1200"
-  },
-  {
-   "title": "Toto Wolff is not afraid of losing Kimi Antonelli to Ferrari",
-   "url": "https://www.motorsport.com/f1/news/toto-wolff-is-not-afraid-of-losing-kimi-antonelli-to-ferrari/10875044/",
-   "source": "Motorsport.com",
-   "date": "2026-11-17T11:45:10.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Mercedes team principal Toto Wolff is “0.0%” afraid that Kimi Antonelli could switch to Ferrari in Formula 1. Many Italians would love to see the new world champion in a red cockpit one day, but according to Wolff, that…",
-   "image": "https://cdn-2.motorsport.com/images/amp/Y9lNjD72/s6/lewis-hamilton-ferrari-andrea-.jpg"
   },
   {
    "title": "Lewis Hamilton ‘house-hunting in LA’ to spend more time with girlfriend Kim Kardashian",
@@ -351,7 +391,7 @@
    "series": "WRC",
    "result": false,
    "summary": "A new WRC1 classification and revised road order rules could be introduced to the World Rally Championship next year. The WRC Commission met on Monday where a number of proposals to make alterations to the sporting…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Zq8DXL6/s6/adrien-fourmaux-alexandre-cori-2.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/0Zq8DXL6/s6/adrien-fourmaux-alexandre-cori-2.jpg"
   },
   {
    "title": "New WRC1 classification and revised road order rules proposed for WRC 2027",
@@ -361,7 +401,7 @@
    "series": "WRC",
    "result": false,
    "summary": "A new WRC1 classification and revised road order rules could be introduced to the World Rally Championship next year. The WRC Commission met on Monday where a number of proposals to make alterations to the sporting…",
-   "image": "https://cdn-4.motorsport.com/images/amp/2dEoVRLY/s6/adrien-fourmaux-alexandre-cori.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/2dEoVRLY/s6/adrien-fourmaux-alexandre-cori.jpg"
   },
   {
    "title": "David Alonso tested Honda's MotoGP bike in a private test at Sepang",
@@ -371,27 +411,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "LCR recruit David Alonso has ridden Honda's 2027 MotoGP bike, which he will make his premier-class debut with next season, at Sepang, Motorsport.com has learned. This means the talented Spanish rider, who competes in…",
-   "image": "https://cdn-6.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
-  },
-  {
-   "title": "The 5 drivers most likely to win in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-las-vegas-grand-prix-according-to-the-betting-markets.35XTVOVdU16UJWGZJj3ctb",
-   "source": "Formula1.com",
-   "date": "2026-11-17T10:58:35.967Z",
-   "series": "F1",
-   "result": false,
-   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Las Vegas Strip Circuit.",
-   "image": null
-  },
-  {
-   "title": "Alonso set for Dakar Rally return with Aston Martin",
-   "url": "https://www.formula1.com/en/latest/article/alonso-to-make-dakar-rally-return-with-aston-martin-dreadnought-in-2027.6qKZRHvlJP4ECq2Bri772q",
-   "source": "Formula1.com",
-   "date": "2026-11-17T10:58:35.967Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fernando Alonso will compete in the 2027 edition of the Dakar Rally for Aston Martin.",
-   "image": null
+   "image": "https://cdn-3.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
   },
   {
    "title": "Spotlight: Alonso to enter Dakar in car Aston Martin designed for Call of Duty",
@@ -404,6 +424,16 @@
    "image": null
   },
   {
+   "title": "Alonso, Loeb join Aston Martin for 2027 Dakar Rally",
+   "url": "https://www.autosport.com/dakar/news/alonso-loeb-join-aston-martin-for-2027-dakar-rally/10875003/",
+   "source": "Autosport",
+   "date": "2026-11-17T09:01:58.000Z",
+   "series": "Dakar",
+   "result": false,
+   "summary": "Two-time Formula 1 champion Fernando Alonso will headline Aston Martin’s factory entry into the Dakar Rally in 2027, joining Sebastien Loeb and Lucas Moraes as part of a star-studded line-up. Alonso will drive a…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6n7bvPO0/s6/fernando-alonso-aston-martin-3.jpg"
+  },
+  {
    "title": "Hendrick Motorsports announces crew chief change for William Byron and Alex Bowman",
    "url": "https://www.motorsport.com/nascar-cup/news/hendrick-motorsports-announces-crew-chief-change-for-william-byron-and-alex-bowman/10874948/",
    "source": "Motorsport.com",
@@ -411,17 +441,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "With Blake Harris leaving Hendrick Motorsports (HMS) for Trackhouse Racing in 2027, HMS has finally announced a new crew chief for Alex Bowman's No. 48 team. However, they've also announced a change atop the pit box for…",
-   "image": "https://cdn-1.motorsport.com/images/amp/68VwBQV2/s6/gettyimages-2208874442.jpg"
-  },
-  {
-   "title": "IndyCar 2026 season review: Meyer Shank Racing",
-   "url": "https://www.motorsport.com/indycar/news/indycar-2026-season-review-meyer-shank-racing/10874936/",
-   "source": "Motorsport.com",
-   "date": "2026-11-16T19:24:37.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "The 2026 IndyCar Series season was a year of immortal achievement and lingering \"what-ifs\" for Meyer Shank Racing (MSR). Operating in the second year of its high-profile technical alliance with Chip Ganassi Racing…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6zoDByl0/s6/felix-rosenqvist-mission-foods.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/68VwBQV2/s6/gettyimages-2208874442.jpg"
   },
   {
    "title": "Formula E Jarama test: Mahindra leads Nissan as Gen4 era begins",
@@ -431,7 +451,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "Mahindra driver Edoardo Mortara topped the opening day of Formula E's 2027 pre-season testing at Jarama, as Formula E's Gen4 got underway on the outskirts of Madrid. Swiss-born Mortara posted a time of 1m24.344s in the…",
-   "image": "https://cdn-3.motorsport.com/images/amp/YpbAkPj0/s6/edoardo-mortara-mahindra-racin.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YpbAkPj0/s6/edoardo-mortara-mahindra-racin.jpg"
   },
   {
    "title": "How bad was it? Ranking Connor Zilisch's rookie season against other ROTY winners",
@@ -441,7 +461,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "This is a rookie season Connor Zilisch would certainly like to forget. The only trophy he earned in the Cup Series was the Rookie of the Year trophy, where he was the only candidate. It was a bit strange as well with…",
-   "image": "https://cdn-5.motorsport.com/images/amp/01QdVKr0/s6/connor-zilisch-trackhouse-raci.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/01QdVKr0/s6/connor-zilisch-trackhouse-raci.jpg"
   },
   {
    "title": "Aprilia's 2027 MotoGP bike front 'wing' aero explained",
@@ -461,7 +481,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "The Gen4 is aiming to change Formula E forever. This is not simply an ambition but a promise that reflects the direction taken in developing the next generation of electric single-seaters since 2023. The targets have…",
-   "image": "https://cdn-6.motorsport.com/images/amp/0o5AkPaY/s6/stoffel-vandoorne-jaguar-tcs-r-2.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0o5AkPaY/s6/stoffel-vandoorne-jaguar-tcs-r-2.jpg"
   },
   {
    "title": "Formula E Gen4: Double the downforce and greater freedom with electronic controls",
@@ -481,7 +501,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Andretti Global has announced a new multi-year partnership with zone® Premium Nicotine Pouches, the latest innovation from ITG Brands, ahead of the 2027 IndyCar Series season. Under the agreement, zone will serve as the…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6VyK5KwY/s6/ic-zoneannouncement-16x9.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6VyK5KwY/s6/ic-zoneannouncement-16x9.jpg"
   },
   {
    "title": "United Autosports confirms Boulle, di Resta, and Aguilera for 2027 IMSA LMP2 campaign",
@@ -511,7 +531,7 @@
    "series": "Motorsport",
    "result": true,
    "summary": "McLaren and partner Etihad have pulled off what is arguably F1’s biggest ever partnership showcase – by branding an entire Boeing 787 Dreamliner in the team’s famous papaya livery, complete with a highly exclusive…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0JXR7wQY/s6/image-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0JXR7wQY/s6/image-2.jpg"
   },
   {
    "title": "What the WEC can learn from the controversial Monza finish",
@@ -621,7 +641,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "MotoGP’s title race is heading towards a foregone conclusion at next week’s Portuguese Grand Prix, with Marc Marquez all but certain to take his 10th world championship crown. That his dominance in sprint races has been…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
   },
   {
    "title": "2027 Formula E drivers and teams: The line-up so far",
@@ -891,7 +911,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Chip Ganassi Racing has officially signed 20-year-old Argentinian driver Alessandro de Tullio for the 2027 Indy NXT by Firestone season. De Tullio will pilot the #10 AstroPay entry following a series of productive…",
-   "image": "https://cdn-4.motorsport.com/images/amp/01QNXA50/s6/alessandro-de-tullio-chris-gri.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/01QNXA50/s6/alessandro-de-tullio-chris-gri.jpg"
   },
   {
    "title": "The new records set by Toyota's Hypercar trio with WEC 2026 title",
@@ -941,7 +961,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Mick Schumacher will head into his sophomore IndyCar campaign without undergoing surgery on his left wrist, opting instead to continue with conservative treatment and physical therapy. The German driver, who has…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0kZAwwo6/s6/mick-schumacher-rahal-letterma.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/0kZAwwo6/s6/mick-schumacher-rahal-letterma.jpg"
   },
   {
    "title": "AJ Foyt Racing, GM Defense, and Congressional Medal of Honor Society launch Project Accelerator",
@@ -951,7 +971,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "AJ Foyt Racing, GM Defense, and the Congressional Medal of Honor Society have launched Project Accelerator, a motorsports-driven networking platform designed to connect leaders across the defense, technology, and racing…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6O7zrg56/s6/cmoh-iso1-110926.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6O7zrg56/s6/cmoh-iso1-110926.jpg"
   },
   {
    "title": "Jake Walker returns to Turner Motorsport for full-time 2027 IMSA GTD drive",
@@ -971,7 +991,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Reigning Indy NXT champion Nikita Johnson is stepping up to the top tier of American open-wheel racing. Dale Coyne Racing announced today that the 18-year-old Floridian will pilot one of the team's Honda-powered entries…",
-   "image": "https://cdn-3.motorsport.com/images/amp/YXyKj9j6/s6/nikita-johnson-barber-motorspo.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YXyKj9j6/s6/nikita-johnson-barber-motorspo.jpg"
   },
   {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
@@ -1191,7 +1211,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "As the IndyCar Series prepares to head overseas for its newly announced international showcase in Barcelona, enthusiasm for taking the American open-wheel championship even further abroad is gathering momentum -…",
-   "image": "https://cdn-4.motorsport.com/images/amp/0rVPjKd0/s6/colton-herta-cadillac-racing.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0rVPjKd0/s6/colton-herta-cadillac-racing.jpg"
   },
   {
    "title": "Sebastien Ogier tipped for partial WRC 2027 programme",
@@ -1251,7 +1271,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "ECR has officially secured a dedicated Dynisma DMG-1 Driver-in-the-Loop (DiL) simulator, marking Dynisma’s first announced team customer in the IndyCar Series. Scheduled for delivery to ECR's Indianapolis facility in Q1…",
-   "image": "https://cdn-2.motorsport.com/images/amp/YMXblXl2/s6/ecr-hero.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/YMXblXl2/s6/ecr-hero.jpg"
   },
   {
    "title": "Jacob Abel ‘reevaluating everything’ after solid IMSA endurance campaign, targets 2027 Indy 500 return",
@@ -1261,7 +1281,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Jacob Abel spent 2026 driving everything, everywhere. Now, the 25-year-old Kentucky native is figuring out what comes next. Following his rookie NTT IndyCar Series campaign in 2025 with Dale Coyne Racing – built on the…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6b8Zw832/s6/jacob-abel-chris-griffis-memor.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6b8Zw832/s6/jacob-abel-chris-griffis-memor.jpg"
   },
   {
    "title": "Why Kalle Rovanpera and Ott Tanak are returning to the WRC",
@@ -1304,16 +1324,6 @@
    "image": "https://cdn-6.motorsport.com/images/amp/2wlKrReY/s6/93-acura-meyer-shank-racing-w-.jpg"
   },
   {
-   "title": "'There’s more to come' as IndyCar and NASCAR leaders eye future doubleheaders",
-   "url": "https://www.motorsport.com/indycar/news/theres-more-to-come-as-indycar-and-nascar-leaders-eye-future-doubleheaders/10871074/",
-   "source": "Motorsport.com",
-   "date": "2026-11-02T15:39:45.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "The collaborative future between NASCAR and the IndyCar Series remains bright as executives from both sanctioning bodies highlighted the success and fan appeal of shared racing weekends during the recent Autosport…",
-   "image": "https://cdn-9.motorsport.com/images/amp/YvKQRyx6/s6/david-malukas-team-penske-jose.jpg"
-  },
-  {
    "title": "FIA reveals revised Junior WRC for 2027",
    "url": "https://www.motorsport.com/wrc/news/fia-reveals-revised-junior-wrc-for-2027/10870994/",
    "source": "Motorsport.com",
@@ -1332,16 +1342,6 @@
    "result": false,
    "summary": "The 2027 Dakar Rally has been relocated to Portugal and Morocco, with the war in West Asia preventing Saudi Arabia from hosting the event as originally planned. Having been originally scheduled to begin on New Year’s…",
    "image": "https://cdn-8.motorsport.com/images/amp/0mXyz546/s6/cab1f.jpg"
-  },
-  {
-   "title": "Rally US reveals further details ahead of WRC 2027 return",
-   "url": "https://www.motorsport.com/wrc/news/rally-us-reveals-further-details-ahead-of-wrc-2027-return-/10868887/",
-   "source": "Motorsport.com",
-   "date": "2026-10-27T15:49:12.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "Knoxville has been announced as the host city for the World Rally Championship’s long awaited return to the United States next year. Earlier this month the WRC released its expanded 15-round 2027 calendar, which…",
-   "image": "https://cdn-3.motorsport.com/images/amp/YN7vZj36/s6/downtown-knoxville-cityscape.jpg"
   }
  ]
 }
