@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:23:51.321Z",
+ "updated": "2026-11-18T00:20:01.095Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,9 +147,9 @@
   }
  ],
  "bySeries": {
-  "NASCAR": 14,
-  "Motorsport": 6,
   "F1": 15,
+  "Motorsport": 7,
+  "NASCAR": 14,
   "IMSA": 12,
   "IndyCar": 10,
   "MotoGP": 15,
@@ -164,6 +164,36 @@
  },
  "items": [
   {
+   "title": "Toto Wolff details subdued Mercedes F1 celebrations after securing 2026 double",
+   "url": "https://www.motorsport.com/f1/news/toto-wolff-celebrated-mercedes-title-with-a-vodka-shot-on-the-plane-with-hamilton-and-russell/10874816/",
+   "source": "Motorsport.com",
+   "date": "2026-11-18T00:00:22.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes officially completed its return to the top of Formula 1 at the chaotic 2026 São Paulo Grand Prix, successfully locking down the constructors' world championship one week after Kimi Antonelli secured the…",
+   "image": "https://cdn-5.motorsport.com/images/amp/0R7By5O2/s6/motorsport-com-graphics-3-2.jpg"
+  },
+  {
+   "title": "Charles Leclerc launches pop-up café at Wynn Las Vegas for race week",
+   "url": "https://www.motorsport.com/culture/news/charles-leclerc-is-opening-a-limited-time-cafe-at-wynn-las-vegas-for-race-week/10874997/",
+   "source": "Motorsport.com",
+   "date": "2026-11-17T23:50:26.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "The 2026 Las Vegas Grand Prix is officially taking over the Strip, and Ferrari's Charles Leclerc is extending his brand well beyond the paddock. As teams prepare for the massive 1.9-kilometre straight down Las Vegas…",
+   "image": "https://cdn-7.motorsport.com/images/amp/Y9lNE7x2/s6/motorsport-com-graphics-2-2.jpg"
+  },
+  {
+   "title": "Toto Wolff explains why George Russell won't get Mercedes’ new turbo in Las Vegas",
+   "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-why-george-russell-is-being-denied-mercedes-new-turbo-in-las-vegas/10875150/",
+   "source": "Motorsport.com",
+   "date": "2026-11-17T23:30:27.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Having officially wrapped up both the 2026 constructors' and drivers' world championships in Brazil, Mercedes arrives at the Las Vegas Grand Prix with a dual mandate: test development parts for 2027 and secure the…",
+   "image": "https://cdn-3.motorsport.com/images/amp/2y7Q8Zg6/s6/motorsport-com-graphics-1-2.jpg"
+  },
+  {
    "title": "Rodney Childers pushes back on NASCAR CEO's claims about car comparisons",
    "url": "https://www.motorsport.com/nascar-cup/news/rodney-childers-pushes-back-on-nascar-ceos-claims-about-car-comparisons/10875170/",
    "source": "Motorsport.com",
@@ -171,7 +201,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "The NASCAR position, more or less, is that the O’Reilly Series car would not be as good on Sundays if it were raced by Cup Series teams and drivers. Backstory: The Saturday race product has widespread approval amongst…",
-   "image": "https://cdn-6.motorsport.com/images/amp/6DGgOBOY/s6/helsapdw0aa-yln.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/6DGgOBOY/s6/helsapdw0aa-yln.jpg"
   },
   {
    "title": "Social Media: FIA president indicates agreement reached on next power unit formula",
@@ -251,7 +281,7 @@
    "series": "F1",
    "result": false,
    "summary": "Racing Bulls Formula 1 chief Alan Permane says Liam Lawson's improved 2026 form has been a \"revelation\", and addressed suggestions of a difference in vision within Red Bull. In a wide-ranging interview with…",
-   "image": "https://cdn-6.motorsport.com/images/amp/YXyKl5x6/s6/liam-lawson-racing-bulls.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YXyKl5x6/s6/liam-lawson-racing-bulls.jpg"
   },
   {
    "title": "CrowdStrike Racing by APR keeps title-winning IMSA LMP2 roster intact for 2027",
@@ -261,7 +291,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Following a dominant 2026 campaign that saw the team open and close the IMSA WeatherTech SportsCar Championship calendar with victories at the Rolex 24 At Daytona and Motul Petit Le Mans, CrowdStrike Racing by APR will…",
-   "image": "https://cdn-5.motorsport.com/images/amp/27NQ3Pv0/s6/04-crowdstrike-racing-by-apr-o.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/27NQ3Pv0/s6/04-crowdstrike-racing-by-apr-o.jpg"
   },
   {
    "title": "Williams retain Jade Jacquet for 2027 F1 ACADEMY campaign",
@@ -301,7 +331,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "For Team Penske, the 2026 IndyCar Series season was a campaign defined by successful succession planning, oval authority, and the lingering sting of coming up agonizingly short on the sport’s biggest stages. Entering…",
-   "image": "https://cdn-1.motorsport.com/images/amp/25dLwnD0/s6/david-malukas-team-penske.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/25dLwnD0/s6/david-malukas-team-penske.jpg"
   },
   {
    "title": "Inspiring the next generation of mechanics",
@@ -361,27 +391,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Toyota insists its new GR GT3 “perfectly matches” the foundations on which GT3 racing is based, amid concerns raised by SRO founder Stephane Ratel about the future of the category. Earlier this summer, SRO owner Ratel…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0rVPkAG0/s6/toyota-gr-gt3.jpg"
-  },
-  {
-   "title": "Why George Russell won’t get Mercedes F1 engine upgrade at Las Vegas GP",
-   "url": "https://www.crash.net/f1/news/1110155/1/why-george-russell-wont-get-mercedes-f1-engine-upgrade-las-vegas-gp",
-   "source": "Crash.net",
-   "date": "2026-11-17T14:29:22.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Mercedes will finally introduce its ADUO F1 engine upgrade in Las Vegas.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453187_hires.jpg?width=1200"
-  },
-  {
-   "title": "Lewis Hamilton announces huge new partnership ahead of Las Vegas GP",
-   "url": "https://www.crash.net/f1/news/1110149/1/lewis-hamilton-announces-huge-new-partnership-ahead-las-vegas-gp",
-   "source": "Crash.net",
-   "date": "2026-11-17T14:00:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton has become the new global ambassador for AG1.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1443666_hires.jpg?width=1200"
+   "image": "https://cdn-5.motorsport.com/images/amp/0rVPkAG0/s6/toyota-gr-gt3.jpg"
   },
   {
    "title": "Honda explains why MotoGP's 850cc bikes aren't far off 1000cc pace",
@@ -391,7 +401,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Honda says MotoGP’s next-generation 850cc bikes will remain relatively close to the current 1000cc machines because the loss of engine power has largely been offset by gains in other areas. While manufacturers continue…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0R7wM9O2/s6/aleix-espargaro-honda-hrc.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0R7wM9O2/s6/aleix-espargaro-honda-hrc.jpg"
   },
   {
    "title": "Honda predicts new 850cc bikes \"could be as fast\" as current MotoGP machines",
@@ -431,7 +441,7 @@
    "series": "WRC",
    "result": false,
    "summary": "A new WRC1 classification and revised road order rules could be introduced to the World Rally Championship next year. The WRC Commission met on Monday where a number of proposals to make alterations to the sporting…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2dEoVRLY/s6/adrien-fourmaux-alexandre-cori.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/2dEoVRLY/s6/adrien-fourmaux-alexandre-cori.jpg"
   },
   {
    "title": "David Alonso tested Honda's MotoGP bike in a private test at Sepang",
@@ -441,7 +451,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "LCR recruit David Alonso has ridden Honda's 2027 MotoGP bike, which he will make his premier-class debut with next season, at Sepang, Motorsport.com has learned. This means the talented Spanish rider, who competes in…",
-   "image": "https://cdn-9.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
   },
   {
    "title": "Spotlight: Alonso to enter Dakar in car Aston Martin designed for Call of Duty",
@@ -461,7 +471,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "With Blake Harris leaving Hendrick Motorsports (HMS) for Trackhouse Racing in 2027, HMS has finally announced a new crew chief for Alex Bowman's No. 48 team. However, they've also announced a change atop the pit box for…",
-   "image": "https://cdn-7.motorsport.com/images/amp/68VwBQV2/s6/gettyimages-2208874442.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/68VwBQV2/s6/gettyimages-2208874442.jpg"
   },
   {
    "title": "Formula E Jarama test: Mahindra leads Nissan as Gen4 era begins",
@@ -531,7 +541,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "United Autosports has finalized the driver roster for its #22 LMP2 entry ahead of the 2027 IMSA WeatherTech SportsCar Championship, pairing returning 2024 LMP2 champion Nick Boulle with veteran pro-driver Paul di Resta…",
-   "image": "https://cdn-5.motorsport.com/images/amp/0o5PldDY/s6/22-united-autosports-usa-oreca.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/0o5PldDY/s6/22-united-autosports-usa-oreca.jpg"
   },
   {
    "title": "2027 Formula E grid: Every team's livery revealed",
@@ -801,7 +811,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Ahead of another fiercely competitive Le Mans Prototype 2 (LMP2) campaign in the IMSA WeatherTech SportsCar Championship, Tower Motorsports has assembled a formidable roster for its #8 ORECA LMP2 07 as it sets its…",
-   "image": "https://cdn-3.motorsport.com/images/amp/68VWqPl2/s6/8-tower-motorsports-oreca-lmp2.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/68VWqPl2/s6/8-tower-motorsports-oreca-lmp2.jpg"
   },
   {
    "title": "Why Corvette’s new LMGT3 champion Jonny Edgar has a bright future",
@@ -911,7 +921,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Wright Motorsports is gearing up for a championship push in the 2027 IMSA WeatherTech SportsCar Championship, confirming the return of its signature dark green #120 Porsche 911 GT3 R (992) for a fourth consecutive…",
-   "image": "https://cdn-2.motorsport.com/images/amp/63QaZJ42/s6/120-wright-motorsports-porsche.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/63QaZJ42/s6/120-wright-motorsports-porsche.jpg"
   },
   {
    "title": "Chip Ganassi Racing signs Alessandro de Tullio for 2027 Indy NXT Season, adds IndyCar reserve role",
@@ -991,7 +1001,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Turner Motorsport is set to celebrate a milestone 30th season of professional racing in 2027, renewing its long-standing exclusivity with BMW and welcoming a familiar face back to its full-time driver lineup. The New…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YE9E9OPY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
+   "image": "https://cdn-2.motorsport.com/images/amp/YE9E9OPY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
   },
   {
    "title": "Dale Coyne Racing signs reigning Indy NXT champion Nikita Johnson for 2027 IndyCar season",
@@ -1021,7 +1031,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Juan Manuel Fangio, one of Formula 1's most iconic World Champions and a two-time winner at Sebring, and multi-time Sebring winner Hurley Haywood have been selected as part of the third \"Class of 75\" driver group. This…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0Zq8Vjb6/s6/winningmaserati-juanmanuelfang.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/0Zq8Vjb6/s6/winningmaserati-juanmanuelfang.jpg"
   },
   {
    "title": "Sebastien Loeb tests again as Project Rally One submits WRC homologation papers",
@@ -1111,7 +1121,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Conquest Racing is gearing up for another campaign in the IMSA WeatherTech SportsCar Championship, marking its fourth consecutive season fielding a Ferrari in the Grand Touring Daytona (GTD) class during a landmark year…",
-   "image": "https://cdn-3.motorsport.com/images/amp/2dEo1jDY/s6/34-conquest-racing-ferrari-296.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/2dEo1jDY/s6/34-conquest-racing-ferrari-296.jpg"
   },
   {
    "title": "Malthe Jakobsen completes McLaren's WEC Hypercar driver line-up",
@@ -1171,7 +1181,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Longtime Porsche customer team Kellymoss will return to full-time IMSA WeatherTech SportsCar Championship competition in 2027. Michael Clark will make his IMSA debut in the Grand Touring Daytona (GTD) class in the #17…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6b8Zwee2/s6/kellymoss-indianapolis-8-hour-.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/6b8Zwee2/s6/kellymoss-indianapolis-8-hour-.jpg"
   },
   {
    "title": "\"Parked the truck in the paddock aged eight\": Cairoli shares Kimi Antonelli anecdotes",
@@ -1231,7 +1241,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Hanley Motorsports Incorporated (HMI) and DXDT Racing are combining forces to launch a multi-tier IMSA program for the 2027 season, competing under the HMI banner in both the WeatherTech SportsCar Championship and…",
-   "image": "https://cdn-9.motorsport.com/images/amp/YvKBDG76/s6/hanley-announcement-5.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/YvKBDG76/s6/hanley-announcement-5.jpg"
   },
   {
    "title": "Oliver Solberg relishing Toyota’s historic Celica WRC revival for 2027",
@@ -1261,7 +1271,7 @@
    "series": "IMSA",
    "result": false,
    "summary": "Lone Star Racing is stepping up to a full-time campaign in the IMSA WeatherTech SportsCar Championship’s Grand Touring Daytona (GTD) class for the 2027 season, expanding beyond its long-standing role as an Endurance Cup…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6b8jEwr2/s6/80-lone-star-racing-mercedes-a.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/6b8jEwr2/s6/80-lone-star-racing-mercedes-a.jpg"
   },
   {
    "title": "ECR prepares for IR-28 transition with in-house Dynisma DMG-1 simulator",
