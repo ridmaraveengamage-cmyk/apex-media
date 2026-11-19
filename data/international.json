@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:31:14.799Z",
+ "updated": "2026-11-19T15:28:55.242Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,12 +148,12 @@
  ],
  "bySeries": {
   "F1": 15,
+  "MotoGP": 15,
   "Motorsport": 4,
   "NASCAR": 15,
   "IndyCar": 8,
   "Formula E": 9,
   "WEC": 15,
-  "MotoGP": 15,
   "IMSA": 11,
   "WRC": 10,
   "Dakar": 3,
@@ -163,6 +163,46 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "All the stories that got the Las Vegas paddock talking",
+   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-las-vegas-paddock-talking.4DclxlWGaLDwKgzLpfAvuz",
+   "source": "Formula1.com",
+   "date": "2026-11-19T15:28:55.242Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lawrence Barretto delves into the key talking points from Wednesday at the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Video: FIA reveals how Formula 1 race control takes decisions during an event",
+   "url": "https://www.racefans.net/2026/11/19/video-fia-reveals-how-formula-1-race-control-takes-decisions-during-an-event/",
+   "source": "RaceFans",
+   "date": "2026-11-19T15:26:31.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "FIA reveals what goes on inside race control during a grand prix",
+   "image": null
+  },
+  {
+   "title": "Why Ducati Portimao seat is like a \"dream\" for Iker Lecuona: \"I've gone through hell\"",
+   "url": "https://www.motorsport.com/motogp/news/lecuona-estoy-viviendo-un-sueno-y-como-un-nino-he-comido-mucha-mierda-en-estos-anos-/10875646/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T14:58:57.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Iker Lecona says getting a chance to ride for the factory Ducati team at this weekend's Portuguese Grand Prix is like a \"dream\" after going through \"hell a lot\" in recent seasons. After stepping in for Alex Marquez and…",
+   "image": "https://cdn-1.motorsport.com/images/amp/68VwBzD2/s6/iker-lecuona-ducati-portimao.jpg"
+  },
+  {
+   "title": "Maverick Vinales considering a freelance role: \"I want to stay in MotoGP\"",
+   "url": "https://www.motorsport.com/motogp/news/vinales-considering-a-freelance-role-i-want-to-stay-in-motogp/10875642/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T14:39:17.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Maverick Vinales does not have a seat for next season in MotoGP, but he is reluctant to accept that his racing career is over and is considering the possibility of becoming a reserve rider. Motorsport.com revealed last…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2y7Q8Kn6/s6/maverick-vinales-tech3-ktm-en-.jpg"
+  },
   {
    "title": "Why Cadillac have stuck with Bottas for 2027",
    "url": "https://www.formula1.com/en/latest/article/analysis-why-cadillac-have-stuck-with-bottas-for-2027.7vPHYNkm1aup0szRFaVYyd",
@@ -244,16 +284,6 @@
    "image": null
   },
   {
-   "title": "Hamilton identifies 'main focus' ahead of Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-identifies-main-focus-ahead-of-las-vegas-as-ferrari-eye-big-changes-for-2027.7nMnDgPqgxIf8GVZxywkzR",
-   "source": "Formula1.com",
-   "date": "2026-11-19T13:09:27.344Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton and Charles Leclerc discuss Ferrari's fight for P2 in the Constructors' Championship and the importance of the final three races ahead of 2027.",
-   "image": null
-  },
-  {
    "title": "Lewis Hamilton opens up on \"isolating\" feeling after seeing his own F1 Las Vegas grandstand",
    "url": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-f1-feeling-isolating-and-lonely-after-seeing-his-own-las-vegas-grandstand/10875545/",
    "source": "Motorsport.com",
@@ -302,16 +332,6 @@
    "result": false,
    "summary": "After the lights go out in Las Vegas, clued-up bettors will be poised to make smart betting decisions in real-time markets.",
    "image": null
-  },
-  {
-   "title": "Lewis Hamilton will be playing GTA 6 at Las Vegas GP: “I have my PlayStation with me”",
-   "url": "https://www.crash.net/f1/news/1110192/1/lewis-hamilton-will-be-playing-gta-6-las-vegas-gp-i-have-my-playstation-me",
-   "source": "Crash.net",
-   "date": "2026-11-19T11:54:42.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton plans to play the new Grand Theft Auto VI game in Las Vegas.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454122_hires.jpg?width=1200"
   },
   {
    "title": "Autosport magazine: Kimi Antonelli – world champion",
@@ -804,16 +824,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YMX3BMV2/s6/pilotos-y-equipos-de-formula-e.jpg"
   },
   {
-   "title": "How Qatar red flag helped Johann Zarco put Barcelona crash behind him",
-   "url": "https://www.motorsport.com/motogp/news/how-qatar-red-flag-helped-johann-zarco-put-barcelona-crash-behind-him/10874456/",
-   "source": "Motorsport.com",
-   "date": "2026-11-14T10:00:03.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Johann Zarco suffered a double accident during the Catalan Grand Prix last May, from which he is still recovering, both physically and psychologically. His knee injury was so serious that it threatened to jeopardise his…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0kZX9vD6/s6/johann-zarco-team-lcr-honda.jpg"
-  },
-  {
    "title": "Carson Hocevar and Cleetus McFarland win LeMullets 2026 in epic finish",
    "url": "https://www.motorsport.com/general/news/carson-hocevar-and-cleetus-mcfarland-win-lemullets-2026/10874411/",
    "source": "Motorsport.com",
@@ -852,16 +862,6 @@
    "result": false,
    "summary": "Myers Riley Motorsports is leaning heavily into racing heritage and long-standing paddock connections as it prepares for its second season in the IMSA WeatherTech SportsCar Championship. The team confirmed today that…",
    "image": "https://cdn-1.motorsport.com/images/amp/YE9EVgMY/s6/myersrileyannouncement.jpg"
-  },
-  {
-   "title": "Why aerodynamics will become \"even more important\" under 2027 MotoGP regulations",
-   "url": "https://www.autosport.com/motogp/news/why-aerodynamics-will-become-even-more-important-under-2027-motogp-regulations/10874342/",
-   "source": "Autosport",
-   "date": "2026-11-13T15:12:44.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Honda technical director Romano Albesiano believes aerodynamics will play an “even more important role” in MotoGP under the 2027 regulations, despite the rulemakers' intention to curb its influence. As part of a push to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6x7ZVxjY/s6/trackhouse-racing-rear-wing.jpg"
   },
   {
    "title": "Sebastien Bourdais hopes latest WEC success will remind teams of his value",
