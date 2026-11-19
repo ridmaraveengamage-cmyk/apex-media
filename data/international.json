@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:30:04.743Z",
+ "updated": "2026-11-19T18:24:03.187Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -163,6 +163,16 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "‘Aprilia lost the championship because it was up against Marc Marquez,’ says Alex",
+   "url": "https://www.motorsport.com/motogp/news/aprilia-lost-the-championship-because-it-was-up-against-marc-marquez-says-alex/10875682/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T18:00:04.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Alex Marquez believes Aprilia is on the verge of losing the 2026 MotoGP title because it was up against Marc Marquez, arguing that no rider other than his brother could have overcome such a large deficit in the…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0R7BEwV2/s6/marc-marquez-ducati-team.jpg"
+  },
   {
    "title": "Marc Marquez fails to deny MotoGP retirement rumours",
    "url": "https://www.motorsport.com/motogp/news/marc-marquez-fails-to-deny-motogp-retirement-rumours/10875680/",
@@ -802,16 +812,6 @@
    "result": false,
    "summary": "As of right now, Denny Hamlin is set to retire at the end of the 2027 NASCAR Cup Series, but Joe Gibbs Racing would very much prefer to talk him out of it every chance they get. And never say never. Team president Dave…",
    "image": "https://cdn-1.motorsport.com/images/amp/0R7BE9v2/s6/denny-hamlin-joe-gibbs-racing.jpg"
-  },
-  {
-   "title": "Yamaha may not be competitive immediately in MotoGP's 850cc era, says Pramac",
-   "url": "https://www.motorsport.com/motogp/news/yamaha-may-not-be-competitive-immediately-in-motogps-850cc-era-says-pramac/10874647/",
-   "source": "Motorsport.com",
-   "date": "2026-11-15T14:59:03.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Pramac doesn’t expect Yamaha to race at the front from the outset of MotoGP’s 850cc era, but believes the Japanese manufacturer can close the gap by the end of the 2027 season. Having already overhauled the M1 this year…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0kZXBoK6/s6/jack-miller-pramac-racing.jpg"
   },
   {
    "title": "Why the anticlimactic WEC title showdown was the worst-case scenario",
