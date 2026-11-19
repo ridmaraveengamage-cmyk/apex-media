@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Apex Media · Paddock preview</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="../assets/apex-logo.webp">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<style>
+/* Paddock: a photo-led motorsport magazine that behaves like an app. Story first, results as podium cards, standings as swipeable leader cards with a full-table sheet, an agenda calendar, and a bottom tab bar on phones. Light only, by design. */
+:root{
+  --paper:#f5f6f4; --card:#ffffff; --ink:#121412; --muted:#5f655d; --line:#e0e3dd; --char:#1d1f1d;
+  --green:#3cff1a; --green-ink:#138a00;
+  --f-display:"Archivo","Arial Narrow",sans-serif; --f-serif:"Source Serif 4",Georgia,serif;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+html{scroll-behavior:smooth;scroll-padding-top:120px}
+body{background:var(--paper);color:var(--ink);font:16px/1.5 var(--f-display);font-stretch:100%}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--green-ink);outline-offset:2px}
+.wrap{max-width:1240px;margin:0 auto;padding-left:max(18px,env(safe-area-inset-left,0px));padding-right:max(18px,env(safe-area-inset-right,0px))}
+.disp{font-family:var(--f-display);font-stretch:118%;font-weight:850;letter-spacing:-.01em;line-height:.98;text-wrap:balance}
+.kick{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.tnum{font-variant-numeric:tabular-nums}
+
+.pv{display:flex;gap:14px;align-items:center;flex-wrap:wrap;justify-content:center;padding:7px 16px;background:var(--char);color:#fff;font-size:13px;font-weight:600}
+.pv a{color:var(--green);text-decoration:underline;text-underline-offset:2px}
+
+/* header */
+header{position:sticky;top:0;z-index:30;background:rgba(245,246,244,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.hd{display:flex;align-items:center;gap:18px;height:66px}
+.badge{display:block;height:46px;aspect-ratio:2.4;border-radius:10px;background:#1f1f1f url(../assets/apex-logo.webp) no-repeat;background-size:118% auto;background-position:62% 40%;flex:none}
+.nav{display:flex;gap:4px;margin-left:8px}
+.nav a{padding:8px 12px;border-radius:999px;font-weight:600;font-size:15px;color:var(--muted)}
+.nav a:hover{background:var(--card);color:var(--ink)}
+.seg{margin-left:auto;display:flex;background:#e6e9e3;border-radius:999px;padding:3px}
+.seg button{border:0;background:transparent;border-radius:999px;padding:7px 14px;cursor:pointer;font-weight:700;font-size:14px;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--char);color:#fff;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:10px 0 12px;scrollbar-width:none}
+.chips button{flex:none;display:flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:6px 13px;cursor:pointer;font-size:14px;font-weight:600}
+.chips button i{width:9px;height:9px;border-radius:50%;background:var(--c)}
+.chips button[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+
+/* sections */
+section{padding-block:30px}
+.sh{display:flex;justify-content:space-between;align-items:end;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+.sh h2{margin:0;font-size:clamp(28px,3.4vw,40px)}
+.sh h2 em{font-style:normal;background:linear-gradient(transparent 62%,var(--green) 62%)}
+
+/* hero */
+.hero{display:grid;grid-template-columns:minmax(0,1.9fr) minmax(0,1fr);gap:18px;padding-top:22px}
+.big{position:relative;display:block;border-radius:18px;overflow:hidden;min-height:440px;background:var(--char) center/cover no-repeat;color:#fff}
+.big::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,0) 35%,rgba(0,0,0,.82))}
+.big .in{position:absolute;left:0;right:0;bottom:0;padding:26px;z-index:1;display:grid;gap:10px}
+.big h1{margin:0;font-size:clamp(30px,4.2vw,56px)}
+.big p{margin:0;font-family:var(--f-serif);font-size:18px;max-width:60ch;color:#e3e6e1}
+.pill{display:inline-flex;align-items:center;gap:6px;justify-self:start;background:var(--green);color:var(--char);border-radius:999px;padding:4px 11px;font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+.pill.dark{background:rgba(255,255,255,.14);color:#fff;backdrop-filter:blur(6px)}
+.side{display:grid;gap:18px}
+.mid{display:grid;grid-template-rows:auto 1fr;background:var(--card);border-radius:18px;overflow:hidden;transition:transform .2s,box-shadow .2s}
+.mid:hover,.card:hover{transform:translateY(-3px);box-shadow:0 14px 30px rgba(18,20,18,.1)}
+.img{aspect-ratio:16/9;background:#2a2d29 center/cover no-repeat;max-width:100%;position:relative}
+.img.ph{display:grid;place-items:center;color:rgba(255,255,255,.85);font-stretch:125%;font-weight:900;font-size:26px;letter-spacing:.02em;text-transform:uppercase;text-align:center;padding:10px}
+.mid .t{padding:14px 16px 16px;display:grid;gap:6px}
+.mid h3{margin:0;font-size:21px}
+.meta{font-size:13px;color:var(--muted);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.meta i{width:8px;height:8px;border-radius:50%;background:var(--c)}
+
+/* results carousel */
+.rail{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(300px,1fr);gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px}
+.pod{scroll-snap-align:start;background:var(--card);border-radius:18px;padding:18px;display:grid;gap:12px;border-top:6px solid var(--c);align-content:start}
+.pod h3{margin:0;font-size:22px}
+.steps{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;align-items:end}
+.st{background:var(--paper);border-radius:12px;padding:10px;display:grid;gap:2px;text-align:center}
+.st b{font-size:13px;font-weight:700;line-height:1.2}
+.st span{font-size:11px;color:var(--muted)}
+.st .n{font-stretch:125%;font-weight:900;font-size:26px;line-height:1;color:var(--muted)}
+.st.p1{background:var(--char);color:#fff;padding-block:18px}
+.st.p1 .n{color:var(--green);font-size:34px}
+.st.p1 span{color:#b9beb6}
+.pod .more{font-weight:700;font-size:14px;color:var(--green-ink)}
+.pod.head{border-top-color:var(--line)}
+.pod.head p{margin:0;font-family:var(--f-serif)}
+
+/* stories grid */
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.card{display:grid;grid-template-rows:auto 1fr;background:var(--card);border-radius:18px;overflow:hidden;transition:transform .2s,box-shadow .2s}
+.card .t{padding:14px 16px 18px;display:grid;gap:8px;align-content:start}
+.card h3{margin:0;font-size:20px}
+.card p{margin:0;font-family:var(--f-serif);font-size:15px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.loadmore{display:block;margin:22px auto 0;border:1px solid var(--ink);background:transparent;border-radius:999px;padding:11px 26px;font-weight:700;cursor:pointer}
+.loadmore:hover{background:var(--ink);color:#fff}
+
+/* leader cards */
+.leaders{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(250px,280px);gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px}
+.ld{scroll-snap-align:start;text-align:left;border:0;cursor:pointer;background:var(--card);border-radius:18px;padding:16px;display:grid;gap:10px;position:relative;overflow:hidden;transition:transform .2s,box-shadow .2s}
+.ld:hover{transform:translateY(-3px);box-shadow:0 14px 30px rgba(18,20,18,.1)}
+.ld::before{content:"";position:absolute;inset:0 0 auto 0;height:6px;background:var(--c)}
+.ld .who{font-size:22px;line-height:1.05}
+.ld .pts{display:flex;align-items:baseline;gap:8px}
+.ld .pts b{font-stretch:125%;font-weight:900;font-size:34px;line-height:1}
+.ld .gap{background:var(--green);border-radius:999px;padding:2px 8px;font-size:12px;font-weight:800}
+.ld ol{list-style:none;margin:0;padding:0;display:grid;gap:3px;font-size:13px;color:var(--muted)}
+.ld ol li{display:flex;justify-content:space-between;gap:8px}
+.ld ol li span:first-child{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ld .open{font-size:13px;font-weight:700;color:var(--green-ink)}
+.sample{font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;background:#fff3c4;color:#6b5300;border-radius:999px;padding:2px 8px;justify-self:start}
+
+/* sheet (full standings) */
+dialog{border:0;padding:0;border-radius:22px 22px 0 0;width:min(640px,100%);max-height:86vh;margin:auto auto 0;background:var(--card);color:var(--ink)}
+dialog::backdrop{background:rgba(10,12,10,.5)}
+@media (min-width:700px){dialog{border-radius:22px;margin:auto}}
+.sheet{padding:20px 22px 24px;display:grid;gap:14px}
+.sheet-h{display:flex;justify-content:space-between;align-items:start;gap:12px}
+.sheet-h h3{margin:4px 0 0;font-size:28px}
+.x{border:0;background:var(--paper);border-radius:50%;width:38px;height:38px;cursor:pointer;font-size:20px;line-height:1}
+.tbl{width:100%;border-collapse:collapse;font-size:15px}
+.tbl td{padding:9px 6px;border-top:1px solid var(--line)}
+.tbl td.p{width:34px;font-weight:800;font-stretch:120%}
+.tbl td.r{text-align:right;font-weight:700}
+.tbl td.g{text-align:right;color:var(--muted);font-size:13px}
+.tbl small{display:block;color:var(--muted);font-size:12px}
+.bar{height:4px;background:var(--paper);border-radius:4px;margin-top:4px;overflow:hidden}
+.bar span{display:block;height:100%;background:var(--c)}
+.src{font-size:12px;color:var(--muted)}
+.src a{color:var(--green-ink);font-weight:700}
+
+/* agenda */
+.agenda{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+.day{background:var(--card);border-radius:18px;padding:16px 18px}
+.day h3{margin:0 0 6px;font-size:18px}
+.day ul{list-style:none;margin:0;padding:0}
+.day li{display:grid;grid-template-columns:56px 1fr;gap:12px;padding:10px 0;border-top:1px solid var(--line);align-items:start}
+.day li:first-child{border-top:0}
+.day .tm{font-weight:800;font-stretch:115%;font-size:15px}
+.day b{display:block;font-size:16px;line-height:1.2}
+.day small{color:var(--muted);font-size:13px}
+.live{color:#d0021b;font-weight:800;font-size:12px;letter-spacing:.08em}
+
+footer{padding:40px 0 30px;color:var(--muted);font-size:13px}
+
+/* bottom tab bar on phones */
+.tabbar{display:none}
+@media (max-width:980px){.hero{grid-template-columns:1fr}.side{grid-template-columns:1fr 1fr}.grid{grid-template-columns:1fr 1fr}.nav{display:none}}
+@media (max-width:640px){
+  .hd{height:58px;gap:10px}.badge{height:38px}
+  .seg button{padding:6px 10px;font-size:13px}
+  .big{min-height:380px;border-radius:14px}.big .in{padding:18px}.big p{font-size:16px}
+  .side,.grid{grid-template-columns:1fr}
+  .rail{grid-auto-columns:86%}
+  body{padding-bottom:calc(68px + env(safe-area-inset-bottom,0px))}
+  .tabbar{display:grid;grid-template-columns:repeat(4,1fr);position:fixed;left:0;right:0;bottom:0;z-index:40;background:rgba(255,255,255,.96);backdrop-filter:blur(12px);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom,0px)}
+  .tabbar a{display:grid;justify-items:center;gap:3px;padding:9px 4px 10px;font-size:11px;font-weight:700;color:var(--muted)}
+  .tabbar a svg{width:22px;height:22px}
+  .tabbar a.on{color:var(--ink)}
+  .tabbar a.on svg{color:var(--green-ink)}
+}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.mid,.card,.ld{transition:none}}
+</style>
+</head>
+<body>
+<div class="pv">Design preview B · Paddock <a href="pit-wall.html">See preview A</a> <a href="../">Current site</a></div>
+<header>
+  <div class="wrap hd">
+    <a class="badge" href="../" aria-label="Apex Media home"></a>
+    <nav class="nav" aria-label="Sections"><a href="#home">Stories</a><a href="#results">Results</a><a href="#standings">Standings</a><a href="#calendar">Calendar</a></nav>
+    <div class="seg" role="group" aria-label="Edition">
+      <button type="button" data-ed="int" aria-pressed="true">International</button>
+      <button type="button" data-ed="sl" aria-pressed="false">Sri Lanka</button>
+    </div>
+  </div>
+  <div class="wrap"><div class="chips" id="chips" role="group" aria-label="Filter stories by series"></div></div>
+</header>
+
+<main>
+  <div class="wrap hero" id="home"></div>
+
+  <section id="results"><div class="wrap">
+    <div class="sh"><h2 class="disp">Latest <em>results</em></h2><span class="kick">Swipe for more</span></div>
+    <div class="rail" id="podiums"></div>
+  </div></section>
+
+  <section id="stories" style="padding-top:6px"><div class="wrap">
+    <div class="sh"><h2 class="disp" id="storiesTitle">Top <em>stories</em></h2><span class="kick" id="storyNote"></span></div>
+    <div class="grid" id="grid"></div>
+    <button type="button" class="loadmore" id="more">Show more stories</button>
+  </div></section>
+
+  <section id="standings"><div class="wrap">
+    <div class="sh"><h2 class="disp">Championship <em>leaders</em></h2><span class="kick">Tap a card for the full table</span></div>
+    <div class="leaders" id="leaders"></div>
+  </div></section>
+
+  <section id="calendar"><div class="wrap">
+    <div class="sh"><h2 class="disp">Coming <em>up</em></h2><span class="kick">Your local time</span></div>
+    <div class="agenda" id="agenda"></div>
+  </div></section>
+</main>
+
+<footer><div class="wrap">© 2026 Apex Media · Design preview using live data. News links go to the original publishers; standings sources are credited on each table.</div></footer>
+
+<dialog id="sheet" aria-labelledby="sheetTitle"><div class="sheet" id="sheetBody"></div></dialog>
+
+<nav class="tabbar" aria-label="Sections">
+  <a href="#home" class="on"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 5h16M4 12h16M4 19h10"/></svg>Stories</a>
+  <a href="#results"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 21V4M5 4h11l-2 4 2 4H5"/></svg>Results</a>
+  <a href="#standings"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 20h4v-8H4zM10 20h4V6h-4zM16 20h4v-11h-4z"/></svg>Standings</a>
+  <a href="#calendar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Calendar</a>
+</nav>
+
+<script src="shared.js"></script>
+<script>
+(async function(){
+const A=window.Apex, $=s=>document.querySelector(s);
+let INT=null, D=null, ed='int', filter='All', shown=9;
+const link=u=>u?`href="${u}" target="_blank" rel="noopener"`:'href="#stories"';
+const img=(i,cls='img')=>i.image?`<div class="${cls}" style="background-image:url('${i.image}')"></div>`
+  :`<div class="${cls} ph" style="background:linear-gradient(135deg,${A.color(i.series)},#1d1f1d 80%)">${A.esc(i.series)}</div>`;
+const meta=i=>`<div class="meta"><i style="--c:${A.color(i.series)}"></i><span>${A.esc(i.series)}</span><span>·</span><span>${i.source}</span><span>·</span><span>${A.ago(i.date)}</span></div>`;
+
+function render(){
+  D=ed==='sl'?A.SL:INT;
+  document.querySelectorAll('.seg button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.ed===ed)));
+  const counts={};D.items.forEach(i=>counts[i.series]=(counts[i.series]||0)+1);
+  const ser=Object.keys(counts).sort((a,b)=>A.ORDER.indexOf(a)-A.ORDER.indexOf(b));
+  if(filter!=='All'&&!counts[filter])filter='All';
+  $('#chips').innerHTML=['All',...ser].map(s=>`<button type="button" data-s="${A.esc(s)}" aria-pressed="${s===filter}" style="--c:${s==='All'?'var(--ink)':A.color(s)}">${s==='All'?'':'<i></i>'}${A.esc(s==='All'?'All series':s)}</button>`).join('');
+  renderStories();renderPodiums();renderLeaders();renderAgenda();
+}
+
+function renderStories(){
+  const list=D.items.filter(i=>filter==='All'||i.series===filter);
+  // hero: newest story with a photo, then two more from other series
+  const lead=list.find(i=>i.image)||list[0];
+  const rest=list.filter(i=>i!==lead);
+  const sides=[];const used=new Set([lead?.series]);
+  for(const i of rest){if(sides.length<2&&(filter!=='All'||!used.has(i.series))){sides.push(i);used.add(i.series);}}
+  for(const i of rest){if(sides.length<2&&!sides.includes(i))sides.push(i);}
+  $('#home').innerHTML=lead?`<a class="big" ${link(lead.url)} style="background-image:${lead.image?`url('${lead.image}')`:`linear-gradient(135deg,${A.color(lead.series)},#1d1f1d 75%)`}">
+      <div class="in"><span class="pill">${A.esc(lead.series)}</span><h1 class="disp">${lead.title}</h1>${lead.summary?`<p>${lead.summary}</p>`:''}<span class="pill dark">${lead.source} · ${A.ago(lead.date)}</span></div></a>
+    <div class="side">${sides.map(i=>`<a class="mid" ${link(i.url)}>${img(i)}<div class="t"><h3 class="disp" style="font-size:21px">${i.title}</h3>${meta(i)}</div></a>`).join('')}</div>`:'';
+  const grid=rest.filter(i=>!sides.includes(i));
+  $('#storiesTitle').innerHTML=filter==='All'?'Top <em>stories</em>':`${A.esc(filter)} <em>stories</em>`;
+  $('#storyNote').textContent=ed==='sl'?'From published 2026 reports':(INT.updated?`Updated ${A.ago(INT.updated)}`:'');
+  $('#grid').innerHTML=grid.slice(0,shown).map(i=>`<a class="card" ${link(i.url)}>${img(i)}<div class="t">${meta(i)}<h3 class="disp">${i.title}</h3>${i.summary?`<p>${i.summary}</p>`:''}</div></a>`).join('');
+  $('#more').hidden=grid.length<=shown;
+}
+
+function renderPodiums(){
+  const cards=D.results.map(r=>{const p=r.rows;const st=(x,k)=>x?`<div class="st p${k}"><span class="n">${k}</span><b>${x.name}</b><span>${x.time}</span></div>`:'<div></div>';
+    return `<article class="pod" style="--c:${p[0]?.color||A.color(r.key==='SWS'?'SWS Endurance':r.key)}"><div><span class="kick">${r.label}</span><h3 class="disp">${r.race}</h3><div class="meta">${r.place} · ${A.esc(String(r.date))}</div></div>
+      <div class="steps">${st(p[1],2)}${st(p[0],1)}${st(p[2],3)}</div>${r.note?`<div class="src">${r.note}</div>`:''}</article>`;});
+  // other series: latest result headline each
+  const done=new Set(D.results.map(r=>r.key));
+  const heads=[];const seen=new Set();
+  for(const i of D.items){if(i.result&&!done.has(i.series)&&!seen.has(i.series)&&ed==='int'){seen.add(i.series);heads.push(i);}}
+  cards.push(...heads.slice(0,8).map(i=>`<a class="pod head" ${link(i.url)} style="--c:${A.color(i.series)};border-top-color:${A.color(i.series)}"><span class="kick">${A.esc(i.series)} · result</span><h3 class="disp" style="font-size:20px">${i.title}</h3>${meta(i)}<span class="more">Read the report ›</span></a>`));
+  $('#podiums').innerHTML=cards.join('');
+}
+
+function renderLeaders(){
+  $('#leaders').innerHTML=D.champs.map(c=>{const t=c.rows[0],s=c.rows[1];return `<button type="button" class="ld" data-id="${c.id}" style="--c:${t.color||A.color(c.series)}">
+    <span class="kick">${c.title} · ${c.season}</span>${c.sample?'<span class="sample">Sample data</span>':''}<span class="disp who">${t.name}</span>
+    <span class="pts"><b class="tnum">${t.points}</b><span>pts</span>${s?`<span class="gap">+${+(t.points-s.points).toFixed(1)}</span>`:''}</span>
+    <ol>${c.rows.slice(1,3).map(x=>`<li><span>${x.pos}. ${x.name}</span><span class="tnum">${x.points}</span></li>`).join('')}</ol><span class="open">Full table ›</span></button>`;}).join('');
+}
+
+function openSheet(id){
+  const c=D.champs.find(x=>x.id===id); if(!c)return;
+  const top=c.rows[0].points||1, col=A.color(c.series);
+  $('#sheetBody').innerHTML=`<div class="sheet-h"><div><span class="kick">${c.group} · ${c.season}</span><h3 class="disp" id="sheetTitle">${c.title}</h3></div><button type="button" class="x" id="closeSheet" aria-label="Close">×</button></div>
+    ${c.sample?'<span class="sample">Sample data</span>':''}
+    <table class="tbl">${c.rows.map(x=>`<tr><td class="p">${x.pos}</td><td>${x.name}${x.team?`<small>${x.team}</small>`:''}<div class="bar" style="--c:${x.color||col}"><span style="width:${(x.points/top*100).toFixed(1)}%"></span></div></td><td class="g tnum">${x.pos===1?'':'−'+(+(c.rows[0].points-x.points).toFixed(1))}</td><td class="r tnum">${x.points}</td></tr>`).join('')}</table>
+    <div class="src">Source: ${c.source}${c.link?` · <a href="${c.link}" target="_blank" rel="noopener">Full standings ›</a>`:''}</div>`;
+  const d=$('#sheet'); if(typeof d.showModal==='function')d.showModal(); else d.setAttribute('open','');
+  $('#closeSheet').onclick=()=>d.close?d.close():d.removeAttribute('open');
+}
+
+function renderAgenda(){
+  const now=Date.now();
+  const up=D.calendar.filter(e=>!e.done).slice(0,10);
+  if(!up.length){$('#agenda').innerHTML=`<div class="day"><h3 class="disp">Season complete</h3><small>No more events on this calendar.</small></div>`;return;}
+  const bucket=e=>{const d=(Date.parse(e.main)-now)/864e5;return e.live||d<7?'This week':d<14?'Next week':'Later'};
+  const groups={};up.forEach(e=>(groups[bucket(e)]=groups[bucket(e)]||[]).push(e));
+  $('#agenda').innerHTML=Object.entries(groups).map(([g,list])=>`<div class="day"><h3 class="disp">${g}</h3><ul>${list.map(e=>`<li><span class="tm">${A.day(e.main,{weekday:'short'})}<br><small>${A.day(e.main)}</small></span><span><span class="kick" style="color:${A.color(e.series)}">${A.esc(e.label)}</span>${e.live?' <span class="live">● ON TRACK</span>':''}<b>${e.name}</b><small>${e.place} · race ${A.time(e.main)}</small></span></li>`).join('')}</ul></div>`).join('');
+}
+
+// events
+$('.seg').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;ed=b.dataset.ed;filter='All';shown=9;render();});
+$('#chips').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;filter=b.dataset.s;shown=9;document.querySelectorAll('#chips button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));renderStories();$('#home').scrollIntoView();});
+$('#more').addEventListener('click',()=>{shown+=9;renderStories();});
+$('#leaders').addEventListener('click',e=>{const b=e.target.closest('.ld');if(b)openSheet(b.dataset.id);});
+$('#sheet').addEventListener('click',e=>{if(e.target.id==='sheet')e.target.close();});
+// bottom tab bar follows the section in view
+const tabs=[...document.querySelectorAll('.tabbar a')];
+const io=new IntersectionObserver(es=>es.forEach(en=>{if(en.isIntersecting){tabs.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+(en.target.id==='stories'?'home':en.target.id)));}}),{rootMargin:'-45% 0px -50% 0px'});
+['home','results','stories','standings','calendar'].forEach(id=>io.observe(document.getElementById(id)));
+
+INT=await A.loadInternational();
+if(!INT.ok)ed='sl';
+render();
+})();
+</script>
+</body>
+</html>
