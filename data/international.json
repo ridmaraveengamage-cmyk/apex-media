@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:24:03.187Z",
+ "updated": "2026-11-19T19:35:31.251Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,12 +147,12 @@
   }
  ],
  "bySeries": {
+  "F1": 15,
   "MotoGP": 15,
   "IndyCar": 8,
   "WEC": 15,
   "IMSA": 11,
   "Motorsport": 4,
-  "F1": 15,
   "NASCAR": 15,
   "Formula E": 9,
   "WRC": 10,
@@ -163,6 +163,26 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Oscar Piastri addresses management plans after Mark Webber split",
+   "url": "https://www.motorsport.com/f1/news/oscar-piastri-addresses-management-plans-after-mark-webber-split/10875654/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T19:08:32.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "McLaren Formula 1 driver Oscar Piastri says his upcoming management structure is yet to be defined, after his partnership with managers Ann and Mark Webber was terminated. Piastri put out a joint press release on 9…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6zoDBPe0/s6/oscar-piastri-mclaren-2.jpg"
+  },
+  {
+   "title": "Jorge Martin reveals mindset ahead of potential MotoGP title decider in Portugal",
+   "url": "https://www.motorsport.com/motogp/news/jorge-martin-reveals-mindset-ahead-of-potential-motogp-title-decider-in-portugal/10875686/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T18:30:02.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Jorge Martin says he is heading to this weekend’s Portuguese Grand Prix with the aim of scoring a race win rather than keeping the championship fight alive until the Valencia finale. The factory Aprilia rider trails…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0R7BENE2/s6/jorge-martin-aprilia-racing-te.jpg"
+  },
   {
    "title": "‘Aprilia lost the championship because it was up against Marc Marquez,’ says Alex",
    "url": "https://www.motorsport.com/motogp/news/aprilia-lost-the-championship-because-it-was-up-against-marc-marquez-says-alex/10875682/",
@@ -391,16 +411,6 @@
    "series": "F1",
    "result": false,
    "summary": "The cold, walled straights of the Las Vegas Strip and the fast, flowing corners of Lusail ask opposite questions on consecutive weekends. So, who deserves a place in your line-up?",
-   "image": null
-  },
-  {
-   "title": "What could shake up the Las Vegas betting markets?",
-   "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-las-vegas-grand-prix.23xD9tDM6jLn41uH4otMbZ",
-   "source": "Formula1.com",
-   "date": "2026-11-19T11:55:54.002Z",
-   "series": "F1",
-   "result": false,
-   "summary": "After the lights go out in Las Vegas, clued-up bettors will be poised to make smart betting decisions in real-time markets.",
    "image": null
   },
   {
@@ -782,16 +792,6 @@
    "result": false,
    "summary": "Francesco Bagnaia will be absent from this weekend’s Portuguese Grand Prix as he continues his recovery from an injury he sustained during the Qatar MotoGP weekend. The factory Ducati rider fractured his foot after…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
-  },
-  {
-   "title": "Andrea Dovizioso: Marco Bezzecchi and Aprilia threw away 2026 MotoGP title",
-   "url": "https://www.motorsport.com/motogp/news/andrea-dovizioso-marco-bezzecchi-and-aprilia-threw-away-2026-motogp-title/10874761/",
-   "source": "Motorsport.com",
-   "date": "2026-11-16T10:42:06.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Former MotoGP star Andrea Dovizioso believes Marco Bezzecchi and Aprilia have \"thrown away\" the 2026 title, arguing the RS-GP has been more competitive than Marc Marquez's Ducati GP26. The Qatar Grand Prix reignited the…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YpbAzqX0/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
    "title": "EKN Trackside: Superkarts! USA SuperNationals 29 – SuperSunday Report",
