@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:22:30.327Z",
+ "updated": "2026-11-19T22:22:42.574Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 15
+   "count": 0
   },
   {
    "name": "Formula1.com",
@@ -153,16 +153,36 @@
   "IndyCar": 8,
   "WEC": 15,
   "IMSA": 11,
-  "Motorsport": 4,
+  "Motorsport": 3,
   "Formula E": 9,
   "WRC": 10,
-  "Dakar": 3,
+  "Dakar": 2,
   "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "FIA to introduce full-time stewards in F1 from 2027",
+   "url": "https://www.formula1.com/en/latest/article/fia-to-introduce-full-time-stewards-in-f1-from-2027.tbSC1HZmNj46TbAjzEPGj",
+   "source": "Formula1.com",
+   "date": "2026-11-19T22:22:42.574Z",
+   "series": "F1",
+   "result": false,
+   "summary": "A new department of full-time stewards will be gradually introduced from the 2027 season.",
+   "image": null
+  },
+  {
+   "title": "'I want to fight for the victory' in Las Vegas – Russell",
+   "url": "https://www.formula1.com/en/latest/article/i-want-to-fight-for-the-victory-russell-confident-in-his-las-vegas-chances-as-he-opens-up-on-call-not-to-take-new-turbo.7umaum2qrpemrxRVZhHfEN",
+   "source": "Formula1.com",
+   "date": "2026-11-19T22:22:42.574Z",
+   "series": "F1",
+   "result": true,
+   "summary": "George Russell states he wants \"to fight for the victory and I think we can do it\" in this weekend's Las Vegas Grand Prix, having decided against taking a new turbo for his Mercedes.",
+   "image": null
+  },
   {
    "title": "The F1 Fantasy Strategist on Las Vegas and Qatar",
    "url": "https://www.formula1.com/en/latest/article/f1-fantasy-strategist-preview-the-williams-mini-league-and-what-you-need-to-know-for-las-vegas-and-qatar.6hHYy6ckLb4oqMNCVPbRul",
@@ -172,16 +192,6 @@
    "result": false,
    "summary": "The cold, walled straights of the Las Vegas Strip and the fast, flowing corners of Lusail ask opposite questions on consecutive weekends. So, who deserves a place in your line-up?",
    "image": null
-  },
-  {
-   "title": "FIA to phase in full-time F1 stewards from 2027",
-   "url": "https://www.autosport.com/f1/news/fia-to-introduce-full-time-f1-stewards-from-2027-to-improve-consistency/10875719/",
-   "source": "Autosport",
-   "date": "2026-11-19T21:01:44.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The consistency of stewards’ decisions has been a topic of discussion in the Formula 1 paddock for years. While the complexity of the sporting regulations and racing guidelines is one factor, another question keeps…",
-   "image": "https://cdn-1.motorsport.com/images/amp/24QerjAY/s6/start-action-3.jpg"
   },
   {
    "title": "NASCAR star Ty Gibbs to race Australian Touring Car at Sandown",
@@ -211,16 +221,6 @@
    "series": "F1",
    "result": false,
    "summary": "After the lights go out in Las Vegas, clued-up bettors will be poised to make smart betting decisions in real-time markets.",
-   "image": null
-  },
-  {
-   "title": "FIA to introduce full-time stewards to Formula 1 during 2027",
-   "url": "https://www.racefans.net/2026/11/19/fia-to-introduce-full-time-stewards-to-formula-1-during-2027/",
-   "source": "RaceFans",
-   "date": "2026-11-19T20:24:42.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA has announced it will begin introducing full-time stewards to formula 1 during the 2027 season.",
    "image": null
   },
   {
@@ -334,16 +334,6 @@
    "image": null
   },
   {
-   "title": "Video: FIA reveals how Formula 1 race control takes decisions during an event",
-   "url": "https://www.racefans.net/2026/11/19/video-fia-reveals-how-formula-1-race-control-takes-decisions-during-an-event/",
-   "source": "RaceFans",
-   "date": "2026-11-19T15:26:31.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "FIA reveals what goes on inside race control during a grand prix",
-   "image": null
-  },
-  {
    "title": "Why Ducati Portimao seat is like a \"dream\" for Iker Lecuona: \"I've gone through hell\"",
    "url": "https://www.motorsport.com/motogp/news/lecuona-estoy-viviendo-un-sueno-y-como-un-nino-he-comido-mucha-mierda-en-estos-anos-/10875646/",
    "source": "Motorsport.com",
@@ -422,6 +412,16 @@
    "result": false,
    "summary": "Oscar Piastri has reflected on the decision to part ways with his management team, led by nine-time Grand Prix winner Mark Webber and his partner Ann Webber.",
    "image": null
+  },
+  {
+   "title": "Lewis Hamilton opens up on \"isolating\" feeling after seeing his own F1 Las Vegas grandstand",
+   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-f1-feeling-isolating-and-lonely-after-seeing-his-own-las-vegas-grandstand/10875545/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T13:06:36.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Nearly two decades into his Formula 1 career, Lewis Hamilton still is not taking the scale of his following for granted. Speaking on media day ahead of the 2026 Las Vegas Grand Prix, the seven-time world champion…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0Zq85G46/s6/lewis-hamilton-ferrari-a10875545-b704-2.jpg"
   },
   {
    "title": "Autosport magazine: Kimi Antonelli – world champion",
@@ -614,16 +614,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgOBOY/s6/helsapdw0aa-yln.jpg"
   },
   {
-   "title": "Social Media: FIA president indicates agreement reached on next power unit formula",
-   "url": "https://www.racefans.net/2026/11/17/social-media-fia-president-indicates-agreement-reached-on-next-power-unit-formula/",
-   "source": "RaceFans",
-   "date": "2026-11-17T20:37:09.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "V8 engines are coming back to F1 \"soon\", claims Ben Sulayem",
-   "image": null
-  },
-  {
    "title": "CrowdStrike Racing by APR keeps title-winning IMSA LMP2 roster intact for 2027",
    "url": "https://www.motorsport.com/imsa/news/crowdstrike-racing-by-apr-keeps-title-winning-imsa-lmp2-roster-intact-for-2027/10875127/",
    "source": "Motorsport.com",
@@ -692,16 +682,6 @@
    "result": false,
    "summary": "LCR recruit David Alonso has ridden Honda's 2027 MotoGP bike, which he will make his premier-class debut with next season, at Sepang, Motorsport.com has learned. This means the talented Spanish rider, who competes in…",
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
-  },
-  {
-   "title": "Spotlight: Alonso to enter Dakar in car Aston Martin designed for Call of Duty",
-   "url": "https://www.racefans.net/2026/11/17/spotlight-alonso-to-enter-dakar-in-car-aston-martin-designed-for-call-of-duty/",
-   "source": "RaceFans",
-   "date": "2026-11-17T09:16:48.000Z",
-   "series": "Dakar",
-   "result": false,
-   "summary": "Alonso to return to Dakar rally in CoD Aston Martin",
-   "image": null
   },
   {
    "title": "Fernando Alonso to return to Dakar Rally with Aston Martin in 2027",
