@@ -26,6 +26,11 @@ Motorsport news website with two tabs: **Sri Lanka** (local racing, karting focu
 - `.github/workflows/update-international.yml` — runs the collector every 30 min (cron `7,37 * * * *`, plus a manual "Run workflow" button); commits `data/` only when it changed.
 - `data/international.json` (news), `data/results.json` (F1, MotoGP, NASCAR Cup results and calendars), `data/standings.json` (21 championships) — **written by the workflow only.** After a local test run, restore with `git checkout -- data`; never commit them by hand.
 
+## Local testing (Mac)
+
+- Node is installed on the owner's Mac. Test collector changes with `node scripts/update-international.mjs` before pushing, then run `git checkout -- data` so the local data files are never committed.
+- To preview the site, open `index.html` or serve the folder (e.g. `python3 -m http.server`), since `fetch` of `data/*.json` needs http.
+
 ## Sri Lanka tab (hand-edited)
 
 - Data lives in the `SL` object in `index.html`, drawn from published 2026 reports (IAME Motorsport, ThePapare, The Morning, National Sports Calendar 2026).
