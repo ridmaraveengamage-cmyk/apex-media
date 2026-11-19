@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:28:55.242Z",
+ "updated": "2026-11-19T16:33:48.534Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,14 +147,14 @@
   }
  ],
  "bySeries": {
+  "IMSA": 11,
+  "Motorsport": 4,
   "F1": 15,
   "MotoGP": 15,
-  "Motorsport": 4,
   "NASCAR": 15,
   "IndyCar": 8,
   "Formula E": 9,
   "WEC": 15,
-  "IMSA": 11,
   "WRC": 10,
   "Dakar": 3,
   "Karting": 5,
@@ -163,6 +163,26 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Jaminet completes 13 Autosport lineup for 2027 Rolex 24 at Daytona",
+   "url": "https://www.motorsport.com/imsa/news/jaminet-completes-13-autosport-lineup-for-2027-rolex-24-at-daytona/10875662/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T16:04:56.000Z",
+   "series": "IMSA",
+   "result": false,
+   "summary": "Two-time IMSA WeatherTech SportsCar Championship champion Mathieu Jaminet will complete 13 Autosport’s GTD driver lineup for January’s 2027 Rolex 24 at Daytona, marking his competitive debut behind the wheel of a…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YBVjXQBY/s6/mathieujaminetannouncement.jpg"
+  },
+  {
+   "title": "Fan Voting for the Autosport Awards is now open",
+   "url": "https://www.autosport.com/autosport-awards/news/fan-voting-for-the-autosport-awards-is-now-open/10875615/",
+   "source": "Autosport",
+   "date": "2026-11-19T16:02:37.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "The nominees for this year’s Autosport Awards have been announced – and you can have your say on the best motorsport performers of the season in The Fan Vote. The Awards celebrate the top drivers, moments and…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGgOdKY/s6/fan-vote-editorial.jpg"
+  },
   {
    "title": "All the stories that got the Las Vegas paddock talking",
    "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-las-vegas-paddock-talking.4DclxlWGaLDwKgzLpfAvuz",
@@ -482,16 +502,6 @@
    "result": false,
    "summary": "United Autosports has confirmed that Phil Fayer, Hunter McElrea, and Mikkel Jensen will return to share the #2 ORECA 07 LMP2 for the 2027 IMSA WeatherTech SportsCar Championship. Coming off a competitive 2026 campaign…",
    "image": "https://cdn-1.motorsport.com/images/amp/2dEoyOwY/s6/2-united-autosports-usa-oreca-.jpg"
-  },
-  {
-   "title": "Grant closes in on Autosport National Rankings glory",
-   "url": "https://www.autosport.com/national/news/grant-closes-in-on-autosport-national-rankings-glory-/10875255/",
-   "source": "Autosport",
-   "date": "2026-11-18T12:03:16.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Historic single-seater ace Callum Grant looks almost certain to run out as the winner of the Autosport National Rankings in 2026. Grant claimed another win, this time with his Formula Ford 1600 Van Diemen, in his heat…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlKzAeY/s6/callum-grant.jpg"
   },
   {
    "title": "Honda calls up Jake Dixon again as Joan Mir withdraws from Portuguese GP",
@@ -1272,16 +1282,6 @@
    "result": false,
    "summary": "Will Lamborghini stalwart team Grasser and star driver Mirko Bortolotti switch to McLaren in 2027? There has been speculation about it in the DTM paddock for weeks - and now colleagues at MOTORSPORT aktuell have also…",
    "image": "https://cdn-1.motorsport.com/images/amp/G2e4Xv10/s6/lamborghini-droht-verlust-grasser-team-und-starpilot-vor-wechsel-zu-mclaren-26110301.jpg"
-  },
-  {
-   "title": "Lin Hodenius, James Roe partner for Lone Star Racing’s full-time IMSA GTD campaign for 2027",
-   "url": "https://www.motorsport.com/imsa/news/lin-hodenius-james-roe-partner-for-lone-star-racings-full-time-imsa-gtd-campaign-for-2027/10871349/",
-   "source": "Motorsport.com",
-   "date": "2026-11-03T18:21:18.000Z",
-   "series": "IMSA",
-   "result": false,
-   "summary": "Lone Star Racing is stepping up to a full-time campaign in the IMSA WeatherTech SportsCar Championship’s Grand Touring Daytona (GTD) class for the 2027 season, expanding beyond its long-standing role as an Endurance Cup…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8jEwr2/s6/80-lone-star-racing-mercedes-a.jpg"
   },
   {
    "title": "Why Kalle Rovanpera and Ott Tanak are returning to the WRC",
