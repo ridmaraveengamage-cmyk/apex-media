@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:02:36.555Z",
+ "updated": "2026-11-19T10:58:29.845Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 15
+   "count": 0
   },
   {
    "name": "Formula1.com",
@@ -148,7 +148,7 @@
  ],
  "bySeries": {
   "F1": 15,
-  "Motorsport": 4,
+  "Motorsport": 3,
   "NASCAR": 15,
   "IndyCar": 8,
   "Formula E": 9,
@@ -156,13 +156,93 @@
   "MotoGP": 15,
   "IMSA": 11,
   "WRC": 11,
-  "Dakar": 2,
   "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
-  "Supercars": 2
+  "Supercars": 2,
+  "Dakar": 1
  },
  "items": [
+  {
+   "title": "Facts, stats and trivia ahead of the 2026 Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-las-vegas-grand-prix.6ynxQ4e9Z7F1o2Uijhh1FK",
+   "source": "Formula1.com",
+   "date": "2026-11-19T10:58:29.845Z",
+   "series": "F1",
+   "result": false,
+   "summary": "As F1 prepares for the Las Vegas Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
+   "image": null
+  },
+  {
+   "title": "Everything you need to know about the Las Vegas Strip Circuit",
+   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-las-vegas-strip-circuit.1W9ULMy0aEkvfsJ9tRzItg",
+   "source": "Formula1.com",
+   "date": "2026-11-19T10:58:29.845Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Get up to speed with all the key Las Vegas statistics, driving pointers, facts and more.",
+   "image": null
+  },
+  {
+   "title": "Camara offers update on plans for final races of 2026",
+   "url": "https://www.formula1.com/en/latest/article/camara-looks-ahead-to-second-f1-outing-and-offers-update-on-plans-for-final-races.75aokJ7GXrP44nJ1p7NZbv",
+   "source": "Formula1.com",
+   "date": "2026-11-19T10:58:29.845Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Rafael Camara reflects on his F1 debut in Brazil as he prepares for the Las Vegas Grand Prix, with his plans for Qatar and Abu Dhabi still undecided.",
+   "image": null
+  },
+  {
+   "title": "Valtteri Bottas hits out at “unnecessary noise” about Cadillac F1 future",
+   "url": "https://www.crash.net/f1/news/1110188/1/valtteri-bottas-hits-out-unnecessary-noise-about-cadillac-f1-future",
+   "source": "Crash.net",
+   "date": "2026-11-19T10:56:54.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Valtteri Bottas claps back after sealing his F1 future.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454200_hires.jpg?width=1200"
+  },
+  {
+   "title": "Who has the best F1 power unit: Red Bull or Mercedes? Russell shares interesting theory",
+   "url": "https://www.autosport.com/f1/news/who-has-the-best-f1-power-unit-red-bull-or-mercedes-russell-shares-interesting-theory/10875591/",
+   "source": "Autosport",
+   "date": "2026-11-19T10:47:32.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Las Vegas Grand Prix promises to be an interesting challenge for Formula 1 teams in several respects, arguably even more so than in previous years. With the 2026 cars producing less downforce and relying on active…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0rVPwaJ0/s6/max-verstappen-red-bull-racing.jpg"
+  },
+  {
+   "title": "Charles Leclerc on journalist ban: “I was surprised by the choice of words”",
+   "url": "https://www.motorsport.com/f1/news/charles-leclerc-on-journalist-ban-i-was-surprised-by-the-choice-of-words/10875509/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T10:41:53.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc had no hand in getting a veteran Formula 1 reporter barred from the paddock, and he isn't interested in policing the press - even when the headlines get a little personal. Addressing the media ahead of…",
+   "image": "https://cdn-1.motorsport.com/images/amp/68Vwy382/s6/charles-leclerc-ferrari-a10875509-b704-4.jpg"
+  },
+  {
+   "title": "Oscar Piastri explains split with Mark Webber management",
+   "url": "https://www.crash.net/f1/news/1110186/1/oscar-piastri-explains-split-mark-webber-management",
+   "source": "Crash.net",
+   "date": "2026-11-19T10:17:50.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Oscar Piastri details his split from Mark Webber's management.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1260783_hires.jpg?width=1200"
+  },
+  {
+   "title": "The most valuable F1 sponsors in 2026: where does Anthropic rank?",
+   "url": "https://www.the-race.com/business/most-valuable-f1-sponsors-2026-anthropic-microsoft-google-aramco-meta-amd-visa/",
+   "source": "The Race",
+   "date": "2026-11-19T10:09:52.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Where does Williams F1 backer Anthropic rank in the most valuable F1 sponsors after its November 2026 IPO?",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1454062_HiRes-1.jpg"
+  },
   {
    "title": "Piastri opens up on decision to split with management team",
    "url": "https://www.formula1.com/en/latest/article/it-felt-like-the-time-was-right-for-something-new-piastri-opens-up-on-decision-to-split-with-management-team.4v3F2IJjTzAoRC9OIkyLgG",
@@ -184,16 +264,6 @@
    "image": null
   },
   {
-   "title": "The five-way fight for second is close – but no one cares about ‘winning’ it",
-   "url": "https://www.racefans.net/2026/11/19/the-five-way-fight-for-second-is-close-but-no-one-cares-about-winning-it/",
-   "source": "RaceFans",
-   "date": "2026-11-19T10:00:38.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Five drivers are in a close fight for second place in the championship but the runner-up spot holds no appeal for any of them.",
-   "image": null
-  },
-  {
    "title": "Rafael Camara torn between his F2 title bid and more F1 races with Haas",
    "url": "https://www.motorsport.com/f1/news/rafael-camara-could-finish-the-2026-season-in-both-f1-and-f2/10875556/",
    "source": "Motorsport.com",
@@ -212,16 +282,6 @@
    "result": false,
    "summary": "Max Verstappen has changed his stance on F1 ending its season in the Middle East.",
    "image": "https://www.crash.net/sites/default/files/2026-11/si202611190048.jpg?width=1200"
-  },
-  {
-   "title": "People in the team are asking why my 2027 deal hasn’t been announced – Bearman",
-   "url": "https://www.racefans.net/2026/11/19/people-in-the-team-are-asking-why-my-2027-deal-hasnt-been-announced-bearman/",
-   "source": "RaceFans",
-   "date": "2026-11-19T09:15:35.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oliver Bearman is \"disappointed\" Haas has not yet officially confirmed he will drive for them again in 2027.",
-   "image": null
   },
   {
    "title": "F1 Mexico GP fallout was “taken out of proportion” - Charles Leclerc",
@@ -251,66 +311,6 @@
    "series": "F1",
    "result": false,
    "summary": "Lewis Hamilton and Charles Leclerc discuss Ferrari's fight for P2 in the Constructors' Championship and the importance of the final three races ahead of 2027.",
-   "image": null
-  },
-  {
-   "title": "Norris assesses McLaren's turnaround ahead of Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/first-time-where-we-can-almost-stop-playing-catch-up-norris-assesses-mclarens-turnaround-ahead-of-las-vegas-gp.5AFaPtFnGnni7aXVlu3UiC",
-   "source": "Formula1.com",
-   "date": "2026-11-19T08:42:14.636Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris believes that McLaren has finally reached a point \"where we can almost stop playing catch up\", after the team took victory at the most recent race in Brazil.",
-   "image": null
-  },
-  {
-   "title": "Lawson and Lindblad react to being confirmed for 2027",
-   "url": "https://www.formula1.com/en/latest/article/an-intense-few-weeks-lawson-and-lindblad-react-to-being-confirmed-at-racing-bulls-for-2027.5m2wDX6cpaEJy67CSPwe3M",
-   "source": "Formula1.com",
-   "date": "2026-11-19T08:42:14.636Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ahead of the Las Vegas Grand Prix, Liam Lawson and Arvid Lindblad have been reflecting on how it feels to be confirmed at Racing Bulls for 2027.",
-   "image": null
-  },
-  {
-   "title": "‘This is another level’ – Alonso on daunting Dakar challenge",
-   "url": "https://www.formula1.com/en/latest/article/this-is-another-level-alonso-opens-up-on-daunting-dakar-rally-challenge-as-he-prepares-for-return.6bm7UWyTcLVjB2T1gVLRPL",
-   "source": "Formula1.com",
-   "date": "2026-11-19T08:42:14.636Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fernando Alonso will compete in the 2027 edition of the Dakar Rally for Aston Martin ahead of the start of the next F1 season.",
-   "image": null
-  },
-  {
-   "title": "'We can get rid of the noise' – Bottas after future confirmed",
-   "url": "https://www.formula1.com/en/latest/article/we-can-get-rid-of-the-noise-bottas-relieved-to-have-cadillac-future-confirmed-for-2027.5LE0fIkWvK7hk8syPThmkE",
-   "source": "Formula1.com",
-   "date": "2026-11-19T08:42:14.636Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Valtteri Bottas admits that being confirmed for the 2027 season with Cadillac ahead of the Las Vegas Grand Prix \"gives me a peace\", after weeks of speculation he would not be retained.",
-   "image": null
-  },
-  {
-   "title": "Bearman frustrated by delay in confirming Haas future",
-   "url": "https://www.formula1.com/en/latest/article/theres-no-excuses-for-that-bearman-frustrated-by-delay-in-confirming-haas-future.3B6g2yqgJgf3g8UNtsYU5L",
-   "source": "Formula1.com",
-   "date": "2026-11-19T08:42:14.636Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ollie Bearman is yet to have his future at Haas officially confirmed for 2027, a situation that the Briton says has been \"a bit disappointing\".",
-   "image": null
-  },
-  {
-   "title": "AS IT HAPPENED: Build-up ahead of the Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-wednesday-build-up-in-las-vegas-2026.MqDte4ggZDt3kjYNJ0CvS",
-   "source": "Formula1.com",
-   "date": "2026-11-19T08:42:14.636Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live coverage of all the build-up ahead of the 2026 Las Vegas Grand Prix weekend.",
    "image": null
   },
   {
@@ -524,16 +524,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgOBOY/s6/helsapdw0aa-yln.jpg"
   },
   {
-   "title": "Social Media: FIA president indicates agreement reached on next power unit formula",
-   "url": "https://www.racefans.net/2026/11/17/social-media-fia-president-indicates-agreement-reached-on-next-power-unit-formula/",
-   "source": "RaceFans",
-   "date": "2026-11-17T20:37:09.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "V8 engines are coming back to F1 \"soon\", claims Ben Sulayem",
-   "image": null
-  },
-  {
    "title": "CrowdStrike Racing by APR keeps title-winning IMSA LMP2 roster intact for 2027",
    "url": "https://www.motorsport.com/imsa/news/crowdstrike-racing-by-apr-keeps-title-winning-imsa-lmp2-roster-intact-for-2027/10875127/",
    "source": "Motorsport.com",
@@ -602,16 +592,6 @@
    "result": false,
    "summary": "LCR recruit David Alonso has ridden Honda's 2027 MotoGP bike, which he will make his premier-class debut with next season, at Sepang, Motorsport.com has learned. This means the talented Spanish rider, who competes in…",
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
-  },
-  {
-   "title": "Spotlight: Alonso to enter Dakar in car Aston Martin designed for Call of Duty",
-   "url": "https://www.racefans.net/2026/11/17/spotlight-alonso-to-enter-dakar-in-car-aston-martin-designed-for-call-of-duty/",
-   "source": "RaceFans",
-   "date": "2026-11-17T09:16:48.000Z",
-   "series": "Dakar",
-   "result": false,
-   "summary": "Alonso to return to Dakar rally in CoD Aston Martin",
-   "image": null
   },
   {
    "title": "Alonso to contest 2027 Dakar Rally with new Aston Martin project",
