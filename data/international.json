@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:59:43.039Z",
+ "updated": "2026-11-19T07:10:55.636Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 0
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,7 +148,7 @@
  ],
  "bySeries": {
   "F1": 15,
-  "Motorsport": 3,
+  "Motorsport": 4,
   "NASCAR": 15,
   "IndyCar": 8,
   "Formula E": 9,
@@ -156,122 +156,172 @@
   "MotoGP": 15,
   "IMSA": 11,
   "WRC": 11,
+  "Dakar": 2,
   "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
-  "Supercars": 2,
-  "Dakar": 1
+  "Supercars": 2
  },
  "items": [
   {
-   "title": "Verstappen explains his only goal for the rest of 2026",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-explains-his-only-goal-for-the-rest-of-2026-and-why-red-bull-can-be-very-proud.18FKT9igd9FRjKkBk7PD9q",
+   "title": "Piastri opens up on decision to split with management team",
+   "url": "https://www.formula1.com/en/latest/article/it-felt-like-the-time-was-right-for-something-new-piastri-opens-up-on-decision-to-split-with-management-team.4v3F2IJjTzAoRC9OIkyLgG",
    "source": "Formula1.com",
-   "date": "2026-11-19T05:59:43.039Z",
+   "date": "2026-11-19T07:10:55.636Z",
    "series": "F1",
    "result": false,
-   "summary": "Ahead of the Las Vegas Grand Prix weekend, Max Verstappen has reflected on what his key aim is for the final races of the 2026 season.",
+   "summary": "Oscar Piastri has reflected on the decision to part ways with his management team, led by nine-time Grand Prix winner Mark Webber and his partner Ann Webber.",
    "image": null
   },
   {
-   "title": "Hamilton identifies 'main focus' ahead of Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-identifies-main-focus-ahead-of-las-vegas-as-ferrari-eye-big-changes-for-2027.7nMnDgPqgxIf8GVZxywkzR",
+   "title": "'I want to fight for the victory' in Las Vegas – Russell",
+   "url": "https://www.formula1.com/en/latest/article/i-want-to-fight-for-the-victory-russell-confident-in-his-las-vegas-chances-as-he-opens-up-on-call-not-to-take-new-turbo.7umaum2qrpemrxRVZhHfEN",
    "source": "Formula1.com",
-   "date": "2026-11-19T05:59:43.039Z",
+   "date": "2026-11-19T07:10:55.636Z",
    "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton and Charles Leclerc discuss Ferrari's fight for P2 in the Constructors' Championship and the importance of the final three races ahead of 2027.",
+   "result": true,
+   "summary": "George Russell states he wants \"to fight for the victory and I think we can do it\" in this weekend's Las Vegas Grand Prix, having decided against taking a new turbo for his Mercedes.",
    "image": null
   },
   {
-   "title": "LIVE COVERAGE: Build-up ahead of the Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-wednesday-build-up-in-las-vegas-2026.MqDte4ggZDt3kjYNJ0CvS",
-   "source": "Formula1.com",
-   "date": "2026-11-19T05:59:43.039Z",
+   "title": "Everything we learned from day one at F1's Las Vegas GP",
+   "url": "https://www.the-race.com/formula-1/everything-we-learned-from-day-one-at-f1s-las-vegas-gp/",
+   "source": "The Race",
+   "date": "2026-11-19T07:09:32.000Z",
    "series": "F1",
    "result": false,
-   "summary": "Live coverage of all the build-up ahead of the 2026 Las Vegas Grand Prix weekend.",
-   "image": null
+   "summary": "F1's Las Vegas Grand Prix weekend kicked off with a 2027 driver announcement and plenty of revelations",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1454383_HiRes.jpg"
   },
   {
-   "title": "Cadillac confirm Bottas will remain with the team in 2027",
-   "url": "https://www.formula1.com/en/latest/article/cadillac-confirm-bottas-will-remain-with-the-team-in-2027.2FzTQfliXlMixOPFUMpPB4",
-   "source": "Formula1.com",
-   "date": "2026-11-19T05:59:43.039Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Cadillac have completed their 2027 driver line-up, with Valtteri Bottas set to continue racing alongside Sergio Perez.",
-   "image": null
-  },
-  {
-   "title": "Max Verstappen: \"If they let me write the rules, F1 wouldn’t be allowed in certain places\"",
-   "url": "https://www.motorsport.com/f1/news/max-verstappen-if-they-let-me-write-the-rules-f1-wouldnt-be-allowed-in-certain-places/10875445/",
+   "title": "Isack Hadjar reveals why he cannot follow Max Verstappen into racing outside F1",
+   "url": "https://www.motorsport.com/f1/news/isack-hadjar-reveals-why-he-cannot-follow-max-verstappen-into-racing-outside-f1/10875493/",
    "source": "Motorsport.com",
-   "date": "2026-11-19T05:49:22.000Z",
+   "date": "2026-11-19T07:05:34.000Z",
    "series": "F1",
    "result": false,
-   "summary": "Although the FIA's announcement was only online for five minutes, there is no doubt in the paddock that V8 engines will return to Formula 1. An agreement in principle has been reached on a 2.1-litre turbocharged V8 with…",
-   "image": "https://cdn-2.motorsport.com/images/amp/Y9lNGqZ2/s6/max-verstappen-red-bull-racing-2.jpg"
+   "summary": "Red Bull Formula 1 driver Isack Hadjar says he would love to race in other categories during the off-season, but admits he does not \"have enough money\" to do so yet. Several of Hadjar's rivals already race outside…",
+   "image": "https://cdn-7.motorsport.com/images/amp/YK15z1X0/s6/motorsport-com-graphics-8.jpg"
   },
   {
-   "title": "Ollie Bearman “quite disappointed” by “strange” Ferrari contract situation amid Haas F1 2027 delay",
-   "url": "https://www.crash.net/f1/news/1110178/1/ollie-bearman-quite-disappointed-strange-ferrari-contract-situation",
+   "title": "Lewis Hamilton denies broken trust with Ferrari despite twice overruling strategy",
+   "url": "https://www.crash.net/f1/news/1110181/1/lewis-hamilton-denies-broken-trust-ferrari-despite-twice-overruling-strategy",
    "source": "Crash.net",
-   "date": "2026-11-19T05:26:54.000Z",
+   "date": "2026-11-19T07:01:03.000Z",
    "series": "F1",
    "result": false,
-   "summary": "Ollie Bearman admits his lack of clarity over his F1 future is \"strange\" and disappointing.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1451092_hires.jpg?width=1200"
+   "summary": "Lewis Hamilton insists the trust remains between himself and the Ferrari pit wall.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454352_hires.jpg?width=1200"
   },
   {
-   "title": "Liam Lawson had little doubt he would remain for F1 2027 amid Nikola Tsolov talk",
-   "url": "https://www.motorsport.com/f1/news/liam-lawson-had-little-doubt-he-would-remain-for-f1-2027-amid-nikola-tsolov-talk/10875438/",
+   "title": "Max Verstappen on F1's WHOOP plan: \"It's nobody's business, I don't even know my heart rate\"",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-on-f1s-whoop-plan-its-nobodys-business-i-dont-even-know-my-heart-rate/10875480/",
    "source": "Motorsport.com",
-   "date": "2026-11-19T05:20:57.000Z",
+   "date": "2026-11-19T07:00:10.000Z",
    "series": "F1",
    "result": false,
-   "summary": "Liam Lawson has confirmed he had little doubt that he would remain on the Formula 1 grid for 2027 after recently extending his Racing Bulls contract. The 24-year-old and rookie team-mate Arvid Lindblad were announced…",
-   "image": "https://cdn-6.motorsport.com/images/amp/Y9lN4LL2/s6/liam-lawson-racing-bulls.jpg"
+   "summary": "Ahead of the Las Vegas Grand Prix, Formula 1 announced a partnership with WHOOP. A number of drivers will wear the company's health trackers, with their data being shown live during TV broadcasts in 2027. The latter…",
+   "image": "https://cdn-6.motorsport.com/images/amp/6Alv98EY/s6/max-verstappen-red-bull-racing.jpg"
   },
   {
-   "title": "Norris assesses McLaren's turnaround ahead of Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/first-time-where-we-can-almost-stop-playing-catch-up-norris-assesses-mclarens-turnaround-ahead-of-las-vegas-gp.5AFaPtFnGnni7aXVlu3UiC",
-   "source": "Formula1.com",
-   "date": "2026-11-19T05:01:56.003Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris believes that McLaren has finally reached a point \"where we can almost stop playing catch up\", after the team took victory at the most recent race in Brazil.",
-   "image": null
-  },
-  {
-   "title": "Lawson and Lindblad react to being confirmed for 2027",
-   "url": "https://www.formula1.com/en/latest/article/an-intense-few-weeks-lawson-and-lindblad-react-to-being-confirmed-at-racing-bulls-for-2027.5m2wDX6cpaEJy67CSPwe3M",
-   "source": "Formula1.com",
-   "date": "2026-11-19T05:01:56.003Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ahead of the Las Vegas Grand Prix, Liam Lawson and Arvid Lindblad have been reflecting on how it feels to be confirmed at Racing Bulls for 2027.",
-   "image": null
-  },
-  {
-   "title": "Best value early bets for the Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-las-vegas-grand-prix.G1YHN2K36iO2K2PxC7zjh",
-   "source": "Formula1.com",
-   "date": "2026-11-19T05:01:56.003Z",
-   "series": "F1",
-   "result": false,
-   "summary": "We've assessed the latest betting markets and picked the early bets offering the best value at the Las Vegas Strip Circuit.",
-   "image": null
-  },
-  {
-   "title": "Sergio Perez bullish on pushing Cadillac forward in F1: \"Some people were just happy to be here\"",
-   "url": "https://www.motorsport.com/f1/news/sergio-perez-bullish-on-pushing-cadillac-forward-in-f1-some-people-were-just-happy-to-be-here/10875430/",
+   "title": "Charles Leclerc brands Brazil penalty for Liam Lawson contact \"a bit harsh\"",
+   "url": "https://www.motorsport.com/f1/news/charles-leclerc-brazil-penalty-for-liam-lawson-contact-was-a-bit-harsh/10875477/",
    "source": "Motorsport.com",
-   "date": "2026-11-19T04:35:22.000Z",
+   "date": "2026-11-19T06:39:03.000Z",
    "series": "F1",
    "result": false,
-   "summary": "There is one common enemy in Formula 1, and that is time. For veterans in the autumn of their career, that's not just the time on the stopwatch, but also the years going by without competing at the sharp end. Having…",
-   "image": "https://cdn-3.motorsport.com/images/amp/6Alv9nGY/s6/sergio-perez-cadillac-racing.jpg"
+   "summary": "Ferrari Formula 1 driver Charles Leclerc has branded his five-second penalty that cost him seventh place at the Brazilian Grand Prix as \"harsh\", arguing that his contact with Racing Bulls driver Liam Lawson was \"part of…",
+   "image": "https://cdn-4.motorsport.com/images/amp/0kZXkZl6/s6/motorsport-com-graphics-7.jpg"
+  },
+  {
+   "title": "Sainz won’t tolerate “being a test driver on grand prix weekends” for long",
+   "url": "https://www.racefans.net/2026/11/19/sainz-wont-tolerate-being-a-test-driver-on-grand-prix-weekends-for-long/",
+   "source": "RaceFans",
+   "date": "2026-11-19T06:35:51.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Carlos Sainz Jnr said this has been his first season where even a perfect performance is unlikely to result in a points finish.",
+   "image": null
+  },
+  {
+   "title": "Charles Leclerc speaks out on F1 journalist ban controversy after article criticism",
+   "url": "https://www.crash.net/f1/news/1110180/1/charles-leclerc-speaks-out-f1-journalist-ban-controversy-after-article-criticism",
+   "source": "Crash.net",
+   "date": "2026-11-19T06:34:24.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc addresses an F1 journalist being banned by the FIA for criticising the Ferrari driver.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454148_hires.jpg?width=1200"
+  },
+  {
+   "title": "Charles Leclerc reveals the gadget he’s been \"hiding\" in his Ferrari",
+   "url": "https://www.motorsport.com/f1/news/charles-leclerc-admits-he-has-already-been-wearing-whoop-in-his-ferrari-f1-car/10875473/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T06:33:52.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc has revealed that he has already been wearing a WHOOP fitness tracker while driving his Ferrari, and says he has \"nothing to hide\" as Formula 1 prepares to put drivers' heart rates on screen. F1…",
+   "image": "https://cdn-8.motorsport.com/images/amp/2eZxkZmY/s6/motorsport-com-graphics-2026-1.jpg"
+  },
+  {
+   "title": "Russell explains why he chose not to use Mercedes’ turbo upgrade in Las Vegas",
+   "url": "https://www.racefans.net/2026/11/19/russell-explains-why-he-chose-not-to-use-mercedes-turbo-upgrade-in-las-vegas/",
+   "source": "RaceFans",
+   "date": "2026-11-19T06:21:26.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell isn't using Mercedes' new turbo this weekend because he would have to take another grid penalty.",
+   "image": null
+  },
+  {
+   "title": "Red Bull F1 e-bike in Max Verstappen's Suzuka livery hits the Las Vegas Strip",
+   "url": "https://www.motorsport.com/f1/news/red-bull-f1-e-bike-in-max-verstappens-suzuka-livery-hits-the-las-vegas-strip/10875470/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T06:19:26.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Red Bull fans in Las Vegas this weekend can ride home on a piece of Max Verstappen's 2025 season, with the team's official e-bike going on sale at a pop-up shop on the Strip. Californian electric bike brand SUPER73 is…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlKzlpY/s6/motorsport-com-graphics-100.jpg"
+  },
+  {
+   "title": "Autosport magazine: Kimi Antonelli – world champion",
+   "url": "https://www.autosport.com/general/news/autosport-magazine-kimi-antonelli-world-champion/10875465/",
+   "source": "Autosport",
+   "date": "2026-11-19T06:14:42.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Newly crowned world champion Kimi Antonelli is the focus of the latest issue of Autosport magazine, out today (19 November). The 20-year-old Italian seems to be universally liked in the Formula 1 paddock. Jake…",
+   "image": "https://cdn-9.motorsport.com/images/amp/2dEolEpY/s6/autosport-magazine-dec26-lands.jpg"
+  },
+  {
+   "title": "Verstappen isn't a fan of F1's 2027 biometric data plan",
+   "url": "https://www.the-race.com/formula-1/f1-2027-biometric-data-plan-whoop-max-verstappen-not-a-fan/",
+   "source": "The Race",
+   "date": "2026-11-19T06:13:10.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 is going to introduce biometric data into its broadcast package next year - but Max Verstappen doesn't want anything to do with it",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/PR4.jpg"
+  },
+  {
+   "title": "Kimi Antonelli: Yo-yo racing to return at F1 Las Vegas GP",
+   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-yo-yo-racing-to-return-at-f1-las-vegas-gp/10875460/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T06:04:49.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 1 world champion Kimi Antonelli has predicted the return of “yo-yo” racing at this weekend’s Las Vegas Grand Prix thanks to its low-downforce characteristics. The new-for-2026 regulations, which feature a more…",
+   "image": "https://cdn-9.motorsport.com/images/amp/68VWyaD2/s6/andrea-kimi-antonelli-mercedes.jpg"
+  },
+  {
+   "title": "Fernando Alonso rules out staying in F1 for V8 return: “It’s frustrating”",
+   "url": "https://www.crash.net/f1/news/1110179/1/fernando-alonso-rules-out-staying-f1-v8-return-its-frustrating",
+   "source": "Crash.net",
+   "date": "2026-11-19T06:01:33.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Fernando Alonso confirms he will not be around to enjoy the return of V8 engines in F1.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454204_hires.jpg?width=1200"
   },
   {
    "title": "Top five roles on Motorsport Jobs this week",
@@ -281,47 +331,7 @@
    "series": "Motorsport",
    "result": false,
    "summary": "1. Motorsport Australia - Motorsport Technical Executive - Melbourne Motorsport Australia has a vacancy for a Motorsport Technical Executive. You will manage technical enquiries and applications, coordinate technical…",
-   "image": "https://cdn-3.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
-  },
-  {
-   "title": "\"Disappointed\" and \"no excuses\" – Oliver Bearman frustrated by lack of 2027 F1 contract",
-   "url": "https://www.motorsport.com/f1/news/oliver-bearman-disappointed-and-frustrated-by-2027-f1-contract-delay-no-excuses/10875398/",
-   "source": "Motorsport.com",
-   "date": "2026-11-19T04:02:45.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Following confirmation that Liam Lawson and Valtteri Bottas will remain on the grid, only one seat formally remains vacant for the 2027 Formula 1 season. It is the Haas seat currently occupied by Oliver Bearman. There…",
-   "image": "https://cdn-5.motorsport.com/images/amp/6grQwlGY/s6/oliver-bearman-haas-f1-team.jpg"
-  },
-  {
-   "title": "‘This is another level’ – Alonso on daunting Dakar challenge",
-   "url": "https://www.formula1.com/en/latest/article/this-is-another-level-alonso-opens-up-on-daunting-dakar-rally-challenge-as-he-prepares-for-return.6bm7UWyTcLVjB2T1gVLRPL",
-   "source": "Formula1.com",
-   "date": "2026-11-19T03:55:22.022Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fernando Alonso will compete in the 2027 edition of the Dakar Rally for Aston Martin ahead of the start of the next F1 season.",
-   "image": null
-  },
-  {
-   "title": "'We can get rid of the noise' – Bottas after future confirmed",
-   "url": "https://www.formula1.com/en/latest/article/we-can-get-rid-of-the-noise-bottas-relieved-to-have-cadillac-future-confirmed-for-2027.5LE0fIkWvK7hk8syPThmkE",
-   "source": "Formula1.com",
-   "date": "2026-11-19T03:55:22.022Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Valtteri Bottas admits that being confirmed for the 2027 season with Cadillac ahead of the Las Vegas Grand Prix \"gives me a peace\", after weeks of speculation he would not be retained.",
-   "image": null
-  },
-  {
-   "title": "Bearman frustrated by delay in confirming Haas future",
-   "url": "https://www.formula1.com/en/latest/article/theres-no-excuses-for-that-bearman-frustrated-by-delay-in-confirming-haas-future.3B6g2yqgJgf3g8UNtsYU5L",
-   "source": "Formula1.com",
-   "date": "2026-11-19T03:55:22.022Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ollie Bearman is yet to have his future at Haas officially confirmed for 2027, a situation that the Briton says has been \"a bit disappointing\".",
-   "image": null
+   "image": "https://cdn-7.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
   },
   {
    "title": "Denny Hamlin content with 2027 retirement plan but keeps door open",
@@ -331,7 +341,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "In this moment, Denny Hamlin fully expects to retire at the end of the 2027 NASCAR Cup Series season, but he also knows better than to say ‘never’ in a never say never kind of industry. In speaking to Dave Moody on…",
-   "image": "https://cdn-8.motorsport.com/images/amp/2dEoDW7Y/s6/denny-hamlin-joe-gibbs-racing.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/2dEoDW7Y/s6/denny-hamlin-joe-gibbs-racing.jpg"
   },
   {
    "title": "23XI Racing makes crew chief change for Bubba Wallace and Corey Heim",
@@ -341,7 +351,7 @@
    "series": "NASCAR",
    "result": false,
    "summary": "23XI Racing announced its crew chief lineup for the 2027 NASCAR Cup season, making changes for the No. 23 of Bubba Wallace, as well as the No. 67 of Corey Heim. Davin Restivo will become Wallace's new crew chief…",
-   "image": "https://cdn-5.motorsport.com/images/amp/68VwByD2/s6/gettyimages-2261833206.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/68VwByD2/s6/gettyimages-2261833206.jpg"
   },
   {
    "title": "IndyCar 2026 season review: Arrow McLaren",
@@ -351,7 +361,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "The 2026 IndyCar Series season will be remembered as a transformative, high-stakes campaign for Arrow McLaren – a year defined by groundbreaking organizational expansion, historic on-track milestones, and the persistent…",
-   "image": "https://cdn-9.motorsport.com/images/amp/24QGN5NY/s6/pato-o-ward-arrow-mclaren.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/24QGN5NY/s6/pato-o-ward-arrow-mclaren.jpg"
   },
   {
    "title": "Formula E Jarama test: Mortara tops day two of Gen4 running",
@@ -361,7 +371,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "Formula E completed the second of its three-day pre-season test on Wednesday at Jarama and there were three hours of testing in the morning, a race simulation in the afternoon (the first with the Gen4) and a final two…",
-   "image": "https://cdn-9.motorsport.com/images/amp/68VwBy42/s6/track-action-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/68VwBy42/s6/track-action-2.jpg"
   },
   {
    "title": "Alex Palou to carry expanded full-season OpenAI primary sponsorship with Chip Ganassi Racing in 2027",
@@ -371,7 +381,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "OpenAI and Chip Ganassi Racing (CGR) have signed a major partnership extension that will elevate the world’s leading artificial intelligence research and deployment company to the full-season primary partner of the #10…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0Zq8ORV6/s6/2027-no-10-openai-honda-1-2.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/0Zq8ORV6/s6/2027-no-10-openai-honda-1-2.jpg"
   },
   {
    "title": "NASCAR reveals invites for Daytona Clash, qualifying package to exceed 200 mph",
@@ -401,7 +411,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Josef Newgarden has signed a multi-year contract extension with Team Penske, the organization announced Wednesday. The agreement keeps the 35-year-old driver in the #2 Team Penske Chevrolet following the conclusion of…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YK13kbw0/s6/josef-newgarden-team-penske.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YK13kbw0/s6/josef-newgarden-team-penske.jpg"
   },
   {
    "title": "Much of Formula E's future hinges on Gen4 being a success",
@@ -441,7 +451,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Pedro Acosta says it is \"too early\" to think about the 2027 MotoGP title, despite admitting after his maiden grand prix victory that he \"needs\" to achieve \"much more\" in the championship. Acosta will depart KTM at the…",
-   "image": "https://cdn-4.motorsport.com/images/amp/6b8ZowL2/s6/pedro-acosta-red-bull-ktm-fact.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6b8ZowL2/s6/pedro-acosta-red-bull-ktm-fact.jpg"
   },
   {
    "title": "United Autosports USA retains Sebring-winning LMP2 trio for 2027 IMSA campaign",
@@ -461,7 +471,7 @@
    "series": "Motorsport",
    "result": false,
    "summary": "Historic single-seater ace Callum Grant looks almost certain to run out as the winner of the Autosport National Rankings in 2026. Grant claimed another win, this time with his Formula Ford 1600 Van Diemen, in his heat…",
-   "image": "https://cdn-2.motorsport.com/images/amp/2wlKzAeY/s6/callum-grant.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlKzAeY/s6/callum-grant.jpg"
   },
   {
    "title": "Honda calls up Jake Dixon again as Joan Mir withdraws from Portuguese GP",
@@ -471,7 +481,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Jake Dixon will make his second consecutive appearance of the 2026 MotoGP season at this weekend’s Portuguese Grand Prix, with illness continuing to sideline factory Honda rider Joan Mir. Dixon has been called in as a…",
-   "image": "https://cdn-8.motorsport.com/images/amp/01QNpeQ0/s6/jake-dixon-honda-hrc.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/01QNpeQ0/s6/jake-dixon-honda-hrc.jpg"
   },
   {
    "title": "Iker Lecuona: ‘I have to negotiate with my wife so she won’t kick me out of the house’",
@@ -481,7 +491,7 @@
    "series": "MotoGP",
    "result": true,
    "summary": "Iker Lecuona will replace injured Francesco Bagnaia in the factory Ducati MotoGP team at Portimao, where the Portuguese GP takes place this weekend. It will be the 27-year-old’s sixth MotoGP appearance this year, while…",
-   "image": "https://cdn-6.motorsport.com/images/amp/27NoBem0/s6/iker-lecuona-gresini-racing-2.jpg"
+   "image": "https://cdn-4.motorsport.com/images/amp/27NoBem0/s6/iker-lecuona-gresini-racing-2.jpg"
   },
   {
    "title": "Formula E’s plan to win over skeptics as Gen4 hits the track",
@@ -491,7 +501,7 @@
    "series": "Formula E",
    "result": false,
    "summary": "Formula E is entering what could become the defining era of its history. The Gen4 has a clear objective: to redefine the championship's place in motorsport and win over those who remain skeptical of electric racing. For…",
-   "image": "https://cdn-9.motorsport.com/images/amp/27No8QR0/s6/antonio-felix-da-costa-jaguar--3.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/27No8QR0/s6/antonio-felix-da-costa-jaguar--3.jpg"
   },
   {
    "title": "2026 MotoGP Portuguese Grand Prix – How to watch, session times & more",
@@ -501,7 +511,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Marc Marquez can wrap up the 2026 MotoGP title as early as the sprint race for the Portuguese Grand Prix. The factory Ducati rider only needs to outscore Aprilia's Jorge Martin by two points to secure his 10th world…",
-   "image": "https://cdn-3.motorsport.com/images/amp/YN7w3yb6/s6/marco-bezzecchi-aprilia-racing.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/YN7w3yb6/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Rodney Childers pushes back on NASCAR CEO's claims about car comparisons",
@@ -514,6 +524,16 @@
    "image": "https://cdn-4.motorsport.com/images/amp/6DGgOBOY/s6/helsapdw0aa-yln.jpg"
   },
   {
+   "title": "Social Media: FIA president indicates agreement reached on next power unit formula",
+   "url": "https://www.racefans.net/2026/11/17/social-media-fia-president-indicates-agreement-reached-on-next-power-unit-formula/",
+   "source": "RaceFans",
+   "date": "2026-11-17T20:37:09.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "V8 engines are coming back to F1 \"soon\", claims Ben Sulayem",
+   "image": null
+  },
+  {
    "title": "CrowdStrike Racing by APR keeps title-winning IMSA LMP2 roster intact for 2027",
    "url": "https://www.motorsport.com/imsa/news/crowdstrike-racing-by-apr-keeps-title-winning-imsa-lmp2-roster-intact-for-2027/10875127/",
    "source": "Motorsport.com",
@@ -522,16 +542,6 @@
    "result": false,
    "summary": "Following a dominant 2026 campaign that saw the team open and close the IMSA WeatherTech SportsCar Championship calendar with victories at the Rolex 24 At Daytona and Motul Petit Le Mans, CrowdStrike Racing by APR will…",
    "image": "https://cdn-4.motorsport.com/images/amp/27NQ3Pv0/s6/04-crowdstrike-racing-by-apr-o.jpg"
-  },
-  {
-   "title": "Inspiring the next generation of mechanics",
-   "url": "https://www.autosport.com/general/news/inspiring-the-next-generation-of-mechanics/10875024/",
-   "source": "Autosport",
-   "date": "2026-11-17T16:02:02.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Every successful Formula 1 team, in fact, every car that drives on the road, is entirely reliant on highly skilled mechanics and technicians, whose technical knowledge and capabilities are essential to performance…",
-   "image": "https://cdn-7.motorsport.com/images/amp/YK15z5B0/s6/mexican-gp.jpg"
   },
   {
    "title": "Corey Heim will drive No. 67 in 2027 NASCAR Cup season",
@@ -561,7 +571,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Honda says MotoGP’s next-generation 850cc bikes will remain relatively close to the current 1000cc machines because the loss of engine power has largely been offset by gains in other areas. While manufacturers continue…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0R7wM9O2/s6/aleix-espargaro-honda-hrc.jpg"
+   "image": "https://cdn-7.motorsport.com/images/amp/0R7wM9O2/s6/aleix-espargaro-honda-hrc.jpg"
   },
   {
    "title": "Honda predicts new 850cc bikes \"could be as fast\" as current MotoGP machines",
@@ -571,7 +581,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Honda says MotoGP’s next-generation 850cc bikes will remain relatively close to the current 1000cc machines because the loss of engine power has largely been offset by gains in other areas. While manufacturers continue…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YK15lZz0/s6/luca-marini-honda-hrc-2.jpg"
+   "image": "https://cdn-9.motorsport.com/images/amp/YK15lZz0/s6/luca-marini-honda-hrc-2.jpg"
   },
   {
    "title": "New WRC1 classification and revised road order rules proposed for WRC 2027",
@@ -591,7 +601,17 @@
    "series": "MotoGP",
    "result": false,
    "summary": "LCR recruit David Alonso has ridden Honda's 2027 MotoGP bike, which he will make his premier-class debut with next season, at Sepang, Motorsport.com has learned. This means the talented Spanish rider, who competes in…",
-   "image": "https://cdn-4.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
+   "image": "https://cdn-8.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
+  },
+  {
+   "title": "Spotlight: Alonso to enter Dakar in car Aston Martin designed for Call of Duty",
+   "url": "https://www.racefans.net/2026/11/17/spotlight-alonso-to-enter-dakar-in-car-aston-martin-designed-for-call-of-duty/",
+   "source": "RaceFans",
+   "date": "2026-11-17T09:16:48.000Z",
+   "series": "Dakar",
+   "result": false,
+   "summary": "Alonso to return to Dakar rally in CoD Aston Martin",
+   "image": null
   },
   {
    "title": "Alonso to contest 2027 Dakar Rally with new Aston Martin project",
@@ -661,7 +681,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Andretti Global has announced a new multi-year partnership with zone® Premium Nicotine Pouches, the latest innovation from ITG Brands, ahead of the 2027 IndyCar Series season. Under the agreement, zone will serve as the…",
-   "image": "https://cdn-7.motorsport.com/images/amp/6VyK5KwY/s6/ic-zoneannouncement-16x9.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/6VyK5KwY/s6/ic-zoneannouncement-16x9.jpg"
   },
   {
    "title": "2027 Formula E grid: Every team's livery revealed",
@@ -694,16 +714,6 @@
    "image": "https://cdn-6.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
   },
   {
-   "title": "Bagnaia ruled out of Portimao, Ducati calls up Lecuona",
-   "url": "https://www.the-race.com/motogp/bagnaia-ruled-out-of-portimao-ducati-calls-up-lecuona/",
-   "source": "The Race",
-   "date": "2026-11-16T11:32:29.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Ducati MotoGP rider Pecco Bagnaia will sit out the Portuguese Grand Prix at Portimao, replaced by in-demand stand-in Iker Lecuona",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/photo_2026-11-08_20-26-42.jpg"
-  },
-  {
    "title": "Andrea Dovizioso: Marco Bezzecchi and Aprilia threw away 2026 MotoGP title",
    "url": "https://www.motorsport.com/motogp/news/andrea-dovizioso-marco-bezzecchi-and-aprilia-threw-away-2026-motogp-title/10874761/",
    "source": "Motorsport.com",
@@ -711,7 +721,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Former MotoGP star Andrea Dovizioso believes Marco Bezzecchi and Aprilia have \"thrown away\" the 2026 title, arguing the RS-GP has been more competitive than Marc Marquez's Ducati GP26. The Qatar Grand Prix reignited the…",
-   "image": "https://cdn-5.motorsport.com/images/amp/YpbAzqX0/s6/marco-bezzecchi-aprilia-racing-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YpbAzqX0/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
    "title": "EKN Trackside: Superkarts! USA SuperNationals 29 – SuperSunday Report",
@@ -741,7 +751,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Pramac doesn’t expect Yamaha to race at the front from the outset of MotoGP’s 850cc era, but believes the Japanese manufacturer can close the gap by the end of the 2027 season. Having already overhauled the M1 this year…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0kZXBoK6/s6/jack-miller-pramac-racing.jpg"
+   "image": "https://cdn-5.motorsport.com/images/amp/0kZXBoK6/s6/jack-miller-pramac-racing.jpg"
   },
   {
    "title": "Why the anticlimactic WEC title showdown was the worst-case scenario",
@@ -801,7 +811,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "Johann Zarco suffered a double accident during the Catalan Grand Prix last May, from which he is still recovering, both physically and psychologically. His knee injury was so serious that it threatened to jeopardise his…",
-   "image": "https://cdn-2.motorsport.com/images/amp/0kZX9vD6/s6/johann-zarco-team-lcr-honda.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0kZX9vD6/s6/johann-zarco-team-lcr-honda.jpg"
   },
   {
    "title": "Carson Hocevar and Cleetus McFarland win LeMullets 2026 in epic finish",
@@ -842,6 +852,16 @@
    "result": false,
    "summary": "Myers Riley Motorsports is leaning heavily into racing heritage and long-standing paddock connections as it prepares for its second season in the IMSA WeatherTech SportsCar Championship. The team confirmed today that…",
    "image": "https://cdn-6.motorsport.com/images/amp/YE9EVgMY/s6/myersrileyannouncement.jpg"
+  },
+  {
+   "title": "Why aerodynamics will become \"even more important\" under 2027 MotoGP regulations",
+   "url": "https://www.autosport.com/motogp/news/why-aerodynamics-will-become-even-more-important-under-2027-motogp-regulations/10874342/",
+   "source": "Autosport",
+   "date": "2026-11-13T15:12:44.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Honda technical director Romano Albesiano believes aerodynamics will play an “even more important role” in MotoGP under the 2027 regulations, despite the rulemakers' intention to curb its influence. As part of a push to…",
+   "image": "https://cdn-6.motorsport.com/images/amp/6x7ZVxjY/s6/trackhouse-racing-rear-wing.jpg"
   },
   {
    "title": "Sebastien Bourdais hopes latest WEC success will remind teams of his value",
@@ -941,7 +961,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Chip Ganassi Racing has officially signed 20-year-old Argentinian driver Alessandro de Tullio for the 2027 Indy NXT by Firestone season. De Tullio will pilot the #10 AstroPay entry following a series of productive…",
-   "image": "https://cdn-2.motorsport.com/images/amp/01QNXA50/s6/alessandro-de-tullio-chris-gri.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/01QNXA50/s6/alessandro-de-tullio-chris-gri.jpg"
   },
   {
    "title": "The new records set by Toyota's Hypercar trio with WEC 2026 title",
@@ -991,7 +1011,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Mick Schumacher will head into his sophomore IndyCar campaign without undergoing surgery on his left wrist, opting instead to continue with conservative treatment and physical therapy. The German driver, who has…",
-   "image": "https://cdn-9.motorsport.com/images/amp/0kZAwwo6/s6/mick-schumacher-rahal-letterma.jpg"
+   "image": "https://cdn-6.motorsport.com/images/amp/0kZAwwo6/s6/mick-schumacher-rahal-letterma.jpg"
   },
   {
    "title": "AJ Foyt Racing, GM Defense, and Congressional Medal of Honor Society launch Project Accelerator",
@@ -1001,7 +1021,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "AJ Foyt Racing, GM Defense, and the Congressional Medal of Honor Society have launched Project Accelerator, a motorsports-driven networking platform designed to connect leaders across the defense, technology, and racing…",
-   "image": "https://cdn-8.motorsport.com/images/amp/6O7zrg56/s6/cmoh-iso1-110926.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/6O7zrg56/s6/cmoh-iso1-110926.jpg"
   },
   {
    "title": "Jake Walker returns to Turner Motorsport for full-time 2027 IMSA GTD drive",
@@ -1021,7 +1041,7 @@
    "series": "IndyCar",
    "result": false,
    "summary": "Reigning Indy NXT champion Nikita Johnson is stepping up to the top tier of American open-wheel racing. Dale Coyne Racing announced today that the 18-year-old Floridian will pilot one of the team's Honda-powered entries…",
-   "image": "https://cdn-8.motorsport.com/images/amp/YXyKj9j6/s6/nikita-johnson-barber-motorspo.jpg"
+   "image": "https://cdn-3.motorsport.com/images/amp/YXyKj9j6/s6/nikita-johnson-barber-motorspo.jpg"
   },
   {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
