@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:28:30.618Z",
+ "updated": "2026-11-19T21:22:30.327Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,12 +148,12 @@
  ],
  "bySeries": {
   "F1": 15,
+  "NASCAR": 15,
   "MotoGP": 15,
   "IndyCar": 8,
   "WEC": 15,
   "IMSA": 11,
   "Motorsport": 4,
-  "NASCAR": 15,
   "Formula E": 9,
   "WRC": 10,
   "Dakar": 3,
@@ -163,6 +163,46 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "The F1 Fantasy Strategist on Las Vegas and Qatar",
+   "url": "https://www.formula1.com/en/latest/article/f1-fantasy-strategist-preview-the-williams-mini-league-and-what-you-need-to-know-for-las-vegas-and-qatar.6hHYy6ckLb4oqMNCVPbRul",
+   "source": "Formula1.com",
+   "date": "2026-11-19T21:22:30.327Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The cold, walled straights of the Las Vegas Strip and the fast, flowing corners of Lusail ask opposite questions on consecutive weekends. So, who deserves a place in your line-up?",
+   "image": null
+  },
+  {
+   "title": "FIA to phase in full-time F1 stewards from 2027",
+   "url": "https://www.autosport.com/f1/news/fia-to-introduce-full-time-f1-stewards-from-2027-to-improve-consistency/10875719/",
+   "source": "Autosport",
+   "date": "2026-11-19T21:01:44.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The consistency of stewards’ decisions has been a topic of discussion in the Formula 1 paddock for years. While the complexity of the sporting regulations and racing guidelines is one factor, another question keeps…",
+   "image": "https://cdn-1.motorsport.com/images/amp/24QerjAY/s6/start-action-3.jpg"
+  },
+  {
+   "title": "NASCAR star Ty Gibbs to race Australian Touring Car at Sandown",
+   "url": "https://www.motorsport.com/nascar-cup/news/nascar-star-ty-gibbs-to-race-australian-touring-car-at-sandown/10875714/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T20:35:25.000Z",
+   "series": "NASCAR",
+   "result": false,
+   "summary": "Ty Gibbs will compete in the Australian Touring Car Classics (ATCC) on December 4-6 at Sandown International Motor Raceway in Springvale, Victoria, Australia. Gibbs, the grandson of NASCAR Hall of Fame team owner and 3x…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0Lderpv0/s6/tygibbs.jpg"
+  },
+  {
+   "title": "FIA announces major Formula 1 stewarding change for 2027",
+   "url": "https://www.crash.net/f1/news/1110202/1/fia-announces-major-formula-1-stewarding-change-2027",
+   "source": "Crash.net",
+   "date": "2026-11-19T20:30:28.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The FIA is working to introduce full-time stewards next year",
+   "image": "https://www.crash.net/sites/default/files/2026-10/xpb_1418260_hires.jpg?width=1200"
+  },
   {
    "title": "What could shake up the Las Vegas betting markets?",
    "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-las-vegas-grand-prix.23xD9tDM6jLn41uH4otMbZ",
@@ -184,7 +224,7 @@
    "image": null
   },
   {
-   "title": "F1 to use full-time stewards from 2027",
+   "title": "Major F1 stewarding revamp coming for 2027",
    "url": "https://www.the-race.com/formula-1/f1-to-use-full-time-stewards-from-2027/",
    "source": "The Race",
    "date": "2026-11-19T20:23:09.000Z",
@@ -382,36 +422,6 @@
    "result": false,
    "summary": "Oscar Piastri has reflected on the decision to part ways with his management team, led by nine-time Grand Prix winner Mark Webber and his partner Ann Webber.",
    "image": null
-  },
-  {
-   "title": "'I want to fight for the victory' in Las Vegas – Russell",
-   "url": "https://www.formula1.com/en/latest/article/i-want-to-fight-for-the-victory-russell-confident-in-his-las-vegas-chances-as-he-opens-up-on-call-not-to-take-new-turbo.7umaum2qrpemrxRVZhHfEN",
-   "source": "Formula1.com",
-   "date": "2026-11-19T13:09:27.344Z",
-   "series": "F1",
-   "result": true,
-   "summary": "George Russell states he wants \"to fight for the victory and I think we can do it\" in this weekend's Las Vegas Grand Prix, having decided against taking a new turbo for his Mercedes.",
-   "image": null
-  },
-  {
-   "title": "Verstappen explains his only goal for the rest of 2026",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-explains-his-only-goal-for-the-rest-of-2026-and-why-red-bull-can-be-very-proud.18FKT9igd9FRjKkBk7PD9q",
-   "source": "Formula1.com",
-   "date": "2026-11-19T13:09:27.344Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ahead of the Las Vegas Grand Prix weekend, Max Verstappen has reflected on what his key aim is for the final races of the 2026 season.",
-   "image": null
-  },
-  {
-   "title": "Lewis Hamilton opens up on \"isolating\" feeling after seeing his own F1 Las Vegas grandstand",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-f1-feeling-isolating-and-lonely-after-seeing-his-own-las-vegas-grandstand/10875545/",
-   "source": "Motorsport.com",
-   "date": "2026-11-19T13:06:36.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Nearly two decades into his Formula 1 career, Lewis Hamilton still is not taking the scale of his following for granted. Speaking on media day ahead of the 2026 Las Vegas Grand Prix, the seven-time world champion…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Zq85G46/s6/lewis-hamilton-ferrari-a10875545-b704-2.jpg"
   },
   {
    "title": "Autosport magazine: Kimi Antonelli – world champion",
@@ -962,16 +972,6 @@
    "result": false,
    "summary": "Kevin Harvick has said this all along but he reiterated it on Wednesday in the aftermath of NASCAR CEO Steve O’Donnell dismissing the notion of another new car for the Cup Series in the coming seasons. Harvick, the 2014…",
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNzMb2/s6/screenshot-2026-01-30-at-1-04-.jpg"
-  },
-  {
-   "title": "Frankie Muniz \"a little sore,\" released from hospital after Daytona crash",
-   "url": "https://www.motorsport.com/general/news/frankie-muniz-a-little-sore-but-released-from-hospital-after-daytona-crash/10873983/",
-   "source": "Motorsport.com",
-   "date": "2026-11-12T01:21:47.000Z",
-   "series": "NASCAR",
-   "result": false,
-   "summary": "Frankie Muniz was involved in a scary crash while practicing for the Proud to Honor Veterans Day Classic at Daytona International Speedway, and had to be cut from his Ford Mustang by safety crews. While awake and alert…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0rGXNgW2/s6/frankie-muniz-reaume-brothers-.jpg"
   },
   {
    "title": "Wright Motorsports names full-time 2027 IMSA GTD lineup as Sargent joins Adelson",
