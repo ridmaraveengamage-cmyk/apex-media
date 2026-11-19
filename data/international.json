@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:22:42.574Z",
+ "updated": "2026-11-19T23:17:16.990Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 0
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,21 +148,41 @@
  ],
  "bySeries": {
   "F1": 15,
+  "WRC": 12,
   "NASCAR": 15,
   "MotoGP": 15,
   "IndyCar": 8,
   "WEC": 15,
   "IMSA": 11,
-  "Motorsport": 3,
-  "Formula E": 9,
-  "WRC": 10,
-  "Dakar": 2,
+  "Motorsport": 4,
+  "Formula E": 8,
+  "Dakar": 3,
   "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Lewis Hamilton backs V8 return, hits out at 2026 engines “dying” on straights",
+   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backs-v8-return-hits-out-at-engines-dying-on-straights/10875488/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T22:50:25.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton has raced through every season of Formula 1's V6 turbo-hybrid era, and he is not shy about what the latest rules are getting wrong. Speaking on Las Vegas Grand Prix media day, the seven-time world…",
+   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNEBG2/s6/lewis-hamilton-ferrari-a10875488-b704-4.jpg"
+  },
+  {
+   "title": "Project Rally One to give 2027 WRC challenger first competitive outing at Spa",
+   "url": "https://www.autosport.com/wrc/news/new-wrc-challenger-set-for-public-debut-at-spa-rally/10875736/",
+   "source": "Autosport",
+   "date": "2026-11-19T22:25:29.000Z",
+   "series": "WRC",
+   "result": false,
+   "summary": "New World Rally Championship constructor Project Rally One is set to field its all-new WRC car at an event for the first time next week. The Belgian squad is one of two new tuner teams set to join the WRC next year…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2GdwOKoY/s6/project-rally-one-2.jpg"
+  },
   {
    "title": "FIA to introduce full-time stewards in F1 from 2027",
    "url": "https://www.formula1.com/en/latest/article/fia-to-introduce-full-time-stewards-in-f1-from-2027.tbSC1HZmNj46TbAjzEPGj",
@@ -182,6 +202,16 @@
    "result": true,
    "summary": "George Russell states he wants \"to fight for the victory and I think we can do it\" in this weekend's Las Vegas Grand Prix, having decided against taking a new turbo for his Mercedes.",
    "image": null
+  },
+  {
+   "title": "New WRC challenger set for public debut at Spa Rally",
+   "url": "https://www.motorsport.com/wrc/news/new-wrc-challenger-set-for-public-debut-at-spa-rally/10875734/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T22:22:01.000Z",
+   "series": "WRC",
+   "result": false,
+   "summary": "New World Rally Championship constructor Project Rally One is set to field its all-new WRC car at an event for the first time next week. The Belgian squad is one of two new tuner teams set to join the WRC next year…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlEeZWY/s6/project-rally-one-render-01.jpg"
   },
   {
    "title": "The F1 Fantasy Strategist on Las Vegas and Qatar",
@@ -334,6 +364,16 @@
    "image": null
   },
   {
+   "title": "Video: FIA reveals how Formula 1 race control takes decisions during an event",
+   "url": "https://www.racefans.net/2026/11/19/video-fia-reveals-how-formula-1-race-control-takes-decisions-during-an-event/",
+   "source": "RaceFans",
+   "date": "2026-11-19T15:26:31.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "FIA reveals what goes on inside race control during a grand prix",
+   "image": null
+  },
+  {
    "title": "Why Ducati Portimao seat is like a \"dream\" for Iker Lecuona: \"I've gone through hell\"",
    "url": "https://www.motorsport.com/motogp/news/lecuona-estoy-viviendo-un-sueno-y-como-un-nino-he-comido-mucha-mierda-en-estos-anos-/10875646/",
    "source": "Motorsport.com",
@@ -402,26 +442,6 @@
    "result": false,
    "summary": "Czech fan Lukas Chalabala has been revealed as the winner of the Heineken x F1 Season Ticket for 2027 at the Las Vegas Grand Prix",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Heineken_F1_LasVegas_SeasonTicket2027-1.jpg"
-  },
-  {
-   "title": "Piastri opens up on decision to split with management team",
-   "url": "https://www.formula1.com/en/latest/article/it-felt-like-the-time-was-right-for-something-new-piastri-opens-up-on-decision-to-split-with-management-team.4v3F2IJjTzAoRC9OIkyLgG",
-   "source": "Formula1.com",
-   "date": "2026-11-19T13:09:27.344Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oscar Piastri has reflected on the decision to part ways with his management team, led by nine-time Grand Prix winner Mark Webber and his partner Ann Webber.",
-   "image": null
-  },
-  {
-   "title": "Lewis Hamilton opens up on \"isolating\" feeling after seeing his own F1 Las Vegas grandstand",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-f1-feeling-isolating-and-lonely-after-seeing-his-own-las-vegas-grandstand/10875545/",
-   "source": "Motorsport.com",
-   "date": "2026-11-19T13:06:36.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Nearly two decades into his Formula 1 career, Lewis Hamilton still is not taking the scale of his following for granted. Speaking on media day ahead of the 2026 Las Vegas Grand Prix, the seven-time world champion…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Zq85G46/s6/lewis-hamilton-ferrari-a10875545-b704-2.jpg"
   },
   {
    "title": "Autosport magazine: Kimi Antonelli – world champion",
@@ -514,16 +534,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YK13kbw0/s6/josef-newgarden-team-penske.jpg"
   },
   {
-   "title": "Much of Formula E's future hinges on Gen4 being a success",
-   "url": "https://www.autosport.com/formula-e/news/formula-es-future-hinges-on-gen4-being-a-success/10875302/",
-   "source": "Autosport",
-   "date": "2026-11-18T15:13:50.000Z",
-   "series": "Formula E",
-   "result": false,
-   "summary": "“The Gen4 is incredibly fast and a lot of fun to drive. I think it will be a real eye-opener for many fans and observers,” said Pascal Wehrlein a few months ago, when Formula E unveiled its new car. But now the wait is…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YE9EbMpY/s6/jeff-dodds-formula-e-gen4-2.jpg"
-  },
-  {
    "title": "A new era begins: Why Gen4 is Formula E’s best chance yet to redefine how it is perceived",
    "url": "https://www.motorsport.com/formula-e/news/why-gen-4-is-formula-es-best-chance-yet/10875296/",
    "source": "Motorsport.com",
@@ -614,6 +624,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgOBOY/s6/helsapdw0aa-yln.jpg"
   },
   {
+   "title": "Social Media: FIA president indicates agreement reached on next power unit formula",
+   "url": "https://www.racefans.net/2026/11/17/social-media-fia-president-indicates-agreement-reached-on-next-power-unit-formula/",
+   "source": "RaceFans",
+   "date": "2026-11-17T20:37:09.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "V8 engines are coming back to F1 \"soon\", claims Ben Sulayem",
+   "image": null
+  },
+  {
    "title": "CrowdStrike Racing by APR keeps title-winning IMSA LMP2 roster intact for 2027",
    "url": "https://www.motorsport.com/imsa/news/crowdstrike-racing-by-apr-keeps-title-winning-imsa-lmp2-roster-intact-for-2027/10875127/",
    "source": "Motorsport.com",
@@ -682,6 +702,16 @@
    "result": false,
    "summary": "LCR recruit David Alonso has ridden Honda's 2027 MotoGP bike, which he will make his premier-class debut with next season, at Sepang, Motorsport.com has learned. This means the talented Spanish rider, who competes in…",
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
+  },
+  {
+   "title": "Spotlight: Alonso to enter Dakar in car Aston Martin designed for Call of Duty",
+   "url": "https://www.racefans.net/2026/11/17/spotlight-alonso-to-enter-dakar-in-car-aston-martin-designed-for-call-of-duty/",
+   "source": "RaceFans",
+   "date": "2026-11-17T09:16:48.000Z",
+   "series": "Dakar",
+   "result": false,
+   "summary": "Alonso to return to Dakar rally in CoD Aston Martin",
+   "image": null
   },
   {
    "title": "Fernando Alonso to return to Dakar Rally with Aston Martin in 2027",
