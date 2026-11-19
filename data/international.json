@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:58:29.845Z",
+ "updated": "2026-11-19T11:55:54.002Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 0
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,21 +148,111 @@
  ],
  "bySeries": {
   "F1": 15,
-  "Motorsport": 3,
+  "Motorsport": 4,
   "NASCAR": 15,
   "IndyCar": 8,
   "Formula E": 9,
   "WEC": 15,
   "MotoGP": 15,
   "IMSA": 11,
-  "WRC": 11,
+  "WRC": 10,
+  "Dakar": 3,
   "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
-  "Supercars": 2,
-  "Dakar": 1
+  "Supercars": 2
  },
  "items": [
+  {
+   "title": "The F1 Fantasy Strategist on Las Vegas and Qatar",
+   "url": "https://www.formula1.com/en/latest/article/f1-fantasy-strategist-preview-the-williams-mini-league-and-what-you-need-to-know-for-las-vegas-and-qatar.6hHYy6ckLb4oqMNCVPbRul",
+   "source": "Formula1.com",
+   "date": "2026-11-19T11:55:54.002Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The cold, walled straights of the Las Vegas Strip and the fast, flowing corners of Lusail ask opposite questions on consecutive weekends. So, who deserves a place in your line-up?",
+   "image": null
+  },
+  {
+   "title": "What could shake up the Las Vegas betting markets?",
+   "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-las-vegas-grand-prix.23xD9tDM6jLn41uH4otMbZ",
+   "source": "Formula1.com",
+   "date": "2026-11-19T11:55:54.002Z",
+   "series": "F1",
+   "result": false,
+   "summary": "After the lights go out in Las Vegas, clued-up bettors will be poised to make smart betting decisions in real-time markets.",
+   "image": null
+  },
+  {
+   "title": "Norris assesses McLaren's turnaround ahead of Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/first-time-where-we-can-almost-stop-playing-catch-up-norris-assesses-mclarens-turnaround-ahead-of-las-vegas-gp.5AFaPtFnGnni7aXVlu3UiC",
+   "source": "Formula1.com",
+   "date": "2026-11-19T11:55:54.002Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lando Norris believes that McLaren has finally reached a point \"where we can almost stop playing catch up\", after the team took victory at the most recent race in Brazil.",
+   "image": null
+  },
+  {
+   "title": "Lewis Hamilton will be playing GTA 6 at Las Vegas GP: “I have my PlayStation with me”",
+   "url": "https://www.crash.net/f1/news/1110192/1/lewis-hamilton-will-be-playing-gta-6-las-vegas-gp-i-have-my-playstation-me",
+   "source": "Crash.net",
+   "date": "2026-11-19T11:54:42.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton plans to play the new Grand Theft Auto VI game in Las Vegas.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454122_hires.jpg?width=1200"
+  },
+  {
+   "title": "Lando Norris: “A hell of a lot of money” riding on McLaren’s fight for third",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-a-hell-of-a-lot-of-money-riding-on-mclarens-fight-for-third/10875499/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T11:50:02.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "With Mercedes having already sealed the 2026 constructors' championship and Ferrari sitting clear in second, McLaren's remaining focus across Las Vegas, Qatar, and Abu Dhabi comes down to one battle: overturning a…",
+   "image": "https://cdn-1.motorsport.com/images/amp/68VwLvB2/s6/lando-norris-mclaren-a10875499-b706-2.jpg"
+  },
+  {
+   "title": "Hamilton insists there are no \"trust\" problems at Ferrari",
+   "url": "https://www.autosport.com/f1/news/lewis-hamilton-insists-there-are-no-trust-problems-at-ferrari/10875609/",
+   "source": "Autosport",
+   "date": "2026-11-19T11:49:02.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton has insisted there are zero “trust” problems at Ferrari despite him overruling strategic calls becoming a repeated occurrence across recent Formula 1 grands prix. The seven-time world champion has ignored…",
+   "image": "https://cdn-1.motorsport.com/images/amp/68VwM4l2/s6/lewis-hamilton-ferrari.jpg"
+  },
+  {
+   "title": "Lewis Hamilton addresses speculation around Ferrari \"trust\" issues",
+   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-insists-there-are-no-trust-problems-at-ferrari/10875582/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T11:48:39.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton has insisted there are zero “trust” problems at Ferrari despite him overruling strategic calls becoming a repeated occurrence across recent Formula 1 grands prix. The seven-time world champion has ignored…",
+   "image": "https://cdn-1.motorsport.com/images/amp/68VwM4l2/s6/lewis-hamilton-ferrari.jpg"
+  },
+  {
+   "title": "Liam Lawson responds to Helmut Marko after securing Racing Bulls F1 seat",
+   "url": "https://www.crash.net/f1/news/1110189/1/liam-lawson-responds-helmut-marko-after-securing-racing-bulls-f1-seat",
+   "source": "Crash.net",
+   "date": "2026-11-19T11:19:59.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Liam Lawson has responded to recent comments by Helmet Marko.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454260_hires.jpg?width=1200"
+  },
+  {
+   "title": "Lego launches F1 Speed Champions collection featuring all 22 2026 drivers",
+   "url": "https://www.the-race.com/extra/lego-launches-f1-speed-champions-collection-featuring-all-22-2026-drivers/",
+   "source": "The Race",
+   "date": "2026-11-19T10:59:18.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "New collection will feature all 11 teams and their 2026 cars, with fans able to customise builds to represent their preferred drivers",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Screenshot-2026-11-19-at-10.51.11.png"
+  },
   {
    "title": "Facts, stats and trivia ahead of the 2026 Las Vegas GP",
    "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-las-vegas-grand-prix.6ynxQ4e9Z7F1o2Uijhh1FK",
@@ -222,96 +312,6 @@
    "result": false,
    "summary": "Charles Leclerc had no hand in getting a veteran Formula 1 reporter barred from the paddock, and he isn't interested in policing the press - even when the headlines get a little personal. Addressing the media ahead of…",
    "image": "https://cdn-1.motorsport.com/images/amp/68Vwy382/s6/charles-leclerc-ferrari-a10875509-b704-4.jpg"
-  },
-  {
-   "title": "Oscar Piastri explains split with Mark Webber management",
-   "url": "https://www.crash.net/f1/news/1110186/1/oscar-piastri-explains-split-mark-webber-management",
-   "source": "Crash.net",
-   "date": "2026-11-19T10:17:50.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oscar Piastri details his split from Mark Webber's management.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1260783_hires.jpg?width=1200"
-  },
-  {
-   "title": "The most valuable F1 sponsors in 2026: where does Anthropic rank?",
-   "url": "https://www.the-race.com/business/most-valuable-f1-sponsors-2026-anthropic-microsoft-google-aramco-meta-amd-visa/",
-   "source": "The Race",
-   "date": "2026-11-19T10:09:52.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Where does Williams F1 backer Anthropic rank in the most valuable F1 sponsors after its November 2026 IPO?",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1454062_HiRes-1.jpg"
-  },
-  {
-   "title": "Piastri opens up on decision to split with management team",
-   "url": "https://www.formula1.com/en/latest/article/it-felt-like-the-time-was-right-for-something-new-piastri-opens-up-on-decision-to-split-with-management-team.4v3F2IJjTzAoRC9OIkyLgG",
-   "source": "Formula1.com",
-   "date": "2026-11-19T10:02:36.555Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oscar Piastri has reflected on the decision to part ways with his management team, led by nine-time Grand Prix winner Mark Webber and his partner Ann Webber.",
-   "image": null
-  },
-  {
-   "title": "'I want to fight for the victory' in Las Vegas – Russell",
-   "url": "https://www.formula1.com/en/latest/article/i-want-to-fight-for-the-victory-russell-confident-in-his-las-vegas-chances-as-he-opens-up-on-call-not-to-take-new-turbo.7umaum2qrpemrxRVZhHfEN",
-   "source": "Formula1.com",
-   "date": "2026-11-19T10:02:36.555Z",
-   "series": "F1",
-   "result": true,
-   "summary": "George Russell states he wants \"to fight for the victory and I think we can do it\" in this weekend's Las Vegas Grand Prix, having decided against taking a new turbo for his Mercedes.",
-   "image": null
-  },
-  {
-   "title": "Rafael Camara torn between his F2 title bid and more F1 races with Haas",
-   "url": "https://www.motorsport.com/f1/news/rafael-camara-could-finish-the-2026-season-in-both-f1-and-f2/10875556/",
-   "source": "Motorsport.com",
-   "date": "2026-11-19T09:53:44.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Rafael Camara is torn between completing his title-contending Formula 2 campaign and seeing out the 2026 season at Haas in Formula 1. The Ferrari protege is the reigning F3 champion and leads the F2 standings as a…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YBVj1BzY/s6/rafael-camara-haas-f1-team.jpg"
-  },
-  {
-   "title": "Max Verstappen U-turns on Qatar and Abu Dhabi F1 races amid Middle East conflict",
-   "url": "https://www.crash.net/f1/news/1110185/1/max-verstappen-u-turns-qatar-and-abu-dhabi-f1-races-amid-middle-east-conflict",
-   "source": "Crash.net",
-   "date": "2026-11-19T09:38:19.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen has changed his stance on F1 ending its season in the Middle East.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/si202611190048.jpg?width=1200"
-  },
-  {
-   "title": "F1 Mexico GP fallout was “taken out of proportion” - Charles Leclerc",
-   "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-fallout-was-taken-out-of-proportion-charles-leclerc/10875534/",
-   "source": "Motorsport.com",
-   "date": "2026-11-19T09:04:48.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc believes the reaction to his clash with Formula 1 team-mate Lewis Hamilton at the Mexico Grand Prix was “taken out of proportion”. The Scuderia lost a straightforward victory at Autodromo Hermanos…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0mXyjja6/s6/charles-leclerc-ferrari.jpg"
-  },
-  {
-   "title": "Verstappen explains his only goal for the rest of 2026",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-explains-his-only-goal-for-the-rest-of-2026-and-why-red-bull-can-be-very-proud.18FKT9igd9FRjKkBk7PD9q",
-   "source": "Formula1.com",
-   "date": "2026-11-19T08:42:14.636Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ahead of the Las Vegas Grand Prix weekend, Max Verstappen has reflected on what his key aim is for the final races of the 2026 season.",
-   "image": null
-  },
-  {
-   "title": "Hamilton identifies 'main focus' ahead of Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-identifies-main-focus-ahead-of-las-vegas-as-ferrari-eye-big-changes-for-2027.7nMnDgPqgxIf8GVZxywkzR",
-   "source": "Formula1.com",
-   "date": "2026-11-19T08:42:14.636Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton and Charles Leclerc discuss Ferrari's fight for P2 in the Constructors' Championship and the importance of the final three races ahead of 2027.",
-   "image": null
   },
   {
    "title": "Autosport magazine: Kimi Antonelli – world champion",
@@ -494,14 +494,14 @@
    "image": "https://cdn-1.motorsport.com/images/amp/27NoBem0/s6/iker-lecuona-gresini-racing-2.jpg"
   },
   {
-   "title": "Formula E’s plan to win over skeptics as Gen4 hits the track",
-   "url": "https://www.autosport.com/formula-e/news/formula-es-plan-to-win-over-skeptics-as-gen4-hits-the-track/10875229/",
-   "source": "Autosport",
+   "title": "‘It’s impossible not to be impressed by the Gen4’ – Formula E’s plan to win over skeptics",
+   "url": "https://www.motorsport.com/formula-e/news/its-impossible-not-to-be-impressed-by-the-gen4-formula-es-plan-to-win-over-skeptics/10875223/",
+   "source": "Motorsport.com",
    "date": "2026-11-18T10:04:14.000Z",
    "series": "Formula E",
    "result": false,
    "summary": "Formula E is entering what could become the defining era of its history. The Gen4 has a clear objective: to redefine the championship's place in motorsport and win over those who remain skeptical of electric racing. For…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27No8QR0/s6/antonio-felix-da-costa-jaguar--3.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/YE9EbMpY/s6/jeff-dodds-formula-e-gen4-2.jpg"
   },
   {
    "title": "2026 MotoGP Portuguese Grand Prix – How to watch, session times & more",
@@ -522,6 +522,16 @@
    "result": false,
    "summary": "The NASCAR position, more or less, is that the O’Reilly Series car would not be as good on Sundays if it were raced by Cup Series teams and drivers. Backstory: The Saturday race product has widespread approval amongst…",
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgOBOY/s6/helsapdw0aa-yln.jpg"
+  },
+  {
+   "title": "Social Media: FIA president indicates agreement reached on next power unit formula",
+   "url": "https://www.racefans.net/2026/11/17/social-media-fia-president-indicates-agreement-reached-on-next-power-unit-formula/",
+   "source": "RaceFans",
+   "date": "2026-11-17T20:37:09.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "V8 engines are coming back to F1 \"soon\", claims Ben Sulayem",
+   "image": null
   },
   {
    "title": "CrowdStrike Racing by APR keeps title-winning IMSA LMP2 roster intact for 2027",
@@ -594,14 +604,24 @@
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
   },
   {
-   "title": "Alonso to contest 2027 Dakar Rally with new Aston Martin project",
-   "url": "https://www.the-race.com/formula-1/fernando-alonso-2027-dakar-rally-new-aston-martin-project/",
-   "source": "The Race",
-   "date": "2026-11-17T09:01:53.000Z",
-   "series": "WRC",
+   "title": "Spotlight: Alonso to enter Dakar in car Aston Martin designed for Call of Duty",
+   "url": "https://www.racefans.net/2026/11/17/spotlight-alonso-to-enter-dakar-in-car-aston-martin-designed-for-call-of-duty/",
+   "source": "RaceFans",
+   "date": "2026-11-17T09:16:48.000Z",
+   "series": "Dakar",
    "result": false,
-   "summary": "Fernando Alonso will contest the Dakar Rally with Aston Martin ahead of the 2027 F1 season starting",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Aston-Martin-Racing_Dakar-2027_04.jpg"
+   "summary": "Alonso to return to Dakar rally in CoD Aston Martin",
+   "image": null
+  },
+  {
+   "title": "Fernando Alonso to return to Dakar Rally with Aston Martin in 2027",
+   "url": "https://www.motorsport.com/dakar/news/fernando-alonso-to-return-to-dakar-rally-with-aston-martin-in-2027/10874907/",
+   "source": "Motorsport.com",
+   "date": "2026-11-17T09:01:40.000Z",
+   "series": "Dakar",
+   "result": false,
+   "summary": "Two-time Formula 1 champion Fernando Alonso will headline Aston Martin’s factory entry into the Dakar Rally in 2027, joining Sebastien Loeb and Lucas Moraes as part of a star-studded line-up. Alonso will drive a…",
+   "image": "https://cdn-1.motorsport.com/images/amp/63QaLLb2/s6/fernando-alonso-aston-martin-r-2.jpg"
   },
   {
    "title": "Hendrick Motorsports announces crew chief change for William Byron and Alex Bowman",
