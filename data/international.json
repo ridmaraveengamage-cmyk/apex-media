@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:33:48.534Z",
+ "updated": "2026-11-19T17:30:04.743Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,14 +147,14 @@
   }
  ],
  "bySeries": {
+  "MotoGP": 15,
+  "IndyCar": 8,
+  "WEC": 15,
   "IMSA": 11,
   "Motorsport": 4,
   "F1": 15,
-  "MotoGP": 15,
   "NASCAR": 15,
-  "IndyCar": 8,
   "Formula E": 9,
-  "WEC": 15,
   "WRC": 10,
   "Dakar": 3,
   "Karting": 5,
@@ -163,6 +163,46 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Marc Marquez fails to deny MotoGP retirement rumours",
+   "url": "https://www.motorsport.com/motogp/news/marc-marquez-fails-to-deny-motogp-retirement-rumours/10875680/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T17:23:20.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Likely 2026 world champion Marc Marquez has conspicuously failed to confirm his presence on the 2027 MotoGP grid. Stories in some quarters have suggested that the Spaniard might call time on his illustrious career…",
+   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
+  },
+  {
+   "title": "IndyCar 2026 season review: Andretti Global",
+   "url": "https://www.motorsport.com/indycar/news/indycar-2026-season-review-andretti-global/10875677/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T17:17:41.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "The 2026 IndyCar Series campaign represented a pivotal reset for Andretti Global. Following a turbulent 2025 season marked by late-summer fade-outs, post-race Indianapolis 500 penalties, and Colton Herta’s transition…",
+   "image": "https://cdn-1.motorsport.com/images/amp/63QaWWE2/s6/kyle-kirkwood-andretti-global--2.jpg"
+  },
+  {
+   "title": "Is Peugeot ending its WEC Hypercar programme with immediate effect?",
+   "url": "https://www.autosport.com/wec/news/-is-peugeot-ending-its-wec-hypercar-programme-with-immediate-effect/10875669/",
+   "source": "Autosport",
+   "date": "2026-11-19T16:46:30.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Peugeot is set to shut down its Hypercar programme and withdraw from the World Endurance Championship with immediate effect, Motorsport.com's sister title Motorsport-Total.com has learned from several sources. The…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YN7vwpP6/s6/94-peugeot-totalenergies-peuge.jpg"
+  },
+  {
+   "title": "Wright Motorsports adds second Porsche for 2027 Michelin Endurance Cup",
+   "url": "https://www.motorsport.com/imsa/news/wright-motorsports-adds-second-porsche-for-2027-michelin-endurance-cup/10875670/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T16:45:54.000Z",
+   "series": "IMSA",
+   "result": false,
+   "summary": "Wright Motorsports will return to a two-car lineup for the 2027 IMSA WeatherTech SportsCar Championship, adding a second Porsche 911 GT3 R (992) to compete in the season’s prestigious IMSA Michelin Endurance Cup rounds…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2eZxkmPY/s6/2027jr.jpg"
+  },
   {
    "title": "Jaminet completes 13 Autosport lineup for 2027 Rolex 24 at Daytona",
    "url": "https://www.motorsport.com/imsa/news/jaminet-completes-13-autosport-lineup-for-2027-rolex-24-at-daytona/10875662/",
@@ -392,16 +432,6 @@
    "result": false,
    "summary": "23XI Racing announced its crew chief lineup for the 2027 NASCAR Cup season, making changes for the No. 23 of Bubba Wallace, as well as the No. 67 of Corey Heim. Davin Restivo will become Wallace's new crew chief…",
    "image": "https://cdn-1.motorsport.com/images/amp/68VwByD2/s6/gettyimages-2261833206.jpg"
-  },
-  {
-   "title": "IndyCar 2026 season review: Arrow McLaren",
-   "url": "https://www.motorsport.com/indycar/news/indycar-2026-season-review-arrow-mclaren/10875355/",
-   "source": "Motorsport.com",
-   "date": "2026-11-18T18:17:28.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "The 2026 IndyCar Series season will be remembered as a transformative, high-stakes campaign for Arrow McLaren – a year defined by groundbreaking organizational expansion, historic on-track milestones, and the persistent…",
-   "image": "https://cdn-1.motorsport.com/images/amp/24QGN5NY/s6/pato-o-ward-arrow-mclaren.jpg"
   },
   {
    "title": "Formula E Jarama test: Mortara tops day two of Gen4 running",
@@ -814,16 +844,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6Alv9mqY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
   },
   {
-   "title": "The numbers that reveal how MotoGP sprint races have decided the title fight",
-   "url": "https://www.autosport.com/motogp/news/the-numbers-that-reveal-how-motogp-sprint-races-have-decided-the-title-fight/10874488/",
-   "source": "Autosport",
-   "date": "2026-11-14T13:04:23.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "MotoGP’s title race is heading towards a foregone conclusion at next week’s Portuguese Grand Prix, with Marc Marquez all but certain to take his 10th world championship crown. That his dominance in sprint races has been…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6n7bL7o0/s6/jorge-martin-aprilia-racing-te-2.jpg"
-  },
-  {
    "title": "2027 Formula E drivers and teams: The line-up so far",
    "url": "https://www.motorsport.com/formula-e/news/2027-formula-e-drivers-and-teams-the-line-up-so-far/10874464/",
    "source": "Motorsport.com",
@@ -1164,16 +1184,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/2dEo1jDY/s6/34-conquest-racing-ferrari-296.jpg"
   },
   {
-   "title": "Malthe Jakobsen completes McLaren's WEC Hypercar driver line-up",
-   "url": "https://www.motorsport.com/wec/news/malthe-jakobsen-completes-mclarens-wec-hypercar-driver-line-up/10873353/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T15:00:17.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Malthe Jakobsen has been announced as McLaren’s final signing for its 2027 World Endurance Championship Hypercar project. Fresh from his stint with Peugeot, the Dane will be reunited with his former team-mate Mikkel…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6grQEJbY/s6/malthe-jakobsen-mclaren-racing-3.jpg"
-  },
-  {
    "title": "Hoogendoorn and Venant Victorious in Italy to Become 2026 FIA Karting World Champions",
    "url": "https://www.ekartingnews.com/2026/11/09/hoogendoorn-and-venant-victorious-in-italy-to-become-2026-fia-karting-world-champions/",
    "source": "eKartingNews",
@@ -1252,16 +1262,6 @@
    "result": false,
    "summary": "Sebastien Ogier’s World Rally Championship programme for 2027 is yet to be finalised but Toyota expects the nine-time world champion to contest no more than three rallies. Ogier was absent from Toyota’s 2027 driver…",
    "image": "https://cdn-1.motorsport.com/images/amp/YE9EyoPY/s6/sebastien-ogier-toyota-gazoo-r.jpg"
-  },
-  {
-   "title": "Hanley Motorsports announces multi-class IMSA arrival with BMW support and DXDT deal",
-   "url": "https://www.motorsport.com/imsa/news/hanley-motorsports-announces-multi-class-imsa-arrival-with-bmw-support-and-dxdt-deal/10871521/",
-   "source": "Motorsport.com",
-   "date": "2026-11-04T18:00:06.000Z",
-   "series": "IMSA",
-   "result": false,
-   "summary": "Hanley Motorsports Incorporated (HMI) and DXDT Racing are combining forces to launch a multi-tier IMSA program for the 2027 season, competing under the HMI banner in both the WeatherTech SportsCar Championship and…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YvKBDG76/s6/hanley-announcement-5.jpg"
   },
   {
    "title": "Oliver Solberg relishing Toyota’s historic Celica WRC revival for 2027",
