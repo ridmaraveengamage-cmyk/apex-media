@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:55:14.416Z",
+ "updated": "2026-11-20T13:04:05.390Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,21 +148,71 @@
  ],
  "bySeries": {
   "F1": 15,
+  "Motorsport": 3,
+  "Dakar": 2,
   "MotoGP": 15,
   "WEC": 15,
   "WRC": 12,
   "NASCAR": 15,
   "IndyCar": 8,
   "IMSA": 11,
-  "Motorsport": 2,
   "Formula E": 8,
-  "Dakar": 1,
   "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Winner of the F1® X Heineken® 2027 Season Ticket revealed",
+   "url": "https://www.formula1.com/en/latest/article/winner-of-the-f1-heineken-2027-season-ticket-revealed.2U39RF3ALLzSqmSRRGRVQ7",
+   "source": "Formula1.com",
+   "date": "2026-11-20T13:04:05.390Z",
+   "series": "F1",
+   "result": false,
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Palmowski makes history as she secures pole in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-makes-history-as-she-secures-her-final-pole-position-around-las-vegas.1n8CvOtY14APLOTC3pzBrL",
+   "source": "Formula1.com",
+   "date": "2026-11-20T13:04:05.390Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Red Bull Racing's Alisha Palmowski secured pole position for the F1 ACADEMY Las Vegas Feature Race.",
+   "image": null
+  },
+  {
+   "title": "Charles Leclerc opens up on sleepless nights and parenthood: \"Forget about how tired you are\"",
+   "url": "https://www.motorsport.com/culture/news/leclerc-opens-up-on-sleepless-nights-with-newborn-daughter-bianca-you-forget-about-how-tired-you-are/10875998/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T12:53:51.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Formula 1’s late-night Las Vegas Grand Prix timetable is tough on any driver’s body clock, but Charles Leclerc arrived in Nevada already running on a fraction of his usual rest. Just over two weeks after he and his…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YN7vBpe6/s6/charles-leclerc-ferrari-a10875998-b708-2.jpg"
+  },
+  {
+   "title": "Max Verstappen: “I really thought that we would not win a race this year”",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T12:43:44.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Heading into the Las Vegas Grand Prix on a run of eight consecutive podiums, Max Verstappen looks every bit the force who dominated Formula 1 earlier this decade. Back in March, however, the four-time world champion was…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YXyKX156/s6/max-verstappen-red-bull-racing-a10875990-b707-2.jpg"
+  },
+  {
+   "title": "Fernando Alonso returns to Dakar: Why his first rally-raid experience was a shock to the system",
+   "url": "https://www.motorsport.com/dakar/news/fernando-alonso-returns-to-dakar-why-his-first-rally-raid-experience-was-a-shock-to-the-system/10875881/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T12:15:03.000Z",
+   "series": "Dakar",
+   "result": false,
+   "summary": "While Fernando Alonso reiterated in Las Vegas that, in his view, Formula 1 has thrown away 16 years of pure racing before the return of V8 engines in 2030, the Spaniard continues to seek those pure challenges outside…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6n7bvPO0/s6/fernando-alonso-aston-martin.jpg"
+  },
   {
    "title": "Cadillac CEO Towriss on Herta’s future and Bottas’ extension",
    "url": "https://www.formula1.com/en/latest/article/cadillac-ceo-towriss-gives-update-on-hertas-future-as-he-explains-why-the-team-opted-for-bottas-extension.6e7buM26RfuQSk1VzmqY6b",
@@ -244,7 +294,7 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0qgKkE4Y/s6/oscar-piastri-mclaren.jpg"
   },
   {
-   "title": "Piastri needed to curb his speed through quick corners – Brown",
+   "title": "Piastri needed to reduce his speed through F1’s quickest corners – Brown",
    "url": "https://www.racefans.net/2026/11/20/piastri-needed-to-curb-his-speed-through-quick-corners-brown/",
    "source": "RaceFans",
    "date": "2026-11-20T11:29:40.000Z",
@@ -294,26 +344,6 @@
    "image": null
   },
   {
-   "title": "Russell beats Gasly and Leclerc to top spot in wet FP2",
-   "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc",
-   "source": "Formula1.com",
-   "date": "2026-11-20T10:58:05.832Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell claimed top spot in Free Practice 2 ahead of the Las Vegas Grand Prix, the Mercedes driver beating Alpine's Pierre Gasly and Ferrari's Charles Leclerc.",
-   "image": null
-  },
-  {
-   "title": "Alpine suddenly releases Paul Aron from F1 reserve driver role",
-   "url": "https://www.crash.net/f1/news/1110300/1/alpine-suddenly-releases-paul-aron-f1-reserve-driver-role",
-   "source": "Crash.net",
-   "date": "2026-11-20T10:55:49.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Alpine has released Paul Aron from his F1 reserve driver role.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1441321_hires.jpg?width=1200"
-  },
-  {
    "title": "Spotlight: Report claims Stellantis will cancel its Peugeot WEC and Citroen Formula E programmes",
    "url": "https://www.racefans.net/2026/11/20/spotlight-report-claims-stellantis-will-cancel-its-peugeot-wec-and-citroen-formula-e-programmes/",
    "source": "RaceFans",
@@ -322,16 +352,6 @@
    "result": false,
    "summary": "Peugeot WEC and Citroen FE teams 'facing axe' - report",
    "image": null
-  },
-  {
-   "title": "What Flavio Briatore takes from McLaren after Fernando Alonso \"disaster\"",
-   "url": "https://www.motorsport.com/f1/news/what-flavio-briatore-takes-from-mclaren-after-fernando-alonso-disaster/10875964/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T10:45:02.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Disappointment, infighting, and a revolving door of senior personnel have characterised Alpine's ‘lost decade' after Renault acquired the Enstone-based team at the end of 2015. Current boss Flavio Briatore says Alpine…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6lmAlV80/s6/flavio-briatore-alpine.jpg"
   },
   {
    "title": "Marc Marquez nervous about expected MotoGP coronation: \"I see risks everywhere\"",
