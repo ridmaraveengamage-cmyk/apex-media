@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:28:14.042Z",
+ "updated": "2026-11-20T18:27:25.822Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,10 +147,10 @@
   }
  ],
  "bySeries": {
-  "IndyCar": 6,
   "MotoGP": 15,
   "F1": 15,
-  "Formula E": 9,
+  "Formula E": 10,
+  "IndyCar": 6,
   "IMSA": 11,
   "WRC": 13,
   "Motorsport": 2,
@@ -163,6 +163,46 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Jorge Martin not willing to take risks to keep MotoGP title fight alive in Portugal",
+   "url": "https://www.motorsport.com/motogp/news/jorge-martin-not-willing-to-take-risks-to-keep-motogp-title-fight-alive-in-portugal/10876117/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T18:22:18.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Jorge Martin has admitted that the risk of further injury is weighing on his mind at this weekend’s Portuguese , saying he doesn’t want to take undue risks to win the race and keep his title hopes alive. The factory…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2jEAkOz0/s6/jorge-martin-aprilia-racing-te.jpg"
+  },
+  {
+   "title": "Marquez's plan to ensure he wins MotoGP 2026 title early",
+   "url": "https://www.the-race.com/motogp/marc-marquez-plan-ducati-motogp-2026-title-portimao-portuguese-gp/",
+   "source": "The Race",
+   "date": "2026-11-20T18:21:33.000Z",
+   "series": "MotoGP",
+   "result": true,
+   "summary": "MotoGP 2026 title favourite Marc Marquez is prioritising a minimal-risk approach to the Portuguese Grand Prix at Portimao, where he has the chance to become an eight-time premier-class champion",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363246_HiRes.jpg"
+  },
+  {
+   "title": "Video: Verstappen avoids welcome reception for drivers in Las Vegas paddock",
+   "url": "https://www.racefans.net/2026/11/20/video-verstappen-avoids-welcome-reception-for-drivers-in-las-vegas-paddock/",
+   "source": "RaceFans",
+   "date": "2026-11-20T18:04:17.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Verstappen swerves Las Vegas welcome reception for drivers",
+   "image": null
+  },
+  {
+   "title": "Social Media: Fire halts final day of Formula E testing",
+   "url": "https://www.racefans.net/2026/11/20/social-media-fire-halts-final-day-of-formula-e-testing/",
+   "source": "RaceFans",
+   "date": "2026-11-20T17:52:45.000Z",
+   "series": "Formula E",
+   "result": false,
+   "summary": "Barnard unhurt as fire ends Formula E 'Gen4' test at Jarama",
+   "image": null
+  },
   {
    "title": "IndyCar 2026 season review: Chip Ganassi Racing",
    "url": "https://www.motorsport.com/indycar/news/indycar-2026-season-review-chip-ganassi-racing/10876097/",
@@ -412,16 +452,6 @@
    "result": true,
    "summary": "Marco Bezzecchi led an Aprilia 1-2 in the opening MotoGP session of the penultimate round of the 2026 season",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363066_HiRes.jpg"
-  },
-  {
-   "title": "How the F1 2026 regulations neutered Oscar Piastri's \"real strength\"",
-   "url": "https://www.motorsport.com/f1/news/how-the-f1-2026-regulations-neutered-oscar-piastris-real-strength/10875907/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T11:30:03.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "McLaren boss Zak Brown reckons Oscar Piastri’s struggles in the 2026 Formula 1 season stem from high-speed corners being his strength - but the new cars require a different technique. F1 introduced its latest regulation…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0qgKkE4Y/s6/oscar-piastri-mclaren.jpg"
   },
   {
    "title": "Spotlight: Report claims Stellantis will cancel its Peugeot WEC and Citroen Formula E programmes",
@@ -682,26 +712,6 @@
    "result": false,
    "summary": "United Autosports has confirmed that Phil Fayer, Hunter McElrea, and Mikkel Jensen will return to share the #2 ORECA 07 LMP2 for the 2027 IMSA WeatherTech SportsCar Championship. Coming off a competitive 2026 campaign…",
    "image": "https://cdn-1.motorsport.com/images/amp/2dEoyOwY/s6/2-united-autosports-usa-oreca-.jpg"
-  },
-  {
-   "title": "Honda calls up Jake Dixon again as Joan Mir withdraws from Portuguese GP",
-   "url": "https://www.motorsport.com/motogp/news/honda-calls-up-jake-dixon-again-as-joan-mir-withdraws-from-portuguese-gp/10875250/",
-   "source": "Motorsport.com",
-   "date": "2026-11-18T11:37:28.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Jake Dixon will make his second consecutive appearance of the 2026 MotoGP season at this weekend’s Portuguese Grand Prix, with illness continuing to sideline factory Honda rider Joan Mir. Dixon has been called in as a…",
-   "image": "https://cdn-1.motorsport.com/images/amp/01QNpeQ0/s6/jake-dixon-honda-hrc.jpg"
-  },
-  {
-   "title": "Iker Lecuona: ‘I have to negotiate with my wife so she won’t kick me out of the house’",
-   "url": "https://www.motorsport.com/motogp/news/iker-lecuona-i-have-to-negotiate-with-my-wife-so-she-wont-kick-me-out-of-the-house/10875237/",
-   "source": "Motorsport.com",
-   "date": "2026-11-18T10:51:38.000Z",
-   "series": "MotoGP",
-   "result": true,
-   "summary": "Iker Lecuona will replace injured Francesco Bagnaia in the factory Ducati MotoGP team at Portimao, where the Portuguese GP takes place this weekend. It will be the 27-year-old’s sixth MotoGP appearance this year, while…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27NoBem0/s6/iker-lecuona-gresini-racing-2.jpg"
   },
   {
    "title": "‘It’s impossible not to be impressed by the Gen4’ – Formula E’s plan to win over skeptics",
