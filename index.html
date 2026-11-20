@@ -233,6 +233,60 @@ footer .wrap{padding-block:40px 24px}
   .foot-grid{grid-template-columns:1fr}
   .tv-item{grid-template-columns:96px minmax(0,1fr)}
 }
+/* ===== racing motion (futuristic) ===== */
+@media (max-width:900px){.tv-grid{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:560px){.tv-main{aspect-ratio:auto;min-height:240px;padding:32px 16px}}
+/* light streak racing along the masthead's green line */
+.mast{overflow-x:clip}
+.mast::after{content:"";position:absolute;left:0;bottom:-3px;height:3px;width:180px;background:linear-gradient(90deg,transparent,#fff 70%,var(--green));filter:drop-shadow(0 0 6px var(--green));animation:streak 7s cubic-bezier(.5,0,.2,1) 1.2s infinite;pointer-events:none;opacity:0}
+@keyframes streak{0%{transform:translateX(-200px);opacity:1}22%{transform:translateX(100vw);opacity:1}23%,100%{opacity:0;transform:translateX(100vw)}}
+/* speed lines drifting behind the race-weekend strip */
+.weekend{position:relative;overflow:hidden}
+.weekend::before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(-68deg,transparent 0 46px,rgba(60,255,26,.05) 46px 48px,transparent 48px 120px);background-size:260px 100%;animation:drift 6s linear infinite;pointer-events:none}
+.weekend .wrap{position:relative}
+@keyframes drift{to{background-position:-260px 0}}
+.wk-round{position:relative;overflow:hidden}
+.wk-round::after{content:"";position:absolute;inset:0;background:linear-gradient(100deg,transparent 30%,rgba(255,255,255,.8) 50%,transparent 70%);transform:translateX(-120%);animation:glint 4s ease-in-out 1.5s infinite}
+@keyframes glint{0%,70%{transform:translateX(-120%)}100%{transform:translateX(120%)}}
+.cd b{text-shadow:0 0 12px rgba(60,255,26,.45)}
+/* section titles: italic slide-in with a speed line drawn underneath */
+.sec-head h2{position:relative}
+.sec-head h2::after{content:"";position:absolute;left:20px;right:-40px;bottom:-6px;height:3px;background:linear-gradient(90deg,var(--green),transparent);transform:scaleX(0);transform-origin:left;transition:transform .7s cubic-bezier(.2,.8,.2,1) .25s}
+.sec-head h2.rv-in::after{transform:scaleX(1)}
+/* scroll reveal: items arrive like cars blasting past (slide + motion blur) */
+.rv-pre{opacity:0;transform:translateX(-36px);filter:blur(6px)}
+.rv-in{opacity:1;transform:none;filter:none;transition:opacity .45s ease-out,transform .6s cubic-bezier(.16,.9,.2,1),filter .5s ease-out;transition-delay:var(--rvd,0s)}
+/* images: neon scan sweep and rolling kerb on hover */
+.ph::after{content:"";position:absolute;inset:0;background:linear-gradient(100deg,transparent 35%,rgba(60,255,26,.0) 42%,rgba(60,255,26,.28) 48%,rgba(255,255,255,.35) 50%,rgba(60,255,26,.28) 52%,transparent 60%);transform:translateX(-110%);pointer-events:none}
+a:hover .ph::after,.ph:hover::after{animation:scan .9s cubic-bezier(.3,0,.2,1)}
+@keyframes scan{to{transform:translateX(110%)}}
+a:hover .ph .kerb{animation:roll .5s linear infinite}
+@keyframes roll{to{background-position:44px 0}}
+.card:hover{transform:translateY(-4px) skewX(-1deg);box-shadow:0 10px 30px rgba(0,0,0,.12),inset 0 -3px var(--green)}
+/* lead story: HUD corner brackets */
+.lead::before,.lead::after{content:"";position:absolute;width:28px;height:28px;z-index:2;pointer-events:none;border-color:var(--green);border-style:solid;opacity:.9;animation:hud 2.4s ease-in-out infinite}
+.lead::before{left:8px;bottom:8px;border-width:0 0 3px 3px}
+.lead::after{right:8px;top:8px;border-width:3px 3px 0 0}
+@keyframes hud{50%{opacity:.35;transform:scale(.9)}}
+/* standings bars fill like telemetry */
+.bar span{transform-origin:left;animation:fillbar .9s cubic-bezier(.2,.8,.2,1) both;box-shadow:0 0 8px var(--team)}
+@keyframes fillbar{from{transform:scaleX(0)}}
+/* live / next calendar round: pulsing neon edge */
+.round.next,.round.live{animation:edge 2s ease-in-out infinite}
+@keyframes edge{50%{box-shadow:0 0 0 1px rgba(60,255,26,.5),0 0 22px rgba(60,255,26,.25)}}
+/* edition switch: diagonal speed wipe */
+.wipe{position:fixed;inset:0 -30vw;z-index:90;pointer-events:none;background:linear-gradient(90deg,transparent 0 8%,var(--green) 8% 12%,var(--char-2) 12% 88%,var(--green) 88% 92%,transparent 92%);transform:translateX(-120%) skewX(-18deg);animation:wipe .62s cubic-bezier(.7,0,.3,1) forwards}
+@keyframes wipe{to{transform:translateX(120%) skewX(-18deg)}}
+/* start lights intro (once per visit) */
+.lights{position:fixed;inset:0;z-index:100;background:radial-gradient(80% 60% at 50% 45%,#1d211c,#0b0c0b);display:grid;place-items:center;gap:0;cursor:pointer;transition:transform .55s cubic-bezier(.7,0,.3,1),opacity .55s}
+.lights.go{transform:translateX(110%) skewX(-14deg);opacity:.6}
+.lights .row{display:flex;gap:clamp(8px,2vw,18px);padding:16px 22px;background:#111;border:1px solid #2c2c2c;box-shadow:0 0 0 4px #161616}
+.lights i{width:clamp(30px,7vw,56px);aspect-ratio:1;border-radius:50%;background:#2a0b0d;box-shadow:inset 0 -4px 8px rgba(0,0,0,.6);transition:background .08s,box-shadow .08s}
+.lights i.on{background:radial-gradient(circle at 40% 35%,#ff8a92,#e8202e 55%,#8c0d16);box-shadow:0 0 24px #e8202e,0 0 60px rgba(232,32,46,.5)}
+.lights.out i{background:#1a1d19;box-shadow:none}
+.lights.out .row{border-color:var(--green);box-shadow:0 0 0 4px #161616,0 0 40px rgba(60,255,26,.4)}
+.lights p{margin:18px 0 0;text-align:center;font-family:var(--f-display);font-weight:800;letter-spacing:.3em;text-transform:uppercase;color:#6c7169;font-size:14px}
+.lights.out p{color:var(--green)}
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation:none!important}}
 
 /* ===== edition switch (Sri Lanka / International) ===== */
@@ -788,6 +842,7 @@ function render(){
   $('#tvList').innerHTML=D.tv.map(t=>`<div class="tv-item"><div class="ph" data-h="${t[2]}" data-img="${t[3]||''}"></div><div><b>${t[0]}</b><span>${t[1]}</span></div></div>`).join('');
   document.querySelectorAll('#lead .ph, #rail .ph, #tvList .ph').forEach(paint);
 
+  reveal();
   clearInterval(cdTimer);
   if($('#cd-d')){cd();cdTimer=setInterval(cd,15000);}
 }
@@ -827,6 +882,7 @@ function renderNews(D){
   $('#filters').innerHTML=cats.map(c=>`<button type="button" aria-pressed="${c===newsCat}" data-c="${c}">${c}</button>`).join('');
   $('#newsGrid').innerHTML=D.news.filter(n=>newsCat==='All'||n.c===newsCat).map(n=>`<a class="card" ${lk(n.url,'#news')}${n.b?` data-sid="${sid(n)}"`:''}><div class="ph" data-h="${n.h}" data-n="${n.n}" data-img="${n.img||''}"></div><div class="card-body"><span class="tag">${n.c}</span><h3>${n.t}</h3><div class="meta">${n.a}${n.sample?' <span class="sample warn">Sample</span>':''}</div></div></a>`).join('');
   document.querySelectorAll('#newsGrid .ph').forEach(paint);
+  reveal();
 }
 function renderStandings(D){
   const rows=D.standings[stTab], top=rows[0][2]||1;
@@ -841,18 +897,51 @@ $('#champList').addEventListener('click',e=>{const b=e.target.closest('.champ-bt
 $('#resTabs').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;resTab=b.dataset.r;document.querySelectorAll('#resTabs button').forEach(x=>x.setAttribute('aria-selected',String(x===b)));renderResults(ED==='sl'?SL:INT);});
 $('#hub').addEventListener('click',e=>{const b=e.target.closest('.hub-more');if(!b)return;newsCat=b.dataset.s;renderNews(INT);$('#news').scrollIntoView({behavior:'smooth'});});
 $('#stTabs').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;stTab=b.dataset.t;document.querySelectorAll('#stTabs button').forEach(x=>x.setAttribute('aria-selected',String(x===b)));renderStandings(ED==='sl'?SL:INT);});
-document.querySelector('.edition').addEventListener('click',e=>{const b=e.target.closest('button');if(!b||b.dataset.ed===ED)return;ED=b.dataset.ed;newsCat='All';try{localStorage.setItem('apexEd',ED);}catch(x){}render();});
+document.querySelector('.edition').addEventListener('click',e=>{const b=e.target.closest('button');if(!b||b.dataset.ed===ED)return;ED=b.dataset.ed;newsCat='All';try{localStorage.setItem('apexEd',ED);}catch(x){}if(MOTION){const w=document.createElement('div');w.className='wipe';document.body.appendChild(w);setTimeout(render,260);setTimeout(()=>w.remove(),700);}else render();});
 
 /* start in the edition from the link (#international) or the last one picked */
 if(location.hash==='#international')ED='int';
 else if(location.hash==='#srilanka')ED='sl';
 else{try{const s=localStorage.getItem('apexEd');if(s==='sl'||s==='int')ED=s;}catch(x){}}
+/* racing motion: scroll reveals + start lights */
+const MOTION=!matchMedia('(prefers-reduced-motion: reduce)').matches;
+const RV_SEL='.sec-head h2,.rail-item,.card,.hub-card,.s-card,.round,.tv-item,#otherResList li,.champ-btn,.panel,.step';
+function rvShow(t){if(!t.classList.contains('rv-pre'))return;t.classList.add('rv-in');t.classList.remove('rv-pre');if(rvObs)rvObs.unobserve(t);if(t.tagName!=='H2')setTimeout(()=>t.classList.remove('rv-in'),1300);}
+const rvObs=('IntersectionObserver' in window)?new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting)rvShow(e.target);});},{rootMargin:'0px 0px -6% 0px'}):null;
+/* backup: anything at or above the bottom of the screen is always shown, so nothing can stay hidden */
+let rvTick=0;function rvSweep(){rvTick=0;const lim=innerHeight*0.94;document.querySelectorAll('.rv-pre').forEach(el=>{const r=el.getBoundingClientRect();if(r.top<lim&&(r.width||r.height)&&r.left<innerWidth)rvShow(el);});}
+addEventListener('scroll',()=>{if(!rvTick)rvTick=requestAnimationFrame(rvSweep);},{passive:true});
+document.addEventListener('scroll',()=>{if(!rvTick)rvTick=requestAnimationFrame(rvSweep);},{passive:true,capture:true});
+function reveal(){
+  if(!MOTION||!rvObs)return;
+  const groups=new Map();
+  document.querySelectorAll(RV_SEL).forEach(el=>{
+    if(el.dataset.rv)return; el.dataset.rv='1';
+    const p=el.parentElement; const i=groups.get(p)||0; groups.set(p,i+1);
+    el.style.setProperty('--rvd',Math.min(i,8)*0.06+'s');
+    el.classList.add('rv-pre'); rvObs.observe(el);
+  });
+  setTimeout(rvSweep,60);
+}
+function startLights(){
+  if(!MOTION)return;
+  try{if(sessionStorage.getItem('apexLights'))return;sessionStorage.setItem('apexLights','1');}catch(x){}
+  const L=document.createElement('div');L.className='lights';L.setAttribute('aria-hidden','true');
+  L.innerHTML='<div><div class="row">'+'<i></i>'.repeat(5)+'</div><p>Apex Media</p></div>';
+  document.body.appendChild(L);
+  const lamps=L.querySelectorAll('i');let done=false;
+  const finish=()=>{if(done)return;done=true;L.classList.add('out');L.querySelector('p').textContent='Lights out';setTimeout(()=>L.classList.add('go'),260);setTimeout(()=>L.remove(),850);};
+  lamps.forEach((l,i)=>setTimeout(()=>l.classList.add('on'),180+i*230));
+  setTimeout(finish,180+5*230+320);
+  L.addEventListener('click',finish);
+}
 const STORIES=[];function sid(x){let i=STORIES.indexOf(x);if(i<0){STORIES.push(x);i=STORIES.length-1;}return i;}
 document.addEventListener('click',e=>{const a=e.target.closest('[data-sid]');if(!a)return;const x=STORIES[+a.dataset.sid];if(!x)return;e.preventDefault();
   const d=$('#story');d.innerHTML=`<button type="button" class="story-close" aria-label="Close story">Close ✕</button>${x.img?`<div class="ph" data-h="${x.h||100}" data-img="${x.img}"></div>`:''}<div class="story-body"><div class="meta"><span class="eyebrow" style="color:var(--green-ink)">${x.eyebrow||x.c||''}</span><span>${x.ago||x.a||''}</span>${x.sample?'<span class="sample warn">Sample story</span>':''}</div><h2>${x.t}</h2>${x.b.map(p=>`<p>${p}</p>`).join('')}<p class="src">${x.sample?'Sample content: the people, results and details in this story are invented for the design preview.':(x.src||'')}${x.img?' Image: AI-generated illustration (Google Gemini).':''}</p></div>`;
   d.querySelectorAll('.ph').forEach(paint);d.showModal();});
 $('#story').addEventListener('click',e=>{const d=$('#story');if(e.target===d||e.target.closest('.story-close'))d.close();});
 render();
+startLights();
 loadLive();
 
 /* ===== International: live data collected every 30 min by .github/workflows/update-international.yml ===== */
