@@ -16,13 +16,14 @@ Motorsport news website with two tabs: **Sri Lanka** (local racing, karting focu
 ## Design
 
 - Dark charcoal header, light reading area, neon green accent (`#3cff1a`) from the logo. Saira Condensed for headings, Titillium Web for body. Layout modelled on formula1.com.
+- Nov 2026 upgrade (owner asked to match the premium feel of the /team site and avishka-premadasa site): dark cinematic hero band for the lead story + rail, italic display headings, hairline borders, frosted header. Reading sections below stay light. Motion: Apple-style fades/count-ups plus two racing touches (start lights once per visit, header light streak).
 - In November 2026 two alternative designs ("Pit Wall" dark dashboard, "Paddock" photo magazine) were tried and rejected. Build on the current design; don't propose a full redesign unless asked.
 
 ## Files
 
 - `index.html` — the whole site (HTML, CSS, JS in one file). No build step, no frameworks.
 - `team/` — separate **Apex Racing Team** site (live at `/apex-media/team/`), added Nov 2026 from a Claude Design canvas. Self-contained `team/index.html` + `team/assets/`. Dark charcoal + `#39FF14`, Saira Condensed + Inter, Apple-style scroll animations. Driver profiles open at `#driver-NN`. All drivers, results, partners (invented brands) and photos (Gemini-generated) are **sample content**, labelled by a banner at the top. Don't touch it when working on the news site.
-- `assets/apex-logo.webp` — logo on a dark `#1f1f1f` background (not transparent). The header crops it with `background-size`/`background-position` and blends it with `mix-blend-mode: lighten`.
+- `assets/apex-logo.webp` — original logo on a dark `#1f1f1f` square (used as favicon). `assets/apex-media-logo.png` — transparent, trimmed version made from it (Nov 2026), used in the header and footer. Don't use `team/assets/apex-logo-*.png` here: that is the Apex Racing team logo (it says "Racing").
 - `scripts/update-international.mjs` — data collector (Node 20+, no dependencies).
 - `.github/workflows/update-international.yml` — runs the collector every 30 min (cron `7,37 * * * *`, plus a manual "Run workflow" button); commits `data/` only when it changed.
 - `data/international.json` (news), `data/results.json` (F1, MotoGP, NASCAR Cup results and calendars), `data/standings.json` (21 championships) — **written by the workflow only.** After a local test run, restore with `git checkout -- data`; never commit them by hand.
