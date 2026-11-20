@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:11:02.008Z",
+ "updated": "2026-11-20T08:39:44.564Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,21 +148,141 @@
  ],
  "bySeries": {
   "F1": 15,
+  "MotoGP": 15,
+  "WEC": 15,
   "WRC": 12,
   "NASCAR": 15,
-  "MotoGP": 15,
   "IndyCar": 8,
-  "WEC": 15,
   "IMSA": 11,
-  "Motorsport": 4,
+  "Motorsport": 3,
   "Formula E": 8,
-  "Dakar": 2,
+  "Dakar": 1,
   "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Palmowski makes history as she secures pole in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-makes-history-as-she-secures-her-final-pole-position-around-las-vegas.1n8CvOtY14APLOTC3pzBrL",
+   "source": "Formula1.com",
+   "date": "2026-11-20T08:39:44.564Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Red Bull Racing's Alisha Palmowski secured pole position for the F1 ACADEMY Las Vegas Feature Race.",
+   "image": null
+  },
+  {
+   "title": "Alpine ‘hopeful’ after Gasly earns P2 during second practice",
+   "url": "https://www.formula1.com/en/latest/article/alpine-feeling-hopeful-after-gasly-earns-p2-during-second-practice-in-las-vegas.3Iac1ObpdCLCHGU5rWCNXO",
+   "source": "Formula1.com",
+   "date": "2026-11-20T08:39:44.564Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Alpine's Pierre Gasly caught the eye by slotting into P2 on the timesheets during Thursday's second practice session at the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Hamilton reflects on Ferrari's practice running in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/a-couple-of-good-findings-hamilton-reflects-on-ferraris-wet-practice-running-in-las-vegas.4lQStkjoi1h32oQJng6ZMm",
+   "source": "Formula1.com",
+   "date": "2026-11-20T08:39:44.564Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton believes himself and Ferrari made \"a couple of good findings\" during a wet day of practice ahead of the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "AS IT HAPPENED: Second practice for the Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-las-vegas-2026.4jTMaRKyeJ2CONkCrsDQV1",
+   "source": "Formula1.com",
+   "date": "2026-11-20T08:39:44.564Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Live coverage of Thursday's second practice session for the 2026 Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Mercedes’ first female junior Fluxa Cross on her F1 ACADEMY debut",
+   "url": "https://www.formula1.com/en/latest/article/im-part-of-a-family-mercedes-first-female-junior-fluxa-cross-on-her-f1-academy-debut-and-silver-arrows-support.4u3ANQLRWs1389wP4d2fKj",
+   "source": "Formula1.com",
+   "date": "2026-11-20T08:39:44.564Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes junior Luna Fluxa Cross reflects on how she is feeling ahead of her F1 ACADEMY debut in Las Vegas.",
+   "image": null
+  },
+  {
+   "title": "How Marc Marquez can win the 2026 MotoGP title in Portimao sprint",
+   "url": "https://www.the-race.com/motogp/how-marc-marquez-can-win-the-2026-motogp-title-in-portimao-sprint/",
+   "source": "The Race",
+   "date": "2026-11-20T08:37:38.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marc Marquez is the favourite to become the 2026 MotoGP world champion as early as the Portuguese Grand Prix in Portimao - and could do it as early as the Saturday sprint",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1362553_HiRes.jpg"
+  },
+  {
+   "title": "Pirelli reintroduces stint limit for F1 Qatar GP",
+   "url": "https://www.motorsport.com/f1/news/pirelli-introduces-stint-limit-for-f1-qatar-gp-but-increases-total-from-2025/10875950/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T08:21:28.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 1 teams will again have to follow a prescribed stint limit for each car at the Qatar Grand Prix to protect the Pirelli tyres around the high-degradation track. Drivers must complete no more than 27 laps per…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0kZAZnV6/s6/lusail-city-qatar-november-30-.jpg"
+  },
+  {
+   "title": "Everything we learned from F1's wet Las Vegas GP practice running",
+   "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-gp-wet-practice-everything-we-learned/",
+   "source": "The Race",
+   "date": "2026-11-20T08:14:34.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "A wet Las Vegas GP practice day wasn't what F1 teams or drivers would've wanted. But it told us enough about some current limitations",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/2305992339.jpg"
+  },
+  {
+   "title": "Why McLaren is selling its 2027 F1 car before it even races",
+   "url": "https://www.crash.net/f1/news/1110272/1/why-mclaren-selling-its-f1-2027-car-it-even-races",
+   "source": "Crash.net",
+   "date": "2026-11-20T08:13:19.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "McLaren explains its thinking behind selling its 2027 F1 car before it even races.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454374_hires.jpg?width=1200"
+  },
+  {
+   "title": "\"Same as Brazil\" – Red Bull \"trying to understand\" the root cause of Verstappen's complaints",
+   "url": "https://www.autosport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-verstappens-complaints/10875945/",
+   "source": "Autosport",
+   "date": "2026-11-20T08:12:55.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "After Thursday's practice sessions in Las Vegas, Red Bull – like all Formula 1 teams – has been left with very few answers. Isack Hadjar eventually finished fourth on the timesheets, but that means very little given…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0arEG1p2/s6/max-verstappen-red-bull-racing-2.jpg"
+  },
+  {
+   "title": "Estre replaces retired Conway in Toyota’s WEC driver line-up for dual campaign in 2027",
+   "url": "https://www.autosport.com/wec/news/8amgmtkevin-estre-replaces-retired-mike-conway-in-toyotas-wec-driver-line-up-for-dual-campaign-in-2/10875952/",
+   "source": "Autosport",
+   "date": "2026-11-20T08:01:34.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Kevin Estre will replace the retired Mike Conway in Toyota’s driver line-up in the World Endurance Championship and take on a dual-manufacturer role in 2027. The 2024 WEC champion has been a Porsche driver since 2016…",
+   "image": "https://cdn-1.motorsport.com/images/amp/25d3xDN0/s6/kevin-estre-tds-racing.jpg"
+  },
+  {
+   "title": "Max Verstappen’s curious lack of Las Vegas GP practice running explained",
+   "url": "https://www.crash.net/f1/news/1110271/1/max-verstappens-curious-lack-las-vegas-gp-practice-running-explained",
+   "source": "Crash.net",
+   "date": "2026-11-20T07:13:05.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen's lack of running in Las Vegas Grand Prix practice has been explained.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454551_hires.jpg?width=1200"
+  },
   {
    "title": "Red Bull working to fix Verstappen's Vegas practice issues",
    "url": "https://www.formula1.com/en/latest/article/red-bull-working-to-understand-and-fix-verstappens-balance-issues-after-tricky-las-vegas-practice.2CbSLmEnwmgW8h0V1Ujr03",
@@ -212,106 +332,6 @@
    "result": false,
    "summary": "Kimi Antonelli, Ollie Bearman and Lance Stroll have joined the list of drivers set to be hit with grid penalties at the Las Vegas Grand Prix.",
    "image": null
-  },
-  {
-   "title": "Komatsu insists there is 'no doubt' over Bearman’s Haas seat",
-   "url": "https://www.formula1.com/en/latest/article/komatsu-insists-there-is-no-doubt-over-bearmans-2027-haas-seat-after-britons-frustrations.1lCOdGv5mDv2FcqDshxnYB",
-   "source": "Formula1.com",
-   "date": "2026-11-20T07:11:02.008Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ollie Bearman voiced his frustrations over the delay in confirming his Haas seat for next season.",
-   "image": null
-  },
-  {
-   "title": "AS IT HAPPENED: First practice for the Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-las-vegas-2026.6znaP19Dx0zBrPVStcB2BP",
-   "source": "Formula1.com",
-   "date": "2026-11-20T07:11:02.008Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live coverage of Thursday's first practice session for the 2026 Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "What now for Colton Herta after Valtteri Bottas Cadillac stay for F1 2027?",
-   "url": "https://www.crash.net/f1/news/1110270/1/what-now-colton-herta-after-valtteri-bottas-cadillac-stay-f1-2027",
-   "source": "Crash.net",
-   "date": "2026-11-20T06:50:54.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Cadillac outlines what is next for Colton Herta after 2027 F1 race seat snub.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/cadillacf1team_18715_hires.jpg?width=1200"
-  },
-  {
-   "title": "Lewis Hamilton plans \"GTA VI\" session after Vegas FP2: \"I'm like a big kid\"",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-plans-gta-vi-session-after-vegas-fp2-im-like-a-big-kid/10875895/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T06:37:05.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton finished sixth in a slippery second practice for the Las Vegas Grand Prix, before what he had promised fans would be an early night at his hotel with the newly released Grand Theft Auto VI. The seven-time…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10875895-b708-2.jpg"
-  },
-  {
-   "title": "Lewis Hamilton launches alien-themed Area 44 collection for Las Vegas GP",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-44-launches-alien-themed-area-44-collection-for-las-vegas-gp/10875890/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T06:35:38.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Seven-time Formula 1 champion Lewis Hamilton's fashion label +44 has returned to Las Vegas with Area 44, an alien-themed collection released ahead of this weekend's grand prix. The range is on sale through the +44…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10875890-b708-2.jpg"
-  },
-  {
-   "title": "F1 has “agreement in principle” to ditch 2026 engines after just four seasons",
-   "url": "https://www.racefans.net/2026/11/20/f1-has-agreement-in-principle-to-ditch-2026-engines-after-just-four-seasons/",
-   "source": "RaceFans",
-   "date": "2026-11-20T06:29:22.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 teams have agreed to scrap the widely-criticised 2026 engine regulations ahead of schedule.",
-   "image": null
-  },
-  {
-   "title": "Isack Hadjar: \"I realised why Max is a four-time world champion\"",
-   "url": "https://www.motorsport.com/f1/news/isack-hadjar-i-realised-why-max-is-a-four-time-world-champion/10875884/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T06:18:42.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Isack Hadjar says his first season as Max Verstappen's team-mate at Red Bull has opened his eyes to why the Dutchman is a four-time Formula 1 world champion. Hadjar moved up from Racing Bulls for his 2026 campaign…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10875884-b707-2.jpg"
-  },
-  {
-   "title": "F1 teams confirm “agreement in principle” on V8 return after deleted FIA posts cause confusion",
-   "url": "https://www.crash.net/f1/news/1110269/1/f1-teams-confirm-agreement-principle-v8-return-after-deleted-fia-posts-cause",
-   "source": "Crash.net",
-   "date": "2026-11-20T06:05:18.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 teams confirm there is an \"agreement in principle\" to return to V8 engines in 2030.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454804_hires.jpg?width=1200"
-  },
-  {
-   "title": "Zak Brown explains why McLaren keeps selling F1 cars before they race ahead of 2027 auction",
-   "url": "https://www.motorsport.com/f1/news/zak-brown-explains-why-mclaren-keeps-selling-f1-cars-before-they-race-ahead-of-2027-auction/10875872/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T05:54:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "McLaren Racing CEO Zak Brown has explained why the Woking outfit is selling its Formula 1 cars at auction before they have even turned a wheel, saying the alternative is leaving them hidden away. McLaren will auction…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6x7LrQ8Y/s6/zak-brown-mclaren-a10875872-b706-2.jpg"
-  },
-  {
-   "title": "Zak Brown says McLaren will always respect staff who want to skip Middle East races",
-   "url": "https://www.motorsport.com/f1/news/zak-brown-says-mclaren-will-always-respect-staff-who-want-to-skip-middle-east-races/10875831/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T05:36:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 is pressing ahead with its season-ending swing through the Middle East, and McLaren is making clear that no member of its travelling workforce will be forced onto the plane. Speaking during Thursday’s FIA team…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0JXRMPAY/s6/zak-brown-mclaren-a10875831-b706-2.jpg"
   },
   {
    "title": "Project Rally One to give 2027 WRC challenger first competitive outing at Spa",
@@ -452,16 +472,6 @@
    "result": false,
    "summary": "Newly crowned world champion Kimi Antonelli is the focus of the latest issue of Autosport magazine, out today (19 November). The 20-year-old Italian seems to be universally liked in the Formula 1 paddock. Jake…",
    "image": "https://cdn-1.motorsport.com/images/amp/2dEolEpY/s6/autosport-magazine-dec26-lands.jpg"
-  },
-  {
-   "title": "Top five roles on Motorsport Jobs this week",
-   "url": "https://www.autosport.com/general/news/top-five-roles-on-motorsport-jobs-this-week-10875429/10875429/",
-   "source": "Autosport",
-   "date": "2026-11-19T04:17:17.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "1. Motorsport Australia - Motorsport Technical Executive - Melbourne Motorsport Australia has a vacancy for a Motorsport Technical Executive. You will manage technical enquiries and applications, coordinate technical…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
   },
   {
    "title": "Denny Hamlin content with 2027 retirement plan but keeps door open",
@@ -792,16 +802,6 @@
    "result": false,
    "summary": "Francesco Bagnaia will be absent from this weekend’s Portuguese Grand Prix as he continues his recovery from an injury he sustained during the Qatar MotoGP weekend. The factory Ducati rider fractured his foot after…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
-  },
-  {
-   "title": "Andrea Dovizioso: Marco Bezzecchi and Aprilia threw away 2026 MotoGP title",
-   "url": "https://www.motorsport.com/motogp/news/andrea-dovizioso-marco-bezzecchi-and-aprilia-threw-away-2026-motogp-title/10874761/",
-   "source": "Motorsport.com",
-   "date": "2026-11-16T10:42:06.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Former MotoGP star Andrea Dovizioso believes Marco Bezzecchi and Aprilia have \"thrown away\" the 2026 title, arguing the RS-GP has been more competitive than Marc Marquez's Ducati GP26. The Qatar Grand Prix reignited the…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YpbAzqX0/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
    "title": "EKN Trackside: Superkarts! USA SuperNationals 29 – SuperSunday Report",
@@ -1154,16 +1154,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
-   "title": "How Aston Martin’s fuel gamble in Monza WEC fell short by just three seconds",
-   "url": "https://www.motorsport.com/wec/news/how-aston-martins-fuel-gamble-in-monza-wec-fell-short-by-just-three-seconds/10873379/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T16:15:58.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Aston Martin lost a podium in a dramatic climax to the 2026 World Endurance Championship in Monza due to two penalties that dropped the #007 Valkyrie down to 12th place. Having struggled with early strategy calls that…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6zoD89e0/s6/007-heart-of-racing-aston-mart.jpg"
-  },
-  {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
    "url": "https://www.ekartingnews.com/2026/11/09/ekn-outlap-ep116-superkarts-usa-supernationals-29-part-2/",
    "source": "eKartingNews",
@@ -1322,16 +1312,6 @@
    "result": false,
    "summary": "An expanded WRC2 prize drive will be awarded to the 2027 Junior WRC champion as part of a revamped JWRC for next year. The FIA has today confirmed that the WRC’s junior category will once again be contested over five…",
    "image": "https://cdn-1.motorsport.com/images/amp/6D1XwMK0/s6/diego-dominguez-paraguay-junio.jpg"
-  },
-  {
-   "title": "Dakar announces Portugal and Morocco as 2027 host destinations",
-   "url": "https://www.motorsport.com/dakar/news/dakar-announces-portugal-and-morocco-as-2027-host-destinations/10869556/",
-   "source": "Motorsport.com",
-   "date": "2026-10-30T07:35:48.000Z",
-   "series": "Dakar",
-   "result": false,
-   "summary": "The 2027 Dakar Rally has been relocated to Portugal and Morocco, with the war in West Asia preventing Saudi Arabia from hosting the event as originally planned. Having been originally scheduled to begin on New Year’s…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0mXyz546/s6/cab1f.jpg"
   }
  ]
 }
