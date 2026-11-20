@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:22:46.574Z",
+ "updated": "2026-11-20T21:20:57.710Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,6 +148,7 @@
  ],
  "bySeries": {
   "F1": 15,
+  "NASCAR": 15,
   "MotoGP": 15,
   "Formula E": 10,
   "IndyCar": 6,
@@ -156,13 +157,52 @@
   "Motorsport": 1,
   "Dakar": 2,
   "WEC": 15,
-  "NASCAR": 15,
   "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Winner of the F1® X Heineken® 2027 Season Ticket revealed",
+   "url": "https://www.formula1.com/en/latest/article/winner-of-the-f1-heineken-2027-season-ticket-revealed.2U39RF3ALLzSqmSRRGRVQ7",
+   "source": "Formula1.com",
+   "date": "2026-11-20T21:20:57.710Z",
+   "series": "F1",
+   "result": false,
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Cadillac CEO Towriss on Herta’s future and Bottas’ extension",
+   "url": "https://www.formula1.com/en/latest/article/cadillac-ceo-towriss-gives-update-on-hertas-future-as-he-explains-why-the-team-opted-for-bottas-extension.6e7buM26RfuQSk1VzmqY6b",
+   "source": "Formula1.com",
+   "date": "2026-11-20T21:20:57.710Z",
+   "series": "F1",
+   "result": false,
+   "summary": "With Cadillac opting to retain Valtteri Bottas for 2027 rather than promoting Colton Herta, CEO Dan Towriss has explained what the next steps might be for the American driver.",
+   "image": null
+  },
+  {
+   "title": "Palmowski makes history as she secures pole in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-makes-history-as-she-secures-her-final-pole-position-around-las-vegas.1n8CvOtY14APLOTC3pzBrL",
+   "source": "Formula1.com",
+   "date": "2026-11-20T21:20:57.710Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Red Bull Racing's Alisha Palmowski secured pole position for the F1 ACADEMY Las Vegas Feature Race.",
+   "image": null
+  },
+  {
+   "title": "NASCAR set to incrementally increase horsepower as part of 2027 Cup rules",
+   "url": "https://www.motorsport.com/nascar-cup/news/nascar-set-to-incrementally-increase-horsepower-at-all-tracks-as-part-of-2027-cup-rules-update/10876155/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T21:08:19.000Z",
+   "series": "NASCAR",
+   "result": false,
+   "summary": "Both competitors and fans alike have told NASCAR they wanted more horsepower across the board for the current generation Cup Series car and series officials have responded in kind. In a 2027 rules update released on…",
+   "image": "https://cdn-1.motorsport.com/images/amp/63QaOMg2/s6/denny-hamlin-joe-gibbs-racing-.jpg"
+  },
   {
    "title": "Aron leaves Alpine as Vesti doubles up in reserve role",
    "url": "https://www.formula1.com/en/latest/article/aron-leaves-alpine-as-vesti-doubles-up-in-reserve-role-for-enstone-squad.78ZKSJQKTokE51DkFvRY2B",
@@ -384,16 +424,6 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1454753_HiRes.jpg"
   },
   {
-   "title": "How to watch 2026 F1 Las Vegas GP today: Free live stream details and start time",
-   "url": "https://www.crash.net/f1/news/1110385/1/how-watch-2026-f1-las-vegas-gp-today-free-live-stream-details-and-start-time",
-   "source": "Crash.net",
-   "date": "2026-11-20T16:24:26.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "All the details on this weekends race in Nevada and how to watch the Las Vegas Grand Prix for free. This article contains affiliate links. If you buy through them, we may earn a commission at no extra cost to you",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454834_hires.jpg?width=1200"
-  },
-  {
    "title": "Everything that happened in Portimao MotoGP practice",
    "url": "https://www.the-race.com/motogp/everything-that-happened-in-portimao-motogp-practice/",
    "source": "The Race",
@@ -412,16 +442,6 @@
    "result": false,
    "summary": "Taylor Barnard escaped unharmed after his Fusion car caught fire and exploded at Jarama, with the incident bringing the final day of 2027 pre-season Formula E testing to an abrupt end. Friday's running with the new Gen4…",
    "image": "https://cdn-1.motorsport.com/images/amp/YP74Zpo2/s6/barnard-formula-e.jpg"
-  },
-  {
-   "title": "Best Qualifying bets before the Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
-   "source": "Formula1.com",
-   "date": "2026-11-20T15:26:42.809Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Our expert betting writers share their top picks for Qualifying at the Las Vegas Strip Circuit.",
-   "image": null
   },
   {
    "title": "Inter Europol Competition expands to two-car LMP2 program for 2027 IMSA season",
@@ -452,16 +472,6 @@
    "result": false,
    "summary": "Maverick Vinales has pulled out of the second-to-last round of the 2026 MotoGP season, replaced by KTM test rider Pol Espargaro",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363157_HiRes.jpg"
-  },
-  {
-   "title": "Thursday rain in Las Vegas leave teams playing catch-up",
-   "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
-   "source": "Formula1.com",
-   "date": "2026-11-20T14:19:17.609Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1.com considers who looks to be the favourites after the first day on track at the Las Vegas Grand Prix.",
-   "image": null
   },
   {
    "title": "How Toyota, M-Sport view the WRC 2027 Rally1-vs-Rally2 debate",
@@ -1002,16 +1012,6 @@
    "result": true,
    "summary": "2022 Daytona 500 winner Austin Cindric, representing the Air Force, won the first-ever Proud to Honor Veterans Day Classic, featuring 12 Ford Mustangs in a 30-minute contest around the Daytona International Speedway…",
    "image": "https://cdn-1.motorsport.com/images/amp/6zoD8370/s6/gettyimages-2304689083-2.jpg"
-  },
-  {
-   "title": "Kevin Harvick: NASCAR needs a Gen 7.5 car and 'some hard conversations'",
-   "url": "https://www.motorsport.com/nascar-cup/news/kevin-harvick-nascar-needs-a-gen-75-car-and-some-hard-conversations/10873996/",
-   "source": "Motorsport.com",
-   "date": "2026-11-12T02:54:59.000Z",
-   "series": "NASCAR",
-   "result": false,
-   "summary": "Kevin Harvick has said this all along but he reiterated it on Wednesday in the aftermath of NASCAR CEO Steve O’Donnell dismissing the notion of another new car for the Cup Series in the coming seasons. Harvick, the 2014…",
-   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNzMb2/s6/screenshot-2026-01-30-at-1-04-.jpg"
   },
   {
    "title": "Wright Motorsports names full-time 2027 IMSA GTD lineup as Sargent joins Adelson",
