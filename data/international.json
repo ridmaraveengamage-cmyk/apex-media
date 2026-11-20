@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:04:05.390Z",
+ "updated": "2026-11-20T14:19:17.609Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,11 +148,11 @@
  ],
  "bySeries": {
   "F1": 15,
-  "Motorsport": 3,
+  "WRC": 13,
+  "Motorsport": 2,
   "Dakar": 2,
   "MotoGP": 15,
   "WEC": 15,
-  "WRC": 12,
   "NASCAR": 15,
   "IndyCar": 8,
   "IMSA": 11,
@@ -163,6 +163,36 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Thursday rains in Las Vegas leave teams playing catch-up",
+   "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
+   "source": "Formula1.com",
+   "date": "2026-11-20T14:19:17.609Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1.com considers who looks to be the favourites after the first day on track at the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Verstappen reveals which F1 races he'd most like to attend as a fan",
+   "url": "https://www.the-race.com/extra/max-verstappen-reveals-which-f1-races-hed-most-like-to-attend-as-a-fan/",
+   "source": "The Race",
+   "date": "2026-11-20T13:37:37.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Which F1 race would Max Verstappen most like to go to as a fan? That's what we asked him after the second Heineken x F1 Season Ticket winner was announced",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1404375_HiRes.jpg"
+  },
+  {
+   "title": "How Toyota, M-Sport view the WRC 2027 Rally1-vs-Rally2 debate",
+   "url": "https://www.autosport.com/wrc/news/toyota-m-sport-weigh-in-on-the-wrc-2027-rally1-vs-rally2-debate/10876051/",
+   "source": "Autosport",
+   "date": "2026-11-20T13:29:24.000Z",
+   "series": "WRC",
+   "result": false,
+   "summary": "Barring a freak event, new Rally1 cars will have the performance edge over Rally2 cars to win all World Rally Championship rallies in 2027, Toyota and M-Sport Ford bosses reckon. The performance gap between Rally1 and…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2eZxpNmY/s6/joshua-mcerlean-eoin-treacy-m--2.jpg"
+  },
   {
    "title": "Winner of the F1® X Heineken® 2027 Season Ticket revealed",
    "url": "https://www.formula1.com/en/latest/article/winner-of-the-f1-heineken-2027-season-ticket-revealed.2U39RF3ALLzSqmSRRGRVQ7",
@@ -321,26 +351,6 @@
    "series": "F1",
    "result": false,
    "summary": "Hamilton and Pitt contribute to new Donnelly autobiography",
-   "image": null
-  },
-  {
-   "title": "Russell admits Mercedes lacking pace despite topping FP2",
-   "url": "https://www.formula1.com/en/latest/article/we-probably-were-not-the-fastest-russell-admits-mercedes-lacking-pace-despite-topping-fp2-in-las-vegas.6t2XX2vWPRCohJvtJ5PLeu",
-   "source": "Formula1.com",
-   "date": "2026-11-20T10:58:05.832Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell admits that \"realistically we probably were not the fastest\", despite finishing top of the times in a wet Free Practice 2 ahead of the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Piastri shares early impressions of new engine in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/piastri-shares-early-impressions-of-new-engine-in-las-vegas-as-he-prepares-for-grid-penalty.1EhZ4bKxodItgmXEX2euQf",
-   "source": "Formula1.com",
-   "date": "2026-11-20T10:58:05.832Z",
-   "series": "F1",
-   "result": false,
-   "summary": "After taking on new power unit components, McLaren's Oscar Piastri has assessed how his first day on track went at the Las Vegas Grand Prix.",
    "image": null
   },
   {
@@ -512,16 +522,6 @@
    "result": false,
    "summary": "Maverick Vinales does not have a seat for next season in MotoGP, but he is reluctant to accept that his racing career is over and is considering the possibility of becoming a reserve rider. Motorsport.com revealed last…",
    "image": "https://cdn-1.motorsport.com/images/amp/2y7Q8Kn6/s6/maverick-vinales-tech3-ktm-en-.jpg"
-  },
-  {
-   "title": "Autosport magazine: Kimi Antonelli – world champion",
-   "url": "https://www.autosport.com/general/news/autosport-magazine-kimi-antonelli-world-champion/10875465/",
-   "source": "Autosport",
-   "date": "2026-11-19T06:14:42.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Newly crowned world champion Kimi Antonelli is the focus of the latest issue of Autosport magazine, out today (19 November). The 20-year-old Italian seems to be universally liked in the Formula 1 paddock. Jake…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2dEolEpY/s6/autosport-magazine-dec26-lands.jpg"
   },
   {
    "title": "Denny Hamlin content with 2027 retirement plan but keeps door open",
