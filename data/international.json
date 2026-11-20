@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:19:32.476Z",
+ "updated": "2026-11-20T23:19:42.699Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 0
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -152,8 +152,8 @@
   "NASCAR": 15,
   "MotoGP": 15,
   "Karting": 6,
+  "Formula E": 10,
   "IndyCar": 6,
-  "Formula E": 9,
   "IMSA": 11,
   "WRC": 13,
   "Dakar": 2,
@@ -354,6 +354,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg"
   },
   {
+   "title": "FIA, F1 and teams unanimously agree to drop current power units after 2029",
+   "url": "https://www.racefans.net/2026/11/20/fia-f1-and-teams-unanimously-agree-to-drop-current-power-units-after-2029/",
+   "source": "RaceFans",
+   "date": "2026-11-20T18:59:56.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The FIA has confirmed plans to introduce new V8 hybrid turbo power unit regulations to Formula 1 in 2030.",
+   "image": null
+  },
+  {
    "title": "Unanimous agreement for F1 V8 engine return plan reached",
    "url": "https://www.crash.net/f1/news/1110159/1/key-agreement-reached-f1s-poised-return-v8-engines",
    "source": "Crash.net",
@@ -404,6 +414,16 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363246_HiRes.jpg"
   },
   {
+   "title": "Social Media: Fire halts final day of Formula E testing",
+   "url": "https://www.racefans.net/2026/11/20/social-media-fire-halts-final-day-of-formula-e-testing/",
+   "source": "RaceFans",
+   "date": "2026-11-20T17:52:45.000Z",
+   "series": "Formula E",
+   "result": false,
+   "summary": "Barnard unhurt as fire ends Formula E 'Gen4' test at Jarama",
+   "image": null
+  },
+  {
    "title": "IndyCar 2026 season review: Chip Ganassi Racing",
    "url": "https://www.motorsport.com/indycar/news/indycar-2026-season-review-chip-ganassi-racing/10876097/",
    "source": "Motorsport.com",
@@ -422,16 +442,6 @@
    "result": false,
    "summary": "Alex Marquez led the way on Friday at Portimao, topping the timesheets for Gresini Ducati. But the most important story was that the three men in contention for the world championship all made it directly into…",
    "image": "https://cdn-1.motorsport.com/images/amp/27No8bR0/s6/alex-marquez-gresini-racing.jpg"
-  },
-  {
-   "title": "Forbes releases 2026 F1 team valuations",
-   "url": "https://www.the-race.com/business/formula-1-team-values-jump-47-in-2026-as-they-near-10bn/",
-   "source": "The Race",
-   "date": "2026-11-20T16:30:31.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The value of each Formula 1 team has jumped 47% from $3.6billion USD in 2025 to $5.2bn in 2026 according to Forbes' 2026 report",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1454753_HiRes.jpg"
   },
   {
    "title": "Everything that happened in Portimao MotoGP practice",
@@ -522,6 +532,16 @@
    "result": true,
    "summary": "Marco Bezzecchi led an Aprilia 1-2 in the opening MotoGP session of the penultimate round of the 2026 season",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363066_HiRes.jpg"
+  },
+  {
+   "title": "Spotlight: Report claims Stellantis will cancel its Peugeot WEC and Citroen Formula E programmes",
+   "url": "https://www.racefans.net/2026/11/20/spotlight-report-claims-stellantis-will-cancel-its-peugeot-wec-and-citroen-formula-e-programmes/",
+   "source": "RaceFans",
+   "date": "2026-11-20T10:51:51.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Peugeot WEC and Citroen FE teams 'facing axe' - report",
+   "image": null
   },
   {
    "title": "Marc Marquez nervous about expected MotoGP coronation: \"I see risks everywhere\"",
@@ -1162,16 +1182,6 @@
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
    "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
-  },
-  {
-   "title": "Ferrari explains tyre pressure mistake in Monza WEC",
-   "url": "https://www.motorsport.com/wec/news/ferrari-explains-tyre-pressure-mistake-in-monza-wec/10873370/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T17:12:14.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
