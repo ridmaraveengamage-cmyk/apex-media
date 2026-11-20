@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:19:17.609Z",
+ "updated": "2026-11-20T15:26:42.809Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,10 +148,10 @@
  ],
  "bySeries": {
   "F1": 15,
+  "MotoGP": 15,
   "WRC": 13,
   "Motorsport": 2,
   "Dakar": 2,
-  "MotoGP": 15,
   "WEC": 15,
   "NASCAR": 15,
   "IndyCar": 8,
@@ -163,6 +163,36 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Best Qualifying bets before the Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
+   "source": "Formula1.com",
+   "date": "2026-11-20T15:26:42.809Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Our expert betting writers share their top picks for Qualifying at the Las Vegas Strip Circuit.",
+   "image": null
+  },
+  {
+   "title": "Vinales withdraws from MotoGP Portuguese GP",
+   "url": "https://www.autosport.com/motogp/news/vinales-withdraws-from-motogp-portuguese-gp/10876067/",
+   "source": "Autosport",
+   "date": "2026-11-20T15:00:16.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Maverick Vinales will sit out the remainder of MotoGP's Portuguese Grand Prix weekend, with Tech3 drafting in KTM's test rider Pol Espargaro as his replacement. Vinales has been struggling with discomfort since he…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlKMyWY/s6/maverick-vinales-red-bull-ktm-.jpg"
+  },
+  {
+   "title": "Vinales withdraws after single MotoGP session in Portugal",
+   "url": "https://www.the-race.com/motogp/vinales-withdraws-after-single-motogp-session-in-portugal/",
+   "source": "The Race",
+   "date": "2026-11-20T14:45:12.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Maverick Vinales has pulled out of the second-to-last round of the 2026 MotoGP season, replaced by KTM test rider Pol Espargaro",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363157_HiRes.jpg"
+  },
   {
    "title": "Thursday rains in Las Vegas leave teams playing catch-up",
    "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
@@ -342,16 +372,6 @@
    "result": false,
    "summary": "Martin Donnelly will recount his horrific F1 crash and remarkable recovery in a new autobiography, following renewed interest sparked by F1: The Movie.",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1027353_HiRes.jpg"
-  },
-  {
-   "title": "Spotlight: Donnelly to publish autobiography with contributions from Hamilton and Pitt",
-   "url": "https://www.racefans.net/2026/11/20/spotlight-donnelly-to-publish-autobiography-with-contributions-from-hamilton-and-pitt/",
-   "source": "RaceFans",
-   "date": "2026-11-20T11:05:09.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Hamilton and Pitt contribute to new Donnelly autobiography",
-   "image": null
   },
   {
    "title": "Spotlight: Report claims Stellantis will cancel its Peugeot WEC and Citroen Formula E programmes",
@@ -714,16 +734,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0R7wM9O2/s6/aleix-espargaro-honda-hrc.jpg"
   },
   {
-   "title": "Honda predicts new 850cc bikes \"could be as fast\" as current MotoGP machines",
-   "url": "https://www.autosport.com/motogp/news/honda-predicts-new-motogp-bikes-could-be-as-fast-as-current-machines/10875064/",
-   "source": "Autosport",
-   "date": "2026-11-17T13:16:34.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Honda says MotoGP’s next-generation 850cc bikes will remain relatively close to the current 1000cc machines because the loss of engine power has largely been offset by gains in other areas. While manufacturers continue…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YK15lZz0/s6/luca-marini-honda-hrc-2.jpg"
-  },
-  {
    "title": "New WRC1 classification and revised road order rules proposed for WRC 2027",
    "url": "https://www.motorsport.com/wrc/news/new-wrc1-classification-and-revised-road-order-rules-proposed-for-wrc-2027/10875035/",
    "source": "Motorsport.com",
@@ -732,16 +742,6 @@
    "result": false,
    "summary": "A new WRC1 classification and revised road order rules could be introduced to the World Rally Championship next year. The WRC Commission met on Monday where a number of proposals to make alterations to the sporting…",
    "image": "https://cdn-1.motorsport.com/images/amp/2dEoVRLY/s6/adrien-fourmaux-alexandre-cori.jpg"
-  },
-  {
-   "title": "David Alonso tested Honda's MotoGP bike in a private test at Sepang",
-   "url": "https://www.motorsport.com/motogp/news/david-alonso-tested-hondas-motogp-bike-in-a-private-test-at-sepang/10875029/",
-   "source": "Motorsport.com",
-   "date": "2026-11-17T11:04:53.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "LCR recruit David Alonso has ridden Honda's 2027 MotoGP bike, which he will make his premier-class debut with next season, at Sepang, Motorsport.com has learned. This means the talented Spanish rider, who competes in…",
-   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNWLP2/s6/david-alonso-aspar-2.jpg"
   },
   {
    "title": "Fernando Alonso to return to Dakar Rally with Aston Martin in 2027",
