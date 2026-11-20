@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:26:42.809Z",
+ "updated": "2026-11-20T16:27:32.724Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -147,22 +148,42 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
   "MotoGP": 15,
+  "Formula E": 9,
+  "F1": 16,
+  "IMSA": 11,
   "WRC": 13,
   "Motorsport": 2,
   "Dakar": 2,
-  "WEC": 15,
+  "WEC": 16,
   "NASCAR": 15,
   "IndyCar": 8,
-  "IMSA": 11,
-  "Formula E": 8,
   "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Everything that happened in Portimao MotoGP practice",
+   "url": "https://www.the-race.com/motogp/everything-that-happened-in-portimao-motogp-practice/",
+   "source": "The Race",
+   "date": "2026-11-20T16:19:14.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Alex Marquez announces his return to MotoGP by topping Portimao Friday",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363190_HiRes.jpg"
+  },
+  {
+   "title": "Formula E pre-season test ends early after car explodes and catches fire",
+   "url": "https://www.autosport.com/formula-e/news/formula-e-pre-season-test-ends-early-after-car-explodes-and-catches-fire/10876079/",
+   "source": "Autosport",
+   "date": "2026-11-20T16:09:36.000Z",
+   "series": "Formula E",
+   "result": false,
+   "summary": "Taylor Barnard escaped unharmed after his Fusion car caught fire and exploded at Jarama, with the incident bringing the final day of 2027 pre-season Formula E testing to an abrupt end. Friday's running with the new Gen4…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YP74Zpo2/s6/barnard-formula-e.jpg"
+  },
   {
    "title": "Best Qualifying bets before the Las Vegas GP",
    "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
@@ -172,6 +193,16 @@
    "result": false,
    "summary": "Our expert betting writers share their top picks for Qualifying at the Las Vegas Strip Circuit.",
    "image": null
+  },
+  {
+   "title": "Inter Europol Competition expands to two-car LMP2 program for 2027 IMSA season",
+   "url": "https://www.motorsport.com/imsa/news/inter-europol-competition-expands-to-two-car-lmp2-program-for-2027-imsa-season/10876070/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T15:26:11.000Z",
+   "series": "IMSA",
+   "result": false,
+   "summary": "Inter Europol Competition will field two full-season cars in the IMSA WeatherTech SportsCar Championship’s Le Mans Prototype 2 (LMP2) class in 2027, expanding its operation as it looks to reclaim the series title. The…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YK153j80/s6/43-inter-europol-competition-o.jpg"
   },
   {
    "title": "Vinales withdraws from MotoGP Portuguese GP",
@@ -372,6 +403,16 @@
    "result": false,
    "summary": "Martin Donnelly will recount his horrific F1 crash and remarkable recovery in a new autobiography, following renewed interest sparked by F1: The Movie.",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1027353_HiRes.jpg"
+  },
+  {
+   "title": "Alpine suddenly releases Paul Aron from F1 reserve driver role",
+   "url": "https://www.crash.net/f1/news/1110300/1/alpine-suddenly-releases-paul-aron-f1-reserve-driver-role",
+   "source": "Crash.net",
+   "date": "2026-11-20T10:55:49.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Alpine has released Paul Aron from his F1 reserve driver role.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1441321_hires.jpg?width=1200"
   },
   {
    "title": "Spotlight: Report claims Stellantis will cancel its Peugeot WEC and Citroen Formula E programmes",
@@ -722,16 +763,6 @@
    "result": false,
    "summary": "Toyota insists its new GR GT3 “perfectly matches” the foundations on which GT3 racing is based, amid concerns raised by SRO founder Stephane Ratel about the future of the category. Earlier this summer, SRO owner Ratel…",
    "image": "https://cdn-1.motorsport.com/images/amp/0rVPkAG0/s6/toyota-gr-gt3.jpg"
-  },
-  {
-   "title": "Honda explains why MotoGP's 850cc bikes aren't far off 1000cc pace",
-   "url": "https://www.motorsport.com/motogp/news/honda-explains-why-motogps-850cc-bikes-arent-far-off-1000cc-pace/10874946/",
-   "source": "Motorsport.com",
-   "date": "2026-11-17T13:22:21.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Honda says MotoGP’s next-generation 850cc bikes will remain relatively close to the current 1000cc machines because the loss of engine power has largely been offset by gains in other areas. While manufacturers continue…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7wM9O2/s6/aleix-espargaro-honda-hrc.jpg"
   },
   {
    "title": "New WRC1 classification and revised road order rules proposed for WRC 2027",
@@ -1164,6 +1195,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
   },
   {
+   "title": "Ferrari explains tyre pressure mistake in Monza WEC",
+   "url": "https://www.motorsport.com/wec/news/ferrari-explains-tyre-pressure-mistake-in-monza-wec/10873370/",
+   "source": "Motorsport.com",
+   "date": "2026-11-09T17:12:14.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
+  },
+  {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
    "url": "https://www.ekartingnews.com/2026/11/09/ekn-outlap-ep116-superkarts-usa-supernationals-29-part-2/",
    "source": "eKartingNews",
@@ -1212,16 +1253,6 @@
    "result": true,
    "summary": "In unseasonably chilly conditions, Kostecki and his Dick Johnson Racing Ford Mustang emerged from a cracking battle for the lead to take the lead and set the pace in a battle between drivers managing fuel consumption…",
    "image": "https://cdn-1.motorsport.com/images/amp/YE9EplGY/s6/brodie-kostecki-dick-johnson-r.jpg"
-  },
-  {
-   "title": "Kellymoss returns to IMSA WeatherTech championship full-time in 2027",
-   "url": "https://www.motorsport.com/imsa/news/kellymoss-returns-to-imsa-weathertech-championship-full-time-in-2027/10872169/",
-   "source": "Motorsport.com",
-   "date": "2026-11-06T16:42:50.000Z",
-   "series": "IMSA",
-   "result": false,
-   "summary": "Longtime Porsche customer team Kellymoss will return to full-time IMSA WeatherTech SportsCar Championship competition in 2027. Michael Clark will make his IMSA debut in the Grand Touring Daytona (GTD) class in the #17…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8Zwee2/s6/kellymoss-indianapolis-8-hour-.jpg"
   },
   {
    "title": "\"Parked the truck in the paddock aged eight\": Cairoli shares Kimi Antonelli anecdotes",
