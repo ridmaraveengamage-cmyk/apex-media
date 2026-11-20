@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:20:57.710Z",
+ "updated": "2026-11-20T22:19:32.476Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 15
+   "count": 0
   },
   {
    "name": "Formula1.com",
@@ -148,21 +148,51 @@
  ],
  "bySeries": {
   "F1": 15,
+  "Motorsport": 2,
   "NASCAR": 15,
   "MotoGP": 15,
-  "Formula E": 10,
+  "Karting": 6,
   "IndyCar": 6,
+  "Formula E": 9,
   "IMSA": 11,
   "WRC": 13,
-  "Motorsport": 1,
   "Dakar": 2,
   "WEC": 15,
-  "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Best Qualifying bets before the Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
+   "source": "Formula1.com",
+   "date": "2026-11-20T22:19:32.476Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Our expert betting writers share their top picks for Qualifying at the Las Vegas Strip Circuit.",
+   "image": null
+  },
+  {
+   "title": "Thursday rain in Las Vegas leave teams playing catch-up",
+   "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
+   "source": "Formula1.com",
+   "date": "2026-11-20T22:19:32.476Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1.com considers who looks to be the favourites after the first day on track at the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Charles Leclerc recalls getting stopped by Las Vegas club security as a teenager",
+   "url": "https://www.motorsport.com/culture/news/charles-leclerc-recalls-getting-stopped-by-las-vegas-club-security-as-a-teenager/10876013/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T21:41:01.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Today, Charles Leclerc can headline his own pop-up café at Wynn Las Vegas without waiting in line. Funnily enough, however, back when he first set foot in Nevada, he could not even make it past a nightclub bouncer…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2GdKxOEY/s6/charles-leclerc-ferrari-a10876013-b708-2.jpg"
+  },
   {
    "title": "Winner of the F1® X Heineken® 2027 Season Ticket revealed",
    "url": "https://www.formula1.com/en/latest/article/winner-of-the-f1-heineken-2027-season-ticket-revealed.2U39RF3ALLzSqmSRRGRVQ7",
@@ -200,7 +230,7 @@
    "date": "2026-11-20T21:08:19.000Z",
    "series": "NASCAR",
    "result": false,
-   "summary": "Both competitors and fans alike have told NASCAR they wanted more horsepower across the board for the current generation Cup Series car and series officials have responded in kind. In a 2027 rules update released on…",
+   "summary": "Competitors and fans alike have told NASCAR they wanted more horsepower across the board for the current generation Cup Series car and NASCAR has responded in kind. In a 2027 rules update released on Friday afternoon…",
    "image": "https://cdn-1.motorsport.com/images/amp/63QaOMg2/s6/denny-hamlin-joe-gibbs-racing-.jpg"
   },
   {
@@ -294,6 +324,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0R7ByEg2/s6/alex-marquez-gresini-racing.jpg"
   },
   {
+   "title": "Kart Republic Strengthens U.S. Presence with Kart Mega Store",
+   "url": "https://www.ekartingnews.com/2026/11/20/kart-republic-strengthens-u-s-presence-with-kart-mega-store/",
+   "source": "eKartingNews",
+   "date": "2026-11-20T19:33:22.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "Kart Mega Store is deepening its role as the home for Kart Republic in the United States, giving teams and drivers across the country an easier path to the brand’s chassis, parts and support. Kart Mega Store will serve…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/11/Jonathan-Kotyk-Dino-Chiesa-300x200.jpg"
+  },
+  {
    "title": "Martin admits 2021 crash memories still slow him at Portimao",
    "url": "https://www.the-race.com/motogp/martin-admits-2021-crash-memories-still-slow-him-at-portimao/",
    "source": "The Race",
@@ -312,16 +352,6 @@
    "result": false,
    "summary": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers. F1…",
    "image": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg"
-  },
-  {
-   "title": "FIA, F1 and teams unanimously agree to drop current power units after 2029",
-   "url": "https://www.racefans.net/2026/11/20/fia-f1-and-teams-unanimously-agree-to-drop-current-power-units-after-2029/",
-   "source": "RaceFans",
-   "date": "2026-11-20T18:59:56.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA has confirmed plans to introduce new V8 hybrid turbo power unit regulations to Formula 1 in 2030.",
-   "image": null
   },
   {
    "title": "Unanimous agreement for F1 V8 engine return plan reached",
@@ -372,26 +402,6 @@
    "result": true,
    "summary": "MotoGP 2026 title favourite Marc Marquez is prioritising a minimal-risk approach to the Portuguese Grand Prix at Portimao, where he has the chance to become an eight-time premier-class champion",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363246_HiRes.jpg"
-  },
-  {
-   "title": "Video: Verstappen avoids welcome reception for drivers in Las Vegas paddock",
-   "url": "https://www.racefans.net/2026/11/20/video-verstappen-avoids-welcome-reception-for-drivers-in-las-vegas-paddock/",
-   "source": "RaceFans",
-   "date": "2026-11-20T18:04:17.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Verstappen swerves Las Vegas welcome reception for drivers",
-   "image": null
-  },
-  {
-   "title": "Social Media: Fire halts final day of Formula E testing",
-   "url": "https://www.racefans.net/2026/11/20/social-media-fire-halts-final-day-of-formula-e-testing/",
-   "source": "RaceFans",
-   "date": "2026-11-20T17:52:45.000Z",
-   "series": "Formula E",
-   "result": false,
-   "summary": "Barnard unhurt as fire ends Formula E 'Gen4' test at Jarama",
-   "image": null
   },
   {
    "title": "IndyCar 2026 season review: Chip Ganassi Racing",
@@ -512,16 +522,6 @@
    "result": true,
    "summary": "Marco Bezzecchi led an Aprilia 1-2 in the opening MotoGP session of the penultimate round of the 2026 season",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363066_HiRes.jpg"
-  },
-  {
-   "title": "Spotlight: Report claims Stellantis will cancel its Peugeot WEC and Citroen Formula E programmes",
-   "url": "https://www.racefans.net/2026/11/20/spotlight-report-claims-stellantis-will-cancel-its-peugeot-wec-and-citroen-formula-e-programmes/",
-   "source": "RaceFans",
-   "date": "2026-11-20T10:51:51.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Peugeot WEC and Citroen FE teams 'facing axe' - report",
-   "image": null
   },
   {
    "title": "Marc Marquez nervous about expected MotoGP coronation: \"I see risks everywhere\"",
@@ -1162,6 +1162,16 @@
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
    "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
+  },
+  {
+   "title": "Ferrari explains tyre pressure mistake in Monza WEC",
+   "url": "https://www.motorsport.com/wec/news/ferrari-explains-tyre-pressure-mistake-in-monza-wec/10873370/",
+   "source": "Motorsport.com",
+   "date": "2026-11-09T17:12:14.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
