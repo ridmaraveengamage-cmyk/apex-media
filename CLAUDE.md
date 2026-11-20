@@ -39,7 +39,9 @@ Motorsport news website with two tabs: **Sri Lanka** (local racing, karting focu
 - SWS Sprint: 6 rounds, Sodi arrive-and-drive karts, Cadet/Junior/Senior/Masters/Women's, record 33-kart Senior grid.
 - SWS Endurance: 3-hour team race, 16 teams; opener won by Team Avant (126 laps) ahead of Kartmen and Velocity X Racing; fastest lap Spark Racing 1:09.249. Officiated by the Ceylon Motor Sports Club.
 - Supercross: Fox Hill (Diyatalawa, Apr), Cavalry (Jun), Gajaba (Saliyapura, Aug), Gunners (Minneriya, Sep). Sources conflict on some dates/venues; the page says so.
-- **Sample data:** Sri Lanka standings (placeholder "Driver A" names) and endurance-results points. Keep them labelled.
+- **Sample content (owner asked for it, Nov 2026):** IAME R5 finale report, R5 Senior final result, IAME Senior/Junior and SWS Senior standings, two karting stories and the Gunners Supercross report use invented names and details. Items carry `sample:true` and show a yellow "Sample" chip; endurance-results points are also sample. Keep them labelled.
+- **Images:** `assets/sl/*.webp` are AI-generated illustrations (Google Gemini), shown with an "AI image" label (added automatically by `paint()` for `assets/sl/` paths). Credited in the news note and footer.
+- Stories with a `b` (body paragraphs) open in the `#story` dialog; real stories give a `src` credit.
 
 ## International tab (automated)
 
@@ -52,7 +54,7 @@ Motorsport news website with two tabs: **Sri Lanka** (local racing, karting focu
 ## Not built yet
 
 - Apex TV / live coverage (live shows, race updates, live timing) — placeholder section and "Soon" badges only.
-- Real photos for Sri Lanka stories (placeholder tiles).
+- Real photos for Sri Lanka stories (AI illustrations for now).
 - Newsletter form only shows a thank-you message.
 
 ## Known limits
