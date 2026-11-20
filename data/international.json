@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:58:14.201Z",
+ "updated": "2026-11-20T10:58:05.832Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,8 +148,8 @@
  ],
  "bySeries": {
   "F1": 15,
-  "MotoGP": 15,
   "WEC": 15,
+  "MotoGP": 15,
   "WRC": 12,
   "NASCAR": 15,
   "IndyCar": 8,
@@ -163,6 +163,116 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Russell admits Mercedes lacking pace despite topping FP2",
+   "url": "https://www.formula1.com/en/latest/article/we-probably-were-not-the-fastest-russell-admits-mercedes-lacking-pace-despite-topping-fp2-in-las-vegas.6t2XX2vWPRCohJvtJ5PLeu",
+   "source": "Formula1.com",
+   "date": "2026-11-20T10:58:05.832Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell admits that \"realistically we probably were not the fastest\", despite finishing top of the times in a wet Free Practice 2 ahead of the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Piastri shares early impressions of new engine in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/piastri-shares-early-impressions-of-new-engine-in-las-vegas-as-he-prepares-for-grid-penalty.1EhZ4bKxodItgmXEX2euQf",
+   "source": "Formula1.com",
+   "date": "2026-11-20T10:58:05.832Z",
+   "series": "F1",
+   "result": false,
+   "summary": "After taking on new power unit components, McLaren's Oscar Piastri has assessed how his first day on track went at the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Russell beats Gasly and Leclerc to top spot in wet FP2",
+   "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc",
+   "source": "Formula1.com",
+   "date": "2026-11-20T10:58:05.832Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell claimed top spot in Free Practice 2 ahead of the Las Vegas Grand Prix, the Mercedes driver beating Alpine's Pierre Gasly and Ferrari's Charles Leclerc.",
+   "image": null
+  },
+  {
+   "title": "Antonelli, Bearman and Stroll set for penalties in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-bearman-and-stroll-set-for-grid-penalties-at-las-vegas-grand-prix.37Vixk6Mt1gvZlVXDsO8S",
+   "source": "Formula1.com",
+   "date": "2026-11-20T10:58:05.832Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Kimi Antonelli, Ollie Bearman and Lance Stroll have joined the list of drivers set to be hit with grid penalties at the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Alpine suddenly releases Paul Aron from F1 reserve driver role",
+   "url": "https://www.crash.net/f1/news/1110300/1/alpine-suddenly-releases-paul-aron-f1-reserve-driver-role",
+   "source": "Crash.net",
+   "date": "2026-11-20T10:55:49.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Alpine has released Paul Aron from his F1 reserve driver role.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1441321_hires.jpg?width=1200"
+  },
+  {
+   "title": "Spotlight: Report claims Stellantis will cancel its Peugeot WEC and Citroen Formula E programmes",
+   "url": "https://www.racefans.net/2026/11/20/spotlight-report-claims-stellantis-will-cancel-its-peugeot-wec-and-citroen-formula-e-programmes/",
+   "source": "RaceFans",
+   "date": "2026-11-20T10:51:51.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Peugeot WEC and Citroen FE teams 'facing axe' - report",
+   "image": null
+  },
+  {
+   "title": "What Flavio Briatore takes from McLaren after Fernando Alonso \"disaster\"",
+   "url": "https://www.motorsport.com/f1/news/what-flavio-briatore-takes-from-mclaren-after-fernando-alonso-disaster/10875964/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T10:45:02.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Disappointment, infighting, and a revolving door of senior personnel have characterised Alpine's ‘lost decade' after Renault acquired the Enstone-based team at the end of 2015. Current boss Flavio Briatore says Alpine…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6lmAlV80/s6/flavio-briatore-alpine.jpg"
+  },
+  {
+   "title": "Liam Lawson mocks reality star after claiming he could beat F1 driver in a race",
+   "url": "https://www.crash.net/f1/news/1110290/1/liam-lawson-mocks-reality-star-after-claiming-he-could-beat-f1-driver-race",
+   "source": "Crash.net",
+   "date": "2026-11-20T10:38:23.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Liam Lawson shoots down reality star Jamie Laing's claim he could beat F1 driver in a go-kart race.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/si202611200051.jpg?width=1200"
+  },
+  {
+   "title": "“He’s decided on a direction”: Cadillac offered reserve role to “disappointed” Herta",
+   "url": "https://www.racefans.net/2026/11/20/hes-decided-on-a-direction-cadillac-offered-reserve-role-to-disappointed-herta/",
+   "source": "RaceFans",
+   "date": "2026-11-20T10:33:06.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Cadillac has offered Colton Herta a reserve driver role for next season after choosing not to promote him to a race seat for 2027.",
+   "image": null
+  },
+  {
+   "title": "\"It was scary at 100km/h\" - F1 drivers shocked by Las Vegas 'ice rink'",
+   "url": "https://www.motorsport.com/f1/news/it-was-scary-at-100km-h-f1-drivers-shocked-by-las-vegas-ice-rink/10875954/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T10:08:40.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "With rain affecting Thursday's Las Vegas Grand Prix running on the low-grip street circuit around the Strip, the biggest takeaway was not who was fastest, but the impressive fact that every Formula 1 driver kept it out…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8El2/s6/arvid-lindblad-racing-bulls.jpg"
+  },
+  {
+   "title": "Abnormal Las Vegas GP practice leaves F1 teams heading into the unknown",
+   "url": "https://www.crash.net/f1/news/1110283/1/abnormal-las-vegas-gp-practice-leaves-f1-teams-heading-unknown",
+   "source": "Crash.net",
+   "date": "2026-11-20T10:06:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 teams are in the dark heading into qualifying and the race at the Las Vegas Grand Prix.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454662_hires.jpg?width=1200"
+  },
   {
    "title": "Las Vegas F1 track is “not made for these conditions” – Bearman",
    "url": "https://www.racefans.net/2026/11/20/las-vegas-f1-track-is-not-made-for-these-conditions-bearman/",
@@ -224,46 +334,6 @@
    "image": null
   },
   {
-   "title": "Alpine ‘hopeful’ after Gasly earns P2 during second practice",
-   "url": "https://www.formula1.com/en/latest/article/alpine-feeling-hopeful-after-gasly-earns-p2-during-second-practice-in-las-vegas.3Iac1ObpdCLCHGU5rWCNXO",
-   "source": "Formula1.com",
-   "date": "2026-11-20T08:39:44.564Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Alpine's Pierre Gasly caught the eye by slotting into P2 on the timesheets during Thursday's second practice session at the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Hamilton reflects on Ferrari's practice running in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/a-couple-of-good-findings-hamilton-reflects-on-ferraris-wet-practice-running-in-las-vegas.4lQStkjoi1h32oQJng6ZMm",
-   "source": "Formula1.com",
-   "date": "2026-11-20T08:39:44.564Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton believes himself and Ferrari made \"a couple of good findings\" during a wet day of practice ahead of the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "AS IT HAPPENED: Second practice for the Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-las-vegas-2026.4jTMaRKyeJ2CONkCrsDQV1",
-   "source": "Formula1.com",
-   "date": "2026-11-20T08:39:44.564Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live coverage of Thursday's second practice session for the 2026 Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Mercedes’ first female junior Fluxa Cross on her F1 ACADEMY debut",
-   "url": "https://www.formula1.com/en/latest/article/im-part-of-a-family-mercedes-first-female-junior-fluxa-cross-on-her-f1-academy-debut-and-silver-arrows-support.4u3ANQLRWs1389wP4d2fKj",
-   "source": "Formula1.com",
-   "date": "2026-11-20T08:39:44.564Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Mercedes junior Luna Fluxa Cross reflects on how she is feeling ahead of her F1 ACADEMY debut in Las Vegas.",
-   "image": null
-  },
-  {
    "title": "How Marc Marquez can win the 2026 MotoGP title in Portimao sprint",
    "url": "https://www.the-race.com/motogp/how-marc-marquez-can-win-the-2026-motogp-title-in-portimao-sprint/",
    "source": "The Race",
@@ -274,46 +344,6 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1362553_HiRes.jpg"
   },
   {
-   "title": "Pirelli reintroduces stint limit for F1 Qatar GP",
-   "url": "https://www.motorsport.com/f1/news/pirelli-introduces-stint-limit-for-f1-qatar-gp-but-increases-total-from-2025/10875950/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T08:21:28.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 teams will again have to follow a prescribed stint limit for each car at the Qatar Grand Prix to protect the Pirelli tyres around the high-degradation track. Drivers must complete no more than 27 laps per…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0kZAZnV6/s6/lusail-city-qatar-november-30-.jpg"
-  },
-  {
-   "title": "Everything we learned from F1's wet Las Vegas GP practice running",
-   "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-gp-wet-practice-everything-we-learned/",
-   "source": "The Race",
-   "date": "2026-11-20T08:14:34.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "A wet Las Vegas GP practice day wasn't what F1 teams or drivers would've wanted. But it told us enough about some current limitations",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/2305992339.jpg"
-  },
-  {
-   "title": "Why McLaren is selling its 2027 F1 car before it even races",
-   "url": "https://www.crash.net/f1/news/1110272/1/why-mclaren-selling-its-f1-2027-car-it-even-races",
-   "source": "Crash.net",
-   "date": "2026-11-20T08:13:19.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "McLaren explains its thinking behind selling its 2027 F1 car before it even races.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454374_hires.jpg?width=1200"
-  },
-  {
-   "title": "\"Same as Brazil\" – Red Bull \"trying to understand\" the root cause of Verstappen's complaints",
-   "url": "https://www.autosport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-verstappens-complaints/10875945/",
-   "source": "Autosport",
-   "date": "2026-11-20T08:12:55.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "After Thursday's practice sessions in Las Vegas, Red Bull – like all Formula 1 teams – has been left with very few answers. Isack Hadjar eventually finished fourth on the timesheets, but that means very little given…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0arEG1p2/s6/max-verstappen-red-bull-racing-2.jpg"
-  },
-  {
    "title": "Estre replaces retired Conway in Toyota’s WEC driver line-up for dual campaign in 2027",
    "url": "https://www.autosport.com/wec/news/8amgmtkevin-estre-replaces-retired-mike-conway-in-toyotas-wec-driver-line-up-for-dual-campaign-in-2/10875952/",
    "source": "Autosport",
@@ -322,26 +352,6 @@
    "result": false,
    "summary": "Kevin Estre will replace the retired Mike Conway in Toyota’s driver line-up in the World Endurance Championship and take on a dual-manufacturer role in 2027. The 2024 WEC champion has been a Porsche driver since 2016…",
    "image": "https://cdn-1.motorsport.com/images/amp/25d3xDN0/s6/kevin-estre-tds-racing.jpg"
-  },
-  {
-   "title": "Max Verstappen’s curious lack of Las Vegas GP practice running explained",
-   "url": "https://www.crash.net/f1/news/1110271/1/max-verstappens-curious-lack-las-vegas-gp-practice-running-explained",
-   "source": "Crash.net",
-   "date": "2026-11-20T07:13:05.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen's lack of running in Las Vegas Grand Prix practice has been explained.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454551_hires.jpg?width=1200"
-  },
-  {
-   "title": "Red Bull working to fix Verstappen's Vegas practice issues",
-   "url": "https://www.formula1.com/en/latest/article/red-bull-working-to-understand-and-fix-verstappens-balance-issues-after-tricky-las-vegas-practice.2CbSLmEnwmgW8h0V1Ujr03",
-   "source": "Formula1.com",
-   "date": "2026-11-20T07:11:02.008Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pierre Wache explains Max Verstappen's balance and energy management issues after a difficult Thursday in Las Vegas, with Red Bull working on solutions.",
-   "image": null
   },
   {
    "title": "Project Rally One to give 2027 WRC challenger first competitive outing at Spa",
@@ -1132,16 +1142,6 @@
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
    "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
-  },
-  {
-   "title": "Ferrari explains tyre pressure mistake in Monza WEC",
-   "url": "https://www.motorsport.com/wec/news/ferrari-explains-tyre-pressure-mistake-in-monza-wec/10873370/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T17:12:14.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
