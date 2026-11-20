@@ -282,6 +282,19 @@ footer .wrap{padding-block:40px 24px}
 .source{font-size:12px;color:var(--ink-2);margin-top:10px}
 .kart .source{color:#8f958c}
 .sample{font-family:var(--f-body);font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;background:var(--paper);color:var(--ink-2);padding:2px 7px}
+.sample.warn{background:#f2b705;color:#1a1a1a}
+.ph .ai{position:absolute;right:8px;top:8px;font-family:var(--f-body);font-size:10px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;background:rgba(0,0,0,.6);color:#fff;padding:2px 6px;z-index:1}
+.rail-item .ph .ai,.tv-item .ph .ai{font-size:9px;right:4px;top:4px;padding:1px 4px}
+/* ===== story reader (Sri Lanka) ===== */
+.story{border:0;padding:0;width:min(760px,calc(100% - 32px));max-height:calc(100% - 48px);background:var(--card,#fff);color:var(--ink,#15171a)}
+.story::backdrop{background:rgba(10,12,10,.75)}
+.story .ph{aspect-ratio:16/9}
+.story-body{padding:20px 24px 26px;display:grid;gap:12px}
+.story-body h2{font-family:var(--f-display);font-weight:800;text-transform:uppercase;font-size:clamp(26px,4vw,38px);line-height:1;margin:0}
+.story-body p{margin:0;font-size:17px;line-height:1.55}
+.story-body .src{font-size:13px;color:var(--ink-2)}
+.story-close{position:absolute;right:10px;top:10px;z-index:2;border:0;background:var(--char,#15171a);color:#fff;font:700 14px var(--f-body);padding:6px 12px;cursor:pointer}
+.story-close:hover{background:var(--green);color:var(--char-2)}
 .cal .round .series-tag{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--green-ink)}
 .round.next .series-tag{color:var(--green)}
 .round.live{border-top-color:#e8202e;background:var(--char);color:#fff}
@@ -524,10 +537,11 @@ footer .wrap{padding-block:40px 24px}
       <div><h4>Racing</h4><ul><li><a href="#results">Results</a></li><li><a href="#results">Standings</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#">Drivers &amp; teams</a></li></ul></div>
       <div><h4>Apex Media</h4><ul><li><a href="#">About us</a></li><li><a href="#">Advertise</a></li><li><a href="#">Contact</a></li><li><a href="#">Privacy</a></li></ul></div>
     </div>
-    <div class="foot-base"><span>© 2026 Apex Media</span><span>Sri Lanka items drawn from published 2026 reports, Sri Lanka standings are sample data · International news is collected automatically from public feeds and links to the original publishers</span></div>
+    <div class="foot-base"><span>© 2026 Apex Media</span><span>Sri Lanka items drawn from published 2026 reports; stories, results and standings marked “Sample” are invented, and Sri Lanka photos are AI-generated illustrations (Google Gemini) · International news is collected automatically from public feeds and links to the original publishers</span></div>
   </div>
 </footer>
 
+<dialog class="story" id="story" aria-label="Story"></dialog>
 <script>
 (function(){
 const $=s=>document.querySelector(s);
@@ -546,6 +560,7 @@ function paint(el){
   el.prepend(art);
   if(n){const s=document.createElement('span');s.className='num';s.textContent=n;el.appendChild(s);}
   const k=document.createElement('span');k.className='kerb';el.appendChild(k);
+  if(img.startsWith('assets/sl/')){const a=document.createElement('span');a.className='ai';a.textContent='AI image';a.title='AI-generated illustration (Google Gemini), not a photo of the real event';el.appendChild(a);}
 }
 const tracks=['M4 30 L20 8 L44 10 L56 26 L80 22 L96 34 L70 40 L30 40 Z','M6 22 Q20 4 40 12 T76 10 L96 24 Q80 42 50 36 L14 40 Z','M8 36 L8 10 L40 6 L48 20 L72 14 L94 20 L90 38 L52 34 L30 40 Z','M10 24 Q10 6 34 8 L60 18 Q90 6 94 26 Q90 42 60 36 L30 40 Q10 40 10 24 Z','M6 30 L26 6 L52 8 L50 22 L78 18 L96 36 L54 40 Z'];
 const SPEEDBAY='M10 36 L10 14 Q10 6 20 6 L46 6 Q54 6 54 14 L54 20 Q54 24 60 24 L84 24 Q94 24 94 32 Q94 40 84 40 L20 40 Q10 40 10 36 Z';
@@ -555,44 +570,74 @@ const DIRT='M6 24 Q16 6 30 20 T54 20 T78 20 Q92 8 94 24 Q90 40 70 36 Q50 32 30 4
 const SL={
   note:'Local racing · karting · supercross',
   weekend:`
-    <div class="wk-title"><span class="wk-round">R5</span><div><h2>IAME Series Sri Lanka</h2><p>31 Oct – 1 Nov · SpeedBay Circuit, Bandaragama · Cadet · Junior · Senior · Master</p></div></div>
+    <div class="wk-title"><span class="wk-round">R5</span><div><h2>IAME Series Sri Lanka</h2><p>31 Oct – 1 Nov · SpeedBay Circuit, Bandaragama · Season finale</p></div></div>
     <div class="sessions" aria-label="Weekend programme">
       <div><b>Sat 31 Oct</b>Practice &amp; qualifying</div>
       <div class="race"><b>Sun 1 Nov</b>Heats &amp; finals</div>
-      <div><b>Next</b>Supercross season wrap</div>
+      <div><b>Next</b>2027 calendar to be announced</div>
     </div>
-    <div class="wk-status"><span class="live-chip">Race day</span><span>Results and reports follow the finals</span></div>`,
-  lead:{tag:'Karting',h:105,n:'R5',eyebrow:'IAME Series Sri Lanka',ago:'Today',
-    t:'IAME Series Sri Lanka Round 5: finals day at SpeedBay',
-    d:'Cadet, Junior, Senior and Master drivers are back at Bandaragama for Round 5. The Junior and Senior champions win free entry to the IAME World Finals.'},
+    <div class="wk-status"><span class="sample warn">Sample</span><span>Season complete · the finale report, results and standings on this tab are sample content with invented names</span></div>`,
+  lead:{tag:'Karting',h:105,n:'R5',eyebrow:'IAME Series Sri Lanka · Round 5',ago:'1 Nov 2026',sample:true,img:'assets/sl/apex-sl-lead.webp',
+    t:'Abeysekara seals IAME Senior title as Perera wins the SpeedBay finale',
+    d:'Tharusha Perera won the Senior final, but second place was enough for Dinuk Abeysekara to take the championship by 15 points.',
+    b:['Tharusha Perera led every lap of the 18-lap Senior final at SpeedBay Circuit and crossed the line 0.412 seconds ahead of Dinuk Abeysekara. Second place was all Abeysekara needed: he finishes the five-round season on 186 points, 15 clear of Perera.',
+       'Rehan Mendis completed the podium after a late pass on Nethuli Silva at the hairpin. Abeysekara also set the fastest lap of the final, a 1:01.874.',
+       'In the Junior class, Arya Weerasinghe took the title with a round to spare and won again on Sunday. As champions, Abeysekara and Weerasinghe earn entries to the IAME World Finals.']},
   rail:[
-    {t:'Team Avant win the SWS Endurance Cup opener with 126 laps',c:'SWS Endurance',a:'2026',h:120},
-    {t:'33 karts: Senior class sets Sri Lanka’s biggest-ever grid',c:'SWS Sprint',a:'2026',h:45},
-    {t:'SLARDAR launches the Sri Lanka Super Series 2026',c:'National',a:'22 Mar',h:200},
-    {t:'Fuel supply concerns put the early-season calendar under review',c:'National',a:'Mar 2026',h:20}
+    {t:'Team Avant win the SWS Endurance Cup opener with 126 laps',c:'SWS Endurance',a:'2026',h:120,img:'assets/sl/apex-sl-endurance.webp',
+      b:['Team Avant won the opening round of the SWS Endurance Cup at SpeedBay Circuit, completing 126 laps in three hours.','Kartmen finished second and Velocity X Racing third from a field of 16 teams, with drivers from six countries. Spark Racing set the fastest lap of the race, a 1:09.249.'],src:'Source: ThePapare, 2026.'},
+    {t:'33 karts: Senior class sets Sri Lanka’s biggest-ever grid',c:'SWS Sprint',a:'2026',h:45,img:'assets/sl/apex-sl-grid.webp',
+      b:['The Senior class of the SWS Sprint Championship drew 33 karts, the largest grid seen in Sri Lankan karting.','The championship uses arrive-and-drive Sodi karts, so every driver races identical machinery. Classes run for Cadet, Junior, Senior, Masters and Women’s drivers.'],src:'Source: ThePapare, 2026.'},
+    {t:'SLARDAR launches the Sri Lanka Super Series 2026',c:'National',a:'22 Mar',h:200,img:'assets/sl/apex-sl-superseries.webp',
+      b:['The Sri Lanka Super Series brings rally, circuit and off-road events under one banner for 2026.'],src:'Source: The Morning, March 2026.'},
+    {t:'Fuel supply concerns put the early-season calendar under review',c:'National',a:'Mar 2026',h:20,img:'assets/sl/apex-sl-fuel.webp',
+      b:['Organisers reviewed the early-season motorsport calendar in March because of concerns over fuel supply.'],src:'Source: published reports, March 2026.'}
   ],
   newsTitle:'Sri Lanka news',
+  newsSource:'Stories marked “Sample” are invented for the preview, including all driver names. Every photo on this tab is an AI-generated illustration made with Google Gemini, not a picture of the real event. Other stories are drawn from IAME Motorsport, ThePapare, The Morning and the National Sports Calendar 2026.',
   news:[
-    {t:'SpeedBay launches Sri Lanka’s first SWS Sprint Championship',c:'Karting',a:'2026',h:110,n:'6'},
-    {t:'Spark Racing set the fastest lap of the endurance opener: 1:09.249',c:'Karting',a:'2026',h:300,n:''},
-    {t:'Drivers from Pakistan, China, the UK, the Maldives, Germany and Czech Republic join the SWS grid',c:'Karting',a:'2026',h:200,n:''},
-    {t:'IAME classes explained: X30 engines, Komet tyres and the weight limits',c:'Explainer',a:'2026',h:60,n:'X30'},
-    {t:'Fox Hill Supercross returns to Diyatalawa',c:'Supercross',a:'Apr 2026',h:30,n:''},
-    {t:'Cavalry Supercross: race meet preview',c:'Supercross',a:'Jun 2026',h:15,n:''},
-    {t:'Gajaba Supercross heads to Saliyapura',c:'Supercross',a:'Aug 2026',h:40,n:''},
-    {t:'Sri Lanka Super Series: rally, circuit and off-road under one banner',c:'National',a:'Mar 2026',h:170,n:''}
+    {t:'Weerasinghe crowned IAME Junior champion with a round to spare',c:'Karting',a:'1 Nov',h:110,n:'',sample:true,img:'assets/sl/apex-sl-champion.webp',
+      b:['Arya Weerasinghe wrapped up the IAME Series Sri Lanka Junior title at Round 4 and finished the season with another win at the SpeedBay finale.','Weerasinghe ends the year on 174 points, 14 ahead of Dulain Wijesuriya, and earns a place at the IAME World Finals.']},
+    {t:'SpeedBay finale in pictures: champions celebrate at Bandaragama',c:'Karting',a:'1 Nov',h:60,n:'',sample:true,img:'assets/sl/apex-sl-podium.webp',
+      b:['The final round of the IAME Series Sri Lanka ended with podium celebrations in all four classes: Cadet, Junior, Senior and Master.','Senior champion Dinuk Abeysekara and Junior champion Arya Weerasinghe now prepare for the IAME World Finals.']},
+    {t:'SpeedBay launches Sri Lanka’s first SWS Sprint Championship',c:'Karting',a:'2026',h:110,n:'6',img:'assets/sl/apex-sl-sprint.webp',
+      b:['SpeedBay Circuit in Bandaragama runs Sri Lanka’s first SWS Sprint Championship over six rounds in 2026.','Drivers race arrive-and-drive Sodi karts with equal machinery and minimum weights. Winners become eligible for the SWS World Finals.'],src:'Source: ThePapare, 2026.'},
+    {t:'Spark Racing set the fastest lap of the endurance opener: 1:09.249',c:'Karting',a:'2026',h:300,n:'',img:'assets/sl/apex-sl-fastlap.webp',
+      b:['Spark Racing set the fastest lap of the SWS Endurance Cup opener at SpeedBay, a 1:09.249, during the three-hour race won by Team Avant.'],src:'Source: ThePapare, 2026.'},
+    {t:'Drivers from Pakistan, China, the UK, the Maldives, Germany and Czech Republic join the SWS grid',c:'Karting',a:'2026',h:200,n:'',img:'assets/sl/apex-sl-intl.webp',
+      b:['The SWS Endurance opener at SpeedBay drew drivers from six countries, including Pakistan, China, the UK, the Maldives, Germany and Czech Republic.'],src:'Source: ThePapare, 2026.'},
+    {t:'IAME classes explained: X30 engines, Komet tyres and the weight limits',c:'Explainer',a:'2026',h:60,n:'X30',img:'assets/sl/apex-sl-x30.webp',
+      b:['IAME Series Sri Lanka uses X30 two-stroke engines on Komet tyres. There are four classes: Cadet (8–12), Junior (12–15), Senior (15+) and Master (30+).','The season runs over five rounds at SpeedBay Circuit, and the Junior and Senior champions win entry to the IAME World Finals.'],src:'Source: IAME Motorsport series page, 2026.'},
+    {t:'Fox Hill Supercross returns to Diyatalawa',c:'Supercross',a:'Apr 2026',h:30,n:'',img:'assets/sl/apex-sl-foxhill.webp',
+      b:['The Fox Hill Supercross returned to Diyatalawa in April.'],src:'Source: National Sports Calendar 2026. Some dates differ between sources.'},
+    {t:'Cavalry Supercross: race meet preview',c:'Supercross',a:'Jun 2026',h:15,n:'',img:'assets/sl/apex-sl-cavalry.webp',
+      b:['The Cavalry Supercross was scheduled for June. Sources disagree on the venue, so check with the organisers.'],src:'Source: National Sports Calendar 2026.'},
+    {t:'Gajaba Supercross heads to Saliyapura',c:'Supercross',a:'Aug 2026',h:40,n:'',img:'assets/sl/apex-sl-gajaba.webp',
+      b:['The Gajaba Supercross took place at Saliyapura in August.'],src:'Source: National Sports Calendar 2026.'},
+    {t:'Gunners Supercross: dust and drama by the Minneriya lake',c:'Supercross',a:'Sep 2026',h:25,n:'',sample:true,img:'assets/sl/apex-sl-gunners.webp',
+      b:['The Gunners Supercross at Minneriya closed the supercross season in September on a dry, dusty track beside the lake.','This report is sample content: the race details and any riders mentioned are invented for the preview.']},
+    {t:'Sri Lanka Super Series: rally, circuit and off-road under one banner',c:'National',a:'Mar 2026',h:170,n:'',img:'assets/sl/apex-sl-circuit.webp',
+      b:['SLARDAR’s Sri Lanka Super Series groups rally, circuit and off-road events into one national series for 2026.'],src:'Source: The Morning, March 2026.'}
   ],
-  results:{
-    title:'SWS Endurance Cup · Opener',col:'Team',col2:'Laps',
-    podium:[['Team Avant','3 hours · SpeedBay','126 laps','#3cff1a'],['Kartmen','16 teams started','','#1fb6d6'],['Velocity X Racing','SpeedBay Circuit','','#f2b705']],
-    rows:[['Team Avant','126','25'],['Kartmen','—','18'],['Velocity X Racing','—','15']],
-    extra:'<tr><td class="pos">FL</td><td><div class="drv"><i style="background:#8a5cf6"></i><div>Spark Racing<small>Fastest lap</small></div><span class="ft">1:09.249</span></div></td><td class="r tnum">—</td><td class="r">—</td></tr>',
-    source:'Result as reported by ThePapare. Only the top three and fastest lap were published; points shown are sample.'
+  resultSets:{
+    iame:{label:'IAME R5 Senior',
+      title:'IAME Series Sri Lanka · R5 Senior final <span class="sample warn">Sample</span>',col:'Driver',col2:'Time',
+      podium:[['Tharusha Perera','Senior final winner','15:42.318','#1fb6d6'],['Dinuk Abeysekara','2026 Senior champion','+0.412','#3cff1a'],['Rehan Mendis','SpeedBay Circuit','+1.905','#f2b705']],
+      rows:[['Tharusha Perera','15:42.318','25'],['Dinuk Abeysekara','+0.412','18'],['Rehan Mendis','+1.905','15'],['Nethuli Silva','+3.260','12',{c:'#e8202e',n:''}],['Pasindu Herath','+4.117','10',{c:'#8a5cf6',n:''}],['Ovin Samarasinghe','+6.844','8',{c:'#9aa29a',n:''}],['Lahiru Gamlath','+8.021','6',{c:'#9aa29a',n:''}],['Shenal Rodrigo','+9.550','4',{c:'#9aa29a',n:''}]],
+      extra:'<tr><td class="pos">FL</td><td><div class="drv"><i style="background:#3cff1a"></i><div>Dinuk Abeysekara<small>Fastest lap</small></div><span class="ft">1:01.874</span></div></td><td class="r tnum">—</td><td class="r">—</td></tr>',
+      source:'Sample result for the design preview: names, times and points are invented.'},
+    end:{label:'SWS Endurance',
+      title:'SWS Endurance Cup · Opener',col:'Team',col2:'Laps',
+      podium:[['Team Avant','3 hours · SpeedBay','126 laps','#3cff1a'],['Kartmen','16 teams started','','#1fb6d6'],['Velocity X Racing','SpeedBay Circuit','','#f2b705']],
+      rows:[['Team Avant','126','25'],['Kartmen','—','18'],['Velocity X Racing','—','15']],
+      extra:'<tr><td class="pos">FL</td><td><div class="drv"><i style="background:#8a5cf6"></i><div>Spark Racing<small>Fastest lap</small></div><span class="ft">1:09.249</span></div></td><td class="r tnum">—</td><td class="r">—</td></tr>',
+      source:'Result as reported by ThePapare. Only the top three and fastest lap were published; points shown are sample.'}
   },
-  standingsTabs:[['iame','IAME Senior'],['sws','SWS Senior']],
+  standingsTabs:[['iame','IAME Senior'],['iamej','IAME Junior'],['sws','SWS Senior']],
   standings:{
-    iame:[['Driver A','Senior',112,'#3cff1a'],['Driver B','Senior',104,'#1fb6d6'],['Driver C','Senior',91,'#f2b705'],['Driver D','Senior',77,'#e8202e'],['Driver E','Senior',63,'#8a5cf6'],['Driver F','Senior',52,'#9aa29a']],
-    sws:[['Driver G','Senior',68,'#3cff1a'],['Driver H','Senior',61,'#1fb6d6'],['Driver I','Senior',55,'#f2b705'],['Driver J','Senior',49,'#e8202e'],['Driver K','Senior',40,'#8a5cf6'],['Driver L','Senior',34,'#9aa29a']]
+    iame:[['Dinuk Abeysekara','Champion · 5 rounds',186,'#3cff1a'],['Tharusha Perera','Senior',171,'#1fb6d6'],['Rehan Mendis','Senior',158,'#f2b705'],['Nethuli Silva','Senior',133,'#e8202e'],['Pasindu Herath','Senior',117,'#8a5cf6'],['Ovin Samarasinghe','Senior',98,'#9aa29a']],
+    iamej:[['Arya Weerasinghe','Champion · 5 rounds',174,'#3cff1a'],['Dulain Wijesuriya','Junior',160,'#1fb6d6'],['Hasith Fernando','Junior',149,'#f2b705'],['Minul Gunasekara','Junior',121,'#e8202e'],['Sanuli Jayasena','Junior',104,'#8a5cf6'],['Kevin Fonseka','Junior',90,'#9aa29a']],
+    sws:[['Akash Ratnayake','Senior',142,'#3cff1a'],['Kaveesha Ekanayake','Senior',131,'#1fb6d6'],['Yohan de Mel','Senior',120,'#f2b705'],['Isuru Bandara','Senior',104,'#e8202e'],['Senal Kodikara','Senior',89,'#8a5cf6'],['Thisal Karunaratne','Senior',77,'#9aa29a']]
   },
   calTitle:'Sri Lanka 2026',
   cal:[
@@ -605,10 +650,10 @@ const SL={
     {s:'Supercross',r:'Race meet',d:'22–23 Aug',n:'Gajaba Supercross',l:'Saliyapura · Dirt',st:'done',tr:DIRT},
     {s:'IAME Sri Lanka',r:'Round 4',d:'19–20 Sep',n:'SpeedBay Circuit',l:'Bandaragama · Karting',st:'done',tr:SPEEDBAY},
     {s:'Supercross',r:'Race meet',d:'26–27 Sep',n:'Gunners Supercross',l:'Minneriya · Dirt',st:'done',tr:DIRT},
-    {s:'IAME Sri Lanka',r:'Round 5',d:'31 Oct–1 Nov',n:'SpeedBay Circuit',l:'Bandaragama · Karting',st:'live',tr:SPEEDBAY}
+    {s:'IAME Sri Lanka',r:'Round 5',d:'31 Oct–1 Nov',n:'SpeedBay Circuit',l:'Bandaragama · Karting',st:'done',tr:SPEEDBAY}
   ],
   calSource:'Dates from IAME Motorsport, ThePapare and the National Sports Calendar 2026. Some supercross dates and venues differ between sources, so check with organisers before publishing.',
-  tv:[['SpeedBay race-day live','Planned · karting weekends',100],['Supercross live updates','Planned · every race meet',30],['Paddock debrief','Planned · Sunday nights',200]]
+  tv:[['SpeedBay race-day live','Planned · karting weekends',100,'assets/sl/apex-tv-kart.webp'],['Supercross live updates','Planned · every race meet',30,'assets/sl/apex-tv-sx.webp'],['Paddock debrief','Planned · Sunday nights',200,'assets/sl/apex-tv-studio.webp']]
 };
 
 /* ================= INTERNATIONAL EDITION (sample) ================= */
@@ -693,10 +738,10 @@ function render(){
   $('#weekend').innerHTML=D.weekend;
   const L=D.lead;
   $('#lead').innerHTML=`<div class="ph" data-h="${L.h}" data-n="${L.n}" data-img="${L.img||''}"><span class="tag g">${L.tag}</span></div>
-    <div class="lead-body"><div class="meta"><span class="eyebrow" style="color:var(--green)">${L.eyebrow}</span><span>· ${L.ago}</span></div><h1>${L.t}</h1><p>${L.d}</p></div>`;
-  const la=$('#lead'); la.href=L.url||'#latest';
+    <div class="lead-body"><div class="meta"><span class="eyebrow" style="color:var(--green)">${L.eyebrow}</span><span>· ${L.ago}</span>${L.sample?'<span class="sample warn">Sample</span>':''}</div><h1>${L.t}</h1><p>${L.d}</p></div>`;
+  const la=$('#lead'); la.href=L.url||'#latest'; if(L.b)la.dataset.sid=sid(L); else delete la.dataset.sid;
   if(L.url){la.target='_blank';la.rel='noopener';}else{la.removeAttribute('target');la.removeAttribute('rel');}
-  $('#rail').innerHTML=D.rail.map(r=>`<a class="rail-item" ${lk(r.url,'#latest')}><div class="ph" data-h="${r.h}" data-img="${r.img||''}"></div><div><span class="eyebrow" style="color:var(--green-ink)">${r.c}</span><h3>${r.t}</h3><div class="meta">${r.a}</div></div></a>`).join('');
+  $('#rail').innerHTML=D.rail.map(r=>`<a class="rail-item" ${lk(r.url,'#latest')}${r.b?` data-sid="${sid(r)}"`:''}><div class="ph" data-h="${r.h}" data-img="${r.img||''}"></div><div><span class="eyebrow" style="color:var(--green-ink)">${r.c}</span><h3>${r.t}</h3><div class="meta">${r.a}${r.sample?' <span class="sample warn">Sample</span>':''}</div></div></a>`).join('');
 
   $('#newsTitle').textContent=D.newsTitle;
   $('#newsSource').textContent=D.newsSource||'';
@@ -740,7 +785,7 @@ function render(){
   $('#cal').innerHTML=D.cal.map((c,i)=>`<div class="round ${c.st||''}"><span class="series-tag">${c.s}</span><span class="rn">${c.r}${c.st==='next'?' · Next':''}${c.st==='live'?' · This weekend':''}</span><span class="dates">${c.d}</span><h4>${c.n}</h4><p>${c.l}</p><svg class="trackline" viewBox="0 0 100 46" aria-hidden="true"><path d="${c.tr||tracks[i%tracks.length]}"/></svg></div>`).join('');
   requestAnimationFrame(()=>{const n=document.querySelector('.round.next,.round.live');const cal=$('#cal');cal.scrollLeft=n?n.offsetLeft-cal.offsetLeft-cal.clientWidth+n.clientWidth+16:0;});
 
-  $('#tvList').innerHTML=D.tv.map(t=>`<div class="tv-item"><div class="ph" data-h="${t[2]}"></div><div><b>${t[0]}</b><span>${t[1]}</span></div></div>`).join('');
+  $('#tvList').innerHTML=D.tv.map(t=>`<div class="tv-item"><div class="ph" data-h="${t[2]}" data-img="${t[3]||''}"></div><div><b>${t[0]}</b><span>${t[1]}</span></div></div>`).join('');
   document.querySelectorAll('#lead .ph, #rail .ph, #tvList .ph').forEach(paint);
 
   clearInterval(cdTimer);
@@ -780,7 +825,7 @@ function renderNews(D){
   cats=['All',...cats];
   if(!cats.includes(newsCat))newsCat='All';
   $('#filters').innerHTML=cats.map(c=>`<button type="button" aria-pressed="${c===newsCat}" data-c="${c}">${c}</button>`).join('');
-  $('#newsGrid').innerHTML=D.news.filter(n=>newsCat==='All'||n.c===newsCat).map(n=>`<a class="card" ${lk(n.url,'#news')}><div class="ph" data-h="${n.h}" data-n="${n.n}" data-img="${n.img||''}"></div><div class="card-body"><span class="tag">${n.c}</span><h3>${n.t}</h3><div class="meta">${n.a}</div></div></a>`).join('');
+  $('#newsGrid').innerHTML=D.news.filter(n=>newsCat==='All'||n.c===newsCat).map(n=>`<a class="card" ${lk(n.url,'#news')}${n.b?` data-sid="${sid(n)}"`:''}><div class="ph" data-h="${n.h}" data-n="${n.n}" data-img="${n.img||''}"></div><div class="card-body"><span class="tag">${n.c}</span><h3>${n.t}</h3><div class="meta">${n.a}${n.sample?' <span class="sample warn">Sample</span>':''}</div></div></a>`).join('');
   document.querySelectorAll('#newsGrid .ph').forEach(paint);
 }
 function renderStandings(D){
@@ -802,6 +847,11 @@ document.querySelector('.edition').addEventListener('click',e=>{const b=e.target
 if(location.hash==='#international')ED='int';
 else if(location.hash==='#srilanka')ED='sl';
 else{try{const s=localStorage.getItem('apexEd');if(s==='sl'||s==='int')ED=s;}catch(x){}}
+const STORIES=[];function sid(x){let i=STORIES.indexOf(x);if(i<0){STORIES.push(x);i=STORIES.length-1;}return i;}
+document.addEventListener('click',e=>{const a=e.target.closest('[data-sid]');if(!a)return;const x=STORIES[+a.dataset.sid];if(!x)return;e.preventDefault();
+  const d=$('#story');d.innerHTML=`<button type="button" class="story-close" aria-label="Close story">Close ✕</button>${x.img?`<div class="ph" data-h="${x.h||100}" data-img="${x.img}"></div>`:''}<div class="story-body"><div class="meta"><span class="eyebrow" style="color:var(--green-ink)">${x.eyebrow||x.c||''}</span><span>${x.ago||x.a||''}</span>${x.sample?'<span class="sample warn">Sample story</span>':''}</div><h2>${x.t}</h2>${x.b.map(p=>`<p>${p}</p>`).join('')}<p class="src">${x.sample?'Sample content: the people, results and details in this story are invented for the design preview.':(x.src||'')}${x.img?' Image: AI-generated illustration (Google Gemini).':''}</p></div>`;
+  d.querySelectorAll('.ph').forEach(paint);d.showModal();});
+$('#story').addEventListener('click',e=>{const d=$('#story');if(e.target===d||e.target.closest('.story-close'))d.close();});
 render();
 loadLive();
 
