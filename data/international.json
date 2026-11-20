@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:17:28.420Z",
+ "updated": "2026-11-20T01:46:23.951Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,7 +147,7 @@
   }
  ],
  "bySeries": {
-  "F1": 16,
+  "F1": 15,
   "WRC": 12,
   "NASCAR": 15,
   "MotoGP": 15,
@@ -165,6 +164,96 @@
  },
  "items": [
   {
+   "title": "Wet conditions limit running in FP1 at Las Vegas Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/fp1-wet-conditions-limit-running-in-first-practice-at-las-vegas-grand-prix.7H085JgIW1k8jM3ysejVqJ",
+   "source": "Formula1.com",
+   "date": "2026-11-20T01:46:23.951Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Rain at the Las Vegas Grand Prix led to a quiet first practice session on Thursday.",
+   "image": null
+  },
+  {
+   "title": "Komatsu insists there is 'no doubt' over Bearman’s Haas seat",
+   "url": "https://www.formula1.com/en/latest/article/komatsu-insists-there-is-no-doubt-over-bearmans-2027-haas-seat-after-britons-frustrations.1lCOdGv5mDv2FcqDshxnYB",
+   "source": "Formula1.com",
+   "date": "2026-11-20T01:46:23.951Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ollie Bearman voiced his frustrations over the delay in confirming his Haas seat for next season.",
+   "image": null
+  },
+  {
+   "title": "LIVE COVERAGE: First practice for the Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-las-vegas-2026.6znaP19Dx0zBrPVStcB2BP",
+   "source": "Formula1.com",
+   "date": "2026-11-20T01:46:23.951Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Live coverage of Thursday's first practice session for the 2026 Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Sainz handed grid penalty for Las Vegas Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/sainz-handed-grid-penalty-for-las-vegas-grand-prix-after-turbo-change.hKQ2ZkbOHVlu58FKLxMca",
+   "source": "Formula1.com",
+   "date": "2026-11-20T01:46:23.951Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Williams driver Carlos Sainz will serve a grid penalty for this weekend's Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "No times set at all in Las Vegas FP1 washout",
+   "url": "https://www.the-race.com/formula-1/no-times-set-at-all-in-las-vegas-fp1-washout/",
+   "source": "The Race",
+   "date": "2026-11-20T01:31:48.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Heavy rain meant Formula 1's Las Vegas Grand Prix got off to a bizarre start with no actual laptimes set at all in the first of Thursday evening's practice sessions",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1454628_HiRes.jpg"
+  },
+  {
+   "title": "F1 2026 Las Vegas Grand Prix practice results",
+   "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-practice-results/",
+   "source": "The Race",
+   "date": "2026-11-20T01:30:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "All the results from F1's 2026 Las Vegas Grand Prix practice sessions",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1454643_HiRes.jpg"
+  },
+  {
+   "title": "Lando Norris confident F1 would not \"put us at risk\" in the Middle East",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-confident-f1-would-not-put-us-at-risk-in-the-middle-east/10875771/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T01:19:15.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "2025 Formula 1 champion Lando Norris says he has no concerns about the final two races of the season in the Middle East, insisting the championship would not put its drivers and teams at risk. After this weekend's race…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6grQk1aY/s6/lando-norris-mclaren-a10875771-b706-2.jpg"
+  },
+  {
+   "title": "F1 Academy announces Apple TV streaming partnership for US from 2027",
+   "url": "https://www.motorsport.com/f1-academy/news/f1-academy-announces-apple-tv-streaming-partnership-for-us-from-2027/10875765/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T00:53:29.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 Academy, which was launched as a Formula 4-level series in 2023, will be shown on Apple TV in the United States from 2027, as the tech giant expands its Formula 1 coverage. Apple and F1 Academy announced on Thursday…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YP7r37A2/s6/joanne-ciconte-mp-motorsport-l-a10875765-b708-2.jpg"
+  },
+  {
+   "title": "Nike joins F1 as apparel partner",
+   "url": "https://www.autosport.com/f1/news/nike-joins-f1-as-apparel-partner/10875757/",
+   "source": "Autosport",
+   "date": "2026-11-20T00:24:50.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Athletic apparel giant Nike has joined F1 as its official partner and uniform supplier, taking over from Puma at the start of 2027. As was long rumoured, Nike will start supplying F1 personnel with apparel and footwear…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6O7zEMP6/s6/nike-x-formula-1.jpg"
+  },
+  {
    "title": "Formula 1 and Nike join forces in long-term partnership",
    "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd",
    "source": "Formula1.com",
@@ -172,16 +261,6 @@
    "series": "F1",
    "result": false,
    "summary": "Formula 1 welcomes Nike as an Official Partner from 2027 in a deal that will see the sports and lifestyle brand become F1’s Official Apparel and Uniform Supplier as part of a long-term partnership.",
-   "image": null
-  },
-  {
-   "title": "Piastri opens up on decision to split with management team",
-   "url": "https://www.formula1.com/en/latest/article/it-felt-like-the-time-was-right-for-something-new-piastri-opens-up-on-decision-to-split-with-management-team.4v3F2IJjTzAoRC9OIkyLgG",
-   "source": "Formula1.com",
-   "date": "2026-11-20T00:17:28.420Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oscar Piastri has reflected on the decision to part ways with his management team, led by nine-time Grand Prix winner Mark Webber and his partner Ann Webber.",
    "image": null
   },
   {
@@ -203,16 +282,6 @@
    "result": false,
    "summary": "Rafael Camara is still unsure whether he’ll finish the 2026 F1 season with Haas or return to F2 for the final two rounds.",
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454298_hires.jpg?width=1200"
-  },
-  {
-   "title": "F1 Las Vegas Grand Prix LIVE: Updates from Friday practice in the US",
-   "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-friday-practice-us",
-   "source": "Crash.net",
-   "date": "2026-11-19T23:04:53.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live coverage of the Friday practice sessions at the 2026 F1 Las Vegas Grand Prix, round 21 of the season.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454246_hires.jpg?width=1200"
   },
   {
    "title": "Lewis Hamilton backs V8 return, hits out at 2026 engines “dying” on straights",
@@ -273,46 +342,6 @@
    "result": false,
    "summary": "Ty Gibbs will compete in the Australian Touring Car Classics (ATCC) on December 4-6 at Sandown International Motor Raceway in Springvale, Victoria, Australia. Gibbs, the grandson of NASCAR Hall of Fame team owner and 3x…",
    "image": "https://cdn-1.motorsport.com/images/amp/0Lderpv0/s6/tygibbs.jpg"
-  },
-  {
-   "title": "FIA announces major Formula 1 stewarding change for 2027",
-   "url": "https://www.crash.net/f1/news/1110202/1/fia-announces-major-formula-1-stewarding-change-2027",
-   "source": "Crash.net",
-   "date": "2026-11-19T20:30:28.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA is working to introduce full-time stewards next year",
-   "image": "https://www.crash.net/sites/default/files/2026-10/xpb_1418260_hires.jpg?width=1200"
-  },
-  {
-   "title": "What could shake up the Las Vegas betting markets?",
-   "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-las-vegas-grand-prix.23xD9tDM6jLn41uH4otMbZ",
-   "source": "Formula1.com",
-   "date": "2026-11-19T20:28:30.618Z",
-   "series": "F1",
-   "result": false,
-   "summary": "After the lights go out in Las Vegas, clued-up bettors will be poised to make smart betting decisions in real-time markets.",
-   "image": null
-  },
-  {
-   "title": "Major F1 stewarding revamp coming for 2027",
-   "url": "https://www.the-race.com/formula-1/f1-to-use-full-time-stewards-from-2027/",
-   "source": "The Race",
-   "date": "2026-11-19T20:23:09.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Full-time stewards will be used in Formula 1 for the first time from the 2027 F1 season",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1439729_HiRes.jpg"
-  },
-  {
-   "title": "Oscar Piastri addresses management plans after Mark Webber split",
-   "url": "https://www.motorsport.com/f1/news/oscar-piastri-addresses-management-plans-after-mark-webber-split/10875654/",
-   "source": "Motorsport.com",
-   "date": "2026-11-19T19:08:32.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "McLaren Formula 1 driver Oscar Piastri says his upcoming management structure is yet to be defined, after his partnership with managers Ann and Mark Webber was terminated. Piastri put out a joint press release on 9…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6zoDBPe0/s6/oscar-piastri-mclaren-2.jpg"
   },
   {
    "title": "Jorge Martin reveals mindset ahead of potential MotoGP title decider in Portugal",
@@ -395,26 +424,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgOdKY/s6/fan-vote-editorial.jpg"
   },
   {
-   "title": "All the stories that got the Las Vegas paddock talking",
-   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-las-vegas-paddock-talking.4DclxlWGaLDwKgzLpfAvuz",
-   "source": "Formula1.com",
-   "date": "2026-11-19T15:28:55.242Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lawrence Barretto delves into the key talking points from Wednesday at the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Video: FIA reveals how Formula 1 race control takes decisions during an event",
-   "url": "https://www.racefans.net/2026/11/19/video-fia-reveals-how-formula-1-race-control-takes-decisions-during-an-event/",
-   "source": "RaceFans",
-   "date": "2026-11-19T15:26:31.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "FIA reveals what goes on inside race control during a grand prix",
-   "image": null
-  },
-  {
    "title": "Why Ducati Portimao seat is like a \"dream\" for Iker Lecuona: \"I've gone through hell\"",
    "url": "https://www.motorsport.com/motogp/news/lecuona-estoy-viviendo-un-sueno-y-como-un-nino-he-comido-mucha-mierda-en-estos-anos-/10875646/",
    "source": "Motorsport.com",
@@ -433,26 +442,6 @@
    "result": false,
    "summary": "Maverick Vinales does not have a seat for next season in MotoGP, but he is reluctant to accept that his racing career is over and is considering the possibility of becoming a reserve rider. Motorsport.com revealed last…",
    "image": "https://cdn-1.motorsport.com/images/amp/2y7Q8Kn6/s6/maverick-vinales-tech3-ktm-en-.jpg"
-  },
-  {
-   "title": "Why Cadillac have stuck with Bottas for 2027",
-   "url": "https://www.formula1.com/en/latest/article/analysis-why-cadillac-have-stuck-with-bottas-for-2027.7vPHYNkm1aup0szRFaVYyd",
-   "source": "Formula1.com",
-   "date": "2026-11-19T14:31:14.799Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Cadillac believe experience in the cockpit is key as they look to level up in their second season in Formula 1 in 2027, which is why they have opted to keep Valtteri Bottas alongside Sergio Perez next season.",
-   "image": null
-  },
-  {
-   "title": "Facts, stats and trivia ahead of the 2026 Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-las-vegas-grand-prix.6ynxQ4e9Z7F1o2Uijhh1FK",
-   "source": "Formula1.com",
-   "date": "2026-11-19T14:31:14.799Z",
-   "series": "F1",
-   "result": false,
-   "summary": "As F1 prepares for the Las Vegas Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
-   "image": null
   },
   {
    "title": "Autosport magazine: Kimi Antonelli – world champion",
@@ -553,16 +542,6 @@
    "result": false,
    "summary": "“The Gen4 is incredibly fast and a lot of fun to drive. I think it will be a real eye-opener for many fans and observers,” said Pascal Wehrlein a few months ago, when Formula E unveiled its new car. But now the wait is…",
    "image": "https://cdn-1.motorsport.com/images/amp/2eZxkgbY/s6/felipe-drugovich-andretti-form-2.jpg"
-  },
-  {
-   "title": "Mir’s MotoGP return delayed as health concerns continue",
-   "url": "https://www.the-race.com/motogp/mirs-motogp-return-delayed-as-health-concerns-continue/",
-   "source": "The Race",
-   "date": "2026-11-18T14:06:01.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Joan Mir will miss MotoGP’s Portuguese Grand Prix this weekend on medical advice",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1358687_HiRes.jpg"
   },
   {
    "title": "Pedro Acosta: It is \"too early\" to think about winning 2027 MotoGP title",
@@ -823,6 +802,16 @@
    "result": false,
    "summary": "Francesco Bagnaia will be absent from this weekend’s Portuguese Grand Prix as he continues his recovery from an injury he sustained during the Qatar MotoGP weekend. The factory Ducati rider fractured his foot after…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
+  },
+  {
+   "title": "Andrea Dovizioso: Marco Bezzecchi and Aprilia threw away 2026 MotoGP title",
+   "url": "https://www.motorsport.com/motogp/news/andrea-dovizioso-marco-bezzecchi-and-aprilia-threw-away-2026-motogp-title/10874761/",
+   "source": "Motorsport.com",
+   "date": "2026-11-16T10:42:06.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Former MotoGP star Andrea Dovizioso believes Marco Bezzecchi and Aprilia have \"thrown away\" the 2026 title, arguing the RS-GP has been more competitive than Marc Marquez's Ducati GP26. The Qatar Grand Prix reignited the…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YpbAzqX0/s6/marco-bezzecchi-aprilia-racing-2.jpg"
   },
   {
    "title": "EKN Trackside: Superkarts! USA SuperNationals 29 – SuperSunday Report",
