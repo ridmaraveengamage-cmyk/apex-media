@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:17:16.990Z",
+ "updated": "2026-11-20T00:17:28.420Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -147,7 +148,7 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
+  "F1": 16,
   "WRC": 12,
   "NASCAR": 15,
   "MotoGP": 15,
@@ -163,6 +164,56 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Formula 1 and Nike join forces in long-term partnership",
+   "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd",
+   "source": "Formula1.com",
+   "date": "2026-11-20T00:17:28.420Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 1 welcomes Nike as an Official Partner from 2027 in a deal that will see the sports and lifestyle brand become F1’s Official Apparel and Uniform Supplier as part of a long-term partnership.",
+   "image": null
+  },
+  {
+   "title": "Piastri opens up on decision to split with management team",
+   "url": "https://www.formula1.com/en/latest/article/it-felt-like-the-time-was-right-for-something-new-piastri-opens-up-on-decision-to-split-with-management-team.4v3F2IJjTzAoRC9OIkyLgG",
+   "source": "Formula1.com",
+   "date": "2026-11-20T00:17:28.420Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Oscar Piastri has reflected on the decision to part ways with his management team, led by nine-time Grand Prix winner Mark Webber and his partner Ann Webber.",
+   "image": null
+  },
+  {
+   "title": "Nike to return to F1 after 24 years",
+   "url": "https://www.the-race.com/business/nike-to-return-to-f1-after-24-years/",
+   "source": "The Race",
+   "date": "2026-11-20T00:00:06.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Nike will supply F1 staff and release F1-branded merchandise as part of its new partnership",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/nike-f1-1.jpg"
+  },
+  {
+   "title": "Rafa Camara still unsure about finishing 2026 F1 season",
+   "url": "https://www.crash.net/f1/news/1110206/1/rafa-camara-still-unsure-about-finishing-2026-f1-season",
+   "source": "Crash.net",
+   "date": "2026-11-19T23:54:18.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Rafael Camara is still unsure whether he’ll finish the 2026 F1 season with Haas or return to F2 for the final two rounds.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454298_hires.jpg?width=1200"
+  },
+  {
+   "title": "F1 Las Vegas Grand Prix LIVE: Updates from Friday practice in the US",
+   "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-friday-practice-us",
+   "source": "Crash.net",
+   "date": "2026-11-19T23:04:53.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Live coverage of the Friday practice sessions at the 2026 F1 Las Vegas Grand Prix, round 21 of the season.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454246_hires.jpg?width=1200"
+  },
   {
    "title": "Lewis Hamilton backs V8 return, hits out at 2026 engines “dying” on straights",
    "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backs-v8-return-hits-out-at-engines-dying-on-straights/10875488/",
@@ -191,16 +242,6 @@
    "series": "F1",
    "result": false,
    "summary": "A new department of full-time stewards will be gradually introduced from the 2027 season.",
-   "image": null
-  },
-  {
-   "title": "'I want to fight for the victory' in Las Vegas – Russell",
-   "url": "https://www.formula1.com/en/latest/article/i-want-to-fight-for-the-victory-russell-confident-in-his-las-vegas-chances-as-he-opens-up-on-call-not-to-take-new-turbo.7umaum2qrpemrxRVZhHfEN",
-   "source": "Formula1.com",
-   "date": "2026-11-19T22:22:42.574Z",
-   "series": "F1",
-   "result": true,
-   "summary": "George Russell states he wants \"to fight for the victory and I think we can do it\" in this weekend's Las Vegas Grand Prix, having decided against taking a new turbo for his Mercedes.",
    "image": null
   },
   {
@@ -412,36 +453,6 @@
    "result": false,
    "summary": "As F1 prepares for the Las Vegas Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
    "image": null
-  },
-  {
-   "title": "Everything you need to know about the Las Vegas Strip Circuit",
-   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-las-vegas-strip-circuit.1W9ULMy0aEkvfsJ9tRzItg",
-   "source": "Formula1.com",
-   "date": "2026-11-19T14:31:14.799Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Get up to speed with all the key Las Vegas statistics, driving pointers, facts and more.",
-   "image": null
-  },
-  {
-   "title": "Camara offers update on plans for final races of 2026",
-   "url": "https://www.formula1.com/en/latest/article/camara-looks-ahead-to-second-f1-outing-and-offers-update-on-plans-for-final-races.75aokJ7GXrP44nJ1p7NZbv",
-   "source": "Formula1.com",
-   "date": "2026-11-19T14:31:14.799Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Rafael Camara reflects on his F1 debut in Brazil as he prepares for the Las Vegas Grand Prix, with his plans for Qatar and Abu Dhabi still undecided.",
-   "image": null
-  },
-  {
-   "title": "New F1 season ticket winner revealed",
-   "url": "https://www.the-race.com/extra/new-f1-season-ticket-winner-revealed/",
-   "source": "The Race",
-   "date": "2026-11-19T14:01:51.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Czech fan Lukas Chalabala has been revealed as the winner of the Heineken x F1 Season Ticket for 2027 at the Las Vegas Grand Prix",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Heineken_F1_LasVegas_SeasonTicket2027-1.jpg"
   },
   {
    "title": "Autosport magazine: Kimi Antonelli – world champion",
