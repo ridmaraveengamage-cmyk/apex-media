@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:58:05.832Z",
+ "updated": "2026-11-20T11:55:14.416Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,8 +148,8 @@
  ],
  "bySeries": {
   "F1": 15,
-  "WEC": 15,
   "MotoGP": 15,
+  "WEC": 15,
   "WRC": 12,
   "NASCAR": 15,
   "IndyCar": 8,
@@ -163,6 +163,116 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Cadillac CEO Towriss on Herta’s future and Bottas’ extension",
+   "url": "https://www.formula1.com/en/latest/article/cadillac-ceo-towriss-gives-update-on-hertas-future-as-he-explains-why-the-team-opted-for-bottas-extension.6e7buM26RfuQSk1VzmqY6b",
+   "source": "Formula1.com",
+   "date": "2026-11-20T11:55:14.416Z",
+   "series": "F1",
+   "result": false,
+   "summary": "With Cadillac opting to retain Valtteri Bottas for 2027 rather than promoting Colton Herta, CEO Dan Towriss has explained what the next steps might be for the American driver.",
+   "image": null
+  },
+  {
+   "title": "Aron leaves Alpine as Vesti doubles up in reserve role",
+   "url": "https://www.formula1.com/en/latest/article/aron-leaves-alpine-as-vesti-doubles-up-in-reserve-role-for-enstone-squad.78ZKSJQKTokE51DkFvRY2B",
+   "source": "Formula1.com",
+   "date": "2026-11-20T11:55:14.416Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes reserve driver Fred Vesti will take on additional reserve duties at Alpine for the final three races of 2026 following Paul Aron's departure from the team.",
+   "image": null
+  },
+  {
+   "title": "What the teams said – Thursday in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-thursday-in-las-vegas-2026.4jnMZFzCSpX9y63f0rmnQW",
+   "source": "Formula1.com",
+   "date": "2026-11-20T11:55:14.416Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend.",
+   "image": null
+  },
+  {
+   "title": "Alpine ‘hopeful’ after Gasly earns P2 during second practice",
+   "url": "https://www.formula1.com/en/latest/article/alpine-feeling-hopeful-after-gasly-earns-p2-during-second-practice-in-las-vegas.3Iac1ObpdCLCHGU5rWCNXO",
+   "source": "Formula1.com",
+   "date": "2026-11-20T11:55:14.416Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Alpine's Pierre Gasly caught the eye by slotting into P2 on the timesheets during Thursday's second practice session at the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Hamilton reflects on Ferrari's practice running in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/a-couple-of-good-findings-hamilton-reflects-on-ferraris-wet-practice-running-in-las-vegas.4lQStkjoi1h32oQJng6ZMm",
+   "source": "Formula1.com",
+   "date": "2026-11-20T11:55:14.416Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton believes himself and Ferrari made \"a couple of good findings\" during a wet day of practice ahead of the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Red Bull working to fix Verstappen's Vegas practice issues",
+   "url": "https://www.formula1.com/en/latest/article/red-bull-working-to-understand-and-fix-verstappens-balance-issues-after-tricky-las-vegas-practice.2CbSLmEnwmgW8h0V1Ujr03",
+   "source": "Formula1.com",
+   "date": "2026-11-20T11:55:14.416Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Pierre Wache explains Max Verstappen's balance and energy management issues after a difficult Thursday in Las Vegas, with Red Bull working on solutions.",
+   "image": null
+  },
+  {
+   "title": "Aprilia 1-2 to begin Portugal MotoGP weekend",
+   "url": "https://www.the-race.com/motogp/aprilia-1-2-to-begin-portugal-motogp-weekend/",
+   "source": "The Race",
+   "date": "2026-11-20T11:39:22.000Z",
+   "series": "MotoGP",
+   "result": true,
+   "summary": "Marco Bezzecchi led an Aprilia 1-2 in the opening MotoGP session of the penultimate round of the 2026 season",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363066_HiRes.jpg"
+  },
+  {
+   "title": "How the F1 2026 regulations neutered Oscar Piastri's \"real strength\"",
+   "url": "https://www.motorsport.com/f1/news/how-the-f1-2026-regulations-neutered-oscar-piastris-real-strength/10875907/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T11:30:03.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "McLaren boss Zak Brown reckons Oscar Piastri’s struggles in the 2026 Formula 1 season stem from high-speed corners being his strength - but the new cars require a different technique. F1 introduced its latest regulation…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0qgKkE4Y/s6/oscar-piastri-mclaren.jpg"
+  },
+  {
+   "title": "Piastri needed to curb his speed through quick corners – Brown",
+   "url": "https://www.racefans.net/2026/11/20/piastri-needed-to-curb-his-speed-through-quick-corners-brown/",
+   "source": "RaceFans",
+   "date": "2026-11-20T11:29:40.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Oscar Piastri's struggles in 2026 stem from him taking too much speed through high-speed corners, according to McLaren CEO Zak Brown.",
+   "image": null
+  },
+  {
+   "title": "New autobiography to detail remarkable F1 crash and recovery",
+   "url": "https://www.the-race.com/extra/new-autobiography-to-detail-remarkable-f1-crash-and-recovery/",
+   "source": "The Race",
+   "date": "2026-11-20T11:29:05.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Martin Donnelly will recount his horrific F1 crash and remarkable recovery in a new autobiography, following renewed interest sparked by F1: The Movie.",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1027353_HiRes.jpg"
+  },
+  {
+   "title": "Spotlight: Donnelly to publish autobiography with contributions from Hamilton and Pitt",
+   "url": "https://www.racefans.net/2026/11/20/spotlight-donnelly-to-publish-autobiography-with-contributions-from-hamilton-and-pitt/",
+   "source": "RaceFans",
+   "date": "2026-11-20T11:05:09.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Hamilton and Pitt contribute to new Donnelly autobiography",
+   "image": null
+  },
   {
    "title": "Russell admits Mercedes lacking pace despite topping FP2",
    "url": "https://www.formula1.com/en/latest/article/we-probably-were-not-the-fastest-russell-admits-mercedes-lacking-pace-despite-topping-fp2-in-las-vegas.6t2XX2vWPRCohJvtJ5PLeu",
@@ -191,16 +301,6 @@
    "series": "F1",
    "result": false,
    "summary": "George Russell claimed top spot in Free Practice 2 ahead of the Las Vegas Grand Prix, the Mercedes driver beating Alpine's Pierre Gasly and Ferrari's Charles Leclerc.",
-   "image": null
-  },
-  {
-   "title": "Antonelli, Bearman and Stroll set for penalties in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-bearman-and-stroll-set-for-grid-penalties-at-las-vegas-grand-prix.37Vixk6Mt1gvZlVXDsO8S",
-   "source": "Formula1.com",
-   "date": "2026-11-20T10:58:05.832Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Kimi Antonelli, Ollie Bearman and Lance Stroll have joined the list of drivers set to be hit with grid penalties at the Las Vegas Grand Prix.",
    "image": null
   },
   {
@@ -234,56 +334,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6lmAlV80/s6/flavio-briatore-alpine.jpg"
   },
   {
-   "title": "Liam Lawson mocks reality star after claiming he could beat F1 driver in a race",
-   "url": "https://www.crash.net/f1/news/1110290/1/liam-lawson-mocks-reality-star-after-claiming-he-could-beat-f1-driver-race",
-   "source": "Crash.net",
-   "date": "2026-11-20T10:38:23.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Liam Lawson shoots down reality star Jamie Laing's claim he could beat F1 driver in a go-kart race.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/si202611200051.jpg?width=1200"
-  },
-  {
-   "title": "“He’s decided on a direction”: Cadillac offered reserve role to “disappointed” Herta",
-   "url": "https://www.racefans.net/2026/11/20/hes-decided-on-a-direction-cadillac-offered-reserve-role-to-disappointed-herta/",
-   "source": "RaceFans",
-   "date": "2026-11-20T10:33:06.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Cadillac has offered Colton Herta a reserve driver role for next season after choosing not to promote him to a race seat for 2027.",
-   "image": null
-  },
-  {
-   "title": "\"It was scary at 100km/h\" - F1 drivers shocked by Las Vegas 'ice rink'",
-   "url": "https://www.motorsport.com/f1/news/it-was-scary-at-100km-h-f1-drivers-shocked-by-las-vegas-ice-rink/10875954/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T10:08:40.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "With rain affecting Thursday's Las Vegas Grand Prix running on the low-grip street circuit around the Strip, the biggest takeaway was not who was fastest, but the impressive fact that every Formula 1 driver kept it out…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8El2/s6/arvid-lindblad-racing-bulls.jpg"
-  },
-  {
-   "title": "Abnormal Las Vegas GP practice leaves F1 teams heading into the unknown",
-   "url": "https://www.crash.net/f1/news/1110283/1/abnormal-las-vegas-gp-practice-leaves-f1-teams-heading-unknown",
-   "source": "Crash.net",
-   "date": "2026-11-20T10:06:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 teams are in the dark heading into qualifying and the race at the Las Vegas Grand Prix.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454662_hires.jpg?width=1200"
-  },
-  {
-   "title": "Las Vegas F1 track is “not made for these conditions” – Bearman",
-   "url": "https://www.racefans.net/2026/11/20/las-vegas-f1-track-is-not-made-for-these-conditions-bearman/",
-   "source": "RaceFans",
-   "date": "2026-11-20T09:44:22.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oliver Bearman says the rain which made driving impossible in Las Vegas today wouldn't have been a problem at other tracks.",
-   "image": null
-  },
-  {
    "title": "Marc Marquez nervous about expected MotoGP coronation: \"I see risks everywhere\"",
    "url": "https://www.motorsport.com/motogp/news/frimarc-marquez-nervous-about-expected-motogp-coronation-i-see-risks-everywhere/10875700/",
    "source": "Motorsport.com",
@@ -292,46 +342,6 @@
    "result": false,
    "summary": "Marc Marquez has another opportunity to clinch the 2026 MotoGP title this Saturday, but warns that he sees risks everywhere as he approaches a decisive weekend. Marquez only needs to score 14 points at the Portuguese…",
    "image": "https://cdn-1.motorsport.com/images/amp/2eZxwBbY/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "George Russell impressed by \"exceptionally fast\" McLaren as rain delays Lando Norris' floor test",
-   "url": "https://www.motorsport.com/f1/news/george-russell-impressed-by-exceptionally-fast-mclaren-as-rain-delays-lando-norris-floor-test/10875966/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T09:31:14.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell came out of nowhere to set the fastest time in the closing stages of the second Formula 1 practice session in Las Vegas, although Alpine driver Pierre Gasly almost caused a major surprise by beating him…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2dEolNeY/s6/lando-norris-mclaren.jpg"
-  },
-  {
-   "title": "Wet Las Vegas practice was like a cold, miserable day karting at Rowrah – Hamilton",
-   "url": "https://www.racefans.net/2026/11/20/wet-las-vegas-practice-was-like-a-cold-miserable-day-karting-at-rowrah-hamilton/",
-   "source": "RaceFans",
-   "date": "2026-11-20T09:09:46.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton said the rain-hit practice session at Las Vegas reminded him of his early days karting in the north of England.",
-   "image": null
-  },
-  {
-   "title": "Lewis Hamilton shares fresh update on Ferrari contract situation: \"No need to think about it\"",
-   "url": "https://www.crash.net/f1/news/1110273/1/lewis-hamilton-shares-fresh-update-ferrari-contract-situation-no-need-think-about",
-   "source": "Crash.net",
-   "date": "2026-11-20T08:42:38.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton provides a fresh update on his Ferrari F1 contract situation.",
-   "image": "https://www.crash.net/sites/default/files/2026-10/xpb_1444055_hires.jpg?width=1200"
-  },
-  {
-   "title": "Palmowski makes history as she secures pole in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-makes-history-as-she-secures-her-final-pole-position-around-las-vegas.1n8CvOtY14APLOTC3pzBrL",
-   "source": "Formula1.com",
-   "date": "2026-11-20T08:39:44.564Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Red Bull Racing's Alisha Palmowski secured pole position for the F1 ACADEMY Las Vegas Feature Race.",
-   "image": null
   },
   {
    "title": "How Marc Marquez can win the 2026 MotoGP title in Portimao sprint",
@@ -752,16 +762,6 @@
    "result": false,
    "summary": "This is a rookie season Connor Zilisch would certainly like to forget. The only trophy he earned in the Cup Series was the Rookie of the Year trophy, where he was the only candidate. It was a bit strange as well with…",
    "image": "https://cdn-1.motorsport.com/images/amp/01QdVKr0/s6/connor-zilisch-trackhouse-raci.jpg"
-  },
-  {
-   "title": "Aprilia's 2027 MotoGP bike front 'wing' aero explained",
-   "url": "https://www.motorsport.com/motogp/news/2027-aprilia-850cc-aerodynamics-front-wing/10874766/",
-   "source": "Motorsport.com",
-   "date": "2026-11-16T16:32:20.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Aprilia appears to set focus heavily on aerodynamics at the start of MotoGP's 850cc era, with test rider Lorenzo Savadori posting a photo of its 2027-spec bike after the Jerez test. The image quickly attracted…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0JXRpENY/s6/dettagli-aprilia-850cc.jpg"
   },
   {
    "title": "Formula E Gen4: Double the downforce and greater freedom with electronic controls",
