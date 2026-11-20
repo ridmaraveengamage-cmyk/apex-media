@@ -21,6 +21,7 @@ Motorsport news website with two tabs: **Sri Lanka** (local racing, karting focu
 ## Files
 
 - `index.html` — the whole site (HTML, CSS, JS in one file). No build step, no frameworks.
+- `team/` — separate **Apex Racing Team** site (live at `/apex-media/team/`), added Nov 2026 from a Claude Design canvas. Self-contained `team/index.html` + `team/assets/`. Dark charcoal + `#39FF14`, Saira Condensed + Inter, Apple-style scroll animations. Driver profiles open at `#driver-NN`. All drivers, results, partners (invented brands) and photos (Gemini-generated) are **sample content**, labelled by a banner at the top. Don't touch it when working on the news site.
 - `assets/apex-logo.webp` — logo on a dark `#1f1f1f` background (not transparent). The header crops it with `background-size`/`background-position` and blends it with `mix-blend-mode: lighten`.
 - `scripts/update-international.mjs` — data collector (Node 20+, no dependencies).
 - `.github/workflows/update-international.yml` — runs the collector every 30 min (cron `7,37 * * * *`, plus a manual "Run workflow" button); commits `data/` only when it changed.

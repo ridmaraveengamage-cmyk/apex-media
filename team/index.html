@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Apex Racing Team</title>
+<meta name="description" content="Apex Racing Team, Sri Lanka: karting, formula, touring cars, stock cars and 4x4 off-road. Design preview with sample content.">
+<link rel="icon" href="assets/apex-logo-color.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--acc:#39FF14;--bg:#1F1F1F;--bg2:#1A1A1A;--line:#2E2E2E;--line2:#4A4A4A;--ink:#FFFFFF;--mut:#C9C9C9;--dim:#A8A8A8;--ease:cubic-bezier(.16,1,.3,1);--disp:'Saira Condensed',sans-serif}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+img{display:block;max-width:100%}
+a{color:var(--ink);text-decoration:none}a:hover{color:var(--acc)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+.wrap{max-width:1240px;margin:0 auto;padding:0 24px}
+.sec{max-width:1240px;margin:0 auto;padding:112px 24px;display:flex;flex-direction:column;gap:48px}
+.tag{font:600 16px var(--disp);letter-spacing:.2em;text-transform:uppercase;color:var(--acc)}
+.h2{margin:0;font:italic 800 60px/.95 var(--disp);text-transform:uppercase}
+.lead{margin:0;font-size:18px;color:var(--mut)}
+.btn{display:inline-flex;align-items:center;gap:10px;min-height:52px;padding:0 28px;font:700 18px var(--disp);letter-spacing:.08em;text-transform:uppercase;border:1px solid var(--line2);background:transparent;cursor:pointer;color:var(--ink)}
+.btn.pri{background:var(--acc);border-color:var(--acc);color:#111}
+.btn:not(.pri):hover{border-color:var(--acc);color:var(--acc)}
+.center{display:flex;justify-content:center}
+.sample{background:#111;border-bottom:1px solid var(--line);color:var(--dim);font-size:13px;text-align:center;padding:6px 16px}
+.sample b{color:var(--acc);font-weight:600}
+/* header */
+header{position:sticky;top:0;z-index:30;background:rgba(23,23,23,.86);backdrop-filter:saturate(1.4) blur(14px);-webkit-backdrop-filter:saturate(1.4) blur(14px);border-bottom:1px solid var(--line)}
+nav{display:flex;align-items:center;justify-content:space-between;gap:24px;min-height:72px}
+.brand img{height:44px;width:auto}
+.links{display:flex;gap:32px;font:600 17px var(--disp);letter-spacing:.08em;text-transform:uppercase}
+.links a{opacity:.75}.links a:hover{opacity:1}
+.cta{display:inline-flex;align-items:center;min-height:44px;padding:0 20px;background:var(--acc);color:#111;font:700 16px var(--disp);letter-spacing:.08em;text-transform:uppercase}
+.cta:hover{color:#111;filter:brightness(1.1)}
+/* hero */
+#top{--p:0;position:relative;overflow:hidden;border-bottom:1px solid var(--line);min-height:780px;display:flex}
+.hero-img{position:absolute;inset:0 0 0 auto;width:64%;overflow:hidden;pointer-events:none;animation:heroIn 2.2s var(--ease) both}
+.hero-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:40% 22%;transform:translate3d(0,calc(var(--p)*90px),0) scale(calc(1.04 + var(--p)*.10));transform-origin:60% 40%;will-change:transform}
+.hero-img .fade{position:absolute;inset:0;background:linear-gradient(90deg,var(--bg) 0%,rgba(31,31,31,.92) 14%,rgba(31,31,31,.55) 30%,rgba(31,31,31,0) 52%),linear-gradient(0deg,var(--bg) 0%,rgba(31,31,31,.75) 18%,rgba(31,31,31,0) 42%),linear-gradient(180deg,rgba(31,31,31,.7) 0%,rgba(31,31,31,0) 16%)}
+.hero-img .glow{position:absolute;inset:0;background:radial-gradient(ellipse 55% 45% at 62% 42%,rgba(57,255,20,.14),rgba(57,255,20,0) 70%);mix-blend-mode:screen;opacity:calc(1 - var(--p))}
+.grid-bg{position:absolute;inset:0;pointer-events:none;background-image:linear-gradient(rgba(255,255,255,.025) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.025) 1px,transparent 1px);background-size:64px 64px;-webkit-mask-image:linear-gradient(90deg,#000,transparent 55%);mask-image:linear-gradient(90deg,#000,transparent 55%)}
+.hero{position:relative;width:100%;max-width:1240px;margin:0 auto;padding:120px 24px 72px;display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:56px;align-items:center}
+.hero-text{display:flex;flex-direction:column;gap:28px;opacity:calc(1 - var(--p)*1.6);transform:translate3d(0,calc(var(--p)*-90px),0)}
+.hero-text>*{animation:blurUp 1.3s var(--ease) both}
+.hero-text>:nth-child(1){animation-delay:.35s}.hero-text>:nth-child(2){animation-delay:.5s}.hero-text>:nth-child(3){animation-delay:.68s}.hero-text>:nth-child(4){animation-delay:.84s}
+.eyebrow{display:flex;align-items:center;gap:12px}.eyebrow i{width:40px;height:3px;background:var(--acc)}
+.h1{margin:0;font:italic 800 104px/.9 var(--disp);letter-spacing:-.01em;text-transform:uppercase}
+.h1 em,.h2 em{font-style:inherit;color:var(--acc)}
+.row-btns{display:flex;flex-wrap:wrap;gap:14px}
+.hero-logo{align-self:end;justify-self:end;width:100%;max-width:420px;padding-top:360px;animation:softIn 1.6s var(--ease) 1s backwards}
+.hero-logo img{width:100%;filter:drop-shadow(0 0 32px rgba(57,255,20,.16)) drop-shadow(0 10px 28px rgba(0,0,0,.8));transform:translate3d(0,calc(var(--p)*-50px),0) scale(calc(1 - var(--p)*.08));opacity:calc(1 - var(--p)*1.3)}
+@keyframes heroIn{from{opacity:0;transform:scale(1.06);filter:blur(16px)}to{opacity:1;transform:none;filter:none}}
+@keyframes blurUp{from{opacity:0;transform:translate3d(0,26px,0);filter:blur(12px)}to{opacity:1;transform:none;filter:none}}
+@keyframes softIn{from{opacity:0;transform:scale(.96);filter:blur(10px)}to{opacity:1;transform:none;filter:none}}
+@keyframes cardIn{from{opacity:0;transform:translate3d(0,20px,0)}to{opacity:1;transform:none}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes photoIn{0%{clip-path:polygon(100% 0,130% 0,130% 100%,115% 100%);opacity:0}15%{opacity:1}100%{clip-path:polygon(-20% 0,130% 0,130% 100%,-35% 100%);opacity:1}}
+/* scroll reveal */
+.rv{opacity:0;transform:translate3d(0,48px,0) scale(.985);filter:blur(8px);transition:opacity 1.1s var(--ease),transform 1.4s var(--ease),filter 1.1s var(--ease)}
+.rv.in{opacity:1;transform:none;filter:none}
+/* team */
+.two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.2fr);gap:64px;align-items:start}
+.stack{display:flex;flex-direction:column;gap:16px}
+.stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.stat{background:var(--bg);padding:24px;display:flex;flex-direction:column;gap:4px}
+.stat b{font:800 44px/1 var(--disp);color:var(--acc)}
+.stat span{font-size:14px;color:var(--dim);text-transform:uppercase;letter-spacing:.08em}
+.alt{background:var(--bg2)}
+section{border-bottom:1px solid var(--line)}
+.head-row{display:flex;flex-wrap:wrap;align-items:end;justify-content:space-between;gap:16px}
+/* drivers */
+.drv{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px}
+.dcard{border:1px solid var(--line);background:var(--bg);display:flex;flex-direction:column;overflow:hidden;padding:0;text-align:left;cursor:pointer;width:100%;transition:border-color .2s;animation:cardIn .6s var(--ease) both}
+.dcard:hover{border-color:var(--acc)}
+.dph{aspect-ratio:4/5;position:relative;overflow:hidden;display:block;width:100%}
+.dph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .6s var(--ease)}
+.dcard:hover .dph img{transform:scale(1.06)}
+.dph .shade{position:absolute;inset:0;background:linear-gradient(0deg,rgba(31,31,31,.95),rgba(31,31,31,0) 45%)}
+.num{position:absolute;top:10px;right:14px;font:italic 800 52px/1 var(--disp);color:var(--acc);text-shadow:0 4px 18px rgba(0,0,0,.6)}
+.dinfo{position:absolute;left:18px;right:18px;bottom:16px;display:flex;flex-direction:column;gap:2px}
+.dname{font:700 24px/1.1 var(--disp);text-transform:uppercase}
+.dcat{font-size:14px;color:var(--mut)}
+.vp{font:700 14px var(--disp);letter-spacing:.12em;text-transform:uppercase;color:var(--acc);max-height:0;opacity:0;overflow:hidden;transition:all .3s}
+.dcard:hover .vp,.dcard:focus-visible .vp{max-height:24px;opacity:1}
+.dbar{height:3px;background:var(--acc)}
+.chev{transition:transform .3s}.open .chev{transform:rotate(180deg)}
+/* results */
+.five{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.stand{background:var(--bg);padding:24px 20px;display:flex;flex-direction:column;gap:14px;position:relative}
+.stand .d{font:700 17px var(--disp);letter-spacing:.1em;text-transform:uppercase;color:var(--mut)}
+.stand .pos{font:italic 800 64px/.9 var(--disp)}
+.stand .wp{display:flex;gap:18px;font-size:14px;color:var(--dim)}.stand .wp b{color:#fff;font-weight:600}
+.stand .pts{font-size:13px;color:var(--dim)}
+.stand .bar{position:absolute;left:0;top:0;height:3px;background:var(--acc)}
+.sub{font:700 24px var(--disp);letter-spacing:.06em;text-transform:uppercase}
+.filters{display:flex;flex-wrap:wrap;gap:8px}
+.chip{min-height:40px;padding:0 16px;border:1px solid var(--line2);background:transparent;cursor:pointer;font:700 15px var(--disp);letter-spacing:.08em;text-transform:uppercase}
+.chip[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:#111}
+.cal{border-top:1px solid var(--line)}
+.crow{display:grid;grid-template-columns:64px 96px minmax(0,1fr) 150px 240px;gap:20px;align-items:center;padding:18px 0;border-bottom:1px solid var(--line);transition:background .2s}
+.crow:hover{background:#222}
+.crow .r{font:italic 800 30px/1 var(--disp);color:#5C5C5C}
+.crow .dt{font:700 18px var(--disp);letter-spacing:.06em;text-transform:uppercase;color:var(--mut)}
+.crow .ev{font:700 22px/1.15 var(--disp);text-transform:uppercase}
+.crow .pl{font-size:14px;color:var(--dim)}
+.crow .disc{justify-self:start;padding:4px 10px;border:1px solid var(--line2);font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);white-space:nowrap}
+.res{display:flex;align-items:center;gap:12px}
+.res .p{font:italic 800 34px/1 var(--disp);min-width:48px}
+.res .who{font-size:14px;color:var(--mut);line-height:1.3}.res .who span{color:#8C8C8C}
+.up{display:inline-flex;align-items:center;gap:8px;padding:6px 12px;background:var(--acc);color:#111;font:700 15px var(--disp);letter-spacing:.08em;text-transform:uppercase}
+.up i{width:8px;height:8px;border-radius:50%;background:#111;animation:pulse 1.2s ease-in-out infinite}
+/* gallery */
+.gal{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.gsmall{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:repeat(2,minmax(0,1fr));gap:16px;min-height:280px}
+.gmore{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.gtile{margin:0;position:relative;overflow:hidden;border:1px solid var(--line);background:var(--bg2);min-height:140px;transition:border-color .3s}
+.gtile.big,.gmore .gtile{aspect-ratio:16/10}
+.gmore .gtile{animation:cardIn .6s var(--ease) both}
+.gtile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(.9);transition:transform .8s var(--ease),filter .4s}
+.gtile:hover{border-color:var(--acc)}.gtile:hover img{transform:scale(1.06);filter:saturate(1.1)}
+.gtile figcaption{position:absolute;left:0;right:0;bottom:0;padding:28px 14px 10px;background:linear-gradient(0deg,rgba(17,17,17,.9),rgba(17,17,17,0));font:700 15px var(--disp);letter-spacing:.1em;text-transform:uppercase}
+.gtile.big figcaption{padding:40px 20px 16px;font-size:18px}
+/* partners */
+.plabel{font:600 15px var(--disp);letter-spacing:.2em;text-transform:uppercase;color:var(--dim)}
+.title-p{background:var(--bg);border:1px solid var(--line);height:160px;display:flex;align-items:center;justify-content:center}
+.title-p img{height:52px;width:auto}
+.four{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.plogo{background:var(--bg);height:120px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;padding:0 20px}
+.plogo img,.title-p img{opacity:.7;transition:opacity .25s,filter .25s}
+.plogo img{height:34px;width:auto;max-width:100%}
+.plogo:hover img,.title-p:hover img{opacity:1;filter:drop-shadow(0 0 12px rgba(57,255,20,.35))}
+.yb{font:700 18px var(--disp);letter-spacing:.1em;text-transform:uppercase;color:var(--acc)}
+.yb span{font:500 13px Inter,sans-serif;letter-spacing:0;text-transform:none;color:var(--dim)}
+/* contact */
+.contact{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:64px}
+.socials{display:flex;gap:12px}
+.socials a{width:44px;height:44px;display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--line2)}
+.socials a:hover{border-color:var(--acc)}
+form{display:flex;flex-direction:column;gap:18px}
+.f2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+label{display:flex;flex-direction:column;gap:8px;font-size:14px;color:var(--mut);text-transform:uppercase;letter-spacing:.08em}
+input,select,textarea{min-height:48px;padding:0 14px;background:var(--bg);border:1px solid var(--line2);color:#fff;font:16px Inter,sans-serif;text-transform:none;letter-spacing:0}
+textarea{padding:12px 14px;resize:vertical}
+input:focus,select:focus,textarea:focus{outline:2px solid var(--acc);outline-offset:1px}
+.thanks{color:var(--acc);font-weight:600;min-height:24px}
+footer{background:#171717;border-top:1px solid var(--line)}
+footer .wrap{padding:40px 24px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:20px;font-size:14px;color:var(--dim)}
+footer img{height:40px;width:auto}
+/* profile */
+#profile{position:relative;overflow:hidden;min-height:100vh;border:0}
+.bignum{position:absolute;right:-2%;top:40px;font:italic 800 420px/1 var(--disp);color:rgba(255,255,255,.03);pointer-events:none}
+.prof{position:relative;max-width:1240px;margin:0 auto;padding:48px 24px 112px;display:flex;flex-direction:column;gap:40px}
+.ptop{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px}
+.ptop .btn{min-height:44px;font-size:16px;padding:0 20px}
+.pgrid{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:56px;align-items:start}
+.pphoto{position:relative;aspect-ratio:4/5;overflow:hidden;border:1px solid var(--line);background:var(--bg2);animation:photoIn 1.1s cubic-bezier(.75,0,.2,1) both}
+.pphoto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.pphoto .shade{position:absolute;inset:0;background:linear-gradient(0deg,rgba(31,31,31,.9),rgba(31,31,31,0) 40%),radial-gradient(ellipse 70% 50% at 50% 30%,rgba(57,255,20,.10),rgba(57,255,20,0) 70%)}
+.pphoto .pn{position:absolute;left:20px;bottom:8px;font:italic 800 120px/1 var(--disp);color:var(--acc);text-shadow:0 6px 30px rgba(0,0,0,.6)}
+.pphoto .ln{position:absolute;left:0;right:0;bottom:0;height:4px;background:var(--acc)}
+.pbody{display:flex;flex-direction:column;gap:32px}
+.pbody>*{animation:blurUp .9s var(--ease) both}
+.pbody>:nth-child(2){animation-delay:.1s}.pbody>:nth-child(3){animation-delay:.2s}.pbody>:nth-child(4){animation-delay:.3s}.pbody>:nth-child(5){animation-delay:.4s}
+.pname{margin:0;font:italic 800 96px/.9 var(--disp);text-transform:uppercase}
+.pname span{color:var(--acc)}
+.pstats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.pstats div{background:var(--bg);padding:20px;display:flex;flex-direction:column;gap:4px}
+.pstats b{font:800 44px/1 var(--disp);color:var(--acc)}
+.pstats span{font-size:13px;color:var(--dim);text-transform:uppercase;letter-spacing:.08em}
+dl{margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 32px;border-top:1px solid var(--line)}
+dl div{display:flex;justify-content:space-between;gap:16px;padding:14px 0;border-bottom:1px solid var(--line)}
+dt{font-size:14px;color:var(--dim);text-transform:uppercase;letter-spacing:.08em}
+dd{margin:0;font-weight:600;text-align:right}
+.rres{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}
+.rres div{border:1px solid var(--line);background:var(--bg2);padding:12px;display:flex;flex-direction:column;gap:2px;align-items:center}
+.rres span{font-size:12px;color:var(--dim);letter-spacing:.08em}
+.rres b{font:italic 800 30px/1 var(--disp)}
+.pnav{display:flex;flex-wrap:wrap;justify-content:space-between;gap:16px;border-top:1px solid var(--line);padding-top:32px}
+.pnav a{display:inline-flex;flex-direction:column;gap:2px;min-height:64px;padding:10px 22px;border:1px solid var(--line2)}
+.pnav a:hover{border-color:var(--acc)}
+.pnav a.nx{align-items:flex-end;text-align:right}
+.pnav small{font-size:13px;color:var(--dim);text-transform:uppercase;letter-spacing:.08em}
+.pnav strong{font:700 20px var(--disp);text-transform:uppercase}
+[hidden]{display:none !important}
+@media (max-width:1100px) and (min-width:901px){.drv{grid-template-columns:repeat(3,minmax(0,1fr))}.five{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (max-width:900px){
+.links{display:none}
+.hero{grid-template-columns:minmax(0,1fr);padding-block:56px}
+.hero-img{width:100%;opacity:.45 !important}
+.hero-logo{padding-top:24px;justify-self:start;max-width:280px}
+.h1{font-size:64px}.h2{font-size:44px}.pname{font-size:64px}
+.sec{padding:72px 20px}
+.two,.contact,.gal,.pgrid,dl{grid-template-columns:minmax(0,1fr)}
+.stats{grid-template-columns:repeat(3,minmax(0,1fr))}
+.drv{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.five,.four,.gmore,.pstats{grid-template-columns:repeat(2,minmax(0,1fr))}
+.f2{grid-template-columns:minmax(0,1fr)}
+.crow{grid-template-columns:52px minmax(0,1fr);row-gap:8px}
+.crow .dt{display:none}
+.crow .disc,.crow .res{grid-column:2}
+.bignum{font-size:240px}
+.cta{display:none}
+}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none !important;transition:none !important}#top{--p:0 !important}.rv{opacity:1;transform:none;filter:none}html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<div class="sample">Design preview: driver names, profiles, results, partners and photos are <b>sample content</b>.</div>
+<header>
+<nav class="wrap" aria-label="Main">
+<a class="brand" href="#top" aria-label="Apex Racing home"><img src="assets/apex-logo-color.png" alt="Apex Racing" width="83" height="44"></a>
+<div class="links">
+<a href="#team">Team</a><a href="#drivers">Drivers</a><a href="#calendar">Calendar</a><a href="#gallery">Gallery</a><a href="#partners">Partners</a><a href="#contact">Contact</a>
+</div>
+<a class="cta" href="#partners">Partner with us</a>
+</nav>
+</header>
+
+<div id="home">
+<section id="top">
+<div class="hero-img"><img src="assets/hero.jpg" alt="An Apex race car with neon green edge lighting attacking a green-lit corner at night"><div class="fade"></div><div class="glow"></div></div>
+<div class="grid-bg" aria-hidden="true"></div>
+<div class="hero">
+<div class="hero-text">
+<div class="tag eyebrow"><i></i><span>Apex Racing Team · Sri Lanka</span></div>
+<h1 class="h1">Born to<br>hit the <em>apex.</em></h1>
+<p class="lead" style="max-width:520px;font-size:19px">[One or two lines on who the team is and what it races. e.g. the series, the class, the home circuit.]</p>
+<div class="row-btns">
+<a class="btn pri" href="#drivers">Meet the drivers <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+<a class="btn" href="#calendar">Race calendar</a>
+</div>
+</div>
+<div class="hero-logo"><img src="assets/apex-logo-color.png" alt="Apex Racing logo"></div>
+</div>
+</section>
+
+<section id="team">
+<div class="sec two">
+<div class="stack">
+<span class="tag">01 — The team</span>
+<h2 class="h2">Every corner,<br>taken at the limit.</h2>
+</div>
+<div class="stack" style="gap:32px">
+<p class="lead">[The team story: when Apex was founded, by whom, and why. Two or three short paragraphs work best here.]</p>
+<p class="lead">[What the team stands for: developing local talent, competing at the top level, building motorsport culture in Sri Lanka.]</p>
+<div class="stats">
+<div class="stat"><b>8</b><span>Seasons</span></div>
+<div class="stat"><b>186</b><span>Podiums</span></div>
+<div class="stat"><b>64</b><span>Wins</span></div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="drivers" class="alt">
+<div class="sec">
+<div class="head-row">
+<div class="stack"><span class="tag">02 — Drivers</span><h2 class="h2">The line-up</h2></div>
+<p style="margin:0;max-width:420px;font-size:17px;color:var(--mut)"><span id="dcount" style="color:var(--acc);font-weight:600"></span> racing under the Apex banner, across karting, formula, touring cars, stock cars and 4x4 off-road. Tap a driver to see their profile.</p>
+</div>
+<div class="drv" id="drv"></div>
+<div class="center"><button type="button" class="btn" id="moreDrv" aria-expanded="false"><span></span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button></div>
+</div>
+</section>
+
+<section id="calendar">
+<div class="sec">
+<div class="stack">
+<span class="tag">03 — Season 2026</span>
+<h2 class="h2">Results &amp; calendar</h2>
+<p class="lead" style="max-width:640px">Five disciplines, one team. Apex races from karting and formula to touring cars, stock cars and 4x4 off-road.</p>
+</div>
+<div class="stack">
+<div class="head-row" style="align-items:baseline"><span class="sub">Team standings</span><span style="font-size:15px;color:var(--dim)">Team championship position · 2026 season to date</span></div>
+<div class="five" id="stand"></div>
+</div>
+<div class="stack">
+<div class="head-row" style="align-items:center"><span class="sub">Race calendar</span><div class="filters" id="filters" role="group" aria-label="Filter by discipline"></div></div>
+<div class="cal" id="cal"></div>
+</div>
+</div>
+</section>
+
+<section id="gallery" class="alt">
+<div class="sec">
+<div class="stack"><span class="tag">04 — Gallery</span><h2 class="h2">From the paddock</h2></div>
+<div class="gal">
+<figure class="gtile big"><img src="assets/gallery/ontrack.jpg" alt="Two Apex cars battling wheel to wheel through a corner at dusk" loading="lazy"><figcaption>On track</figcaption></figure>
+<div class="gsmall">
+<figure class="gtile"><img src="assets/gallery/pitlane.jpg" alt="Night pit stop with the crew changing tyres" loading="lazy"><figcaption>Pit lane</figcaption></figure>
+<figure class="gtile"><img src="assets/gallery/podium.jpg" alt="Driver celebrating on the podium" style="object-position:50% 30%" loading="lazy"><figcaption>Podium</figcaption></figure>
+<figure class="gtile"><img src="assets/gallery/garage.jpg" alt="The team garage under work lights" loading="lazy"><figcaption>Garage</figcaption></figure>
+<figure class="gtile"><img src="assets/gallery/fans.jpg" alt="Fans waving green flags in the grandstand" loading="lazy"><figcaption>Fans</figcaption></figure>
+</div>
+</div>
+<div class="gmore" id="gmore" hidden></div>
+<div class="center"><button type="button" class="btn" id="moreGal" aria-expanded="false" aria-controls="gmore"><span>See more photos (8)</span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button></div>
+</div>
+</section>
+
+<section id="partners">
+<div class="sec">
+<div class="two" style="grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:end">
+<div class="stack"><span class="tag">05 — Partners</span><h2 class="h2">Race with us</h2></div>
+<p class="lead">Put your brand on the car, the suits and every race weekend. Partnership packages are tailored to each season. Get in touch for the deck.</p>
+</div>
+<div class="stack" style="gap:12px"><span class="plabel">Title partner</span><div class="title-p"><img src="assets/partners/nexora.png" alt="Nexora Energy"></div></div>
+<div class="stack" style="gap:12px"><span class="plabel">Official partners</span>
+<div class="four">
+<div class="plogo"><img src="assets/partners/korvex.png" alt="Korvex Lubricants"></div>
+<div class="plogo"><img src="assets/partners/vantrix.png" alt="Vantrix Tyres"></div>
+<div class="plogo"><img src="assets/partners/tidepoint.png" alt="Tidepoint Mobile"></div>
+<div class="plogo"><img src="assets/partners/halden.png" alt="Halden Timepieces"></div>
+<div class="plogo"><img src="assets/partners/orbiq.png" alt="Orbiq Technologies"></div>
+<div class="plogo"><img src="assets/partners/peakline.png" alt="Peakline Apparel"></div>
+<div class="plogo"><img src="assets/partners/lumara.png" alt="Lumara Hotels and Resorts"></div>
+<a class="plogo yb" href="#contact">Your brand here<span>Become a partner →</span></a>
+</div>
+</div>
+</div>
+</section>
+
+<section id="contact" class="alt" style="border-bottom:0">
+<div class="sec contact">
+<div class="stack" style="gap:24px">
+<span class="tag">06 — Contact</span>
+<h2 class="h2">Get on the grid</h2>
+<p class="lead">Sponsorship, media, driver enquiries: we read everything.</p>
+<div class="stack" style="gap:10px;font-size:17px;color:var(--mut)"><span>[team@apexracing.lk]</span><span>[+94 XX XXX XXXX]</span><span>[Colombo, Sri Lanka]</span></div>
+<div class="socials">
+<a href="#" aria-label="Instagram"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".8"/></svg></a>
+<a href="#" aria-label="Facebook"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M15 3h-3a4 4 0 0 0-4 4v3H5v4h3v7h4v-7h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+<a href="#" aria-label="YouTube"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="5" width="20" height="14" rx="4"/><path d="M10 9l5 3-5 3z"/></svg></a>
+</div>
+</div>
+<form id="form">
+<div class="f2"><label>Name<input type="text" required></label><label>Email<input type="email" required></label></div>
+<label>Enquiry type<select><option>Sponsorship</option><option>Media</option><option>Driver programme</option><option>Other</option></select></label>
+<label>Message<textarea rows="5"></textarea></label>
+<button type="submit" class="btn pri" style="align-self:start;border:0">Send message</button>
+<p class="thanks" id="thanks" aria-live="polite"></p>
+</form>
+</div>
+</section>
+</div>
+
+<main id="profile" hidden aria-label="Driver profile"></main>
+
+<footer><div class="wrap"><img src="assets/apex-logo-white.png" alt="Apex Racing"><span>© 2026 Apex Racing Team. Sample content for design preview.</span></div></footer>
+
+<script>
+(function () {
+var ACC = '#39FF14';
+var CAT = { F3: ['Formula 3', 'F3 single-seater'], F4: ['Formula 4', 'F4 single-seater'], GT4: ['GT4', 'GT4 coupé'], TC: ['Touring Cars', 'TCR touring car'], KS: ['Karting · Senior', 'Senior Rotax kart'], KJ: ['Karting · Junior', 'Junior Rotax kart'], SC: ['Stock Cars', 'Dirt-oval stock car'], OR: ['4x4 Off-Road', 'Modified 4x4'] };
+var ROSTER = [
+['Dinuka','Wijesekara','F3',22,'Colombo'],['Shehani','Perera','GT4',26,'Negombo'],['Kavindu','Abeysekara','SC',29,'Kandy'],['Nethmi','Fernando','F4',18,'Moratuwa'],
+['Ravindu','Gunawardena','TC',31,'Galle'],['Tharushi','Silva','KS',16,'Colombo'],['Malith','Herath','GT4',27,'Kurunegala'],['Ishara','de Mel','F3',21,'Mount Lavinia'],
+['Sanduni','Wickramasinghe','F4',19,'Matara'],['Chamod','Ratnayake','SC',28,'Kurunegala'],['Yasith','Bandara','KS',17,'Nuwara Eliya'],['Amaya','Jayawardena','GT4',24,'Colombo'],
+['Lahiru','Dissanayake','F3',23,'Anuradhapura'],['Pasindu','Weerasinghe','OR',30,'Ratnapura'],['Dilmi','Karunaratne','F4',18,'Kalutara'],['Hasitha','Liyanage','OR',33,'Badulla'],
+['Ovin','Samarasinghe','KJ',13,'Colombo'],['Kaveesha','Ranasinghe','TC',25,'Badulla'],['Sachin','Hettiarachchi','F3',20,'Negombo'],['Ruwindi','Ekanayake','KS',15,'Kandy'],
+['Janith','Kumarasinghe','OR',29,'Jaffna'],['Thilina','Mendis','F4',19,'Panadura'],['Senuri','Alwis','TC',27,'Colombo'],['Akash','Rodrigo','KJ',14,'Wattala']
+];
+var TRAITS = ['late braking','tyre management','wet-weather pace','consistency over long stints','lightning starts','racecraft in traffic','raw qualifying speed','precision through high-speed corners'];
+var GOALS = ['a first podium','a top-five championship finish','a maiden race win','a genuine title challenge'];
+var VISIBLE = 12;
+var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+var pad = function (n) { return String(n).padStart(2, '0'); };
+
+var drivers = ROSTER.map(function (r, i) {
+  var c = CAT[r[2]], joined = 2019 + (i * 3) % 7, wins = (i * 5) % 7, res = [];
+  for (var k = 0; k < 5; k++) res.push(((i * 7 + k * 11) % 14) + 1);
+  return {
+    i: i, num: pad(i + 1), first: r[0], last: r[1], name: r[0] + ' ' + r[1], cat: c[0], car: c[1], age: r[3], town: r[4], joined: joined,
+    photo: 'assets/drivers/d' + (i % 8 + 1) + '.jpg',
+    stats: [['Starts', 14 + (i * 7) % 31], ['Wins', wins], ['Podiums', wins + (i * 3) % 9], ['Poles', (i * 4) % 6]],
+    res: res,
+    bio: r[0] + ' joined Apex Racing in ' + joined + ' and races in ' + c[0] + '. Known in the paddock for ' + TRAITS[i % 8] + ' and ' + TRAITS[(i + 3) % 8] + ', ' + r[0] + ' splits the week between the simulator, fitness training and track days, and is targeting ' + GOALS[i % 4] + ' this season.'
+  };
+});
+
+/* Drivers grid */
+var drvEl = document.getElementById('drv'), moreDrv = document.getElementById('moreDrv'), allDrv = false;
+document.getElementById('dcount').textContent = drivers.length + ' drivers';
+function card(d) {
+  return '<a class="dcard" href="#driver-' + d.num + '" aria-label="View profile: ' + esc(d.name) + '">' +
+    '<span class="dph"><img src="' + d.photo + '" alt="" loading="lazy"><span class="shade"></span><span class="num">#' + d.num + '</span>' +
+    '<span class="dinfo"><span class="dname">' + esc(d.name) + '</span><span class="dcat">' + esc(d.cat) + '</span><span class="vp">View profile →</span></span></span><span class="dbar"></span></a>';
+}
+function renderDrivers() {
+  drvEl.innerHTML = (allDrv ? drivers : drivers.slice(0, VISIBLE)).map(card).join('');
+  moreDrv.firstElementChild.textContent = allDrv ? 'Show less' : 'See full line-up (' + drivers.length + ')';
+  moreDrv.setAttribute('aria-expanded', allDrv); moreDrv.classList.toggle('open', allDrv);
+}
+moreDrv.addEventListener('click', function () { allDrv = !allDrv; renderDrivers(); if (!allDrv) document.getElementById('drivers').scrollIntoView(); });
+renderDrivers();
+
+/* Standings */
+var STAND = [['Karting',1,6,14,412,'Leading'],['Formula',2,3,9,336,'18 pts off the lead'],['Touring & GT',1,4,11,368,'Leading'],['Stock Cars',3,2,7,254,'Finale on 20 Dec'],['4x4 Off-Road',1,5,10,390,'Champions']];
+document.getElementById('stand').innerHTML = STAND.map(function (s) {
+  return '<div class="stand"><span class="bar" style="width:' + (s[1] === 1 ? 100 : s[1] === 2 ? 66 : 33) + '%"></span><span class="d">' + esc(s[0]) + '</span><span class="pos" style="color:' + (s[1] === 1 ? ACC : '#fff') + '">P' + s[1] + '</span><div class="wp"><span><b>' + s[2] + '</b> wins</span><span><b>' + s[3] + '</b> podiums</span></div><span class="pts">' + s[4] + ' pts · ' + esc(s[5]) + '</span></div>';
+}).join('');
+
+/* Calendar */
+var DISC = ['Karting','Formula','Touring & GT','Stock Cars','4x4 Off-Road'];
+var CAL = [
+['18 Jan','Katukurunda Circuit Sprint','Katukurunda, Kalutara',2,'P1','Ravindu Gunawardena'],
+['08 Feb','National Kart Championship · Rd 1','Colombo Kart Arena',0,'P2','Tharushi Silva'],
+['01 Mar','Sigiriya Rally Cross','Sigiriya',4,'P1','Pasindu Weerasinghe'],
+['22 Mar','Asian Formula 4 · Rd 1','Sepang, Malaysia',1,'P3','Nethmi Fernando'],
+['19 Apr','Gunner’s Climb','Diyatalawa',4,'P2','Hasitha Liyanage'],
+['17 May','Dirt Oval Series · Rd 1','Kurunegala',3,'P1','Kavindu Abeysekara'],
+['14 Jun','National Kart Championship · Rd 2','Colombo Kart Arena',0,'P1','Ovin Samarasinghe'],
+['12 Jul','Asian Formula 3 · Rd 4','Buriram, Thailand',1,'P4','Dinuka Wijesekara'],
+['09 Aug','Fox Hill Supercross','Diyatalawa',2,'P2','Amaya Jayawardena'],
+['06 Sep','Stock Car Night Showdown','Kurunegala',3,'P3','Chamod Ratnayake'],
+['04 Oct','Mullaitivu 4x4 Challenge','Mullaitivu',4,'P1','Janith Kumarasinghe'],
+['25 Oct','National Kart Championship · Rd 3','Colombo Kart Arena',0,'P1','Yasith Bandara'],
+['15 Nov','Asian Formula 4 · Finale','Sepang, Malaysia',1,'P1','Sanduni Wickramasinghe'],
+['06 Dec','Cavalry Supercross','Colombo',2,'',''],
+['20 Dec','Dirt Oval Series · Finale','Kurunegala',3,'','']
+];
+var calF = -1, filEl = document.getElementById('filters'), calEl = document.getElementById('cal');
+function renderCal() {
+  filEl.innerHTML = [['All', -1]].concat(DISC.map(function (d, k) { return [d, k]; })).map(function (f) {
+    return '<button type="button" class="chip" data-v="' + f[1] + '" aria-pressed="' + (f[1] === calF) + '">' + esc(f[0]) + '</button>';
+  }).join('');
+  calEl.innerHTML = CAL.map(function (c, k) {
+    if (calF >= 0 && c[3] !== calF) return '';
+    var res = c[4] ? '<span class="p" style="color:' + (parseInt(c[4].slice(1), 10) <= 3 ? ACC : '#fff') + '">' + c[4] + '</span><span class="who">' + esc(c[5]) + '<br><span>Best Apex finish</span></span>' : '<span class="up"><i></i>Upcoming</span>';
+    return '<div class="crow"><span class="r">R' + (k + 1) + '</span><span class="dt">' + c[0] + '</span><div><div class="ev">' + esc(c[1]) + '</div><div class="pl">' + esc(c[2]) + '</div></div><span class="disc">' + DISC[c[3]] + '</span><div class="res">' + res + '</div></div>';
+  }).join('');
+}
+filEl.addEventListener('click', function (e) { var b = e.target.closest('.chip'); if (!b) return; calF = +b.dataset.v; renderCal(); });
+renderCal();
+
+/* Gallery */
+var GAL = [['karting','Karting','Two Apex karts racing wheel to wheel'],['formula','Formula','Apex formula car flat out at sunset'],['stockcar','Stock cars','Apex stock car sliding on a dirt oval at night'],['offroad','4x4 Off-road','Apex 4x4 climbing a muddy jungle hill'],['grid','Grid walk','Crew pushing the touring car onto the grid'],['sim','Sim training','Driver training on a racing simulator'],['service','Night service','Mechanics servicing the 4x4 at night'],['kartcamp','Kart camp','Young drivers reviewing data in the kart tent']];
+var gm = document.getElementById('gmore'), moreGal = document.getElementById('moreGal');
+gm.innerHTML = GAL.map(function (g, k) { return '<figure class="gtile" style="animation-delay:' + k * .05 + 's"><img src="assets/gallery/' + g[0] + '.jpg" alt="' + esc(g[2]) + '" loading="lazy"><figcaption>' + esc(g[1]) + '</figcaption></figure>'; }).join('');
+moreGal.addEventListener('click', function () {
+  var open = gm.hidden; gm.hidden = !open;
+  moreGal.firstElementChild.textContent = open ? 'Show less' : 'See more photos (8)';
+  moreGal.setAttribute('aria-expanded', open); moreGal.classList.toggle('open', open);
+});
+
+/* Contact form (no backend yet) */
+document.getElementById('form').addEventListener('submit', function (e) { e.preventDefault(); document.getElementById('thanks').textContent = 'Thanks! This preview does not send messages yet.'; });
+
+/* Driver profile "page" via #driver-NN */
+var home = document.getElementById('home'), prof = document.getElementById('profile');
+function profileHTML(d) {
+  var n = drivers.length, prev = drivers[(d.i - 1 + n) % n], next = drivers[(d.i + 1) % n];
+  var facts = [['Age', d.age], ['Hometown', d.town + ', Sri Lanka'], ['Category', d.cat], ['Car', d.car], ['Joined Apex', d.joined], ['Car number', '#' + d.num]];
+  return '<div class="bignum" aria-hidden="true">' + d.num + '</div><div class="prof">' +
+    '<div class="ptop"><a class="btn" href="#drivers"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M19 12H5M11 6l-6 6 6 6"/></svg>Back to line-up</a><span class="plabel">Driver ' + (d.i + 1) + ' of ' + n + '</span></div>' +
+    '<div class="pgrid"><div class="pphoto"><img src="' + d.photo + '" alt="Portrait of ' + esc(d.name) + '"><span class="shade"></span><span class="pn">#' + d.num + '</span><span class="ln"></span></div>' +
+    '<div class="pbody"><div class="stack" style="gap:14px"><span class="tag eyebrow"><i></i>' + esc(d.cat) + '</span><h1 class="pname">' + esc(d.first) + '<br><span>' + esc(d.last) + '</span></h1></div>' +
+    '<div class="pstats">' + d.stats.map(function (s) { return '<div><b>' + s[1] + '</b><span>' + s[0] + '</span></div>'; }).join('') + '</div>' +
+    '<p class="lead" style="max-width:620px">' + esc(d.bio) + '</p>' +
+    '<dl>' + facts.map(function (f) { return '<div><dt>' + f[0] + '</dt><dd>' + esc(f[1]) + '</dd></div>'; }).join('') + '</dl>' +
+    '<div class="stack" style="gap:14px"><span class="sub" style="font-size:20px">Recent results</span><div class="rres">' + d.res.map(function (p, k) { return '<div><span>R' + (k + 1) + '</span><b style="color:' + (p <= 3 ? ACC : '#fff') + '">P' + p + '</b></div>'; }).join('') + '</div></div></div></div>' +
+    '<div class="pnav"><a href="#driver-' + prev.num + '"><small>← Previous</small><strong>' + esc(prev.name) + '</strong></a><a class="nx" href="#driver-' + next.num + '"><small>Next →</small><strong>' + esc(next.name) + '</strong></a></div></div>';
+}
+function route() {
+  var m = location.hash.match(/^#driver-(\d+)$/), d = m && drivers[parseInt(m[1], 10) - 1];
+  if (d) {
+    prof.innerHTML = profileHTML(d); prof.hidden = false; home.hidden = true;
+    document.title = d.name + ' · Apex Racing Team'; window.scrollTo(0, 0);
+  } else if (!prof.hidden) {
+    prof.hidden = true; home.hidden = false; document.title = 'Apex Racing Team';
+    var t = location.hash && document.querySelector(location.hash);
+    if (t) t.scrollIntoView(); onScroll(); reveal();
+  }
+}
+window.addEventListener('hashchange', route);
+
+/* Hero scroll parallax */
+var top = document.getElementById('top'), raf = 0;
+function onScroll() {
+  if (raf) return;
+  raf = requestAnimationFrame(function () { raf = 0; var p = Math.max(0, Math.min(1, window.scrollY / (top.offsetHeight || 1))); top.style.setProperty('--p', p.toFixed(4)); });
+}
+window.addEventListener('scroll', onScroll, { passive: true });
+onScroll();
+
+/* Scroll reveal */
+var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+var io = ('IntersectionObserver' in window && !reduce) ? new IntersectionObserver(function (es) {
+  es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+}, { threshold: .12, rootMargin: '0px 0px -6% 0px' }) : null;
+function reveal() {
+  if (!io) return;
+  document.querySelectorAll('#home section:not(#top) .sec > *').forEach(function (el) {
+    if (el.dataset.rv) return; el.dataset.rv = 1;
+    el.style.transitionDelay = Math.min([].indexOf.call(el.parentNode.children, el), 5) * .09 + 's';
+    el.classList.add('rv'); io.observe(el);
+  });
+}
+reveal();
+route();
+})();
+</script>
+</body>
+</html>
