@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:27:25.822Z",
+ "updated": "2026-11-20T19:33:59.798Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,13 +147,13 @@
   }
  ],
  "bySeries": {
-  "MotoGP": 15,
   "F1": 15,
+  "MotoGP": 15,
   "Formula E": 10,
   "IndyCar": 6,
   "IMSA": 11,
   "WRC": 13,
-  "Motorsport": 2,
+  "Motorsport": 1,
   "Dakar": 2,
   "WEC": 15,
   "NASCAR": 15,
@@ -164,13 +164,83 @@
  },
  "items": [
   {
+   "title": "FIA confirms unanimous agreement on 2030 PU framework",
+   "url": "https://www.formula1.com/en/latest/article/fia-confirms-unanimous-agreement-on-framework-for-2030-power-units.AZ7EFvWPyGPH0xG1JS8Ud",
+   "source": "Formula1.com",
+   "date": "2026-11-20T19:33:59.798Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Key parties including the FIA and F1 teams have committed to the 2030 power unit technical framework.",
+   "image": null
+  },
+  {
+   "title": "Martin admits 2021 crash memories still slow him at Portimao",
+   "url": "https://www.the-race.com/motogp/martin-admits-2021-crash-memories-still-slow-him-at-portimao/",
+   "source": "The Race",
+   "date": "2026-11-20T19:22:03.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Jorge Martin has admitted that he is still losing lap time at Portimao’s Turn 7, the site of his life-threatening MotoGP crash in 2021",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363260_HiRes.jpg"
+  },
+  {
+   "title": "F1 set for V8 return from 2030",
+   "url": "https://www.autosport.com/f1/news/f1-set-for-v8-return-from-2030/10875119/",
+   "source": "Autosport",
+   "date": "2026-11-20T19:02:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers. F1…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg"
+  },
+  {
+   "title": "FIA, F1 and teams unanimously agree to drop current power units after 2029",
+   "url": "https://www.racefans.net/2026/11/20/fia-f1-and-teams-unanimously-agree-to-drop-current-power-units-after-2029/",
+   "source": "RaceFans",
+   "date": "2026-11-20T18:59:56.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The FIA has confirmed plans to introduce new V8 hybrid turbo power unit regulations to Formula 1 in 2030.",
+   "image": null
+  },
+  {
+   "title": "Unanimous agreement for F1 V8 engine return plan reached",
+   "url": "https://www.crash.net/f1/news/1110159/1/key-agreement-reached-f1s-poised-return-v8-engines",
+   "source": "Crash.net",
+   "date": "2026-11-20T18:57:15.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 is set to return to V8 engines from 2030 after a breakthrough agreement was reached.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1452623_hires.jpg?width=1200"
+  },
+  {
+   "title": "Formula 1 set for V8 turbo return in 2030",
+   "url": "https://www.motorsport.com/f1/news/f1-set-for-v8-turbo-move-by-2030-season/10875113/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T18:55:35.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers. F1…",
+   "image": "https://cdn-1.motorsport.com/images/amp/24QerjAY/s6/start-action-3.jpg"
+  },
+  {
+   "title": "Ducati dismisses doubts over Marc Marquez’s future: “He will be with us after this season”",
+   "url": "https://www.motorsport.com/motogp/news/marc-marquez-ducati-future-davide-tardozzi/10876120/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T18:31:29.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Ducati team manager Davide Tardozzi has responded to comments made by Marc Marquez during the Portuguese Grand Prix press conference, in which the nine-time world champion stopped short of firmly dismissing speculation…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YE9EbrGY/s6/marc-marquez-ducati-team.jpg"
+  },
+  {
    "title": "Jorge Martin not willing to take risks to keep MotoGP title fight alive in Portugal",
    "url": "https://www.motorsport.com/motogp/news/jorge-martin-not-willing-to-take-risks-to-keep-motogp-title-fight-alive-in-portugal/10876117/",
    "source": "Motorsport.com",
    "date": "2026-11-20T18:22:18.000Z",
    "series": "MotoGP",
    "result": false,
-   "summary": "Jorge Martin has admitted that the risk of further injury is weighing on his mind at this weekend’s Portuguese , saying he doesn’t want to take undue risks to win the race and keep his title hopes alive. The factory…",
+   "summary": "Jorge Martin has admitted that the risk of further injury is weighing on his mind at this weekend’s Portuguese Grand Prix, saying he doesn’t want to take undue risks to win the race and keep his title hopes alive. The…",
    "image": "https://cdn-1.motorsport.com/images/amp/2jEAkOz0/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
@@ -304,7 +374,7 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363157_HiRes.jpg"
   },
   {
-   "title": "Thursday rains in Las Vegas leave teams playing catch-up",
+   "title": "Thursday rain in Las Vegas leave teams playing catch-up",
    "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
    "source": "Formula1.com",
    "date": "2026-11-20T14:19:17.609Z",
@@ -391,56 +461,6 @@
    "series": "F1",
    "result": false,
    "summary": "With Cadillac opting to retain Valtteri Bottas for 2027 rather than promoting Colton Herta, CEO Dan Towriss has explained what the next steps might be for the American driver.",
-   "image": null
-  },
-  {
-   "title": "Aron leaves Alpine as Vesti doubles up in reserve role",
-   "url": "https://www.formula1.com/en/latest/article/aron-leaves-alpine-as-vesti-doubles-up-in-reserve-role-for-enstone-squad.78ZKSJQKTokE51DkFvRY2B",
-   "source": "Formula1.com",
-   "date": "2026-11-20T11:55:14.416Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Mercedes reserve driver Fred Vesti will take on additional reserve duties at Alpine for the final three races of 2026 following Paul Aron's departure from the team.",
-   "image": null
-  },
-  {
-   "title": "What the teams said – Thursday in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-thursday-in-las-vegas-2026.4jnMZFzCSpX9y63f0rmnQW",
-   "source": "Formula1.com",
-   "date": "2026-11-20T11:55:14.416Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend.",
-   "image": null
-  },
-  {
-   "title": "Alpine ‘hopeful’ after Gasly earns P2 during second practice",
-   "url": "https://www.formula1.com/en/latest/article/alpine-feeling-hopeful-after-gasly-earns-p2-during-second-practice-in-las-vegas.3Iac1ObpdCLCHGU5rWCNXO",
-   "source": "Formula1.com",
-   "date": "2026-11-20T11:55:14.416Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Alpine's Pierre Gasly caught the eye by slotting into P2 on the timesheets during Thursday's second practice session at the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Hamilton reflects on Ferrari's practice running in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/a-couple-of-good-findings-hamilton-reflects-on-ferraris-wet-practice-running-in-las-vegas.4lQStkjoi1h32oQJng6ZMm",
-   "source": "Formula1.com",
-   "date": "2026-11-20T11:55:14.416Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton believes himself and Ferrari made \"a couple of good findings\" during a wet day of practice ahead of the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Red Bull working to fix Verstappen's Vegas practice issues",
-   "url": "https://www.formula1.com/en/latest/article/red-bull-working-to-understand-and-fix-verstappens-balance-issues-after-tricky-las-vegas-practice.2CbSLmEnwmgW8h0V1Ujr03",
-   "source": "Formula1.com",
-   "date": "2026-11-20T11:55:14.416Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pierre Wache explains Max Verstappen's balance and energy management issues after a difficult Thursday in Las Vegas, with Red Bull working on solutions.",
    "image": null
   },
   {
@@ -584,16 +604,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YBVjXQBY/s6/mathieujaminetannouncement.jpg"
   },
   {
-   "title": "Fan Voting for the Autosport Awards is now open",
-   "url": "https://www.autosport.com/autosport-awards/news/fan-voting-for-the-autosport-awards-is-now-open/10875615/",
-   "source": "Autosport",
-   "date": "2026-11-19T16:02:37.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "The nominees for this year’s Autosport Awards have been announced – and you can have your say on the best motorsport performers of the season in The Fan Vote. The Awards celebrate the top drivers, moments and…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6DGgOdKY/s6/fan-vote-editorial.jpg"
-  },
-  {
    "title": "Why Ducati Portimao seat is like a \"dream\" for Iker Lecuona: \"I've gone through hell\"",
    "url": "https://www.motorsport.com/motogp/news/lecuona-estoy-viviendo-un-sueno-y-como-un-nino-he-comido-mucha-mierda-en-estos-anos-/10875646/",
    "source": "Motorsport.com",
@@ -602,16 +612,6 @@
    "result": false,
    "summary": "Iker Lecona says getting a chance to ride for the factory Ducati team at this weekend's Portuguese Grand Prix is like a \"dream\" after going through \"hell a lot\" in recent seasons. After stepping in for Alex Marquez and…",
    "image": "https://cdn-1.motorsport.com/images/amp/68VwBzD2/s6/iker-lecuona-ducati-portimao.jpg"
-  },
-  {
-   "title": "Maverick Vinales considering a freelance role: \"I want to stay in MotoGP\"",
-   "url": "https://www.motorsport.com/motogp/news/vinales-considering-a-freelance-role-i-want-to-stay-in-motogp/10875642/",
-   "source": "Motorsport.com",
-   "date": "2026-11-19T14:39:17.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Maverick Vinales does not have a seat for next season in MotoGP, but he is reluctant to accept that his racing career is over and is considering the possibility of becoming a reserve rider. Motorsport.com revealed last…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2y7Q8Kn6/s6/maverick-vinales-tech3-ktm-en-.jpg"
   },
   {
    "title": "Denny Hamlin content with 2027 retirement plan but keeps door open",
@@ -692,16 +692,6 @@
    "result": false,
    "summary": "“The Gen4 is incredibly fast and a lot of fun to drive. I think it will be a real eye-opener for many fans and observers,” said Pascal Wehrlein a few months ago, when Formula E unveiled its new car. But now the wait is…",
    "image": "https://cdn-1.motorsport.com/images/amp/2eZxkgbY/s6/felipe-drugovich-andretti-form-2.jpg"
-  },
-  {
-   "title": "Pedro Acosta: It is \"too early\" to think about winning 2027 MotoGP title",
-   "url": "https://www.motorsport.com/motogp/news/pedro-acosta-too-early-title-2027-ducati/10874911/",
-   "source": "Motorsport.com",
-   "date": "2026-11-18T13:00:03.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Pedro Acosta says it is \"too early\" to think about the 2027 MotoGP title, despite admitting after his maiden grand prix victory that he \"needs\" to achieve \"much more\" in the championship. Acosta will depart KTM at the…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8ZowL2/s6/pedro-acosta-red-bull-ktm-fact.jpg"
   },
   {
    "title": "United Autosports USA retains Sebring-winning LMP2 trio for 2027 IMSA campaign",
