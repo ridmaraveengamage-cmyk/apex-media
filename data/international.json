@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:27:32.724Z",
+ "updated": "2026-11-20T17:28:14.042Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,22 +147,62 @@
   }
  ],
  "bySeries": {
+  "IndyCar": 6,
   "MotoGP": 15,
+  "F1": 15,
   "Formula E": 9,
-  "F1": 16,
   "IMSA": 11,
   "WRC": 13,
   "Motorsport": 2,
   "Dakar": 2,
-  "WEC": 16,
+  "WEC": 15,
   "NASCAR": 15,
-  "IndyCar": 8,
   "Karting": 5,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "IndyCar 2026 season review: Chip Ganassi Racing",
+   "url": "https://www.motorsport.com/indycar/news/indycar-2026-season-review-chip-ganassi-racing/10876097/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T17:09:57.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "Chip Ganassi Racing (CGR) entered the 2026 IndyCar Series season with its familiar powerhouse aura intact, yet the 18-race campaign unfolded in very different ways. On one side of the garage, Alex Palou turned precision…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0mXyXnX6/s6/scott-dixon-chip-ganassi-racin.jpg"
+  },
+  {
+   "title": "MotoGP Portuguese Grand Prix: Alex Marquez fastest on Friday as title protagonists all make Q2",
+   "url": "https://www.autosport.com/motogp/news/motogp-portuguese-grand-prix-alex-marquez-fastest-on-friday-as-title-protagonists-all-make-q2-/10876088/",
+   "source": "Autosport",
+   "date": "2026-11-20T16:34:47.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Alex Marquez led the way on Friday at Portimao, topping the timesheets for Gresini Ducati. But the most important story was that the three men in contention for the world championship all made it directly into…",
+   "image": "https://cdn-1.motorsport.com/images/amp/27No8bR0/s6/alex-marquez-gresini-racing.jpg"
+  },
+  {
+   "title": "Forbes releases 2026 F1 team valuations",
+   "url": "https://www.the-race.com/business/formula-1-team-values-jump-47-in-2026-as-they-near-10bn/",
+   "source": "The Race",
+   "date": "2026-11-20T16:30:31.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The value of each Formula 1 team has jumped 47% from $3.6billion USD in 2025 to $5.2bn in 2026 according to Forbes' 2026 report",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1454753_HiRes.jpg"
+  },
+  {
+   "title": "How to watch 2026 F1 Las Vegas GP today: Free live stream details and start time",
+   "url": "https://www.crash.net/f1/news/1110385/1/how-watch-2026-f1-las-vegas-gp-today-free-live-stream-details-and-start-time",
+   "source": "Crash.net",
+   "date": "2026-11-20T16:24:26.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "All the details on this weekends race in Nevada and how to watch the Las Vegas Grand Prix for free. This article contains affiliate links. If you buy through them, we may earn a commission at no extra cost to you",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454834_hires.jpg?width=1200"
+  },
   {
    "title": "Everything that happened in Portimao MotoGP practice",
    "url": "https://www.the-race.com/motogp/everything-that-happened-in-portimao-motogp-practice/",
@@ -385,36 +424,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0qgKkE4Y/s6/oscar-piastri-mclaren.jpg"
   },
   {
-   "title": "Piastri needed to reduce his speed through F1’s quickest corners – Brown",
-   "url": "https://www.racefans.net/2026/11/20/piastri-needed-to-curb-his-speed-through-quick-corners-brown/",
-   "source": "RaceFans",
-   "date": "2026-11-20T11:29:40.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oscar Piastri's struggles in 2026 stem from him taking too much speed through high-speed corners, according to McLaren CEO Zak Brown.",
-   "image": null
-  },
-  {
-   "title": "New autobiography to detail remarkable F1 crash and recovery",
-   "url": "https://www.the-race.com/extra/new-autobiography-to-detail-remarkable-f1-crash-and-recovery/",
-   "source": "The Race",
-   "date": "2026-11-20T11:29:05.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Martin Donnelly will recount his horrific F1 crash and remarkable recovery in a new autobiography, following renewed interest sparked by F1: The Movie.",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1027353_HiRes.jpg"
-  },
-  {
-   "title": "Alpine suddenly releases Paul Aron from F1 reserve driver role",
-   "url": "https://www.crash.net/f1/news/1110300/1/alpine-suddenly-releases-paul-aron-f1-reserve-driver-role",
-   "source": "Crash.net",
-   "date": "2026-11-20T10:55:49.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Alpine has released Paul Aron from his F1 reserve driver role.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1441321_hires.jpg?width=1200"
-  },
-  {
    "title": "Spotlight: Report claims Stellantis will cancel its Peugeot WEC and Citroen Formula E programmes",
    "url": "https://www.racefans.net/2026/11/20/spotlight-report-claims-stellantis-will-cancel-its-peugeot-wec-and-citroen-formula-e-programmes/",
    "source": "RaceFans",
@@ -513,16 +522,6 @@
    "result": false,
    "summary": "Likely 2026 world champion Marc Marquez has conspicuously failed to confirm his presence on the 2027 MotoGP grid. Stories in some quarters have suggested that the Spaniard might call time on his illustrious career…",
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "IndyCar 2026 season review: Andretti Global",
-   "url": "https://www.motorsport.com/indycar/news/indycar-2026-season-review-andretti-global/10875677/",
-   "source": "Motorsport.com",
-   "date": "2026-11-19T17:17:41.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "The 2026 IndyCar Series campaign represented a pivotal reset for Andretti Global. Following a turbulent 2025 season marked by late-summer fade-outs, post-race Indianapolis 500 penalties, and Colton Herta’s transition…",
-   "image": "https://cdn-1.motorsport.com/images/amp/63QaWWE2/s6/kyle-kirkwood-andretti-global--2.jpg"
   },
   {
    "title": "Is Peugeot ending its WEC Hypercar programme with immediate effect?",
@@ -713,16 +712,6 @@
    "result": false,
    "summary": "Formula E is entering what could become the defining era of its history. The Gen4 has a clear objective: to redefine the championship's place in motorsport and win over those who remain skeptical of electric racing. For…",
    "image": "https://cdn-1.motorsport.com/images/amp/YE9EbMpY/s6/jeff-dodds-formula-e-gen4-2.jpg"
-  },
-  {
-   "title": "2026 MotoGP Portuguese Grand Prix – How to watch, session times & more",
-   "url": "https://www.motorsport.com/motogp/news/2026-motogp-portuguese-grand-prix-how-to-watch-session-times-more/10874958/",
-   "source": "Motorsport.com",
-   "date": "2026-11-18T07:00:04.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez can wrap up the 2026 MotoGP title as early as the sprint race for the Portuguese Grand Prix. The factory Ducati rider only needs to outscore Aprilia's Jorge Martin by two points to secure his 10th world…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YN7w3yb6/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Rodney Childers pushes back on NASCAR CEO's claims about car comparisons",
@@ -1035,16 +1024,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/63QaZJ42/s6/120-wright-motorsports-porsche.jpg"
   },
   {
-   "title": "Chip Ganassi Racing signs Alessandro de Tullio for 2027 Indy NXT Season, adds IndyCar reserve role",
-   "url": "https://www.motorsport.com/indylights/news/chip-ganassi-racing-signs-alessandro-de-tullio-for-2027-indy-nxt-season-adds-indycar-reserve-role/10873883/",
-   "source": "Motorsport.com",
-   "date": "2026-11-11T15:00:03.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "Chip Ganassi Racing has officially signed 20-year-old Argentinian driver Alessandro de Tullio for the 2027 Indy NXT by Firestone season. De Tullio will pilot the #10 AstroPay entry following a series of productive…",
-   "image": "https://cdn-1.motorsport.com/images/amp/01QNXA50/s6/alessandro-de-tullio-chris-gri.jpg"
-  },
-  {
    "title": "The new records set by Toyota's Hypercar trio with WEC 2026 title",
    "url": "https://www.motorsport.com/wec/news/the-new-records-set-by-toyotas-hypercar-trio-with-wec-2026-title/10873848/",
    "source": "Motorsport.com",
@@ -1115,16 +1094,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YE9E9OPY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
   },
   {
-   "title": "Dale Coyne Racing signs reigning Indy NXT champion Nikita Johnson for 2027 IndyCar season",
-   "url": "https://www.motorsport.com/indycar/news/dale-coyne-racing-signs-reigning-indy-nxt-champion-nikita-johnson-for-2027-indycar-season/10873670/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T16:12:30.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "Reigning Indy NXT champion Nikita Johnson is stepping up to the top tier of American open-wheel racing. Dale Coyne Racing announced today that the 18-year-old Floridian will pilot one of the team's Honda-powered entries…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YXyKj9j6/s6/nikita-johnson-barber-motorspo.jpg"
-  },
-  {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
    "url": "https://www.motorsport.com/dtm/news/latest-mercedes-amg-test-could-a-woman-return-to-the-dtm-in-2027/10873663/",
    "source": "Motorsport.com",
@@ -1193,16 +1162,6 @@
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
    "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
-  },
-  {
-   "title": "Ferrari explains tyre pressure mistake in Monza WEC",
-   "url": "https://www.motorsport.com/wec/news/ferrari-explains-tyre-pressure-mistake-in-monza-wec/10873370/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T17:12:14.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
