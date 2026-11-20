@@ -1,6 +1,6 @@
 # Apex Media
 
-Motorsport news website with two tabs: **Sri Lanka** (local racing, karting focus) and **International** (all world motorsport).
+Motorsport news website with two tabs: **Sri Lanka** (all local racing: supercross, rally, circuit racing and karting, no single discipline leads) and **International** (all world motorsport).
 
 - Live site (GitHub Pages, deploys from `main`): https://ridmaraveengamage-cmyk.github.io/apex-media/ — open a tab directly with `#srilanka` or `#international`.
 - Repo (public): https://github.com/ridmaraveengamage-cmyk/apex-media
@@ -34,6 +34,9 @@ Motorsport news website with two tabs: **Sri Lanka** (local racing, karting focu
 - To preview the site, open `index.html` or serve the folder (e.g. `python3 -m http.server`), since `fetch` of `data/*.json` needs http.
 
 ## Sri Lanka tab (hand-edited)
+
+- Owner wants the whole racing scope covered, not a karting-led site (Nov 2026). The `#karting` section is the "Sri Lanka racing hub" with four discipline cards (`SERIES` array): Supercross, Rally, Circuit racing (sample figures), Karting. Lead, rail, results tabs and standings tabs mix disciplines.
+- Header is solid near-black (#0f0f0f) at the top; the owner disliked the grey/ash look. It turns frosted only after scrolling.
 
 - Data lives in the `SL` object in `index.html`, drawn from published 2026 reports (IAME Motorsport, ThePapare, The Morning, National Sports Calendar 2026).
 - IAME Series Sri Lanka: 5 rounds at SpeedBay Circuit, Bandaragama; Cadet 8–12, Junior 12–15, Senior 15+, Master 30+; X30 engines, Komet tyres; Junior/Senior champions win IAME World Finals entry.

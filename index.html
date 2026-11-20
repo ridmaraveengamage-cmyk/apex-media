@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Apex Media: motorsport news from Sri Lanka and around the world. Karting, supercross, rally and circuit racing.">
+<meta name="description" content="Apex Media: motorsport news from Sri Lanka and around the world. Supercross, rally, circuit racing, karting and every major world series.">
 <link rel="icon" href="assets/apex-logo.webp">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
 <title>Apex Media</title>
@@ -240,8 +240,9 @@ footer .wrap{padding-block:40px 24px}
 /* ===== Apple-style motion: calm fades, soft depth, long smooth easing ===== */
 :root{--ease:cubic-bezier(.25,.1,.25,1);--ease-out:cubic-bezier(.16,1,.3,1)}
 /* frosted-glass header */
-.mast{background:rgba(34,34,34,.8);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);transition:background .5s var(--ease)}
-.mast.scrolled{background:rgba(25,25,25,.66)}
+.mast{background:#0f0f0f;-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);transition:background .5s var(--ease)}
+.mast.scrolled{background:rgba(15,15,15,.82)}
+.util{background:#0a0a0a}
 /* scroll reveal: soft fade-up */
 .rv-pre{opacity:0;transform:translateY(40px) scale(.985);filter:blur(8px)}
 .rv-in{opacity:1;transform:none;filter:none;transition:opacity 1s var(--ease),transform 1.2s var(--ease-out),filter 1s var(--ease-out);transition-delay:var(--rvd,0s)}
@@ -326,7 +327,14 @@ section{padding-block:64px}
 .card:hover{border-color:var(--green)}
 .card h3{font-size:20px;line-height:1.08}
 .rail-item .ph,.card .ph{background:#1d1d1d}
-/* karting hub stats: team-site style */
+/* racing hub: four disciplines, team-site style stats */
+.kart .series{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media (max-width:1100px){.kart .series{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:620px){.kart .series{grid-template-columns:minmax(0,1fr)}}
+.kart .s-top h3{font-size:28px;font-style:italic;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.kart .facts b{font-size:24px;white-space:nowrap}
+.kart .facts div{padding:10px 8px;min-width:0}
+.kart .facts span{font-size:10px;letter-spacing:.06em;display:block;overflow-wrap:anywhere}
 .kart .facts{gap:1px;background:var(--line-d);border:1px solid var(--line-d)}
 .kart .facts div{background:#1a1a1a;padding:12px}
 .kart .facts b{color:var(--green);font-size:30px}
@@ -504,7 +512,7 @@ footer{border-top:1px solid var(--line-d)}
       <button role="tab" id="ed-sl" aria-selected="true" data-ed="sl"><span class="flag flag-lk" aria-hidden="true"></span>Sri Lanka</button>
       <button role="tab" id="ed-int" aria-selected="false" data-ed="int"><span class="flag flag-int" aria-hidden="true"></span>International</button>
     </div>
-    <div class="r"><span class="ed-note" id="edNote">Local racing · karting · supercross</span><a href="#">Sign in</a></div>
+    <div class="r"><span class="ed-note" id="edNote">Supercross · rally · circuit · karting</span><a href="#">Sign in</a></div>
   </div>
 </div>
 
@@ -513,7 +521,7 @@ footer{border-top:1px solid var(--line-d)}
     <a class="logo" href="#top" aria-label="Apex Media home"><span>Apex Media</span></a>
     <ul class="menu" id="menu">
       <li><a href="#latest" class="on">Latest</a></li>
-      <li id="navKart"><a href="#karting">Karting</a></li>
+      <li id="navKart"><a href="#karting">Racing hub</a></li>
       <li><a href="#results">Results</a></li>
       <li><a href="#results" id="navStand">Standings</a></li>
       <li><a href="#schedule">Schedule</a></li>
@@ -528,7 +536,7 @@ footer{border-top:1px solid var(--line-d)}
     </div>
   </div>
   <nav class="mobile-menu" id="mobileMenu" hidden><div class="wrap"><ul>
-    <li><a href="#latest">Latest</a></li><li class="m-kart"><a href="#karting">Karting</a></li><li><a href="#results">Results &amp; standings</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#news">Features</a></li><li><a href="#tv">Apex TV · soon</a></li><li><a href="#newsletter">Subscribe</a></li>
+    <li><a href="#latest">Latest</a></li><li class="m-kart"><a href="#karting">Racing hub</a></li><li><a href="#results">Results &amp; standings</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#news">Features</a></li><li><a href="#tv">Apex TV · soon</a></li><li><a href="#newsletter">Subscribe</a></li>
   </ul></div></nav>
 </header>
 
@@ -551,15 +559,15 @@ footer{border-top:1px solid var(--line-d)}
 
 <section class="kart" id="karting">
   <div class="wrap">
-    <div class="sec-head"><h2>Karting hub</h2><a class="more" href="#schedule" style="color:#fff">Karting calendar ›</a></div>
-    <p class="kart-intro">Sri Lankan karting has three headline championships, all raced at SpeedBay Circuit, Bandaragama, and all officiated by the Ceylon Motor Sports Club.</p>
+    <div class="sec-head"><h2>Sri Lanka racing hub</h2><a class="more" href="#schedule" style="color:#fff">Season calendar ›</a></div>
+    <p class="kart-intro">Sri Lankan motorsport runs across four main disciplines: supercross race meets for cars and bikes, rally, circuit racing and karting. Karting events are officiated by the Ceylon Motor Sports Club.</p>
     <div class="series" id="series"></div>
     <div class="venue">
-      <svg viewBox="0 0 120 60" aria-hidden="true"><path d="M10 44 L10 18 Q10 8 22 8 L56 8 Q66 8 66 18 L66 26 Q66 32 74 32 L98 32 Q110 32 110 42 Q110 52 98 52 L22 52 Q10 52 10 44 Z"/></svg>
-      <div><h4>SpeedBay Circuit · Bandaragama</h4><p>Home of Sri Lankan international karting. Run by David Pieris Racing &amp; Leisure. Endurance lap record from the SWS opener: 1:09.249.</p></div>
-      <a class="btn" href="#schedule">Event guide</a>
+      <svg viewBox="0 0 120 60" aria-hidden="true"><path d="M8 40 Q20 10 40 26 T72 22 Q92 8 112 30 Q100 52 70 46 Q46 42 28 52 Q10 54 8 40 Z"/></svg>
+      <div><h4>Where Sri Lanka races</h4><p>Fox Hill, Diyatalawa · Cavalry · Saliyapura · Minneriya (supercross) · SpeedBay Circuit, Bandaragama (karting) · airfield and road venues for circuit racing and rally.</p></div>
+      <a class="btn" href="#schedule">Season calendar</a>
     </div>
-    <p class="source">Facts from IAME Motorsport (series page) and ThePapare, 2026.</p>
+    <p class="source">Facts from IAME Motorsport, ThePapare, The Morning and the National Sports Calendar 2026. Cards marked Sample use invented figures.</p>
   </div>
 </section>
 
@@ -657,9 +665,9 @@ footer{border-top:1px solid var(--line-d)}
     <div class="foot-grid">
       <div>
         <div class="logo foot-logo" role="img" aria-label="Apex Media"></div>
-        <p style="margin:0;max-width:34ch">Motorsport news from Sri Lanka and around the world: karting, supercross, rally and circuit racing.</p>
+        <p style="margin:0;max-width:34ch">Motorsport news from Sri Lanka and around the world: supercross, rally, circuit racing, karting and every major world series.</p>
       </div>
-      <div><h4>Sri Lanka</h4><ul><li><a href="#karting">Karting hub</a></li><li><a href="#">IAME Series Sri Lanka</a></li><li><a href="#">SWS Sprint &amp; Endurance</a></li><li><a href="#">Supercross</a></li></ul></div>
+      <div><h4>Sri Lanka</h4><ul><li><a href="#karting">Racing hub</a></li><li><a href="#karting">Supercross</a></li><li><a href="#karting">Rally &amp; Super Series</a></li><li><a href="#karting">Circuit racing</a></li><li><a href="#karting">Karting</a></li></ul></div>
       <div><h4>Racing</h4><ul><li><a href="#results">Results</a></li><li><a href="#results">Standings</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#">Drivers &amp; teams</a></li></ul></div>
       <div><h4>Apex Media</h4><ul><li><a href="#">About us</a></li><li><a href="#">Advertise</a></li><li><a href="#">Contact</a></li><li><a href="#">Privacy</a></li></ul></div>
     </div>
@@ -694,76 +702,84 @@ const DIRT='M6 24 Q16 6 30 20 T54 20 T78 20 Q92 8 94 24 Q90 40 70 36 Q50 32 30 4
 
 /* ================= SRI LANKA EDITION ================= */
 const SL={
-  note:'Local racing · karting · supercross',
+  note:'Supercross · rally · circuit · karting',
   weekend:`
-    <div class="wk-title"><span class="wk-round">R5</span><div><h2>IAME Series Sri Lanka</h2><p>31 Oct – 1 Nov · SpeedBay Circuit, Bandaragama · Season finale</p></div></div>
-    <div class="sessions" aria-label="Weekend programme">
-      <div><b>Sat 31 Oct</b>Practice &amp; qualifying</div>
-      <div class="race"><b>Sun 1 Nov</b>Heats &amp; finals</div>
-      <div><b>Next</b>2027 calendar to be announced</div>
+    <div class="wk-title"><span class="wk-round">2026</span><div><h2>Sri Lanka racing season</h2><p>Supercross · Rally · Circuit racing · Karting</p></div></div>
+    <div class="sessions" aria-label="Season status">
+      <div><b>Supercross</b>4 race meets run</div>
+      <div><b>Karting</b>Champions crowned</div>
+      <div class="race"><b>Next</b>2027 calendars due</div>
     </div>
-    <div class="wk-status"><span class="sample warn">Sample</span><span>Season complete · the finale report, results and standings on this tab are sample content with invented names</span></div>`,
-  lead:{tag:'Karting',h:105,n:'R5',eyebrow:'IAME Series Sri Lanka · Round 5',ago:'1 Nov 2026',sample:true,img:'assets/sl/apex-sl-lead.webp',
-    t:'Abeysekara seals IAME Senior title as Perera wins the SpeedBay finale',
-    d:'Tharusha Perera won the Senior final, but second place was enough for Dinuk Abeysekara to take the championship by 15 points.',
-    b:['Tharusha Perera led every lap of the 18-lap Senior final at SpeedBay Circuit and crossed the line 0.412 seconds ahead of Dinuk Abeysekara. Second place was all Abeysekara needed: he finishes the five-round season on 186 points, 15 clear of Perera.',
-       'Rehan Mendis completed the podium after a late pass on Nethuli Silva at the hairpin. Abeysekara also set the fastest lap of the final, a 1:01.874.',
-       'In the Junior class, Arya Weerasinghe took the title with a round to spare and won again on Sunday. As champions, Abeysekara and Weerasinghe earn entries to the IAME World Finals.']},
+    <div class="wk-status"><span class="sample warn">Sample</span><span>Season reports, results and standings marked Sample use invented names</span></div>`,
+  lead:{tag:'Supercross',h:30,n:'',eyebrow:'Gunners Supercross · Minneriya',ago:'Sep 2026',sample:true,img:'assets/sl/apex-sl-sxcars.webp',
+    t:'Gunners Supercross ends the season in a cloud of dust',
+    d:'Cars and bikes raced on the dry Minneriya track as the supercross season ended. Shehan Wickramaratne took the main car race.',
+    b:['The Gunners Supercross at Minneriya closed the 2026 supercross season, following Fox Hill, Cavalry and Gajaba earlier in the year.','Shehan Wickramaratne won the main car race after passing Malith Jayakody on the penultimate lap. Ravindu Silva finished third after starting from the back of the grid.','This report is sample content: the race details and all names are invented for the preview.']},
   rail:[
-    {t:'Team Avant win the SWS Endurance Cup opener with 126 laps',c:'SWS Endurance',a:'2026',h:120,img:'assets/sl/apex-sl-endurance.webp',
-      b:['Team Avant won the opening round of the SWS Endurance Cup at SpeedBay Circuit, completing 126 laps in three hours.','Kartmen finished second and Velocity X Racing third from a field of 16 teams, with drivers from six countries. Spark Racing set the fastest lap of the race, a 1:09.249.'],src:'Source: ThePapare, 2026.'},
-    {t:'33 karts: Senior class sets Sri Lanka’s biggest-ever grid',c:'SWS Sprint',a:'2026',h:45,img:'assets/sl/apex-sl-grid.webp',
-      b:['The Senior class of the SWS Sprint Championship drew 33 karts, the largest grid seen in Sri Lankan karting.','The championship uses arrive-and-drive Sodi karts, so every driver races identical machinery. Classes run for Cadet, Junior, Senior, Masters and Women’s drivers.'],src:'Source: ThePapare, 2026.'},
-    {t:'SLARDAR launches the Sri Lanka Super Series 2026',c:'National',a:'22 Mar',h:200,img:'assets/sl/apex-sl-superseries.webp',
+    {t:'Abeysekara seals IAME Senior title as Perera wins the SpeedBay finale',c:'Karting',a:'1 Nov',h:105,sample:true,img:'assets/sl/apex-sl-lead.webp',eyebrow:'IAME Series Sri Lanka · Round 5',
+      b:['Tharusha Perera led every lap of the Senior final at SpeedBay Circuit and crossed the line 0.412 seconds ahead of Dinuk Abeysekara. Second place was all Abeysekara needed: he finishes the five-round season on 186 points, 15 clear of Perera.','In the Junior class, Arya Weerasinghe took the title with a round to spare. As champions, Abeysekara and Weerasinghe earn entries to the IAME World Finals.']},
+    {t:'SLARDAR launches the Sri Lanka Super Series 2026',c:'Rally',a:'22 Mar',h:200,img:'assets/sl/apex-sl-superseries.webp',
       b:['The Sri Lanka Super Series brings rally, circuit and off-road events under one banner for 2026.'],src:'Source: The Morning, March 2026.'},
-    {t:'Fuel supply concerns put the early-season calendar under review',c:'National',a:'Mar 2026',h:20,img:'assets/sl/apex-sl-fuel.webp',
-      b:['Organisers reviewed the early-season motorsport calendar in March because of concerns over fuel supply.'],src:'Source: published reports, March 2026.'}
+    {t:'Saloons, single-seaters and superbikes share the airfield for the circuit finale',c:'Circuit',a:'Oct 2026',h:220,sample:true,img:'assets/sl/apex-sl-circuitstart.webp',
+      b:['The season’s last circuit meet ran races for saloon cars, single-seaters and superbikes on the same airfield track.','Nadeesha Gunawardena won the main saloon race, and Kasun Herath took both superbike races.','This report is sample content: the race details and all names are invented for the preview.']},
+    {t:'Fox Hill Supercross returns to Diyatalawa',c:'Supercross',a:'Apr 2026',h:30,img:'assets/sl/apex-sl-foxhill.webp',
+      b:['The Fox Hill Supercross returned to Diyatalawa in April.'],src:'Source: National Sports Calendar 2026. Some dates differ between sources.'}
   ],
   newsTitle:'Sri Lanka news',
-  newsSource:'Stories marked “Sample” are invented for the preview, including all driver names. Every photo on this tab is an AI-generated illustration made with Google Gemini, not a picture of the real event. Other stories are drawn from IAME Motorsport, ThePapare, The Morning and the National Sports Calendar 2026.',
+  newsSource:'Stories marked “Sample” are invented for the preview, including all names. Every photo on this tab is an AI-generated illustration made with Google Gemini, not a picture of the real event. Other stories are drawn from IAME Motorsport, ThePapare, The Morning and the National Sports Calendar 2026.',
+  newsOrder:['Supercross','Rally','Circuit','Karting','National','Explainer'],
   news:[
-    {t:'Weerasinghe crowned IAME Junior champion with a round to spare',c:'Karting',a:'1 Nov',h:110,n:'',sample:true,img:'assets/sl/apex-sl-champion.webp',
-      b:['Arya Weerasinghe wrapped up the IAME Series Sri Lanka Junior title at Round 4 and finished the season with another win at the SpeedBay finale.','Weerasinghe ends the year on 174 points, 14 ahead of Dulain Wijesuriya, and earns a place at the IAME World Finals.']},
-    {t:'SpeedBay finale in pictures: champions celebrate at Bandaragama',c:'Karting',a:'1 Nov',h:60,n:'',sample:true,img:'assets/sl/apex-sl-podium.webp',
-      b:['The final round of the IAME Series Sri Lanka ended with podium celebrations in all four classes: Cadet, Junior, Senior and Master.','Senior champion Dinuk Abeysekara and Junior champion Arya Weerasinghe now prepare for the IAME World Finals.']},
-    {t:'SpeedBay launches Sri Lanka’s first SWS Sprint Championship',c:'Karting',a:'2026',h:110,n:'6',img:'assets/sl/apex-sl-sprint.webp',
-      b:['SpeedBay Circuit in Bandaragama runs Sri Lanka’s first SWS Sprint Championship over six rounds in 2026.','Drivers race arrive-and-drive Sodi karts with equal machinery and minimum weights. Winners become eligible for the SWS World Finals.'],src:'Source: ThePapare, 2026.'},
-    {t:'Spark Racing set the fastest lap of the endurance opener: 1:09.249',c:'Karting',a:'2026',h:300,n:'',img:'assets/sl/apex-sl-fastlap.webp',
-      b:['Spark Racing set the fastest lap of the SWS Endurance Cup opener at SpeedBay, a 1:09.249, during the three-hour race won by Team Avant.'],src:'Source: ThePapare, 2026.'},
-    {t:'Drivers from Pakistan, China, the UK, the Maldives, Germany and Czech Republic join the SWS grid',c:'Karting',a:'2026',h:200,n:'',img:'assets/sl/apex-sl-intl.webp',
-      b:['The SWS Endurance opener at SpeedBay drew drivers from six countries, including Pakistan, China, the UK, the Maldives, Germany and Czech Republic.'],src:'Source: ThePapare, 2026.'},
-    {t:'IAME classes explained: X30 engines, Komet tyres and the weight limits',c:'Explainer',a:'2026',h:60,n:'X30',img:'assets/sl/apex-sl-x30.webp',
-      b:['IAME Series Sri Lanka uses X30 two-stroke engines on Komet tyres. There are four classes: Cadet (8–12), Junior (12–15), Senior (15+) and Master (30+).','The season runs over five rounds at SpeedBay Circuit, and the Junior and Senior champions win entry to the IAME World Finals.'],src:'Source: IAME Motorsport series page, 2026.'},
+    {t:'Superbike riders go wheel-to-wheel on the airfield circuit',c:'Circuit',a:'Oct 2026',h:340,n:'',sample:true,img:'assets/sl/apex-sl-bikes.webp',
+      b:['Kasun Herath won both superbike races at the season’s final circuit meet, holding off Dilan Rodrigo by less than a second in race two.','This report is sample content: the race details and all names are invented for the preview.']},
+    {t:'Gravel and jungle: rally crews prepare for the Super Series stages',c:'Rally',a:'Aug 2026',h:120,n:'',sample:true,img:'assets/sl/apex-sl-rally.webp',
+      b:['Rally crews spent the August break testing on gravel roads ahead of the Super Series rally rounds.','Defending crew Ruwan Peiris and Tharindu Mendis say the narrow jungle stages reward a calm, tidy drive more than raw speed.','This story is sample content: the details and all names are invented for the preview.']},
     {t:'Fox Hill Supercross returns to Diyatalawa',c:'Supercross',a:'Apr 2026',h:30,n:'',img:'assets/sl/apex-sl-foxhill.webp',
       b:['The Fox Hill Supercross returned to Diyatalawa in April.'],src:'Source: National Sports Calendar 2026. Some dates differ between sources.'},
     {t:'Cavalry Supercross: race meet preview',c:'Supercross',a:'Jun 2026',h:15,n:'',img:'assets/sl/apex-sl-cavalry.webp',
       b:['The Cavalry Supercross was scheduled for June. Sources disagree on the venue, so check with the organisers.'],src:'Source: National Sports Calendar 2026.'},
     {t:'Gajaba Supercross heads to Saliyapura',c:'Supercross',a:'Aug 2026',h:40,n:'',img:'assets/sl/apex-sl-gajaba.webp',
       b:['The Gajaba Supercross took place at Saliyapura in August.'],src:'Source: National Sports Calendar 2026.'},
-    {t:'Gunners Supercross: dust and drama by the Minneriya lake',c:'Supercross',a:'Sep 2026',h:25,n:'',sample:true,img:'assets/sl/apex-sl-gunners.webp',
-      b:['The Gunners Supercross at Minneriya closed the supercross season in September on a dry, dusty track beside the lake.','This report is sample content: the race details and any riders mentioned are invented for the preview.']},
+    {t:'Bike classes fill the Gunners Supercross programme at Minneriya',c:'Supercross',a:'Sep 2026',h:25,n:'',sample:true,img:'assets/sl/apex-sl-gunners.webp',
+      b:['Motorcycle classes made up most of the Gunners Supercross programme on the dusty lakeside track.','This report is sample content: the race details are invented for the preview.']},
+    {t:'Team Avant win the SWS Endurance Cup opener with 126 laps',c:'Karting',a:'2026',h:120,n:'',img:'assets/sl/apex-sl-endurance.webp',
+      b:['Team Avant won the opening round of the SWS Endurance Cup at SpeedBay Circuit, completing 126 laps in three hours.','Kartmen finished second and Velocity X Racing third from a field of 16 teams, with drivers from six countries. Spark Racing set the fastest lap of the race, a 1:09.249.'],src:'Source: ThePapare, 2026.'},
+    {t:'33 karts: Senior class sets Sri Lanka’s biggest-ever grid',c:'Karting',a:'2026',h:45,n:'',img:'assets/sl/apex-sl-grid.webp',
+      b:['The Senior class of the SWS Sprint Championship drew 33 karts, the largest grid seen in Sri Lankan karting.','The championship uses arrive-and-drive Sodi karts, so every driver races identical machinery. Classes run for Cadet, Junior, Senior, Masters and Women’s drivers.'],src:'Source: ThePapare, 2026.'},
+    {t:'Weerasinghe crowned IAME Junior champion with a round to spare',c:'Karting',a:'1 Nov',h:110,n:'',sample:true,img:'assets/sl/apex-sl-champion.webp',
+      b:['Arya Weerasinghe wrapped up the IAME Series Sri Lanka Junior title at Round 4 and finished the season with another win at the SpeedBay finale.','Weerasinghe ends the year on 174 points, 14 ahead of Dulain Wijesuriya, and earns a place at the IAME World Finals.']},
     {t:'Sri Lanka Super Series: rally, circuit and off-road under one banner',c:'National',a:'Mar 2026',h:170,n:'',img:'assets/sl/apex-sl-circuit.webp',
-      b:['SLARDAR’s Sri Lanka Super Series groups rally, circuit and off-road events into one national series for 2026.'],src:'Source: The Morning, March 2026.'}
+      b:['SLARDAR’s Sri Lanka Super Series groups rally, circuit and off-road events into one national series for 2026.'],src:'Source: The Morning, March 2026.'},
+    {t:'Fuel supply concerns put the early-season calendar under review',c:'National',a:'Mar 2026',h:20,n:'',img:'assets/sl/apex-sl-fuel.webp',
+      b:['Organisers reviewed the early-season motorsport calendar in March because of concerns over fuel supply.'],src:'Source: published reports, March 2026.'},
+    {t:'Karting classes explained: X30 engines, Komet tyres and arrive-and-drive Sodi karts',c:'Explainer',a:'2026',h:60,n:'X30',img:'assets/sl/apex-sl-x30.webp',
+      b:['IAME Series Sri Lanka uses X30 two-stroke engines on Komet tyres, with Cadet (8–12), Junior (12–15), Senior (15+) and Master (30+) classes over five rounds at SpeedBay Circuit.','The SWS Sprint and Endurance championships use arrive-and-drive Sodi karts, so every driver races identical machinery.'],src:'Sources: IAME Motorsport series page; ThePapare, 2026.'}
   ],
   resultSets:{
-    iame:{label:'IAME R5 Senior',
+    sx:{label:'Supercross · Cars',
+      title:'Gunners Supercross · Main car race <span class="sample warn">Sample</span>',col:'Driver',col2:'Gap',
+      podium:[['Shehan Wickramaratne','Winner','8 laps','#3cff1a'],['Malith Jayakody','Minneriya','+1.8s','#1fb6d6'],['Ravindu Silva','From the back','+4.3s','#f2b705']],
+      rows:[['Shehan Wickramaratne','8 laps','25'],['Malith Jayakody','+1.8s','18'],['Ravindu Silva','+4.3s','15'],['Chathura Bandara','+6.0s','12',{c:'#e8202e',n:''}],['Hiran Fonseka','+9.7s','10',{c:'#8a5cf6',n:''}],['Lasith Perera','+12.2s','8',{c:'#9aa29a',n:''}]],
+      extra:'',source:'Sample result for the design preview: names, gaps and points are invented.'},
+    iame:{label:'Karting · IAME R5',
       title:'IAME Series Sri Lanka · R5 Senior final <span class="sample warn">Sample</span>',col:'Driver',col2:'Time',
       podium:[['Tharusha Perera','Senior final winner','15:42.318','#1fb6d6'],['Dinuk Abeysekara','2026 Senior champion','+0.412','#3cff1a'],['Rehan Mendis','SpeedBay Circuit','+1.905','#f2b705']],
-      rows:[['Tharusha Perera','15:42.318','25'],['Dinuk Abeysekara','+0.412','18'],['Rehan Mendis','+1.905','15'],['Nethuli Silva','+3.260','12',{c:'#e8202e',n:''}],['Pasindu Herath','+4.117','10',{c:'#8a5cf6',n:''}],['Ovin Samarasinghe','+6.844','8',{c:'#9aa29a',n:''}],['Lahiru Gamlath','+8.021','6',{c:'#9aa29a',n:''}],['Shenal Rodrigo','+9.550','4',{c:'#9aa29a',n:''}]],
+      rows:[['Tharusha Perera','15:42.318','25'],['Dinuk Abeysekara','+0.412','18'],['Rehan Mendis','+1.905','15'],['Nethuli Silva','+3.260','12',{c:'#e8202e',n:''}],['Pasindu Herath','+4.117','10',{c:'#8a5cf6',n:''}],['Ovin Samarasinghe','+6.844','8',{c:'#9aa29a',n:''}]],
       extra:'<tr><td class="pos">FL</td><td><div class="drv"><i style="background:#3cff1a"></i><div>Dinuk Abeysekara<small>Fastest lap</small></div><span class="ft">1:01.874</span></div></td><td class="r tnum">—</td><td class="r">—</td></tr>',
       source:'Sample result for the design preview: names, times and points are invented.'},
-    end:{label:'SWS Endurance',
+    end:{label:'Karting · SWS Endurance',
       title:'SWS Endurance Cup · Opener',col:'Team',col2:'Laps',
       podium:[['Team Avant','3 hours · SpeedBay','126 laps','#3cff1a'],['Kartmen','16 teams started','','#1fb6d6'],['Velocity X Racing','SpeedBay Circuit','','#f2b705']],
       rows:[['Team Avant','126','25'],['Kartmen','—','18'],['Velocity X Racing','—','15']],
       extra:'<tr><td class="pos">FL</td><td><div class="drv"><i style="background:#8a5cf6"></i><div>Spark Racing<small>Fastest lap</small></div><span class="ft">1:09.249</span></div></td><td class="r tnum">—</td><td class="r">—</td></tr>',
       source:'Result as reported by ThePapare. Only the top three and fastest lap were published; points shown are sample.'}
   },
-  standingsTabs:[['iame','IAME Senior'],['iamej','IAME Junior'],['sws','SWS Senior']],
+  standingsTabs:[['sx','Supercross'],['circuit','Circuit'],['rally','Rally'],['iame','Karting']],
+  stCols:{rally:'Crew'},
   standings:{
-    iame:[['Dinuk Abeysekara','Champion · 5 rounds',186,'#3cff1a'],['Tharusha Perera','Senior',171,'#1fb6d6'],['Rehan Mendis','Senior',158,'#f2b705'],['Nethuli Silva','Senior',133,'#e8202e'],['Pasindu Herath','Senior',117,'#8a5cf6'],['Ovin Samarasinghe','Senior',98,'#9aa29a']],
-    iamej:[['Arya Weerasinghe','Champion · 5 rounds',174,'#3cff1a'],['Dulain Wijesuriya','Junior',160,'#1fb6d6'],['Hasith Fernando','Junior',149,'#f2b705'],['Minul Gunasekara','Junior',121,'#e8202e'],['Sanuli Jayasena','Junior',104,'#8a5cf6'],['Kevin Fonseka','Junior',90,'#9aa29a']],
-    sws:[['Akash Ratnayake','Senior',142,'#3cff1a'],['Kaveesha Ekanayake','Senior',131,'#1fb6d6'],['Yohan de Mel','Senior',120,'#f2b705'],['Isuru Bandara','Senior',104,'#e8202e'],['Senal Kodikara','Senior',89,'#8a5cf6'],['Thisal Karunaratne','Senior',77,'#9aa29a']]
+    sx:[['Shehan Wickramaratne','Cars · 4 meets',88,'#3cff1a'],['Malith Jayakody','Cars',81,'#1fb6d6'],['Ravindu Silva','Cars',70,'#f2b705'],['Chathura Bandara','Cars',58,'#e8202e'],['Hiran Fonseka','Cars',44,'#8a5cf6'],['Lasith Perera','Cars',37,'#9aa29a']],
+    circuit:[['Nadeesha Gunawardena','Saloon',112,'#3cff1a'],['Kavindu Rajakaruna','Saloon',97,'#1fb6d6'],['Sajith Weerakoon','Saloon',90,'#f2b705'],['Amaya Kulasekara','Saloon',71,'#e8202e'],['Roshan de Alwis','Saloon',64,'#8a5cf6'],['Udara Pathirana','Saloon',52,'#9aa29a']],
+    rally:[['Ruwan Peiris / Tharindu Mendis','Rally',76,'#3cff1a'],['Dimuth Senaratne / Ishan Kodituwakku','Rally',69,'#1fb6d6'],['Gihan Ariyaratne / Sachin Liyanage','Rally',55,'#f2b705'],['Mahesh Dayananda / Kalana Perera','Rally',41,'#e8202e'],['Nuwan Edirisinghe / Lahiru Wijeratne','Rally',33,'#8a5cf6']],
+    iame:[['Dinuk Abeysekara','IAME Senior · champion',186,'#3cff1a'],['Tharusha Perera','IAME Senior',171,'#1fb6d6'],['Rehan Mendis','IAME Senior',158,'#f2b705'],['Nethuli Silva','IAME Senior',133,'#e8202e'],['Pasindu Herath','IAME Senior',117,'#8a5cf6'],['Ovin Samarasinghe','IAME Senior',98,'#9aa29a']]
   },
   calTitle:'Sri Lanka 2026',
   cal:[
@@ -779,7 +795,7 @@ const SL={
     {s:'IAME Sri Lanka',r:'Round 5',d:'31 Oct–1 Nov',n:'SpeedBay Circuit',l:'Bandaragama · Karting',st:'done',tr:SPEEDBAY}
   ],
   calSource:'Dates from IAME Motorsport, ThePapare and the National Sports Calendar 2026. Some supercross dates and venues differ between sources, so check with organisers before publishing.',
-  tv:[['SpeedBay race-day live','Planned · karting weekends',100,'assets/sl/apex-tv-kart.webp'],['Supercross live updates','Planned · every race meet',30,'assets/sl/apex-tv-sx.webp'],['Paddock debrief','Planned · Sunday nights',200,'assets/sl/apex-tv-studio.webp']]
+  tv:[['Race-day live','Planned · supercross, circuit and karting weekends',100,'assets/sl/apex-tv-kart.webp'],['Supercross live updates','Planned · every race meet',30,'assets/sl/apex-tv-sx.webp'],['Paddock debrief','Planned · Sunday nights',200,'assets/sl/apex-tv-studio.webp']]
 };
 
 /* ================= INTERNATIONAL EDITION (sample) ================= */
@@ -840,15 +856,17 @@ const INT={
 
 /* karting hub (Sri Lanka only) */
 const SERIES=[
-  {e:'Sodi World Series',t:'SWS Sprint',d:'Sri Lanka’s first SWS Sprint Championship. Individual racing in arrive-and-drive Sodi karts with equal machinery and minimum weights.',
-   f:[['6','Rounds'],['33','Senior grid'],['5','Classes']],cl:['Cadet','Junior','Senior','Masters','Women’s'],ft:'Winners eligible for the SWS World Finals'},
-  {e:'Sodi World Series',t:'SWS Endurance',d:'Team racing over three hours. The opener drew 16 teams and drivers from six countries.',
-   f:[['3h','Race'],['16','Teams'],['126','Winning laps']],cl:['Team Avant','Kartmen','Velocity X Racing'],ft:'Opener podium · fastest lap Spark Racing'},
-  {e:'Two-stroke championship',t:'IAME Series Sri Lanka',d:'X30 engines on Komet tyres. Sri Lanka’s first IAME championship, reviving international two-stroke karting.',
-   f:[['5','Rounds 2026'],['4','Classes'],['X30','Engine']],cl:[['Cadet','8–12'],['Junior','12–15'],['Senior','15+'],['Master','30+']],ft:'Junior & Senior champions go to the IAME World Finals'}
+  {e:'Cars & motorcycles',t:'Supercross',d:'Big crowd-pullers: race meets on dirt tracks at military-base venues, with car and motorcycle classes on the same programme.',
+   f:[['4','Meets 2026'],['2','Car & bike'],['Dirt','Surface']],cl:['Fox Hill','Cavalry','Gajaba','Gunners'],ft:'Dates and venues differ between sources'},
+  {e:'Sri Lanka Super Series',t:'Rally',d:'Stage rallies for driver and co-driver crews. SLARDAR’s Super Series groups rally, circuit and off-road events for 2026.',
+   f:[['3','Types'],['2026','Launched'],['2','Per crew']],cl:['Rally','Circuit','Off-road'],ft:'Source: The Morning, March 2026'},
+  {e:'Cars & superbikes',t:'Circuit racing',sample:true,d:'Saloon cars, single-seaters and superbikes racing on airfield and purpose-built tracks.',
+   f:[['3','Classes'],['6','Meets'],['18','Saloon grid']],cl:['Saloon','Single-seater','Superbike'],ft:'Figures on this card are sample'},
+  {e:'SWS & IAME',t:'Karting',d:'Three championships at SpeedBay Circuit, Bandaragama: SWS Sprint and Endurance in arrive-and-drive Sodi karts, and IAME X30 two-stroke racing.',
+   f:[['3','Series'],['33','Record grid'],['126','Endur. laps']],cl:['SWS Sprint','SWS Endurance','IAME Series'],ft:'Champions qualify for SWS and IAME world finals'}
 ];
 $('#series').innerHTML=SERIES.map(s=>`<article class="s-card">
-  <div class="s-top"><span class="eyebrow">${s.e}</span><h3>${s.t}</h3><p>${s.d}</p></div>
+  <div class="s-top"><span class="eyebrow">${s.e}</span><h3>${s.t}${s.sample?' <span class="sample warn">Sample</span>':''}</h3><p>${s.d}</p></div>
   <div class="s-body"><div class="facts">${s.f.map(f=>`<div><b class="tnum">${f[0]}</b><span>${f[1]}</span></div>`).join('')}</div>
   <div class="classes">${s.cl.map(c=>Array.isArray(c)?`<span>${c[0]}<small>${c[1]}</small></span>`:`<span>${c}</span>`).join('')}</div></div>
   <div class="s-foot"><span>${s.ft}</span><a class="more" href="#results" style="color:var(--green)">Results ›</a></div></article>`).join('');
