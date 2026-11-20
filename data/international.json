@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:39:44.564Z",
+ "updated": "2026-11-20T09:58:14.201Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -154,7 +154,7 @@
   "NASCAR": 15,
   "IndyCar": 8,
   "IMSA": 11,
-  "Motorsport": 3,
+  "Motorsport": 2,
   "Formula E": 8,
   "Dakar": 1,
   "Karting": 5,
@@ -163,6 +163,56 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Las Vegas F1 track is “not made for these conditions” – Bearman",
+   "url": "https://www.racefans.net/2026/11/20/las-vegas-f1-track-is-not-made-for-these-conditions-bearman/",
+   "source": "RaceFans",
+   "date": "2026-11-20T09:44:22.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Oliver Bearman says the rain which made driving impossible in Las Vegas today wouldn't have been a problem at other tracks.",
+   "image": null
+  },
+  {
+   "title": "Marc Marquez nervous about expected MotoGP coronation: \"I see risks everywhere\"",
+   "url": "https://www.motorsport.com/motogp/news/frimarc-marquez-nervous-about-expected-motogp-coronation-i-see-risks-everywhere/10875700/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T09:36:30.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marc Marquez has another opportunity to clinch the 2026 MotoGP title this Saturday, but warns that he sees risks everywhere as he approaches a decisive weekend. Marquez only needs to score 14 points at the Portuguese…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2eZxwBbY/s6/marc-marquez-ducati-team.jpg"
+  },
+  {
+   "title": "George Russell impressed by \"exceptionally fast\" McLaren as rain delays Lando Norris' floor test",
+   "url": "https://www.motorsport.com/f1/news/george-russell-impressed-by-exceptionally-fast-mclaren-as-rain-delays-lando-norris-floor-test/10875966/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T09:31:14.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell came out of nowhere to set the fastest time in the closing stages of the second Formula 1 practice session in Las Vegas, although Alpine driver Pierre Gasly almost caused a major surprise by beating him…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2dEolNeY/s6/lando-norris-mclaren.jpg"
+  },
+  {
+   "title": "Wet Las Vegas practice was like a cold, miserable day karting at Rowrah – Hamilton",
+   "url": "https://www.racefans.net/2026/11/20/wet-las-vegas-practice-was-like-a-cold-miserable-day-karting-at-rowrah-hamilton/",
+   "source": "RaceFans",
+   "date": "2026-11-20T09:09:46.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton said the rain-hit practice session at Las Vegas reminded him of his early days karting in the north of England.",
+   "image": null
+  },
+  {
+   "title": "Lewis Hamilton shares fresh update on Ferrari contract situation: \"No need to think about it\"",
+   "url": "https://www.crash.net/f1/news/1110273/1/lewis-hamilton-shares-fresh-update-ferrari-contract-situation-no-need-think-about",
+   "source": "Crash.net",
+   "date": "2026-11-20T08:42:38.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton provides a fresh update on his Ferrari F1 contract situation.",
+   "image": "https://www.crash.net/sites/default/files/2026-10/xpb_1444055_hires.jpg?width=1200"
+  },
   {
    "title": "Palmowski makes history as she secures pole in Las Vegas",
    "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-makes-history-as-she-secures-her-final-pole-position-around-las-vegas.1n8CvOtY14APLOTC3pzBrL",
@@ -291,46 +341,6 @@
    "series": "F1",
    "result": false,
    "summary": "Pierre Wache explains Max Verstappen's balance and energy management issues after a difficult Thursday in Las Vegas, with Red Bull working on solutions.",
-   "image": null
-  },
-  {
-   "title": "Russell admits Mercedes lacking pace despite topping FP2",
-   "url": "https://www.formula1.com/en/latest/article/we-probably-were-not-the-fastest-russell-admits-mercedes-lacking-pace-despite-topping-fp2-in-las-vegas.6t2XX2vWPRCohJvtJ5PLeu",
-   "source": "Formula1.com",
-   "date": "2026-11-20T07:11:02.008Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell admits that \"realistically we probably were not the fastest\", despite finishing top of the times in a wet Free Practice 2 ahead of the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Piastri shares early impressions of new engine in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/piastri-shares-early-impressions-of-new-engine-in-las-vegas-as-he-prepares-for-grid-penalty.1EhZ4bKxodItgmXEX2euQf",
-   "source": "Formula1.com",
-   "date": "2026-11-20T07:11:02.008Z",
-   "series": "F1",
-   "result": false,
-   "summary": "After taking on new power unit components, McLaren's Oscar Piastri has assessed how his first day on track went at the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Russell beats Gasly and Leclerc to top spot in wet FP2",
-   "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc",
-   "source": "Formula1.com",
-   "date": "2026-11-20T07:11:02.008Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell claimed top spot in Free Practice 2 ahead of the Las Vegas Grand Prix, the Mercedes driver beating Alpine's Pierre Gasly and Ferrari's Charles Leclerc.",
-   "image": null
-  },
-  {
-   "title": "Antonelli, Bearman and Stroll set for penalties in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-bearman-and-stroll-set-for-grid-penalties-at-las-vegas-grand-prix.37Vixk6Mt1gvZlVXDsO8S",
-   "source": "Formula1.com",
-   "date": "2026-11-20T07:11:02.008Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Kimi Antonelli, Ollie Bearman and Lance Stroll have joined the list of drivers set to be hit with grid penalties at the Las Vegas Grand Prix.",
    "image": null
   },
   {
@@ -624,16 +634,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgOBOY/s6/helsapdw0aa-yln.jpg"
   },
   {
-   "title": "Social Media: FIA president indicates agreement reached on next power unit formula",
-   "url": "https://www.racefans.net/2026/11/17/social-media-fia-president-indicates-agreement-reached-on-next-power-unit-formula/",
-   "source": "RaceFans",
-   "date": "2026-11-17T20:37:09.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "V8 engines are coming back to F1 \"soon\", claims Ben Sulayem",
-   "image": null
-  },
-  {
    "title": "CrowdStrike Racing by APR keeps title-winning IMSA LMP2 roster intact for 2027",
    "url": "https://www.motorsport.com/imsa/news/crowdstrike-racing-by-apr-keeps-title-winning-imsa-lmp2-roster-intact-for-2027/10875127/",
    "source": "Motorsport.com",
@@ -792,16 +792,6 @@
    "result": false,
    "summary": "The Monza 6 Hours, which closed out the 2026 World Endurance Championship, raised more than a few questions about Race Control’s handling of the situation following the accident that occurred just 90 seconds before the…",
    "image": "https://cdn-1.motorsport.com/images/amp/YpbAXZ30/s6/safety-car.jpg"
-  },
-  {
-   "title": "Bagnaia to miss Portuguese GP; Lecuona to replace him",
-   "url": "https://www.autosport.com/motogp/news/francesco-bagnaia-to-miss-portuguese-gp-iker-lecuona-to-replace-him/10874820/",
-   "source": "Autosport",
-   "date": "2026-11-16T11:34:14.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Francesco Bagnaia will be absent from this weekend’s Portuguese Grand Prix as he continues his recovery from an injury he sustained during the Qatar MotoGP weekend. The factory Ducati rider fractured his foot after…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team-2.jpg"
   },
   {
    "title": "EKN Trackside: Superkarts! USA SuperNationals 29 – SuperSunday Report",
