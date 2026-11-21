@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:19:39.815Z",
+ "updated": "2026-11-21T01:48:05.621Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,8 +147,8 @@
   }
  ],
  "bySeries": {
-  "Motorsport": 3,
   "F1": 15,
+  "Motorsport": 2,
   "NASCAR": 15,
   "MotoGP": 15,
   "Karting": 6,
@@ -163,6 +163,36 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "LIVE COVERAGE: Final practice for the Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-las-vegas-2026.50OIQwa2hcjUWGKsiu3h5L",
+   "source": "Formula1.com",
+   "date": "2026-11-21T01:48:05.621Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Live coverage of Friday's third practice session for the 2026 Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "F1 Las Vegas GP: George Russell tops final practice after Max Verstappen collision",
+   "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-george-russell-tops-final-practice-after-max-verstappen-collision/10876181/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T01:44:36.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell collided with Max Verstappen in a tense third practice session at the Las Vegas Grand Prix as the Mercedes Formula 1 driver topped the timesheets. After both of Thursday's practice sessions had been…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YE9EbmMY/s6/george-russell-mercedes.jpg"
+  },
+  {
+   "title": "F1 Las Vegas Grand Prix: Full final practice results",
+   "url": "https://www.crash.net/f1/results/1110452/1/f1-las-vegas-grand-prix-full-final-practice-results",
+   "source": "Crash.net",
+   "date": "2026-11-21T01:40:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Full results from the final practice session at the 2026 F1 Las Vegas Grand Prix in Nevada.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455118_hires.jpg?width=1200"
+  },
   {
    "title": "On This Day: Hamilton takes vital Qatar win to cut Verstappen’s points lead",
    "url": "https://www.racefans.net/2026/11/21/on-this-day-qatar-grand-prix/",
@@ -194,7 +224,7 @@
    "image": null
   },
   {
-   "title": "Thursday rain in Las Vegas leave teams playing catch-up",
+   "title": "Thursday rain in Las Vegas leaves teams playing catch-up",
    "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
    "source": "Formula1.com",
    "date": "2026-11-20T22:19:32.476Z",
@@ -284,16 +314,6 @@
    "image": null
   },
   {
-   "title": "Hamilton reflects on Ferrari's practice running in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/a-couple-of-good-findings-hamilton-reflects-on-ferraris-wet-practice-running-in-las-vegas.4lQStkjoi1h32oQJng6ZMm",
-   "source": "Formula1.com",
-   "date": "2026-11-20T20:22:46.574Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton believes himself and Ferrari made \"a couple of good findings\" during a wet day of practice ahead of the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
    "title": "F1's new V8 engine agreed – five things you need to know",
    "url": "https://www.the-race.com/formula-1/f1s-new-v8-engine-agreed-five-things-you-need-to-know/",
    "source": "The Race",
@@ -372,26 +392,6 @@
    "result": false,
    "summary": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers. F1…",
    "image": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg"
-  },
-  {
-   "title": "FIA, F1 and teams unanimously agree to drop current power units after 2029",
-   "url": "https://www.racefans.net/2026/11/20/fia-f1-and-teams-unanimously-agree-to-drop-current-power-units-after-2029/",
-   "source": "RaceFans",
-   "date": "2026-11-20T18:59:56.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA has confirmed plans to introduce new V8 hybrid turbo power unit regulations to Formula 1 in 2030.",
-   "image": null
-  },
-  {
-   "title": "Unanimous agreement for F1 V8 engine return plan reached",
-   "url": "https://www.crash.net/f1/news/1110159/1/key-agreement-reached-f1s-poised-return-v8-engines",
-   "source": "Crash.net",
-   "date": "2026-11-20T18:57:15.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 is set to return to V8 engines from 2030 after a breakthrough agreement was reached.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1452623_hires.jpg?width=1200"
   },
   {
    "title": "Ducati dismisses doubts over Marc Marquez’s future: “He will be with us after this season”",
@@ -512,16 +512,6 @@
    "result": false,
    "summary": "Barring a freak event, new Rally1 cars will have the performance edge over Rally2 cars to win all World Rally Championship rallies in 2027, Toyota and M-Sport Ford bosses reckon. The performance gap between Rally1 and…",
    "image": "https://cdn-1.motorsport.com/images/amp/2eZxpNmY/s6/joshua-mcerlean-eoin-treacy-m--2.jpg"
-  },
-  {
-   "title": "Charles Leclerc opens up on sleepless nights and parenthood: \"Forget about how tired you are\"",
-   "url": "https://www.motorsport.com/culture/news/leclerc-opens-up-on-sleepless-nights-with-newborn-daughter-bianca-you-forget-about-how-tired-you-are/10875998/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T12:53:51.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Formula 1’s late-night Las Vegas Grand Prix timetable is tough on any driver’s body clock, but Charles Leclerc arrived in Nevada already running on a fraction of his usual rest. Just over two weeks after he and his…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YN7vBpe6/s6/charles-leclerc-ferrari-a10875998-b708-2.jpg"
   },
   {
    "title": "Fernando Alonso returns to Dakar: Why his first rally-raid experience was a shock to the system",
