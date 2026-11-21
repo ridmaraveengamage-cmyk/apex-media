@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:21:32.248Z",
+ "updated": "2026-11-21T11:18:07.103Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,8 +148,8 @@
  ],
  "bySeries": {
   "F1": 15,
+  "Motorsport": 3,
   "MotoGP": 15,
-  "Motorsport": 2,
   "Super Formula": 1,
   "NASCAR": 15,
   "Karting": 6,
@@ -164,6 +164,96 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Wolff reflects on impact of tow in Las Vegas Qualifying",
+   "url": "https://www.formula1.com/en/latest/article/i-have-no-idea-how-these-lap-times-came-together-wolff-reflects-on-slipstream-impact-in-las-vegas-qualifying.5hGMtgEZODMntPSadcUJbO",
+   "source": "Formula1.com",
+   "date": "2026-11-21T11:18:07.103Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Toto Wolff reflected on the impact of the slipstream during Las Vegas Grand Prix Qualifying, with Mercedes believing George Russell was ideally positioned for pole.",
+   "image": null
+  },
+  {
+   "title": "What are the tyre strategy options for the Las Vegas GP?",
+   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-las-vegas-gp.4k41CN1CbogRoqk1kkOb9C",
+   "source": "Formula1.com",
+   "date": "2026-11-21T11:18:07.103Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day under the Las Vegas lights.",
+   "image": null
+  },
+  {
+   "title": "Russell stunned by 'insane’ tow power in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/i-still-cant-wrap-my-head-around-it-russell-stunned-by-insane-tow-power-in-las-vegas-as-he-assesses-qualifying.52i0msrzwiBfGBpbuoNIwx",
+   "source": "Formula1.com",
+   "date": "2026-11-21T11:18:07.103Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes' George Russell missed out on getting a tow during Qualifying at the Las Vegas Grand Prix, but the Briton will still line up on the front row for Saturday's race.",
+   "image": null
+  },
+  {
+   "title": "Antonelli's 'big risk' pays off in Vegas Qualifying",
+   "url": "https://www.formula1.com/en/latest/article/i-took-a-big-risk-antonelli-reflects-on-las-vegas-gp-qualifying-after-finishing-fastest.6q1eKT6GSaau0L9WFiTq9M",
+   "source": "Formula1.com",
+   "date": "2026-11-21T11:18:07.103Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Kimi Antonelli admits that he \"took a big risk\" after finishing fastest in Qualifying for the Las Vegas Grand Prix, with the Mercedes driver also suggesting \"I wasn't driving well\".",
+   "image": null
+  },
+  {
+   "title": "Norris expects tough Vegas GP amid McLaren speed struggles",
+   "url": "https://www.formula1.com/en/latest/article/its-going-to-be-a-tough-day-norris-wary-of-mclarens-straight-line-speed-deficit-ahead-of-las-vegas-gp.43WdQWgZsqQaofWDF0E1l3",
+   "source": "Formula1.com",
+   "date": "2026-11-21T11:18:07.103Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lando Norris expects a challenging Las Vegas Grand Prix despite securing a P3 start, with the McLaren driver concerned about his team's straight-line speed deficit.",
+   "image": null
+  },
+  {
+   "title": "Antonelli and Russell set for Mercedes talks over Las Vegas GP qualifying mix-up",
+   "url": "https://www.autosport.com/f1/news/kimi-antonelli-and-george-russell-set-for-mercedes-talks-over-las-vegas-gp-qualifying-woes/10876456/",
+   "source": "Autosport",
+   "date": "2026-11-21T11:05:19.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell and Kimi Antonelli will discuss the fallout from Formula 1’s Las Vegas Grand Prix qualifying “offline” following confusion over team orders and track position. Traffic played a significant role in…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YWKAVQOY/s6/andrea-kimi-antonelli-mercedes.jpg"
+  },
+  {
+   "title": "On This Day: McLaren hire Zak Brown to lead team after ousting Ron Dennis",
+   "url": "https://www.racefans.net/2026/11/21/on-this-day-zak-brown-takes-charge-at-struggling-mclaren/",
+   "source": "RaceFans",
+   "date": "2026-11-21T10:57:12.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Zak Brown takes over at McLaren: \"It was a pretty grim place\"",
+   "image": null
+  },
+  {
+   "title": "Max Verstappen’s alarming admission about secret Red Bull F1 car issue: “We can’t fix it”",
+   "url": "https://www.crash.net/f1/news/1110540/1/max-verstappens-alarming-admission-about-secret-red-bull-f1-car-issue-we-cant-fix",
+   "source": "Crash.net",
+   "date": "2026-11-21T10:39:39.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen remains tight-lipped about a sensitive Red Bull car issue he is dealing with.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455480_hires.jpg?width=1200"
+  },
+  {
+   "title": "Max Verstappen shares theory on Ferrari's lack of top speed in F1 2026",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-shares-theory-on-ferraris-lack-of-top-speed-in-f1-2026/10876424/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T10:31:10.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Although Max Verstappen was not entirely satisfied with his second-fastest time in qualifying for the Formula 1 Las Vegas Grand Prix – pointing to a mysterious issue with the RB22 – a glance at Ferrari shows that things…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0mXykW56/s6/charles-leclerc-ferrari.jpg"
+  },
   {
    "title": "Isack Hadjar says outsmarted Red Bull “looked a bit stupid” in Las Vegas GP qualifying",
    "url": "https://www.crash.net/f1/news/1110525/1/isack-hadjar-says-outsmarted-red-bull-looked-bit-stupid-las-vegas-gp-qualifying",
@@ -235,46 +325,6 @@
    "image": null
   },
   {
-   "title": "Ferrari drivers critical of 'very poor Qualifying' in Vegas",
-   "url": "https://www.formula1.com/en/latest/article/a-very-poor-qualifying-leclerc-and-hamilton-lament-ferraris-performance-in-las-vegas.5NIhyjb93o9jPrK39GLuRe",
-   "source": "Formula1.com",
-   "date": "2026-11-21T09:17:32.131Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc admits that he and Ferrari team mate Lewis Hamilton suffered \"a very poor Qualifying\" for the Las Vegas Grand Prix, as neither reached the top 10.",
-   "image": null
-  },
-  {
-   "title": "Verstappen reacts to inheriting Las Vegas pole after struggles",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-reacts-to-inheriting-las-vegas-pole-position-as-he-explains-earlier-practice-struggles.6y0zcnlPP6Lf9zoPv89j3W",
-   "source": "Formula1.com",
-   "date": "2026-11-21T09:17:32.131Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen will start the Las Vegas Grand Prix from pole position, with the Red Bull driver being promoted to P1 following a penalty for Kimi Antonelli.",
-   "image": null
-  },
-  {
-   "title": "Larsen storms from ninth to victory in Las Vegas Reverse Grid Race",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-larsen-storms-from-ninth-to-victory-in-las-vegas-reverse-grid-race.6jbNyvDSifesMfng2Dpet0",
-   "source": "Formula1.com",
-   "date": "2026-11-21T09:17:32.131Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Alba Larsen has claimed her second F1 ACADEMY win with victory in the Las Vegas Reverse Grid Race.",
-   "image": null
-  },
-  {
-   "title": "Lando Norris blasts McLaren’s “awful” flaw amid plastic bag drama in Las Vegas GP qualifying",
-   "url": "https://www.crash.net/f1/news/1110523/1/lando-norris-blasts-mclarens-awful-flaw-amid-plastic-bag-drama-las-vegas-gp",
-   "source": "Crash.net",
-   "date": "2026-11-21T09:15:41.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris rued McLaren's biggest weakness after Las Vegas qualifying.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455545_hires.jpg?width=1200"
-  },
-  {
    "title": "How Marc Marquez can be crowned MotoGP champion in Portuguese GP sprint",
    "url": "https://www.motorsport.com/motogp/news/how-marc-marquez-can-be-crowned-motogp-champion-in-portuguese-gp-sprint/10876407/",
    "source": "Motorsport.com",
@@ -293,46 +343,6 @@
    "result": true,
    "summary": "Rashid Al Dhaheri took victory in the Macau Grand Prix qualification race after jumping polesitter Alex Ninovic at the start and resisting a final-lap attack from Mattia Colnaghi. Rodin racer Ninovic had set the pace…",
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNEdb2/s6/al-dhaheri.jpg"
-  },
-  {
-   "title": "Max Verstappen reveals mysterious Red Bull issue that cannot be fixed in Las Vegas",
-   "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-mysterious-red-bull-issue-that-cannot-be-fixed-in-las-vegas/10876399/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T08:52:06.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Thanks to Kimi Antonelli's grid penalty, Max Verstappen will start Formula 1's Las Vegas Grand Prix from pole position, but that is not necessarily a reason for the Dutchman to be satisfied. Yes, Red Bull has made…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6DGgOAVY/s6/max-verstappen-red-bull-racing.jpg"
-  },
-  {
-   "title": "How F1 2026 team-mates are comparing in qualifying",
-   "url": "https://www.the-race.com/formula-1/how-f1-2026-team-mates-are-comparing-in-qualifying/",
-   "source": "The Race",
-   "date": "2026-11-21T08:49:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The 2026 Formula 1 season will allow each driver to compare themselves to their team-mate in full qualifying trim up to 30 times",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/03/SI202603050143.jpg"
-  },
-  {
-   "title": "Charles Leclerc “very angry” as Ferrari's biggest weakness exposed in worst qualifying of F1 2026 at Las Vegas GP",
-   "url": "https://www.crash.net/f1/news/1110522/1/charles-leclerc-very-angry-ferraris-biggest-weakness-exposed-worst-qualifying-f1",
-   "source": "Crash.net",
-   "date": "2026-11-21T08:46:11.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc was left \"very angry\" with Ferrari's double Q2 elimination in Las Vegas.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455498_hires.jpg?width=1200"
-  },
-  {
-   "title": "Alpine left disappointed despite Gasly’s ‘perfect’ Q2 lap",
-   "url": "https://www.formula1.com/en/latest/article/alpine-left-disappointed-after-gasly-had-shone-with-perfect-lap-in-q2.48hDMDkgL0meTLKg3usEg6",
-   "source": "Formula1.com",
-   "date": "2026-11-21T08:11:53.995Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pierre Gasly and Franco Colapinto were left disappointed after Las Vegas Grand Prix qualifying, despite showing promising pace in Q2 for Alpine.",
-   "image": null
   },
   {
    "title": "Super Formula Suzuka: Ohta takes title in dramatic fashion as Iwasa wins opener",
