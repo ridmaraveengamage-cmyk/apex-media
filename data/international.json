@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:13:50.367Z",
+ "updated": "2026-11-21T23:13:21.967Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,8 +147,8 @@
   }
  ],
  "bySeries": {
-  "MotoGP": 15,
   "F1": 15,
+  "MotoGP": 15,
   "Motorsport": 3,
   "Super Formula": 1,
   "NASCAR": 15,
@@ -164,6 +164,26 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "F1 2026 Las Vegas Grand Prix: Starting grid after five engine penalties",
+   "url": "https://www.crash.net/f1/news/1110516/1/f1-2026-las-vegas-grand-prix-starting-grid-after-five-engine-penalties",
+   "source": "Crash.net",
+   "date": "2026-11-21T22:45:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The full starting grid for the 2026 Formula 1 Las Vegas Grand Prix in the United States.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455451_hires.jpg?width=1200"
+  },
+  {
+   "title": "How to watch 2026 F1 Las Vegas GP today: Free live stream details and start time",
+   "url": "https://www.crash.net/f1/news/1110385/1/how-watch-2026-f1-las-vegas-gp-today-free-live-stream-details-and-start-time",
+   "source": "Crash.net",
+   "date": "2026-11-21T22:30:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "All the details on this weekends race in Nevada and how to watch the Las Vegas Grand Prix for free. This article contains affiliate links. If you buy through them, we may earn a commission at no extra cost to you",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454834_hires.jpg?width=1200"
+  },
   {
    "title": "How Marc Marquez can seal MotoGP title in the Portuguese GP",
    "url": "https://www.the-race.com/motogp/how-marc-marquez-can-seal-motogp-title-in-the-portuguese-gp/",
@@ -392,26 +412,6 @@
    "series": "F1",
    "result": false,
    "summary": "Arvid Lindblad believes his Qualifying performance for the Las Vegas Grand Prix \"was such a mess\", despite the Racing Bulls driver set to start from fifth on the grid.",
-   "image": null
-  },
-  {
-   "title": "What the teams said – Qualifying in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-las-vegas-2026.3nVBux5Arj5K1MNogvg9j9",
-   "source": "Formula1.com",
-   "date": "2026-11-21T13:33:34.303Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend.",
-   "image": null
-  },
-  {
-   "title": "Alpine left disappointed despite Gasly’s ‘perfect’ Q2 lap",
-   "url": "https://www.formula1.com/en/latest/article/alpine-left-disappointed-after-gasly-had-shone-with-perfect-lap-in-q2.48hDMDkgL0meTLKg3usEg6",
-   "source": "Formula1.com",
-   "date": "2026-11-21T12:16:34.643Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pierre Gasly and Franco Colapinto were left disappointed after Las Vegas Grand Prix qualifying, despite showing promising pace in Q2 for Alpine.",
    "image": null
   },
   {
