@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T15:18:47.747Z",
+ "updated": "2026-11-21T16:16:42.127Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,7 +147,7 @@
   }
  ],
  "bySeries": {
-  "F1": 16,
+  "F1": 15,
   "MotoGP": 15,
   "Motorsport": 3,
   "Super Formula": 1,
@@ -165,6 +164,46 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Our Las Vegas GP Bet Builder selections made",
+   "url": "https://www.formula1.com/en/latest/article/our-las-vegas-grand-prix-bet-builder-selections-as-max-verstappen-to-start-on-pole.5kZr0wohlPjcax9jtd9RLX",
+   "source": "Formula1.com",
+   "date": "2026-11-21T16:16:42.127Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We have picked a four-leg Bet Builder for Las Vegas, including winner and a podium finish selection.",
+   "image": null
+  },
+  {
+   "title": "Isack Hadjar: “We looked stupid” in Las Vegas as I don’t like slipstreaming",
+   "url": "https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T16:00:04.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Isack Hadjar has admitted to underperforming in qualifying for Formula 1’s Las Vegas Grand Prix due to not realizing how powerful the tow would be on this high-speed street circuit. Hadjar was 0.67s slower than Red Bull…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0R7Byjr2/s6/isack-hadjar-red-bull-racing.jpg"
+  },
+  {
+   "title": "Marquez explains shock late crash that kept MotoGP title fight open",
+   "url": "https://www.the-race.com/motogp/marquez-explains-shock-late-crash-that-kept-motogp-title-fight-open/",
+   "source": "The Race",
+   "date": "2026-11-21T15:45:49.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marc Marquez admitted that underestimating the wet conditions led to his crash out of the Portimao sprint race whilst on the brink of the 2026 MotoGP title",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364189_HiRes.jpg"
+  },
+  {
+   "title": "Marco Bezzecchi hails end to sprint \"torture\" as he completes part one of \"miracle\" needed for MotoGP title",
+   "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-hails-end-to-sprint-torture-as-he-completes-part-one-of-miracle-needed-for-motogp-t/10876563/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T15:44:35.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marco Bezzecchi said after the Qatar Grand Prix that he \"needed a miracle\" to win the 2026 MotoGP title. Given the requirement to win the two remaining sprints and grands prix, with Marc Marquez failing to score, that…",
+   "image": "https://cdn-1.motorsport.com/images/amp/63QaMbE2/s6/marco-bezzecchi-aprilia-racing.jpg"
+  },
   {
    "title": "F1 still 'very small' in US - Domenicali",
    "url": "https://www.the-race.com/formula-1/f1-still-very-small-in-us-domenicali/",
@@ -223,16 +262,6 @@
    "series": "F1",
    "result": false,
    "summary": "Pierre Gasly and Franco Colapinto were left disappointed after Las Vegas Grand Prix qualifying, despite showing promising pace in Q2 for Alpine.",
-   "image": null
-  },
-  {
-   "title": "Ferrari drivers critical of 'very poor Qualifying' in Vegas",
-   "url": "https://www.formula1.com/en/latest/article/a-very-poor-qualifying-leclerc-and-hamilton-lament-ferraris-performance-in-las-vegas.5NIhyjb93o9jPrK39GLuRe",
-   "source": "Formula1.com",
-   "date": "2026-11-21T12:16:34.643Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc admits that he and Ferrari team mate Lewis Hamilton suffered \"a very poor Qualifying\" for the Las Vegas Grand Prix, as neither reached the top 10.",
    "image": null
   },
   {
@@ -343,26 +372,6 @@
    "series": "F1",
    "result": false,
    "summary": "Mercedes' George Russell missed out on getting a tow during Qualifying at the Las Vegas Grand Prix, but the Briton will still line up on the front row for Saturday's race.",
-   "image": null
-  },
-  {
-   "title": "Antonelli's 'big risk' pays off in Vegas Qualifying",
-   "url": "https://www.formula1.com/en/latest/article/i-took-a-big-risk-antonelli-reflects-on-las-vegas-gp-qualifying-after-finishing-fastest.6q1eKT6GSaau0L9WFiTq9M",
-   "source": "Formula1.com",
-   "date": "2026-11-21T11:18:07.103Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Kimi Antonelli admits that he \"took a big risk\" after finishing fastest in Qualifying for the Las Vegas Grand Prix, with the Mercedes driver also suggesting \"I wasn't driving well\".",
-   "image": null
-  },
-  {
-   "title": "Norris expects tough Vegas GP amid McLaren speed struggles",
-   "url": "https://www.formula1.com/en/latest/article/its-going-to-be-a-tough-day-norris-wary-of-mclarens-straight-line-speed-deficit-ahead-of-las-vegas-gp.43WdQWgZsqQaofWDF0E1l3",
-   "source": "Formula1.com",
-   "date": "2026-11-21T11:18:07.103Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris expects a challenging Las Vegas Grand Prix despite securing a P3 start, with the McLaren driver concerned about his team's straight-line speed deficit.",
    "image": null
   },
   {
@@ -604,26 +613,6 @@
    "result": false,
    "summary": "Jorge Martin says he is heading to this weekend’s Portuguese Grand Prix with the aim of scoring a race win rather than keeping the championship fight alive until the Valencia finale. The factory Aprilia rider trails…",
    "image": "https://cdn-1.motorsport.com/images/amp/0R7BENE2/s6/jorge-martin-aprilia-racing-te.jpg"
-  },
-  {
-   "title": "‘Aprilia lost the championship because it was up against Marc Marquez,’ says Alex",
-   "url": "https://www.motorsport.com/motogp/news/aprilia-lost-the-championship-because-it-was-up-against-marc-marquez-says-alex/10875682/",
-   "source": "Motorsport.com",
-   "date": "2026-11-19T18:00:04.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Alex Marquez believes Aprilia is on the verge of losing the 2026 MotoGP title because it was up against Marc Marquez, arguing that no rider other than his brother could have overcome such a large deficit in the…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7BEwV2/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "Marc Marquez fails to deny MotoGP retirement rumours",
-   "url": "https://www.motorsport.com/motogp/news/marc-marquez-fails-to-deny-motogp-retirement-rumours/10875680/",
-   "source": "Motorsport.com",
-   "date": "2026-11-19T17:23:20.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Likely 2026 world champion Marc Marquez has conspicuously failed to confirm his presence on the 2027 MotoGP grid. Stories in some quarters have suggested that the Spaniard might call time on his illustrious career…",
-   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNzgZ2/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Wright Motorsports adds second Porsche for 2027 Michelin Endurance Cup",
