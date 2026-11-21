@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:54:34.153Z",
+ "updated": "2026-11-21T07:03:50.501Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,14 +148,14 @@
  ],
  "bySeries": {
   "F1": 15,
-  "Motorsport": 2,
+  "Motorsport": 1,
   "NASCAR": 15,
   "MotoGP": 15,
   "Karting": 6,
   "Formula E": 10,
   "IndyCar": 6,
   "IMSA": 11,
-  "WRC": 13,
+  "WRC": 12,
   "Dakar": 2,
   "WEC": 15,
   "BTCC": 2,
@@ -164,154 +164,154 @@
  },
  "items": [
   {
-   "title": "Antonelli quickest in Vegas Qualifying as Verstappen inherits pole",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK",
+   "title": "Ferrari drivers critical of 'very poor Qualifying' in Vegas",
+   "url": "https://www.formula1.com/en/latest/article/a-very-poor-qualifying-leclerc-and-hamilton-lament-ferraris-performance-in-las-vegas.5NIhyjb93o9jPrK39GLuRe",
    "source": "Formula1.com",
-   "date": "2026-11-21T05:54:34.153Z",
+   "date": "2026-11-21T07:03:50.501Z",
    "series": "F1",
    "result": false,
-   "summary": "Kimi Antonelli finished fastest in Qualifying for the Las Vegas Grand Prix, but Max Verstappen will inherit pole position as the Mercedes driver serves a grid penalty.",
+   "summary": "Charles Leclerc admits that he and Ferrari team mate Lewis Hamilton suffered \"a very poor Qualifying\" for the Las Vegas Grand Prix, as neither reached the top 10.",
    "image": null
   },
   {
-   "title": "Lewis Hamilton reveals floor damage cost him in F1 Las Vegas qualifying",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-floor-damage-cost-him-in-f1-las-vegas-qualifying/10876261/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T05:49:30.000Z",
+   "title": "Verstappen reacts to inheriting Las Vegas pole after struggles",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-reacts-to-inheriting-las-vegas-pole-position-as-he-explains-earlier-practice-struggles.6y0zcnlPP6Lf9zoPv89j3W",
+   "source": "Formula1.com",
+   "date": "2026-11-21T07:03:50.501Z",
    "series": "F1",
    "result": false,
-   "summary": "Seven-time Formula 1 champion Lewis Hamilton says floor damage and a lack of energy deployment cost him a place in Q3 in the Las Vegas Grand Prix qualifying session. The Ferrari driver qualified 12th, just 0.167 seconds…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10876261-b704-2.jpg"
-  },
-  {
-   "title": "Hamilton reveals car damage, Leclerc “very angry” as Ferrari pair fail to reach Q3",
-   "url": "https://www.racefans.net/2026/11/21/hamilton-reveals-car-damage-leclerc-very-angry-as-ferrari-pair-fail-to-reach-q3/",
-   "source": "RaceFans",
-   "date": "2026-11-21T05:48:56.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton said he experienced multiple problems in his Ferrari as he and team mate Charles Leclerc both failed to reach Q3.",
+   "summary": "Max Verstappen will start the Las Vegas Grand Prix from pole position, with the Red Bull driver being promoted to P1 following a penalty for Kimi Antonelli.",
    "image": null
   },
   {
-   "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position",
-   "url": "https://www.motorsport.com/f1/news/wolff-wants-answers-after-george-russell-misses-las-vegas-pole-despite-ideal-final-lap-position/10876255/",
+   "title": "Larsen storms from ninth to victory in Las Vegas Reverse Grid Race",
+   "url": "https://www.formula1.com/en/latest/article/f1-academy-larsen-storms-from-ninth-to-victory-in-las-vegas-reverse-grid-race.6jbNyvDSifesMfng2Dpet0",
+   "source": "Formula1.com",
+   "date": "2026-11-21T07:03:50.501Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Alba Larsen has claimed her second F1 ACADEMY win with victory in the Las Vegas Reverse Grid Race.",
+   "image": null
+  },
+  {
+   "title": "FIA confirms unanimous agreement on 2030 PU framework",
+   "url": "https://www.formula1.com/en/latest/article/fia-confirms-unanimous-agreement-on-framework-for-2030-power-units.AZ7EFvWPyGPH0xG1JS8Ud",
+   "source": "Formula1.com",
+   "date": "2026-11-21T07:03:50.501Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Key parties including the FIA and F1 teams have committed to the 2030 power unit technical framework.",
+   "image": null
+  },
+  {
+   "title": "Best Qualifying bets before the Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
+   "source": "Formula1.com",
+   "date": "2026-11-21T07:03:50.501Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Our expert betting writers share their top picks for Qualifying at the Las Vegas Strip Circuit.",
+   "image": null
+  },
+  {
+   "title": "Thursday rain in Las Vegas leaves teams playing catch-up",
+   "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
+   "source": "Formula1.com",
+   "date": "2026-11-21T07:03:50.501Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1.com considers who looks to be the favourites after the first day on track at the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Max Verstappen dismisses George Russell Las Vegas clash with two-word response",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-dismisses-george-russell-las-vegas-clash-with-two-word-response/10876339/",
    "source": "Motorsport.com",
-   "date": "2026-11-21T05:47:46.000Z",
+   "date": "2026-11-21T06:58:08.000Z",
    "series": "F1",
    "result": false,
-   "summary": "Mercedes left Friday night qualifying at the Las Vegas Strip Circuit with the fastest car on track, yet team principal Toto Wolff still had questions to answer. World champion Kimi Antonelli topped Q3 with a 1m33.893s…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876255-b705-2.jpg"
+   "summary": "Four-time Formula 1 champion Max Verstappen dismissed his final practice clash with George Russell in two words after qualifying for the Las Vegas Grand Prix: \"Nothing happened.\" The pair made contact at Turn 14 at the…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing-a10876339-b707-2.jpg"
   },
   {
-   "title": "F1 2026 Las Vegas Grand Prix: Starting grid after five engine penalties",
-   "url": "https://www.crash.net/f1/news/1110516/1/f1-2026-las-vegas-grand-prix-starting-grid-after-five-engine-penalties",
-   "source": "Crash.net",
-   "date": "2026-11-21T05:36:58.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The full starting grid for the 2026 Formula 1 Las Vegas Grand Prix in the United States.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455451_hires.jpg?width=1200"
-  },
-  {
-   "title": "Penalised Antonelli beats Verstappen with both Ferraris out in Q2",
-   "url": "https://www.the-race.com/formula-1/penalised-antonelli-beats-verstappen-with-both-ferraris-out-in-q2/",
+   "title": "What explains Ferrari’s worst F1 2026 qualifying",
+   "url": "https://www.the-race.com/formula-1/what-explains-ferrari-worst-f1-2026-qualifying/",
    "source": "The Race",
-   "date": "2026-11-21T05:17:27.000Z",
+   "date": "2026-11-21T06:56:55.000Z",
    "series": "F1",
    "result": false,
-   "summary": "Kimi Antonelli topped qualifying at F1’s Las Vegas Grand Prix, but Max Verstappen will start from pole position, and both Ferraris missed the pole battle",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455454_HiRes.jpg"
+   "summary": "A double Q2 exit is Ferrari's worst qualifying of the year - how did it go so wrong?",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455606_HiRes.jpg"
   },
   {
-   "title": "F1 Las Vegas Grand Prix: Full qualifying results",
-   "url": "https://www.crash.net/f1/results/1110512/1/f1-las-vegas-grand-prix-full-qualifying-results",
-   "source": "Crash.net",
-   "date": "2026-11-21T05:15:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Full results from the final practice session at the 2026 F1 Las Vegas Grand Prix in Nevada.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455359_hires.jpg?width=1200"
-  },
-  {
-   "title": "Max Verstappen on Las Vegas GP pole as Ferrari suffers qualifying shocker",
-   "url": "https://www.crash.net/f1/news/1110511/1/max-verstappen-las-vegas-gp-pole-ferrari-suffers-qualifying-shocker",
-   "source": "Crash.net",
-   "date": "2026-11-21T05:12:23.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen on pole after penalised Kimi Antonelli tops Las Vegas qualifying.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/si202611210023.jpg?width=1200"
-  },
-  {
-   "title": "F1 2026 qualifying head-to-head: Las Vegas GP",
-   "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-las-vegas-gp-10876215/10876215/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T05:09:44.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles. This record is based exclusively on qualifying results so that grid penalties don't alter…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6lmAKkm0/s6/lando-norris-mclaren.jpg"
-  },
-  {
-   "title": "Why Verstappen escaped grid drop for Russell practice clash",
-   "url": "https://www.the-race.com/formula-1/why-verstappen-escaped-grid-drop-for-russell-practice-clash/",
-   "source": "The Race",
-   "date": "2026-11-21T04:40:44.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen escaped with a warning for his clash with George Russell in final practice at F1’s Las Vegas Grand Prix",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455035_HiRes.jpg"
-  },
-  {
-   "title": "Max Verstappen warned for George Russell incident in final Las Vegas F1 practice",
-   "url": "https://www.crash.net/f1/news/1110478/1/max-verstappen-warned-george-russell-incident-final-las-vegas-f1-practice",
-   "source": "Crash.net",
-   "date": "2026-11-21T04:27:06.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen avoids grid penalty for Las Vegas practice clash with George Russell.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455033_hires.jpg?width=1200"
-  },
-  {
-   "title": "AS IT HAPPENED: Antonelli fastest as Verstappen takes Vegas pole",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-las-vegas-2026.3qo462s7hxQdJeGbqctMAV",
-   "source": "Formula1.com",
-   "date": "2026-11-21T03:50:30.836Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live coverage of Friday's Qualifying session for the 2026 Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Russell goes fastest during final practice in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-from-antonelli-and-norris-during-final-practice-in-las-vegas.3qwe57vQf1Qjrm2tdp7Vfy",
-   "source": "Formula1.com",
-   "date": "2026-11-21T02:49:13.292Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Mercedes' George Russell set the quickest time during an action-packed third and final practice session at the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Russell comfortably leads Mercedes one-two, Verstappen faces two investigations",
-   "url": "https://www.racefans.net/2026/11/21/russell-comfortably-leads-mercedes-one-two-verstappen-faces-two-investigations/",
+   "title": "Norris fears passing will be impossible due to “insane” straight-line speed deficit",
+   "url": "https://www.racefans.net/2026/11/21/norris-fears-passing-will-be-impossible-due-to-insane-straight-line-speed-deficit/",
    "source": "RaceFans",
-   "date": "2026-11-21T02:08:06.000Z",
+   "date": "2026-11-21T06:56:50.000Z",
    "series": "F1",
    "result": false,
-   "summary": "George Russell led a one-two for Mercedes in final practice but he and Max Verstappen are under investigation for colliding.",
+   "summary": "Lando Norris doubts he will be able to gain many places in the Las Vegas Grand Prix due to his lack of straight-line speed.",
    "image": null
   },
   {
-   "title": "AS IT HAPPENED: Final practice for the Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-las-vegas-2026.50OIQwa2hcjUWGKsiu3h5L",
-   "source": "Formula1.com",
-   "date": "2026-11-21T01:48:05.621Z",
+   "title": "Lewis Hamilton reveals Ferrari F1 car damage after Las Vegas Q2 exit",
+   "url": "https://www.motorsport.com/f1/news/floor-damage-deployment-down-to-hamiltons-las-vegas-q2-exit/10876295/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T06:47:51.000Z",
    "series": "F1",
    "result": false,
-   "summary": "Live coverage of Friday's third practice session for the 2026 Las Vegas Grand Prix.",
-   "image": null
+   "summary": "Lewis Hamilton put Ferrari's Q2 exit in qualifying for the Las Vegas Grand Prix down to energy deployment and floor damage, as the seven-time champion felt he'd rallied from difficulties with overall tyre grip. The…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8Qv2/s6/lewis-hamilton-ferrari.jpg"
+  },
+  {
+   "title": "Isack Hadjar: Red Bull \"looked a bit stupid\" in Vegas qualifying tow game",
+   "url": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T06:36:25.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Isack Hadjar has admitted that Red Bull \"looked a bit stupid\" in what became a tow battle at the end of Las Vegas Grand Prix qualifying. He says it \"doesn't really matter\" where he starts on Saturday night. Hadjar set…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10876319-b707-2.jpg"
+  },
+  {
+   "title": "Floor damage, deployment down to Hamilton's Las Vegas GP Q2 exit",
+   "url": "https://www.autosport.com/f1/news/floor-damage-deployment-down-to-lewis-hamiltons-las-vegas-q2-exit/10876316/",
+   "source": "Autosport",
+   "date": "2026-11-21T06:33:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton put Ferrari's Q2 exit in qualifying for the Las Vegas Grand Prix down to energy deployment and floor damage, as the seven-time Formula 1 world champion felt he'd rallied from difficulties with overall…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YE9EbowY/s6/lewis-hamilton-ferrari-2.jpg"
+  },
+  {
+   "title": "George Russell: Las Vegas qualifying tow was \"too difficult to orchestrate\"",
+   "url": "https://www.motorsport.com/f1/news/george-russell-las-vegas-qualifying-tow-was-too-difficult-to-orchestrate/10876314/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T06:31:04.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes Formula 1 driver George Russell claimed that getting the perfect tow in Las Vegas qualifying was \"too difficult to orchestrate\" after he missed out on pole position. Russell set the third-fastest time in Q3…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876314-b705-2.jpg"
+  },
+  {
+   "title": "Russell slams Verstappen after Las Vegas GP practice clash: ‘He walks around like he’s bigger and better than everyone’",
+   "url": "https://www.autosport.com/f1/news/george-russell-slams-max-verstappen-after-las-vegas-clash-he-walks-around-like-hes-bigger-and-bette/10876309/",
+   "source": "Autosport",
+   "date": "2026-11-21T06:28:41.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell has hit out at Max Verstappen after they collided in Free Practice 3 at Formula 1’s Las Vegas Grand Prix. Verstappen overtook the Mercedes ahead of Turn 14 in a quest for free air, but Russell moved to…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6grQkLjY/s6/andrea-kimi-antonelli-mercedes.jpg"
+  },
+  {
+   "title": "Russell won't accept being 'screwed over' by Verstappen",
+   "url": "https://www.the-race.com/formula-1/russell-wont-accept-being-screwed-over-by-verstappen/",
+   "source": "The Race",
+   "date": "2026-11-21T06:26:18.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "George Russell says he refuses to be 'screwed over' by Max Verstappen after they clashed in practice at F1’s Las Vegas Grand Prix",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455467_HiRes.jpg"
   },
   {
    "title": "On This Day: Hamilton takes vital Qatar win to cut Verstappen’s points lead",
@@ -322,16 +322,6 @@
    "result": true,
    "summary": "Hamilton wins in Qatar as Verstappen rebounds after penalty",
    "image": null
-  },
-  {
-   "title": "Charles Leclerc recalls getting stopped by Las Vegas club security as a teenager",
-   "url": "https://www.motorsport.com/culture/news/charles-leclerc-recalls-getting-stopped-by-las-vegas-club-security-as-a-teenager/10876013/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T21:41:01.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Today, Charles Leclerc can headline his own pop-up café at Wynn Las Vegas without waiting in line. Funnily enough, however, back when he first set foot in Nevada, he could not even make it past a nightclub bouncer…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2GdKxOEY/s6/charles-leclerc-ferrari-a10876013-b708-2.jpg"
   },
   {
    "title": "NASCAR set to incrementally increase horsepower as part of 2027 Cup rules",
@@ -554,16 +544,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/2eZxwBbY/s6/marc-marquez-ducati-team.jpg"
   },
   {
-   "title": "How Marc Marquez can win the 2026 MotoGP title in Portimao sprint",
-   "url": "https://www.the-race.com/motogp/how-marc-marquez-can-win-the-2026-motogp-title-in-portimao-sprint/",
-   "source": "The Race",
-   "date": "2026-11-20T08:37:38.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez is the favourite to become the 2026 MotoGP world champion as early as the Portuguese Grand Prix in Portimao - and could do it as early as the Saturday sprint",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1362553_HiRes.jpg"
-  },
-  {
    "title": "Estre replaces retired Conway in Toyota’s WEC driver line-up for dual campaign in 2027",
    "url": "https://www.autosport.com/wec/news/8amgmtkevin-estre-replaces-retired-mike-conway-in-toyotas-wec-driver-line-up-for-dual-campaign-in-2/10875952/",
    "source": "Autosport",
@@ -572,16 +552,6 @@
    "result": false,
    "summary": "Kevin Estre will replace the retired Mike Conway in Toyota’s driver line-up in the World Endurance Championship and take on a dual-manufacturer role in 2027. The 2024 WEC champion has been a Porsche driver since 2016…",
    "image": "https://cdn-1.motorsport.com/images/amp/25d3xDN0/s6/kevin-estre-tds-racing.jpg"
-  },
-  {
-   "title": "Project Rally One to give 2027 WRC challenger first competitive outing at Spa",
-   "url": "https://www.autosport.com/wrc/news/new-wrc-challenger-set-for-public-debut-at-spa-rally/10875736/",
-   "source": "Autosport",
-   "date": "2026-11-19T22:25:29.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "New World Rally Championship constructor Project Rally One is set to field its all-new WRC car at an event for the first time next week. The Belgian squad is one of two new tuner teams set to join the WRC next year…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2GdwOKoY/s6/project-rally-one-2.jpg"
   },
   {
    "title": "New WRC challenger set for public debut at Spa Rally",
@@ -612,6 +582,16 @@
    "result": false,
    "summary": "Jorge Martin says he is heading to this weekend’s Portuguese Grand Prix with the aim of scoring a race win rather than keeping the championship fight alive until the Valencia finale. The factory Aprilia rider trails…",
    "image": "https://cdn-1.motorsport.com/images/amp/0R7BENE2/s6/jorge-martin-aprilia-racing-te.jpg"
+  },
+  {
+   "title": "‘Aprilia lost the championship because it was up against Marc Marquez,’ says Alex",
+   "url": "https://www.motorsport.com/motogp/news/aprilia-lost-the-championship-because-it-was-up-against-marc-marquez-says-alex/10875682/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T18:00:04.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Alex Marquez believes Aprilia is on the verge of losing the 2026 MotoGP title because it was up against Marc Marquez, arguing that no rider other than his brother could have overcome such a large deficit in the…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0R7BEwV2/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Wright Motorsports adds second Porsche for 2027 Michelin Endurance Cup",
