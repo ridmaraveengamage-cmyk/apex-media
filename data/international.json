@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:24:21.605Z",
+ "updated": "2026-11-21T20:15:21.751Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,8 +147,8 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
   "MotoGP": 15,
+  "F1": 15,
   "Motorsport": 3,
   "Super Formula": 1,
   "NASCAR": 15,
@@ -164,6 +164,16 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "MotoGP Portuguese GP: Full starting grid",
+   "url": "https://www.motorsport.com/motogp/news/motogp-portuguese-gp-full-starting-grid/10876529/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T19:44:54.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marco Bezzecchi will start the Portuguese Grand Prix from pole position after setting a record-breaking MotoGP lap in Saturday's qualifying at Portimao. Having already won the sprint race, the factory Aprilia rider will…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8wl2/s6/marco-bezzecchi-aprilia-racing.jpg"
+  },
   {
    "title": "Wolff reflects on impact of tow in Las Vegas Qualifying",
    "url": "https://www.formula1.com/en/latest/article/i-have-no-idea-how-these-lap-times-came-together-wolff-reflects-on-slipstream-impact-in-las-vegas-qualifying.5hGMtgEZODMntPSadcUJbO",
@@ -503,16 +513,6 @@
    "result": false,
    "summary": "Marc Marquez keeps coming back to one number: 14. That is how many points he needs to score this weekend to be crowned the 2026 MotoGP champion. However, the pressure of being so close to securing the title was evident…",
    "image": "https://cdn-1.motorsport.com/images/amp/0rVPkeJ0/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "'Marco Bezzecchi is fastest at Portimao,' says Alex Marquez - after going fastest",
-   "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-is-fastest-at-portimao-says-alex-marquez-after-going-fastest/10876134/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T19:33:31.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Alex Marquez, the pace-setter at Portimao on Friday, says Marco Bezzecchi is still the man to beat over the weekend - and that the Aprilia quartet should yet come to the fore. The Gresini rider led a Ducati one-two in…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7ByEg2/s6/alex-marquez-gresini-racing.jpg"
   },
   {
    "title": "Kart Republic Strengthens U.S. Presence with Kart Mega Store",
