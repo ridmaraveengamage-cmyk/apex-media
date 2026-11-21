@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T14:24:10.151Z",
+ "updated": "2026-11-21T15:18:47.747Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -147,7 +148,7 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
+  "F1": 16,
   "MotoGP": 15,
   "Motorsport": 3,
   "Super Formula": 1,
@@ -164,6 +165,26 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "F1 still 'very small' in US - Domenicali",
+   "url": "https://www.the-race.com/formula-1/f1-still-very-small-in-us-domenicali/",
+   "source": "The Race",
+   "date": "2026-11-21T15:13:40.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 CEO Stefano Domenicali believes the championship is still “very small in the US” despite huge growth.",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Photo-select_Axios2026_EDI-17.jpg"
+  },
+  {
+   "title": "MotoGP Portuguese GP: Marquez crashes with title in sight; Bezzecchi wins sprint",
+   "url": "https://www.autosport.com/motogp/news/motogp-portuguese-gp-marquez-crashes-with-title-in-sight-bezzecchi-wins-sprint/10876554/",
+   "source": "Autosport",
+   "date": "2026-11-21T15:12:59.000Z",
+   "series": "MotoGP",
+   "result": true,
+   "summary": "Marco Bezzecchi claimed a dominant victory in the 2026 Portuguese Grand Prix sprint, while Marc Marquez spectacularly crashed out on the penultimate lap while in a position to seal the title. Marquez seemed to have the…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6x7Lrw5Y/s6/marc-marquez-ducati-team-2.jpg"
+  },
   {
    "title": "What To Watch For in the Las Vegas Grand Prix",
    "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-las-vegas-grand-prix.3k1glJW46dgLm2gZkIsSYo",
@@ -445,16 +466,6 @@
    "image": "https://www.ekartingnews.com/wp-content/uploads/2026/11/Jonathan-Kotyk-Dino-Chiesa-300x200.jpg"
   },
   {
-   "title": "Martin admits 2021 crash memories still slow him at Portimao",
-   "url": "https://www.the-race.com/motogp/martin-admits-2021-crash-memories-still-slow-him-at-portimao/",
-   "source": "The Race",
-   "date": "2026-11-20T19:22:03.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Jorge Martin has admitted that he is still losing lap time at Portimao’s Turn 7, the site of his life-threatening MotoGP crash in 2021",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363260_HiRes.jpg"
-  },
-  {
    "title": "Ducati dismisses doubts over Marc Marquez’s future: “He will be with us after this season”",
    "url": "https://www.motorsport.com/motogp/news/marc-marquez-ducati-future-davide-tardozzi/10876120/",
    "source": "Motorsport.com",
@@ -525,14 +536,14 @@
    "image": "https://cdn-1.motorsport.com/images/amp/2wlKMyWY/s6/maverick-vinales-red-bull-ktm-.jpg"
   },
   {
-   "title": "How Toyota, M-Sport view the WRC 2027 Rally1-vs-Rally2 debate",
-   "url": "https://www.autosport.com/wrc/news/toyota-m-sport-weigh-in-on-the-wrc-2027-rally1-vs-rally2-debate/10876051/",
-   "source": "Autosport",
-   "date": "2026-11-20T13:29:24.000Z",
+   "title": "Toyota, M-Sport weigh in on the WRC 2027 Rally1-vs-Rally2 debate",
+   "url": "https://www.motorsport.com/wrc/news/how-toyota-m-sport-view-the-wrc-2027-rally1-vs-rally2-debate/10876048/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T13:25:59.000Z",
    "series": "WRC",
    "result": false,
    "summary": "Barring a freak event, new Rally1 cars will have the performance edge over Rally2 cars to win all World Rally Championship rallies in 2027, Toyota and M-Sport Ford bosses reckon. The performance gap between Rally1 and…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2eZxpNmY/s6/joshua-mcerlean-eoin-treacy-m--2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGgqyJY/s6/oliver-solberg-elliott-edmonds.jpg"
   },
   {
    "title": "Fernando Alonso returns to Dakar: Why his first rally-raid experience was a shock to the system",
