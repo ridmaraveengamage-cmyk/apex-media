@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:50:30.836Z",
+ "updated": "2026-11-21T04:54:00.612Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -147,7 +148,7 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
+  "F1": 16,
   "Motorsport": 2,
   "NASCAR": 15,
   "MotoGP": 15,
@@ -157,14 +158,34 @@
   "IMSA": 11,
   "WRC": 13,
   "Dakar": 2,
-  "WEC": 15,
+  "WEC": 16,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: Qualifying for the Las Vegas Grand Prix",
+   "title": "Why Verstappen escaped grid drop for Russell practice clash",
+   "url": "https://www.the-race.com/formula-1/why-verstappen-escaped-grid-drop-for-russell-practice-clash/",
+   "source": "The Race",
+   "date": "2026-11-21T04:40:44.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen escaped with a warning for his clash with George Russell in final practice at F1’s Las Vegas Grand Prix",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455035_HiRes.jpg"
+  },
+  {
+   "title": "Max Verstappen warned for George Russell incident in final Las Vegas F1 practice",
+   "url": "https://www.crash.net/f1/news/1110478/1/max-verstappen-warned-george-russell-incident-final-las-vegas-f1-practice",
+   "source": "Crash.net",
+   "date": "2026-11-21T04:27:06.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen avoids grid penalty for Las Vegas practice clash with George Russell.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455033_hires.jpg?width=1200"
+  },
+  {
+   "title": "LIVE COVERAGE: Q3 in Las Vegas as both Ferraris exit early",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-las-vegas-2026.3qo462s7hxQdJeGbqctMAV",
    "source": "Formula1.com",
    "date": "2026-11-21T03:50:30.836Z",
@@ -172,6 +193,16 @@
    "result": false,
    "summary": "Live coverage of Friday's Qualifying session for the 2026 Las Vegas Grand Prix.",
    "image": null
+  },
+  {
+   "title": "F1 Las Vegas Grand Prix LIVE: Updates from qualifying",
+   "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-fp3-and-qualifying",
+   "source": "Crash.net",
+   "date": "2026-11-21T03:00:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Live coverage of FP3 and qualifying at the Las Vegas Grand Prix",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455184_hires.jpg?width=1200"
   },
   {
    "title": "Russell goes fastest during final practice in Las Vegas",
@@ -182,16 +213,6 @@
    "result": false,
    "summary": "Mercedes' George Russell set the quickest time during an action-packed third and final practice session at the Las Vegas Grand Prix.",
    "image": null
-  },
-  {
-   "title": "Russell and Verstappen make contact in final Vegas F1 practice",
-   "url": "https://www.the-race.com/formula-1/russell-and-verstappen-make-contact-in-final-vegas-f1-practice/",
-   "source": "The Race",
-   "date": "2026-11-21T01:53:50.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell was fastest in the final practice session at F1’s Las Vegas Grand Prix, despite a bizarre late-session run-in with Max Verstappen",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455105_HiRes.jpg"
   },
   {
    "title": "AS IT HAPPENED: Final practice for the Las Vegas GP",
@@ -372,16 +393,6 @@
    "result": false,
    "summary": "Jorge Martin has admitted that he is still losing lap time at Portimao’s Turn 7, the site of his life-threatening MotoGP crash in 2021",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363260_HiRes.jpg"
-  },
-  {
-   "title": "F1 set for V8 return from 2030",
-   "url": "https://www.autosport.com/f1/news/f1-set-for-v8-return-from-2030/10875119/",
-   "source": "Autosport",
-   "date": "2026-11-20T19:02:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers. F1…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg"
   },
   {
    "title": "FIA, F1 and teams unanimously agree to drop current power units after 2029",
@@ -1182,6 +1193,16 @@
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
    "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
+  },
+  {
+   "title": "Ferrari explains tyre pressure mistake in Monza WEC",
+   "url": "https://www.motorsport.com/wec/news/ferrari-explains-tyre-pressure-mistake-in-monza-wec/10873370/",
+   "source": "Motorsport.com",
+   "date": "2026-11-09T17:12:14.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
