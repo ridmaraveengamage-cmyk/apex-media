@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:48:05.621Z",
+ "updated": "2026-11-21T02:49:13.292Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -164,7 +164,27 @@
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: Final practice for the Las Vegas GP",
+   "title": "Russell goes fastest during final practice in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-from-antonelli-and-norris-during-final-practice-in-las-vegas.3qwe57vQf1Qjrm2tdp7Vfy",
+   "source": "Formula1.com",
+   "date": "2026-11-21T02:49:13.292Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes' George Russell set the quickest time during an action-packed third and final practice session at the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Russell and Verstappen make contact in final Vegas F1 practice",
+   "url": "https://www.the-race.com/formula-1/russell-and-verstappen-make-contact-in-final-vegas-f1-practice/",
+   "source": "The Race",
+   "date": "2026-11-21T01:53:50.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell was fastest in the final practice session at F1’s Las Vegas Grand Prix, despite a bizarre late-session run-in with Max Verstappen",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455105_HiRes.jpg"
+  },
+  {
+   "title": "AS IT HAPPENED: Final practice for the Las Vegas GP",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-las-vegas-2026.50OIQwa2hcjUWGKsiu3h5L",
    "source": "Formula1.com",
    "date": "2026-11-21T01:48:05.621Z",
@@ -172,16 +192,6 @@
    "result": false,
    "summary": "Live coverage of Friday's third practice session for the 2026 Las Vegas Grand Prix.",
    "image": null
-  },
-  {
-   "title": "F1 Las Vegas GP: George Russell tops final practice after Max Verstappen collision",
-   "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-george-russell-tops-final-practice-after-max-verstappen-collision/10876181/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T01:44:36.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell collided with Max Verstappen in a tense third practice session at the Las Vegas Grand Prix as the Mercedes Formula 1 driver topped the timesheets. After both of Thursday's practice sessions had been…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YE9EbmMY/s6/george-russell-mercedes.jpg"
   },
   {
    "title": "F1 Las Vegas Grand Prix: Full final practice results",
@@ -301,16 +311,6 @@
    "series": "F1",
    "result": false,
    "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend.",
-   "image": null
-  },
-  {
-   "title": "Alpine ‘hopeful’ after Gasly earns P2 during second practice",
-   "url": "https://www.formula1.com/en/latest/article/alpine-feeling-hopeful-after-gasly-earns-p2-during-second-practice-in-las-vegas.3Iac1ObpdCLCHGU5rWCNXO",
-   "source": "Formula1.com",
-   "date": "2026-11-20T20:22:46.574Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Alpine's Pierre Gasly caught the eye by slotting into P2 on the timesheets during Thursday's second practice session at the Las Vegas Grand Prix.",
    "image": null
   },
   {
@@ -614,16 +614,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0R7BENE2/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
-   "title": "Is Peugeot ending its WEC Hypercar programme with immediate effect?",
-   "url": "https://www.autosport.com/wec/news/-is-peugeot-ending-its-wec-hypercar-programme-with-immediate-effect/10875669/",
-   "source": "Autosport",
-   "date": "2026-11-19T16:46:30.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Peugeot is set to shut down its Hypercar programme and withdraw from the World Endurance Championship with immediate effect, Motorsport.com's sister title Motorsport-Total.com has learned from several sources. The…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YN7vwpP6/s6/94-peugeot-totalenergies-peuge.jpg"
-  },
-  {
    "title": "Wright Motorsports adds second Porsche for 2027 Michelin Endurance Cup",
    "url": "https://www.motorsport.com/imsa/news/wright-motorsports-adds-second-porsche-for-2027-michelin-endurance-cup/10875670/",
    "source": "Motorsport.com",
@@ -632,6 +622,16 @@
    "result": false,
    "summary": "Wright Motorsports will return to a two-car lineup for the 2027 IMSA WeatherTech SportsCar Championship, adding a second Porsche 911 GT3 R (992) to compete in the season’s prestigious IMSA Michelin Endurance Cup rounds…",
    "image": "https://cdn-1.motorsport.com/images/amp/2eZxkmPY/s6/2027jr.jpg"
+  },
+  {
+   "title": "Is Peugeot ending its WEC Hypercar programme with immediate effect?",
+   "url": "https://www.motorsport.com/wec/news/peugeot-set-to-end-hypercar-programme-after-2026/10875666/",
+   "source": "Motorsport.com",
+   "date": "2026-11-19T16:38:18.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Peugeot is set to shut down its Hypercar programme and withdraw from the World Endurance Championship with immediate effect, Motorsport.com's sister title Motorsport-Total.com has learned from several sources. The…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YK13Zq80/s6/94-peugeot-totalenergies-peuge.jpg"
   },
   {
    "title": "Jaminet completes 13 Autosport lineup for 2027 Rolex 24 at Daytona",
