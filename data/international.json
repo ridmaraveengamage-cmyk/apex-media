@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:19:42.699Z",
+ "updated": "2026-11-21T00:19:39.815Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,8 +147,8 @@
   }
  ],
  "bySeries": {
+  "Motorsport": 3,
   "F1": 15,
-  "Motorsport": 2,
   "NASCAR": 15,
   "MotoGP": 15,
   "Karting": 6,
@@ -163,6 +163,26 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "On This Day: Hamilton takes vital Qatar win to cut Verstappen’s points lead",
+   "url": "https://www.racefans.net/2026/11/21/on-this-day-qatar-grand-prix/",
+   "source": "RaceFans",
+   "date": "2026-11-21T00:01:00.000Z",
+   "series": "Motorsport",
+   "result": true,
+   "summary": "Hamilton wins in Qatar as Verstappen rebounds after penalty",
+   "image": null
+  },
+  {
+   "title": "F1 Las Vegas Grand Prix LIVE: Updates from FP3 and qualifying",
+   "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-fp3-and-qualifying",
+   "source": "Crash.net",
+   "date": "2026-11-20T23:30:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Live coverage of FP3 and qualifying at the Las Vegas Grand Prix",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454727_hires_0.jpg?width=1200"
+  },
   {
    "title": "Best Qualifying bets before the Las Vegas GP",
    "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
@@ -372,16 +392,6 @@
    "result": false,
    "summary": "F1 is set to return to V8 engines from 2030 after a breakthrough agreement was reached.",
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1452623_hires.jpg?width=1200"
-  },
-  {
-   "title": "Formula 1 set for V8 turbo return in 2030",
-   "url": "https://www.motorsport.com/f1/news/f1-set-for-v8-turbo-move-by-2030-season/10875113/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T18:55:35.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers. F1…",
-   "image": "https://cdn-1.motorsport.com/images/amp/24QerjAY/s6/start-action-3.jpg"
   },
   {
    "title": "Ducati dismisses doubts over Marc Marquez’s future: “He will be with us after this season”",
