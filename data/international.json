@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:49:13.292Z",
+ "updated": "2026-11-21T03:50:30.836Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -164,6 +164,16 @@
  },
  "items": [
   {
+   "title": "LIVE COVERAGE: Qualifying for the Las Vegas Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-las-vegas-2026.3qo462s7hxQdJeGbqctMAV",
+   "source": "Formula1.com",
+   "date": "2026-11-21T03:50:30.836Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Live coverage of Friday's Qualifying session for the 2026 Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
    "title": "Russell goes fastest during final practice in Las Vegas",
    "url": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-from-antonelli-and-norris-during-final-practice-in-las-vegas.3qwe57vQf1Qjrm2tdp7Vfy",
    "source": "Formula1.com",
@@ -214,16 +224,6 @@
    "image": null
   },
   {
-   "title": "F1 Las Vegas Grand Prix LIVE: Updates from FP3 and qualifying",
-   "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-fp3-and-qualifying",
-   "source": "Crash.net",
-   "date": "2026-11-20T23:30:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live coverage of FP3 and qualifying at the Las Vegas Grand Prix",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454727_hires_0.jpg?width=1200"
-  },
-  {
    "title": "Best Qualifying bets before the Las Vegas GP",
    "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
    "source": "Formula1.com",
@@ -271,16 +271,6 @@
    "series": "F1",
    "result": false,
    "summary": "With Cadillac opting to retain Valtteri Bottas for 2027 rather than promoting Colton Herta, CEO Dan Towriss has explained what the next steps might be for the American driver.",
-   "image": null
-  },
-  {
-   "title": "Palmowski makes history as she secures pole in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-makes-history-as-she-secures-her-final-pole-position-around-las-vegas.1n8CvOtY14APLOTC3pzBrL",
-   "source": "Formula1.com",
-   "date": "2026-11-20T21:20:57.710Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Red Bull Racing's Alisha Palmowski secured pole position for the F1 ACADEMY Las Vegas Feature Race.",
    "image": null
   },
   {
@@ -392,6 +382,16 @@
    "result": false,
    "summary": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers. F1…",
    "image": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg"
+  },
+  {
+   "title": "FIA, F1 and teams unanimously agree to drop current power units after 2029",
+   "url": "https://www.racefans.net/2026/11/20/fia-f1-and-teams-unanimously-agree-to-drop-current-power-units-after-2029/",
+   "source": "RaceFans",
+   "date": "2026-11-20T18:59:56.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The FIA has confirmed plans to introduce new V8 hybrid turbo power unit regulations to Formula 1 in 2030.",
+   "image": null
   },
   {
    "title": "Ducati dismisses doubts over Marc Marquez’s future: “He will be with us after this season”",
