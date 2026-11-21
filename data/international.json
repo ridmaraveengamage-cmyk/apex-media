@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:18:07.103Z",
+ "updated": "2026-11-21T12:16:34.643Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,8 +148,8 @@
  ],
  "bySeries": {
   "F1": 15,
-  "Motorsport": 3,
   "MotoGP": 15,
+  "Motorsport": 3,
   "Super Formula": 1,
   "NASCAR": 15,
   "Karting": 6,
@@ -164,6 +164,96 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Alpine left disappointed despite Gasly’s ‘perfect’ Q2 lap",
+   "url": "https://www.formula1.com/en/latest/article/alpine-left-disappointed-after-gasly-had-shone-with-perfect-lap-in-q2.48hDMDkgL0meTLKg3usEg6",
+   "source": "Formula1.com",
+   "date": "2026-11-21T12:16:34.643Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Pierre Gasly and Franco Colapinto were left disappointed after Las Vegas Grand Prix qualifying, despite showing promising pace in Q2 for Alpine.",
+   "image": null
+  },
+  {
+   "title": "Ferrari drivers critical of 'very poor Qualifying' in Vegas",
+   "url": "https://www.formula1.com/en/latest/article/a-very-poor-qualifying-leclerc-and-hamilton-lament-ferraris-performance-in-las-vegas.5NIhyjb93o9jPrK39GLuRe",
+   "source": "Formula1.com",
+   "date": "2026-11-21T12:16:34.643Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc admits that he and Ferrari team mate Lewis Hamilton suffered \"a very poor Qualifying\" for the Las Vegas Grand Prix, as neither reached the top 10.",
+   "image": null
+  },
+  {
+   "title": "'We are not stupid people' - Domenicali on why F1 is going back to V8s",
+   "url": "https://www.the-race.com/formula-1/stefano-domenicali-on-why-f1-is-going-back-to-v8s/",
+   "source": "The Race",
+   "date": "2026-11-21T12:08:04.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Why is F1 pivoting away from the engine formula it's so strongly defended? CEO Stefano Domenicali told us...",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1430756_HiRes.jpg"
+  },
+  {
+   "title": "MotoGP Portuguese Grand Prix: Bezzecchi on pole, Marquez second",
+   "url": "https://www.autosport.com/motogp/news/motogp-portuguese-grand-prix-marco-bezzecchi-on-pole-marc-marquez-second/10876489/",
+   "source": "Autosport",
+   "date": "2026-11-21T12:00:13.000Z",
+   "series": "MotoGP",
+   "result": true,
+   "summary": "Marco Bezzecchi showed all his cards on Saturday morning at Portimao, storming to pole position with a record lap time. Marc Marquez put himself in a good position to wrap up the world championship this weekend - and…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8W12/s6/marco-bezzecchi-aprilia-racing.jpg"
+  },
+  {
+   "title": "George Russell warned “you don’t want to make an enemy” of Max Verstappen",
+   "url": "https://www.crash.net/f1/news/1110568/1/george-russell-warned-you-dont-want-make-enemy-max-verstappen",
+   "source": "Crash.net",
+   "date": "2026-11-21T11:54:27.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Jacques Villeneuve issues warning to George Russell after Max Verstappen clash in Las Vegas.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/si202611210072.jpg?width=1200"
+  },
+  {
+   "title": "Bezzecchi on pole as wild Moreira crash causes red flag",
+   "url": "https://www.the-race.com/motogp/bezzecchi-on-pole-as-wild-moreira-crash-causes-red-flag/",
+   "source": "The Race",
+   "date": "2026-11-21T11:51:34.000Z",
+   "series": "MotoGP",
+   "result": true,
+   "summary": "Marco Bezzecchi claimed pole position for the 2026 MotoGP Portuguese Grand Prix ahead of champion-elect Marc Marquez",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364050_HiRes.jpg"
+  },
+  {
+   "title": "Pirelli’s F1 tyres still can’t cope with Losail: Maximum stint lengths imposed again",
+   "url": "https://www.racefans.net/2026/11/21/pirellis-f1-tyres-still-cant-cope-with-losail-maximum-stint-lengths-imposed-again/",
+   "source": "RaceFans",
+   "date": "2026-11-21T11:50:21.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "For the third time in five years, Pirelli is imposing maximum lengths on stints in the Qatar Grand Prix due to concerns over tyre failures.",
+   "image": null
+  },
+  {
+   "title": "How McLaren tried to mitigate its Las Vegas F1 top speed deficit",
+   "url": "https://www.motorsport.com/f1/news/how-mclaren-tried-to-mitigate-its-las-vegas-f1-top-speed-deficit/10876451/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T11:41:02.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Despite what was a respectable result on a circuit that accentuated the MCL40's flaws without rewarding its virtues, Lando Norris was not best pleased with how Friday at the Las Vegas Grand Prix weekend. “We're just…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0arEGwP2/s6/oscar-piastri-mclaren-lando-no.jpg"
+  },
+  {
+   "title": "Toto Wolff predicts ‘big cinema’ for Max Verstappen v George Russell after Las Vegas GP needle",
+   "url": "https://www.crash.net/f1/news/1110556/1/toto-wolff-predicts-big-cinema-max-verstappen-v-george-russell-after-las-vegas-gp",
+   "source": "Crash.net",
+   "date": "2026-11-21T11:24:45.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Toto Wolff is expecting fireworks between Max Verstappen and George Russell at the start in Las Vegas.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455454_hires.jpg?width=1200"
+  },
   {
    "title": "Wolff reflects on impact of tow in Las Vegas Qualifying",
    "url": "https://www.formula1.com/en/latest/article/i-have-no-idea-how-these-lap-times-came-together-wolff-reflects-on-slipstream-impact-in-las-vegas-qualifying.5hGMtgEZODMntPSadcUJbO",
@@ -253,76 +343,6 @@
    "result": false,
    "summary": "Although Max Verstappen was not entirely satisfied with his second-fastest time in qualifying for the Formula 1 Las Vegas Grand Prix – pointing to a mysterious issue with the RB22 – a glance at Ferrari shows that things…",
    "image": "https://cdn-1.motorsport.com/images/amp/0mXykW56/s6/charles-leclerc-ferrari.jpg"
-  },
-  {
-   "title": "Isack Hadjar says outsmarted Red Bull “looked a bit stupid” in Las Vegas GP qualifying",
-   "url": "https://www.crash.net/f1/news/1110525/1/isack-hadjar-says-outsmarted-red-bull-looked-bit-stupid-las-vegas-gp-qualifying",
-   "source": "Crash.net",
-   "date": "2026-11-21T09:53:52.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Isack Hadjar says Red Bull were outsmarted in Las Vegas qualifying.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455594_hires.jpg?width=1200"
-  },
-  {
-   "title": "Fernando Alonso: Honda lacks so much power that rivals take extra margin behind us",
-   "url": "https://www.motorsport.com/f1/news/fernando-alonso-honda-lacks-so-much-power-that-rivals-take-extra-margin-behind-us/10876414/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T09:43:39.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fernando Alonso says Honda’s power deficit is so dire that other cars are taking extra margin around the Aston Martins at Formula 1’s Las Vegas Grand Prix. The Nevadan street circuit was expected to expose the Japanese…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2y7Q8pK6/s6/fernando-alonso-aston-martin-r.jpg"
-  },
-  {
-   "title": "What 'crazy' tow was actually worth in Vegas qualifying",
-   "url": "https://www.the-race.com/formula-1/what-crazy-tow-was-actually-worth-in-vegas-qualifying/",
-   "source": "The Race",
-   "date": "2026-11-21T09:24:16.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Getting a tow from another car was absolutely critical in F1 qualifying in Las Vegas, with nothing demonstrating how “crazy” the gain could be like Kimi Antonelli’s session-topping lap",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202611210033_hires_jpeg_24bit_rgb-1.jpg"
-  },
-  {
-   "title": "Drivers expect Monza-style race at Las Vegas with “extreme” slipstream",
-   "url": "https://www.racefans.net/2026/11/21/drivers-expect-extreme-slipstream-to-create-monza-style-race-at-las-vegas/",
-   "source": "RaceFans",
-   "date": "2026-11-21T09:23:36.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The powerful slipstream effect at the Las Vegas Strip Circuit will shape this weekend's race, say drivers.",
-   "image": null
-  },
-  {
-   "title": "What To Watch For in the Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-las-vegas-grand-prix.3k1glJW46dgLm2gZkIsSYo",
-   "source": "Formula1.com",
-   "date": "2026-11-21T09:17:32.131Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day in Nevada.",
-   "image": null
-  },
-  {
-   "title": "Lindblad's Vegas Qualifying 'such a mess' despite P5 start",
-   "url": "https://www.formula1.com/en/latest/article/it-was-such-a-mess-lindblad-reflects-on-las-vegas-qualifying-ahead-of-p5-start.1TQF9i21VuFhEkETB6CqPc",
-   "source": "Formula1.com",
-   "date": "2026-11-21T09:17:32.131Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Arvid Lindblad believes his Qualifying performance for the Las Vegas Grand Prix \"was such a mess\", despite the Racing Bulls driver set to start from fifth on the grid.",
-   "image": null
-  },
-  {
-   "title": "What the teams said – Qualifying in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-las-vegas-2026.3nVBux5Arj5K1MNogvg9j9",
-   "source": "Formula1.com",
-   "date": "2026-11-21T09:17:32.131Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend.",
-   "image": null
   },
   {
    "title": "How Marc Marquez can be crowned MotoGP champion in Portuguese GP sprint",
@@ -445,16 +465,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/2jEAkOz0/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
-   "title": "Marquez's plan to ensure he wins MotoGP 2026 title early",
-   "url": "https://www.the-race.com/motogp/marc-marquez-plan-ducati-motogp-2026-title-portimao-portuguese-gp/",
-   "source": "The Race",
-   "date": "2026-11-20T18:21:33.000Z",
-   "series": "MotoGP",
-   "result": true,
-   "summary": "MotoGP 2026 title favourite Marc Marquez is prioritising a minimal-risk approach to the Portuguese Grand Prix at Portimao, where he has the chance to become an eight-time premier-class champion",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363246_HiRes.jpg"
-  },
-  {
    "title": "Video: Fire halts final day of Formula E testing",
    "url": "https://www.racefans.net/2026/11/20/social-media-fire-halts-final-day-of-formula-e-testing/",
    "source": "RaceFans",
@@ -473,16 +483,6 @@
    "result": false,
    "summary": "Chip Ganassi Racing (CGR) entered the 2026 IndyCar Series season with its familiar powerhouse aura intact, yet the 18-race campaign unfolded in very different ways. On one side of the garage, Alex Palou turned precision…",
    "image": "https://cdn-1.motorsport.com/images/amp/0mXyXnX6/s6/scott-dixon-chip-ganassi-racin.jpg"
-  },
-  {
-   "title": "MotoGP Portuguese Grand Prix: Alex Marquez fastest on Friday as title protagonists all make Q2",
-   "url": "https://www.autosport.com/motogp/news/motogp-portuguese-grand-prix-alex-marquez-fastest-on-friday-as-title-protagonists-all-make-q2-/10876088/",
-   "source": "Autosport",
-   "date": "2026-11-20T16:34:47.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Alex Marquez led the way on Friday at Portimao, topping the timesheets for Gresini Ducati. But the most important story was that the three men in contention for the world championship all made it directly into…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27No8bR0/s6/alex-marquez-gresini-racing.jpg"
   },
   {
    "title": "Formula E pre-season test ends early after car explodes and catches fire",
