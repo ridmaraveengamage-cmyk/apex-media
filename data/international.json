@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:15:21.751Z",
+ "updated": "2026-11-21T21:14:35.487Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -165,6 +165,16 @@
  },
  "items": [
   {
+   "title": "How Marc Marquez can seal MotoGP title in the Portuguese GP",
+   "url": "https://www.the-race.com/motogp/how-marc-marquez-can-seal-motogp-title-in-the-portuguese-gp/",
+   "source": "The Race",
+   "date": "2026-11-21T20:46:39.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marc Marquez will have a second chance at sealing the 2026 MotoGP title at the Portuguese Grand Prix, after his sprint crash delayed his coronation",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364577_HiRes.jpg"
+  },
+  {
    "title": "MotoGP Portuguese GP: Full starting grid",
    "url": "https://www.motorsport.com/motogp/news/motogp-portuguese-gp-full-starting-grid/10876529/",
    "source": "Motorsport.com",
@@ -275,16 +285,6 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364727_HiRes.jpg"
   },
   {
-   "title": "How Marc Marquez can clinch the MotoGP title in Sunday's Portuguese Grand Prix",
-   "url": "https://www.motorsport.com/motogp/news/how-marc-marquez-can-clinch-the-world-title-in-sundays-portuguese-grand-prix/10876601/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T18:00:39.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Following his dramatic late crash in Saturday's sprint race at Portimao, Marc Marquez was unable to seal the world championship. The Spaniard also still has two rivals to consider after Marco Bezzecchi won the race to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27No8d30/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
    "title": "Jorge Martin on keeping MotoGP title hopes alive: ‘I didn’t do anything, it was in Marquez’s hands’",
    "url": "https://www.motorsport.com/motogp/news/jorge-martin-on-keeping-motogp-titles-hope-alive-i-didnt-do-anything-it-was-in-marquezs-hands/10876594/",
    "source": "Motorsport.com",
@@ -365,14 +365,14 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Photo-select_Axios2026_EDI-17.jpg"
   },
   {
-   "title": "MotoGP Portuguese GP: Marquez crashes with title in sight; Bezzecchi wins sprint",
-   "url": "https://www.autosport.com/motogp/news/motogp-portuguese-gp-marquez-crashes-with-title-in-sight-bezzecchi-wins-sprint/10876554/",
-   "source": "Autosport",
-   "date": "2026-11-21T15:12:59.000Z",
+   "title": "Marquez crashes out on brink of MotoGP title",
+   "url": "https://www.the-race.com/motogp/marquez-crashes-out-on-brink-of-motogp-title/",
+   "source": "The Race",
+   "date": "2026-11-21T15:08:07.000Z",
    "series": "MotoGP",
-   "result": true,
-   "summary": "Marco Bezzecchi claimed a dominant victory in the 2026 Portuguese Grand Prix sprint, while Marc Marquez spectacularly crashed out on the penultimate lap while in a position to seal the title. Marquez seemed to have the…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6x7Lrw5Y/s6/marc-marquez-ducati-team-2.jpg"
+   "result": false,
+   "summary": "Marc Marquez's coronation as the 2026 MotoGP champion was postponed as he crashed out of the Portimao sprint",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364176_HiRes.jpg"
   },
   {
    "title": "What To Watch For in the Las Vegas Grand Prix",
@@ -425,6 +425,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0rVPjzd0/s6/salida-de-la-carrera.jpg"
   },
   {
+   "title": "MotoGP Portuguese Grand Prix: Bezzecchi on pole, Marquez second",
+   "url": "https://www.autosport.com/motogp/news/motogp-portuguese-grand-prix-marco-bezzecchi-on-pole-marc-marquez-second/10876489/",
+   "source": "Autosport",
+   "date": "2026-11-21T12:00:13.000Z",
+   "series": "MotoGP",
+   "result": true,
+   "summary": "Marco Bezzecchi showed all his cards on Saturday morning at Portimao, storming to pole position with a record lap time. Marc Marquez put himself in a good position to wrap up the world championship this weekend - and…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8W12/s6/marco-bezzecchi-aprilia-racing.jpg"
+  },
+  {
    "title": "Bezzecchi on pole as wild Moreira crash causes red flag",
    "url": "https://www.the-race.com/motogp/bezzecchi-on-pole-as-wild-moreira-crash-causes-red-flag/",
    "source": "The Race",
@@ -443,16 +453,6 @@
    "result": false,
    "summary": "Zak Brown takes over at McLaren: \"It was a pretty grim place\"",
    "image": null
-  },
-  {
-   "title": "How Marc Marquez can be crowned MotoGP champion in Portuguese GP sprint",
-   "url": "https://www.motorsport.com/motogp/news/how-marc-marquez-can-be-crowned-motogp-champion-in-portuguese-gp-sprint/10876407/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T09:11:59.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez had his first mathematical opportunity to clinch his 10th world championship title – and eighth in the premier class – at the Qatar Grand Prix, but he was unable to seal it. However, the Ducati rider has…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0rVPOjy0/s6/marc-marquez-ducati-team-2.jpg"
   },
   {
    "title": "Macau GP: Al Dhaheri defeats Colnaghi to take qualification race win",
