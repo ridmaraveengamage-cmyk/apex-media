@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:54:00.612Z",
+ "updated": "2026-11-21T05:54:34.153Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,7 +147,7 @@
   }
  ],
  "bySeries": {
-  "F1": 16,
+  "F1": 15,
   "Motorsport": 2,
   "NASCAR": 15,
   "MotoGP": 15,
@@ -158,12 +157,102 @@
   "IMSA": 11,
   "WRC": 13,
   "Dakar": 2,
-  "WEC": 16,
+  "WEC": 15,
   "BTCC": 2,
   "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Antonelli quickest in Vegas Qualifying as Verstappen inherits pole",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK",
+   "source": "Formula1.com",
+   "date": "2026-11-21T05:54:34.153Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Kimi Antonelli finished fastest in Qualifying for the Las Vegas Grand Prix, but Max Verstappen will inherit pole position as the Mercedes driver serves a grid penalty.",
+   "image": null
+  },
+  {
+   "title": "Lewis Hamilton reveals floor damage cost him in F1 Las Vegas qualifying",
+   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-floor-damage-cost-him-in-f1-las-vegas-qualifying/10876261/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T05:49:30.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Seven-time Formula 1 champion Lewis Hamilton says floor damage and a lack of energy deployment cost him a place in Q3 in the Las Vegas Grand Prix qualifying session. The Ferrari driver qualified 12th, just 0.167 seconds…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10876261-b704-2.jpg"
+  },
+  {
+   "title": "Hamilton reveals car damage, Leclerc “very angry” as Ferrari pair fail to reach Q3",
+   "url": "https://www.racefans.net/2026/11/21/hamilton-reveals-car-damage-leclerc-very-angry-as-ferrari-pair-fail-to-reach-q3/",
+   "source": "RaceFans",
+   "date": "2026-11-21T05:48:56.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton said he experienced multiple problems in his Ferrari as he and team mate Charles Leclerc both failed to reach Q3.",
+   "image": null
+  },
+  {
+   "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position",
+   "url": "https://www.motorsport.com/f1/news/wolff-wants-answers-after-george-russell-misses-las-vegas-pole-despite-ideal-final-lap-position/10876255/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T05:47:46.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes left Friday night qualifying at the Las Vegas Strip Circuit with the fastest car on track, yet team principal Toto Wolff still had questions to answer. World champion Kimi Antonelli topped Q3 with a 1m33.893s…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876255-b705-2.jpg"
+  },
+  {
+   "title": "F1 2026 Las Vegas Grand Prix: Starting grid after five engine penalties",
+   "url": "https://www.crash.net/f1/news/1110516/1/f1-2026-las-vegas-grand-prix-starting-grid-after-five-engine-penalties",
+   "source": "Crash.net",
+   "date": "2026-11-21T05:36:58.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The full starting grid for the 2026 Formula 1 Las Vegas Grand Prix in the United States.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455451_hires.jpg?width=1200"
+  },
+  {
+   "title": "Penalised Antonelli beats Verstappen with both Ferraris out in Q2",
+   "url": "https://www.the-race.com/formula-1/penalised-antonelli-beats-verstappen-with-both-ferraris-out-in-q2/",
+   "source": "The Race",
+   "date": "2026-11-21T05:17:27.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Kimi Antonelli topped qualifying at F1’s Las Vegas Grand Prix, but Max Verstappen will start from pole position, and both Ferraris missed the pole battle",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455454_HiRes.jpg"
+  },
+  {
+   "title": "F1 Las Vegas Grand Prix: Full qualifying results",
+   "url": "https://www.crash.net/f1/results/1110512/1/f1-las-vegas-grand-prix-full-qualifying-results",
+   "source": "Crash.net",
+   "date": "2026-11-21T05:15:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Full results from the final practice session at the 2026 F1 Las Vegas Grand Prix in Nevada.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455359_hires.jpg?width=1200"
+  },
+  {
+   "title": "Max Verstappen on Las Vegas GP pole as Ferrari suffers qualifying shocker",
+   "url": "https://www.crash.net/f1/news/1110511/1/max-verstappen-las-vegas-gp-pole-ferrari-suffers-qualifying-shocker",
+   "source": "Crash.net",
+   "date": "2026-11-21T05:12:23.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen on pole after penalised Kimi Antonelli tops Las Vegas qualifying.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/si202611210023.jpg?width=1200"
+  },
+  {
+   "title": "F1 2026 qualifying head-to-head: Las Vegas GP",
+   "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-las-vegas-gp-10876215/10876215/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T05:09:44.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles. This record is based exclusively on qualifying results so that grid penalties don't alter…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6lmAKkm0/s6/lando-norris-mclaren.jpg"
+  },
   {
    "title": "Why Verstappen escaped grid drop for Russell practice clash",
    "url": "https://www.the-race.com/formula-1/why-verstappen-escaped-grid-drop-for-russell-practice-clash/",
@@ -185,7 +274,7 @@
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455033_hires.jpg?width=1200"
   },
   {
-   "title": "LIVE COVERAGE: Q3 in Las Vegas as both Ferraris exit early",
+   "title": "AS IT HAPPENED: Antonelli fastest as Verstappen takes Vegas pole",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-las-vegas-2026.3qo462s7hxQdJeGbqctMAV",
    "source": "Formula1.com",
    "date": "2026-11-21T03:50:30.836Z",
@@ -195,16 +284,6 @@
    "image": null
   },
   {
-   "title": "F1 Las Vegas Grand Prix LIVE: Updates from qualifying",
-   "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-fp3-and-qualifying",
-   "source": "Crash.net",
-   "date": "2026-11-21T03:00:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live coverage of FP3 and qualifying at the Las Vegas Grand Prix",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455184_hires.jpg?width=1200"
-  },
-  {
    "title": "Russell goes fastest during final practice in Las Vegas",
    "url": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-from-antonelli-and-norris-during-final-practice-in-las-vegas.3qwe57vQf1Qjrm2tdp7Vfy",
    "source": "Formula1.com",
@@ -212,6 +291,16 @@
    "series": "F1",
    "result": false,
    "summary": "Mercedes' George Russell set the quickest time during an action-packed third and final practice session at the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Russell comfortably leads Mercedes one-two, Verstappen faces two investigations",
+   "url": "https://www.racefans.net/2026/11/21/russell-comfortably-leads-mercedes-one-two-verstappen-faces-two-investigations/",
+   "source": "RaceFans",
+   "date": "2026-11-21T02:08:06.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell led a one-two for Mercedes in final practice but he and Max Verstappen are under investigation for colliding.",
    "image": null
   },
   {
@@ -225,16 +314,6 @@
    "image": null
   },
   {
-   "title": "F1 Las Vegas Grand Prix: Full final practice results",
-   "url": "https://www.crash.net/f1/results/1110452/1/f1-las-vegas-grand-prix-full-final-practice-results",
-   "source": "Crash.net",
-   "date": "2026-11-21T01:40:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Full results from the final practice session at the 2026 F1 Las Vegas Grand Prix in Nevada.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455118_hires.jpg?width=1200"
-  },
-  {
    "title": "On This Day: Hamilton takes vital Qatar win to cut Verstappen’s points lead",
    "url": "https://www.racefans.net/2026/11/21/on-this-day-qatar-grand-prix/",
    "source": "RaceFans",
@@ -242,26 +321,6 @@
    "series": "Motorsport",
    "result": true,
    "summary": "Hamilton wins in Qatar as Verstappen rebounds after penalty",
-   "image": null
-  },
-  {
-   "title": "Best Qualifying bets before the Las Vegas GP",
-   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
-   "source": "Formula1.com",
-   "date": "2026-11-20T22:19:32.476Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Our expert betting writers share their top picks for Qualifying at the Las Vegas Strip Circuit.",
-   "image": null
-  },
-  {
-   "title": "Thursday rain in Las Vegas leaves teams playing catch-up",
-   "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
-   "source": "Formula1.com",
-   "date": "2026-11-20T22:19:32.476Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1.com considers who looks to be the favourites after the first day on track at the Las Vegas Grand Prix.",
    "image": null
   },
   {
@@ -275,26 +334,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/2GdKxOEY/s6/charles-leclerc-ferrari-a10876013-b708-2.jpg"
   },
   {
-   "title": "Winner of the F1® X Heineken® 2027 Season Ticket revealed",
-   "url": "https://www.formula1.com/en/latest/article/winner-of-the-f1-heineken-2027-season-ticket-revealed.2U39RF3ALLzSqmSRRGRVQ7",
-   "source": "Formula1.com",
-   "date": "2026-11-20T21:20:57.710Z",
-   "series": "F1",
-   "result": false,
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Cadillac CEO Towriss on Herta’s future and Bottas’ extension",
-   "url": "https://www.formula1.com/en/latest/article/cadillac-ceo-towriss-gives-update-on-hertas-future-as-he-explains-why-the-team-opted-for-bottas-extension.6e7buM26RfuQSk1VzmqY6b",
-   "source": "Formula1.com",
-   "date": "2026-11-20T21:20:57.710Z",
-   "series": "F1",
-   "result": false,
-   "summary": "With Cadillac opting to retain Valtteri Bottas for 2027 rather than promoting Colton Herta, CEO Dan Towriss has explained what the next steps might be for the American driver.",
-   "image": null
-  },
-  {
    "title": "NASCAR set to incrementally increase horsepower as part of 2027 Cup rules",
    "url": "https://www.motorsport.com/nascar-cup/news/nascar-set-to-incrementally-increase-horsepower-at-all-tracks-as-part-of-2027-cup-rules-update/10876155/",
    "source": "Motorsport.com",
@@ -303,36 +342,6 @@
    "result": false,
    "summary": "Competitors and fans alike have told NASCAR they wanted more horsepower across the board for the current generation Cup Series car and NASCAR has responded in kind. In a 2027 rules update released on Friday afternoon…",
    "image": "https://cdn-1.motorsport.com/images/amp/63QaOMg2/s6/denny-hamlin-joe-gibbs-racing-.jpg"
-  },
-  {
-   "title": "Aron leaves Alpine as Vesti doubles up in reserve role",
-   "url": "https://www.formula1.com/en/latest/article/aron-leaves-alpine-as-vesti-doubles-up-in-reserve-role-for-enstone-squad.78ZKSJQKTokE51DkFvRY2B",
-   "source": "Formula1.com",
-   "date": "2026-11-20T20:22:46.574Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Mercedes reserve driver Fred Vesti will take on additional reserve duties at Alpine for the final three races of 2026 following Paul Aron's departure from the team.",
-   "image": null
-  },
-  {
-   "title": "What the teams said – Thursday in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-thursday-in-las-vegas-2026.4jnMZFzCSpX9y63f0rmnQW",
-   "source": "Formula1.com",
-   "date": "2026-11-20T20:22:46.574Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend.",
-   "image": null
-  },
-  {
-   "title": "F1's new V8 engine agreed – five things you need to know",
-   "url": "https://www.the-race.com/formula-1/f1s-new-v8-engine-agreed-five-things-you-need-to-know/",
-   "source": "The Race",
-   "date": "2026-11-20T20:08:47.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 will adopt V8 engines in 2030 now key stakeholders have unanimously agreed on key details that will underpin the new rules",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/WhatsApp-Image-2026-11-20-at-10.32.05.jpeg"
   },
   {
    "title": "Hollywood star Christian Bale wants to portray MotoGP’s “gods” in a movie",
@@ -353,16 +362,6 @@
    "result": false,
    "summary": "Marc Marquez keeps coming back to one number: 14. That is how many points he needs to score this weekend to be crowned the 2026 MotoGP champion. However, the pressure of being so close to securing the title was evident…",
    "image": "https://cdn-1.motorsport.com/images/amp/0rVPkeJ0/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "FIA confirms unanimous agreement on 2030 PU framework",
-   "url": "https://www.formula1.com/en/latest/article/fia-confirms-unanimous-agreement-on-framework-for-2030-power-units.AZ7EFvWPyGPH0xG1JS8Ud",
-   "source": "Formula1.com",
-   "date": "2026-11-20T19:33:59.798Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Key parties including the FIA and F1 teams have committed to the 2030 power unit technical framework.",
-   "image": null
   },
   {
    "title": "'Marco Bezzecchi is fastest at Portimao,' says Alex Marquez - after going fastest",
@@ -393,16 +392,6 @@
    "result": false,
    "summary": "Jorge Martin has admitted that he is still losing lap time at Portimao’s Turn 7, the site of his life-threatening MotoGP crash in 2021",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1363260_HiRes.jpg"
-  },
-  {
-   "title": "FIA, F1 and teams unanimously agree to drop current power units after 2029",
-   "url": "https://www.racefans.net/2026/11/20/fia-f1-and-teams-unanimously-agree-to-drop-current-power-units-after-2029/",
-   "source": "RaceFans",
-   "date": "2026-11-20T18:59:56.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA has confirmed plans to introduce new V8 hybrid turbo power unit regulations to Formula 1 in 2030.",
-   "image": null
   },
   {
    "title": "Ducati dismisses doubts over Marc Marquez’s future: “He will be with us after this season”",
@@ -1193,16 +1182,6 @@
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
    "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
-  },
-  {
-   "title": "Ferrari explains tyre pressure mistake in Monza WEC",
-   "url": "https://www.motorsport.com/wec/news/ferrari-explains-tyre-pressure-mistake-in-monza-wec/10873370/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T17:12:14.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
