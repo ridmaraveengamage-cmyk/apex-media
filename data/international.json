@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:12:58.806Z",
+ "updated": "2026-11-22T19:26:50.346Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,9 +147,9 @@
   }
  ],
  "bySeries": {
-  "F1": 17,
+  "F1": 15,
+  "Motorsport": 4,
   "MotoGP": 15,
-  "Motorsport": 3,
   "Super Formula": 2,
   "NASCAR": 15,
   "Karting": 6,
@@ -166,6 +165,56 @@
  },
  "items": [
   {
+   "title": "All the key moments from the Las Vegas Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/las-vegas-lowdown-all-the-key-moments-as-verstappen-wins-remarkable-race-and-ferraris-drivers-collide-again.62D9SeuQXSboAspMm7N0pN",
+   "source": "Formula1.com",
+   "date": "2026-11-22T19:26:50.346Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen claimed his fourth win of the season in Las Vegas, having withstood immense pressure throughout in a thrilling race which featured more than 30 changes of the lead.",
+   "image": null
+  },
+  {
+   "title": "Latest Hamilton-Leclerc clash ‘unacceptable’ – Vasseur",
+   "url": "https://www.formula1.com/en/latest/article/its-a-lack-of-respect-vasseur-calls-latest-hamilton-leclerc-clash-in-las-vegas-unacceptable.5NGehhmEEtLqzDKxm7bi4z",
+   "source": "Formula1.com",
+   "date": "2026-11-22T19:26:50.346Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ferrari boss Fred Vasseur has branded the latest clash between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix “unacceptable”, calling for greater respect between his drivers.",
+   "image": null
+  },
+  {
+   "title": "Camara to finish F1 season with Haas, ending F2 title bid",
+   "url": "https://www.autosport.com/f1/news/haas-keeps-rafael-camara-in-f1-ending-his-2026-f2-title-bid/10877044/",
+   "source": "Autosport",
+   "date": "2026-11-22T18:32:32.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge. Camara was confirmed in October as a full-time replacement for Esteban Ocon in 2027…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YP74VKA2/s6/rafael-camara-haas-2.jpg"
+  },
+  {
+   "title": "Haas keeps Rafael Camara in F1, ending his 2026 F2 title bid",
+   "url": "https://www.motorsport.com/f1/news/rafael-camara-gives-up-f2-title-chance-to-finish-2026-f1-season-with-haas/10877028/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T18:28:04.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge. Camara was confirmed in October as a full-time replacement for Esteban Ocon in 2027…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YvKBe8e6/s6/rafael-camara-haas.jpg"
+  },
+  {
+   "title": "Laurin Heinrich \"deeply disappointed but not surprised\" by Raffaele Marciello after Macau clash",
+   "url": "https://www.motorsport.com/gt/news/macau-gt-laurin-heinrich-raffaele-marciello-crash/10877023/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T18:14:22.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Laurin Heinrich has spoken out following the opening-lap collision in the 2026 Macau FIA GT World Cup main race that robbed the Porsche driver of victory after a dominant weekend. With a stony expression, Heinrich had…",
+   "image": "https://cdn-1.motorsport.com/images/amp/l0LkOvN6/s6/macau-crash-heinrich-von-marciello-tief-enttaeuscht-aber-nicht-ueberrascht-26112203.jpg"
+  },
+  {
    "title": "Haas confirm Camara will drive for team in final races of 2026",
    "url": "https://www.formula1.com/en/latest/article/haas-confirm-camara-will-drive-for-the-team-in-final-races-of-2026.2wYY9ymhyqr7rXcuK6S7bj",
    "source": "Formula1.com",
@@ -174,16 +223,6 @@
    "result": false,
    "summary": "Ahead of his first full-time Formula 1 season in 2027, Rafael Camara will again drive for Haas at the 2026 Qatar and Abu Dhabi Grands Prix.",
    "image": null
-  },
-  {
-   "title": "Camara to complete F1 season with Haas, sacrificing F2 title shot",
-   "url": "https://www.the-race.com/formula-1/camara-to-complete-f1-season-with-haas-sacrificing-f2-title-shot/",
-   "source": "The Race",
-   "date": "2026-11-22T18:12:46.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Rafael Camara will complete the 2026 Formula 1 season with Haas, effectively sacrificing his Formula 2 championship shot",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455562_HiRes.jpg"
   },
   {
    "title": "\"I actually liked it\" – McLaren boss defends Piastri's four-letter outburst in Las Vegas GP",
@@ -244,6 +283,16 @@
    "result": false,
    "summary": "Newly-crowned 2026 MotoGP world champion Marc Marquez says he could not have cared less about the winning Sunday's Portuguese Grand Prix - albeit with somewhat stronger language. The Spaniard rode a cautious race to…",
    "image": "https://cdn-1.motorsport.com/images/amp/2wlKJrMY/s6/raul-fernandez-trackhouse-raci.jpg"
+  },
+  {
+   "title": "Featured Comment: How F1’s power units dictated when drivers overtook in Las Vegas",
+   "url": "https://www.racefans.net/2026/11/22/featured-comment-how-f1s-power-units-dictated-when-drivers-overtook-in-las-vegas/",
+   "source": "RaceFans",
+   "date": "2026-11-22T16:24:32.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "How F1 engineers spot passes coming with power unit data",
+   "image": null
   },
   {
    "title": "5 betting lessons after Verstappen wins in Las Vegas",
@@ -316,16 +365,6 @@
    "image": null
   },
   {
-   "title": "2026 Las Vegas Grand Prix interactive data: lap charts, times and tyres | 2026 Las Vegas Grand Prix interactive data",
-   "url": "https://www.racefans.net/2026/11/22/2026-las-vegas-grand-prix-interactive-data-lap-charts-times-and-tyres/",
-   "source": "RaceFans",
-   "date": "2026-11-22T14:45:58.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The Las Vegas Grand Prix appeared to create the perfect conditions for 'yo-yo racing'. with drivers swapping places twice or more per lap.",
-   "image": null
-  },
-  {
    "title": "'Very artificial' - F1 drivers divided over Las Vegas overtaking frenzy",
    "url": "https://www.the-race.com/formula-1/this-is-not-f1-verstappen-criticises-las-vegas-overtaking-frenzy/",
    "source": "The Race",
@@ -356,56 +395,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6b8ZA5w2/s6/marc-marquez-ducati-team.jpg"
   },
   {
-   "title": "F1 pitwall data delivery has doubled in speed since 2024",
-   "url": "https://www.the-race.com/business/f1-pitwall-data-delivery-has-doubled-in-speed-since-2024/",
-   "source": "The Race",
-   "date": "2026-11-22T13:39:10.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 teams receive data and video at least twice as fast as they would have in 2024.",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455790_HiRes.jpg"
-  },
-  {
-   "title": "Verstappen responds to Russell comments as rivalry reignites",
-   "url": "https://www.formula1.com/en/latest/article/so-far-below-my-level-verstappen-responds-to-russell-comments-in-las-vegas-as-rivalry-reignites.4li166pkqaJAmwAXx5CZnr",
-   "source": "Formula1.com",
-   "date": "2026-11-22T13:33:29.283Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen has shared his reaction to comments made by George Russell after an on-track incident between them earlier in the Las Vegas Grand Prix weekend.",
-   "image": null
-  },
-  {
-   "title": "“Some overtakes weren’t overtakes”: Norris queries claim of ‘352 passes’ in Las Vegas",
-   "url": "https://www.racefans.net/2026/11/22/some-overtakes-werent-overtakes-norris-queries-claim-of-352-passes-in-las-vegas/",
-   "source": "RaceFans",
-   "date": "2026-11-22T12:08:45.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The Las Vegas Grand Prix featured 352 overtaking moves according to Formula 1 but drivers queried how real the racing was.",
-   "image": null
-  },
-  {
-   "title": "The one aspect of Max Verstappen \"outsmarting\" Mercedes that left Red Bull speechless",
-   "url": "https://www.motorsport.com/f1/news/the-one-aspect-of-max-verstappen-outsmarting-mercedes-that-left-red-bull-speechless/10876912/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T11:58:03.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen claimed his fourth victory in the last six Formula 1 Grands Prix. This time, the Dutchman won at what is known as an energy-poor circuit, which is noteworthy given that Red Bull Ford Powertrains was still…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YE9ErKKY/s6/max-verstappen-red-bull-racing.jpg"
-  },
-  {
-   "title": "Lewis Hamilton: ‘Charles Leclerc’s frame of mind cost us a lot of points today’",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclercs-frame-of-mind-cost-us-a-lot-of-points-today/10876902/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T11:26:45.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton subtly implied Charles Leclerc’s “frame of mind” was to blame for their collision in Formula 1’s Las Vegas Grand Prix. Hamilton and Leclerc were sixth and seventh on lap 37 of the Nevadan race, only some…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27NojvR0/s6/charles-leclerc-ferrari-lewis-.jpg"
-  },
-  {
    "title": "Fabio Quartararo on Portimao sprint charge: 'The first few laps were fun!'",
    "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-on-portimao-sprint-charge-the-first-few-laps-were-fun/10876614/",
    "source": "Motorsport.com",
@@ -416,13 +405,13 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0JXR7ZNY/s6/fabio-quartararo-yamaha-factor.jpg"
   },
   {
-   "title": "Macau GP: Kean Nakamura-Berta takes win after Enzo Deligny crashes out",
-   "url": "https://www.motorsport.com/openwheel/news/macau-gp-kean-nakamura-berta-takes-win-after-enzo-deligny-crashes-out/10876845/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T08:43:13.000Z",
+   "title": "Macau GP: Nakamura-Berta takes win after Deligny crashes out",
+   "url": "https://www.autosport.com/openwheel/news/macau-gp-kean-nakamura-berta-takes-win-after-enzo-deligny-crashes-out/10876849/",
+   "source": "Autosport",
+   "date": "2026-11-22T08:41:30.000Z",
    "series": "Motorsport",
    "result": true,
-   "summary": "Kean Nakamura-Berta claimed a comfortable Macau Grand Prix victory after forcing early leader Enzo Deligny into a mistake at Lisboa. It was a tricky first few corners for the drivers starting on the front row as…",
+   "summary": "Kean Nakamura-Berta claimed a comfortable Macau Grand Prix victory after forcing early leader Enzo Deligny into a mistake at Lisboa. The British-born Japanese, Slovak driver, who was third in this year's Formula…",
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNVaX2/s6/d2b390cea2e109a8dc8b4e83bb300d.jpg"
   },
   {
