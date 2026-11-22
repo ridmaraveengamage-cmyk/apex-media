@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:13:21.967Z",
+ "updated": "2026-11-22T00:10:25.401Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -164,6 +165,26 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "What the teams said – Qualifying in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-las-vegas-2026.3nVBux5Arj5K1MNogvg9j9",
+   "source": "Formula1.com",
+   "date": "2026-11-22T00:10:25.401Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend.",
+   "image": null
+  },
+  {
+   "title": "Alpine left disappointed despite Gasly’s ‘perfect’ Q2 lap",
+   "url": "https://www.formula1.com/en/latest/article/alpine-left-disappointed-after-gasly-had-shone-with-perfect-lap-in-q2.48hDMDkgL0meTLKg3usEg6",
+   "source": "Formula1.com",
+   "date": "2026-11-22T00:10:25.401Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Pierre Gasly and Franco Colapinto were left disappointed after Las Vegas Grand Prix qualifying, despite showing promising pace in Q2 for Alpine.",
+   "image": null
+  },
   {
    "title": "F1 2026 Las Vegas Grand Prix: Starting grid after five engine penalties",
    "url": "https://www.crash.net/f1/news/1110516/1/f1-2026-las-vegas-grand-prix-starting-grid-after-five-engine-penalties",
@@ -393,26 +414,6 @@
    "result": false,
    "summary": "Marc Marquez's coronation as the 2026 MotoGP champion was postponed as he crashed out of the Portimao sprint",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364176_HiRes.jpg"
-  },
-  {
-   "title": "What To Watch For in the Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-las-vegas-grand-prix.3k1glJW46dgLm2gZkIsSYo",
-   "source": "Formula1.com",
-   "date": "2026-11-21T13:33:34.303Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day in Nevada.",
-   "image": null
-  },
-  {
-   "title": "Lindblad's Vegas Qualifying 'such a mess' despite P5 start",
-   "url": "https://www.formula1.com/en/latest/article/it-was-such-a-mess-lindblad-reflects-on-las-vegas-qualifying-ahead-of-p5-start.1TQF9i21VuFhEkETB6CqPc",
-   "source": "Formula1.com",
-   "date": "2026-11-21T13:33:34.303Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Arvid Lindblad believes his Qualifying performance for the Las Vegas Grand Prix \"was such a mess\", despite the Racing Bulls driver set to start from fifth on the grid.",
-   "image": null
   },
   {
    "title": "MotoGP to move race start time in 2027, avoid F1 clashes",
