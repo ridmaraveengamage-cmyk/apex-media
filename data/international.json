@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:20:36.710Z",
+ "updated": "2026-11-22T11:16:13.927Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,9 +148,9 @@
  ],
  "bySeries": {
   "F1": 15,
+  "MotoGP": 15,
   "Motorsport": 5,
   "Super Formula": 2,
-  "MotoGP": 15,
   "NASCAR": 15,
   "Karting": 6,
   "IndyCar": 6,
@@ -164,6 +164,46 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Latest Hamilton-Leclerc clash ‘unacceptable’ – Vasseur",
+   "url": "https://www.formula1.com/en/latest/article/its-a-lack-of-respect-vasseur-calls-latest-hamilton-leclerc-clash-in-las-vegas-unacceptable.5NGehhmEEtLqzDKxm7bi4z",
+   "source": "Formula1.com",
+   "date": "2026-11-22T11:16:13.927Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ferrari boss Fred Vasseur has branded the latest clash between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix “unacceptable”, calling for greater respect between his drivers.",
+   "image": null
+  },
+  {
+   "title": "What the teams said – Race day in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-las-vegas-2026.2UjFcltnN1WABnZawPqeyP",
+   "source": "Formula1.com",
+   "date": "2026-11-22T11:16:13.927Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The drivers and teams report back on all the events from the 2026 Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Fabio Quartararo on Portimao sprint charge: 'The first few laps were fun!'",
+   "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-on-portimao-sprint-charge-the-first-few-laps-were-fun/10876614/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T11:01:35.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Fabio Quartararo is more upbeat than usual ahead of Sunday's Portuguese Grand Prix, following a \"fun\" ride in the sprint race on Saturday. The French rider fought his way from 20th on the grid to eighth in the final…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0JXR7ZNY/s6/fabio-quartararo-yamaha-factor.jpg"
+  },
+  {
+   "title": "Winners and losers from F1's chaotically extraordinary Las Vegas GP",
+   "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotically-extraordinary-las-vegas/10876889/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T10:34:15.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "A pack of cars covered by seconds, the top three trading first position as part of 35 lead changes, and drivers trying to figure out the best positioning to be ahead at the finish line on the final lap; The Las Vegas…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2GdKBeKY/s6/max-verstappen-red-bull-racing.jpg"
+  },
   {
    "title": "Hadjar 'clueless' on reason for front wing failure in Vegas",
    "url": "https://www.formula1.com/en/latest/article/hadjar-clueless-on-reason-for-front-wing-failure-as-post-race-penalty-demotes-him-a-place-in-las-vegas-gp.2tF9g5VLiq5P6MtIpiaZ1J",
@@ -205,27 +245,7 @@
    "image": null
   },
   {
-   "title": "Leclerc ‘embarrassed’ for Ferrari after Hamilton clash",
-   "url": "https://www.formula1.com/en/latest/article/ill-accept-the-blame-leclerc-embarrassed-for-ferrari-as-he-assesses-latest-hamilton-clash-in-las-vegas.7hVueR5bwYsCGdIaYph3mK",
-   "source": "Formula1.com",
-   "date": "2026-11-22T10:20:36.710Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc received a 10-second time penalty after colliding with Ferrari team mate Lewis Hamilton during the Las Vegas Grand Prix, dropping him to 10th place.",
-   "image": null
-  },
-  {
-   "title": "'Something that I've never seen before' – Verstappen on Vegas win",
-   "url": "https://www.formula1.com/en/latest/article/something-that-ive-never-seen-before-in-f1-verstappen-reflects-on-las-vegas-gp-win-after-slipstream-thriller.11R5Iz64C6PLpqrGDJU5OK",
-   "source": "Formula1.com",
-   "date": "2026-11-22T10:20:36.710Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Max Verstappen believes his victory in the Las Vegas Grand Prix was \"something that I've never seen before in Formula 1\", with the race featuring a total of 35 lead changes after a slipstream thriller.",
-   "image": null
-  },
-  {
-   "title": "Max Verstappen continues George Russell fallout, labels 2026 F1 season a \"complete disaster\"",
+   "title": "Max Verstappen continues George Russell fallout, labels his 2026 F1 season a \"complete disaster\"",
    "url": "https://www.motorsport.com/f1/news/max-verstappen-calls-george-russells-2026-f1-season-a-complete-disaster-after-vegas-clash/10876885/",
    "source": "Motorsport.com",
    "date": "2026-11-22T10:13:23.000Z",
@@ -265,7 +285,7 @@
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455049_hires.jpg?width=1200"
   },
   {
-   "title": "Ferrari's reaction to 'unacceptable' F1 driver clash",
+   "title": "Leclerc mistake 'completely unacceptable' - Ferrari",
    "url": "https://www.the-race.com/formula-1/ferrari-reaction-unacceptable-f1-driver-clash-las-vegas/",
    "source": "The Race",
    "date": "2026-11-22T09:22:11.000Z",
@@ -302,16 +322,6 @@
    "series": "F1",
    "result": false,
    "summary": "Lewis Hamilton reflects on his 'really harsh' 10-second penalty at the Las Vegas Grand Prix and his collision with Ferrari team mate Charles Leclerc.",
-   "image": null
-  },
-  {
-   "title": "'I paid the price' – Russell laments Las Vegas GP error",
-   "url": "https://www.formula1.com/en/latest/article/i-paid-the-price-russell-laments-error-in-closing-stages-of-las-vegas-gp.546DMDVRArhwgf1nEXHR1v",
-   "source": "Formula1.com",
-   "date": "2026-11-22T09:18:22.388Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell admits that the \"risk was too high and I paid the price\" after a mistake from the Mercedes driver in the closing stages of the Las Vegas Grand Prix cost him a chance of victory.",
    "image": null
   },
   {
@@ -533,16 +543,6 @@
    "result": false,
    "summary": "Oscar-winning actor Christian Bale says he would like to bring MotoGP to the big screen, describing some of the championship’s biggest stars as “gods”. Bale has made no secret of his love for motorcycle racing…",
    "image": "https://cdn-1.motorsport.com/images/amp/0qX4K986/s6/matt-damon-and-christian-bale.jpg"
-  },
-  {
-   "title": "Marc Marquez's body felt \"stiffer\" in Portimao practice: \"I’m the only one who can lose”",
-   "url": "https://www.motorsport.com/motogp/news/marc-marquez-portimao-im-the-only-one-who-can-lose/10876130/",
-   "source": "Motorsport.com",
-   "date": "2026-11-20T20:03:16.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez keeps coming back to one number: 14. That is how many points he needs to score this weekend to be crowned the 2026 MotoGP champion. However, the pressure of being so close to securing the title was evident…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0rVPkeJ0/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Kart Republic Strengthens U.S. Presence with Kart Mega Store",
