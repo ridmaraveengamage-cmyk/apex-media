@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:33:30.728Z",
+ "updated": "2026-11-22T14:23:46.932Z",
  "groups": [
   "Single-seaters",
   "Motorcycles",
@@ -90,7 +90,7 @@
      "points": 52
     }
    ],
-   "updated": "2026-11-22T13:33:30.728Z"
+   "updated": "2026-11-22T14:23:46.932Z"
   },
   {
    "id": "f1-t",
@@ -173,7 +173,7 @@
      "points": 7
     }
    ],
-   "updated": "2026-11-22T13:33:30.728Z"
+   "updated": "2026-11-22T14:23:46.932Z"
   },
   {
    "id": "f2",
@@ -605,21 +605,21 @@
      "name": "Marc Marquez",
      "team": "Ducati Lenovo Team",
      "color": "#d40000",
-     "points": 431
+     "points": 439
     },
     {
      "pos": 2,
      "name": "Jorge Martin",
      "team": "Aprilia Racing",
      "color": "#41bfaa",
-     "points": 376
+     "points": 396
     },
     {
      "pos": 3,
      "name": "Marco Bezzecchi",
      "team": "Aprilia Racing",
      "color": "#41bfaa",
-     "points": 369
+     "points": 394
     },
     {
      "pos": 4,
@@ -633,21 +633,21 @@
      "name": "Ai Ogura",
      "team": "SuperFile Trackhouse MotoGP Team",
      "color": "#41bfaa",
-     "points": 298
+     "points": 309
     },
     {
      "pos": 6,
      "name": "Fabio Di Giannantonio",
      "team": "Pertamina Enduro VR46 Racing Team",
      "color": "#d40000",
-     "points": 285
+     "points": 298
     },
     {
      "pos": 7,
      "name": "Raul Fernandez",
      "team": "SuperFile Trackhouse MotoGP Team",
      "color": "#41bfaa",
-     "points": 267
+     "points": 283
     },
     {
      "pos": 8,
@@ -668,10 +668,10 @@
      "name": "Enea Bastianini",
      "team": "Red Bull KTM Tech3",
      "color": "#ff6600",
-     "points": 147
+     "points": 152
     }
    ],
-   "updated": "2026-11-22T13:33:30.728Z"
+   "updated": "2026-11-22T14:23:46.932Z"
   },
   {
    "id": "moto2",
@@ -695,35 +695,35 @@
      "name": "Izan Guevara",
      "team": "BLU CRU Pramac Yamaha Moto2",
      "color": "#9aa29a",
-     "points": 273
+     "points": 282
     },
     {
      "pos": 3,
      "name": "Ivan Ortola",
      "team": "QJMOTOR - MSI",
      "color": "#9aa29a",
-     "points": 219.5
+     "points": 230.5
     },
     {
      "pos": 4,
      "name": "Daniel Holgado",
      "team": "CFMOTO Power Electronics Aspar Team",
      "color": "#9aa29a",
-     "points": 215
+     "points": 225
     },
     {
      "pos": 5,
      "name": "David Alonso",
      "team": "CFMOTO Power Electronics Aspar Team",
      "color": "#9aa29a",
-     "points": 204
+     "points": 217
     },
     {
      "pos": 6,
      "name": "Senna Agius",
      "team": "LIQUI MOLY Dynavolt Intact GP",
      "color": "#9aa29a",
-     "points": 175
+     "points": 191
     },
     {
      "pos": 7,
@@ -734,27 +734,27 @@
     },
     {
      "pos": 8,
+     "name": "Alonso Lopez",
+     "team": "ITALJET Gresini Moto2",
+     "color": "#9aa29a",
+     "points": 154.5
+    },
+    {
+     "pos": 9,
      "name": "Celestino Vietti",
      "team": "BETA Tools SpeedRS Team",
      "color": "#9aa29a",
      "points": 146
     },
     {
-     "pos": 9,
-     "name": "Alonso Lopez",
-     "team": "ITALJET Gresini Moto2",
-     "color": "#9aa29a",
-     "points": 134.5
-    },
-    {
      "pos": 10,
      "name": "Daniel Muñoz",
      "team": "Italtrans Racing Team",
      "color": "#9aa29a",
-     "points": 97
+     "points": 122
     }
    ],
-   "updated": "2026-11-22T13:33:30.728Z"
+   "updated": "2026-11-22T14:23:46.932Z"
   },
   {
    "id": "moto3",
@@ -837,7 +837,7 @@
      "points": 113
     }
    ],
-   "updated": "2026-11-22T13:33:30.728Z"
+   "updated": "2026-11-22T14:23:46.932Z"
   },
   {
    "id": "wsbk",
@@ -1335,7 +1335,7 @@
      "points": 2306
     }
    ],
-   "updated": "2026-11-22T13:33:30.728Z"
+   "updated": "2026-11-22T14:23:46.932Z"
   },
   {
    "id": "nascar-2",
@@ -1418,7 +1418,7 @@
      "points": 2281
     }
    ],
-   "updated": "2026-11-22T13:33:30.728Z"
+   "updated": "2026-11-22T14:23:46.932Z"
   },
   {
    "id": "nascar-3",
@@ -1501,7 +1501,7 @@
      "points": 2196
     }
    ],
-   "updated": "2026-11-22T13:33:30.728Z"
+   "updated": "2026-11-22T14:23:46.932Z"
   },
   {
    "id": "dtm",
