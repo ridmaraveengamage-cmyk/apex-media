@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:56:27.968Z",
+ "updated": "2026-11-22T05:55:12.383Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,13 +148,13 @@
  ],
  "bySeries": {
   "F1": 15,
-  "Motorsport": 4,
+  "Motorsport": 3,
   "MotoGP": 15,
   "Super Formula": 1,
   "NASCAR": 15,
   "Karting": 6,
-  "Formula E": 10,
   "IndyCar": 6,
+  "Formula E": 9,
   "IMSA": 11,
   "WRC": 12,
   "Dakar": 2,
@@ -164,6 +164,116 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "GALLERY: Celebrities go head-to-head in Las Vegas LEGO race",
+   "url": "https://www.formula1.com/en/latest/article/gallery-celebrities-go-head-to-head-in-las-vegas-as-the-lego-race-makes-its-debut.1CEzupcRQcT0ZW9lyxFSLH",
+   "source": "Formula1.com",
+   "date": "2026-11-22T05:55:12.383Z",
+   "series": "F1",
+   "result": false,
+   "summary": "There was action even before the start of the 2026 Formula 1 Las Vegas Grand Prix, as 11 celebrities took part in the inaugural LEGO race.",
+   "image": null
+  },
+  {
+   "title": "How F1 fans can avoid emotional betting in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/how-f1-fans-can-avoid-emotional-betting-during-the-las-vegas-grand-prix.24NadP7NoIqRfhaeuykCuI",
+   "source": "Formula1.com",
+   "date": "2026-11-22T05:55:12.383Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during this weekend's race.",
+   "image": null
+  },
+  {
+   "title": "What are the tyre strategy options for the Las Vegas GP?",
+   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-las-vegas-gp.4k41CN1CbogRoqk1kkOb9C",
+   "source": "Formula1.com",
+   "date": "2026-11-22T05:55:12.383Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day under the Las Vegas lights.",
+   "image": null
+  },
+  {
+   "title": "Verstappen leads parade of position-swapping to win in Las Vegas | 2026 Las Vegas Grand Prix report",
+   "url": "https://www.racefans.net/2026/11/22/verstappen-leads-parade-of-position-swapping-to-win-in-las-vegas/",
+   "source": "RaceFans",
+   "date": "2026-11-22T05:54:06.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen scored his third grand prix victory of the season in a Las Vegas Grand Prix which was dominated by 'yo-yo' position swaps.",
+   "image": null
+  },
+  {
+   "title": "Five quick takeaways from Las Vegas GP",
+   "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T05:47:45.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Las Vegas gets the pack race it craved In America's artificial entertainment capital, F1 put the most artificial and entertaining spectacle. How fitting. The yo-yo racing from the early days of the 2026 season was back…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YN7vj146/s6/max-verstappen-red-bull-racing-2.jpg"
+  },
+  {
+   "title": "F1 Las Vegas GP: Verstappen wins thriller as Russell hits the wall late on",
+   "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-report/10876677/",
+   "source": "Autosport",
+   "date": "2026-11-22T05:45:47.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Max Verstappen won a wild Las Vegas Grand Prix, holding off both Mercedes drivers as Formula 1’s ‘yo-yo’ racing returned – with no Silver Arrow on the eventual podium. With qualifying pacesetter Andrea Kimi Antonelli…",
+   "image": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-3.jpg"
+  },
+  {
+   "title": "Max Verstappen wins pulsating Las Vegas GP as Ferraris collide",
+   "url": "https://www.crash.net/f1/race-report/1110730/1/max-verstappen-wins-pulsating-las-vegas-gp-ferraris-collide",
+   "source": "Crash.net",
+   "date": "2026-11-22T05:44:35.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Max Verstappen takes the 75th win of his F1 career in Las Vegas.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455919_hires.jpg?width=1200"
+  },
+  {
+   "title": "Formula 1 Las Vegas Grand Prix: Full race results",
+   "url": "https://www.crash.net/f1/results/1110729/1/formula-1-las-vegas-grand-prix-full-race-results",
+   "source": "Crash.net",
+   "date": "2026-11-22T05:43:00.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Full race results from the 2026 Formula 1 Las Vegas Grand Prix",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456024_hires.jpg?width=1200"
+  },
+  {
+   "title": "Vote for your 2026 Las Vegas Grand Prix Driver of the Weekend",
+   "url": "https://www.racefans.net/2026/11/22/vote-for-your-2026-las-vegas-grand-prix-driver-of-the-weekend/",
+   "source": "RaceFans",
+   "date": "2026-11-22T05:38:07.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Who was the best driver during the 2026 Las Vegas Grand Prix weekend? Compare how they did and vote for the best.",
+   "image": null
+  },
+  {
+   "title": "2026 Las Vegas Grand Prix race result and championship points",
+   "url": "https://www.racefans.net/2026/11/22/2026-las-vegas-grand-prix-race-result-and-championship-points/",
+   "source": "RaceFans",
+   "date": "2026-11-22T05:37:01.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Max Verstappen won the Las Vegas Grand Prix for Red Bull and closed to within 100 points of champion Andrea Kimi Antonelli.",
+   "image": null
+  },
+  {
+   "title": "Lewis Hamilton questions stewards in unaired radio message after F1 Vegas penalty",
+   "url": "https://www.motorsport.com/f1/news/hamilton-questions-stewards-consistency-over-unaired-las-vegas-radio-after-10-second-penalty/10876678/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T05:07:03.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton’s recovery drive at the 2026 Las Vegas Grand Prix hit a major snag in the opening half of the race - and prompted a pointed complaint over Ferrari team radio regarding FIA stewarding consistency. Starting…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10876678-b704-2.jpg"
+  },
   {
    "title": "Our Las Vegas GP Bet Builder selections made",
    "url": "https://www.formula1.com/en/latest/article/our-las-vegas-grand-prix-bet-builder-selections-as-max-verstappen-to-start-on-pole.5kZr0wohlPjcax9jtd9RLX",
@@ -195,54 +305,14 @@
    "image": null
   },
   {
-   "title": "LIVE COVERAGE: Racing resumes in Las Vegas GP after Safety Car",
+   "title": "LIVE COVERAGE: Verstappen wins thrilling Las Vegas Grand Prix",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-heineken-las-vegas-grand-prix-2026.5lbMAk1JxHBbBVelEl2kyc",
    "source": "Formula1.com",
    "date": "2026-11-22T03:52:36.390Z",
    "series": "F1",
-   "result": false,
+   "result": true,
    "summary": "Live coverage of Saturday's Formula 1 Heineken Las Vegas Grand Prix 2026.",
    "image": null
-  },
-  {
-   "title": "Palmowski fends off Larsen for victory in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-fends-off-larsen-for-victory-as-campos-racing-claim-teams-title-in-las-vegas.6Fw8vZsWjOFWzvtWp4diBW",
-   "source": "Formula1.com",
-   "date": "2026-11-22T03:52:36.390Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Alisha Palmowski came out on top in a back-and-forth battle with Alba Larsen to secure her sixth victory of the season in Las Vegas.",
-   "image": null
-  },
-  {
-   "title": "How to watch 2026 F1 Las Vegas GP today: Free live stream details and start time",
-   "url": "https://www.crash.net/f1/news/1110385/1/how-watch-2026-f1-las-vegas-gp-today-free-live-stream-details-and-start-time",
-   "source": "Crash.net",
-   "date": "2026-11-22T03:30:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "All the details on this weekends race in Nevada and how to watch the Las Vegas Grand Prix for free. This article contains affiliate links. If you buy through them, we may earn a commission at no extra cost to you",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454834_hires.jpg?width=1200"
-  },
-  {
-   "title": "F1 2026 Las Vegas Grand Prix: Starting grid after five engine penalties",
-   "url": "https://www.crash.net/f1/news/1110516/1/f1-2026-las-vegas-grand-prix-starting-grid-after-five-engine-penalties",
-   "source": "Crash.net",
-   "date": "2026-11-22T03:03:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The full starting grid for the 2026 Formula 1 Las Vegas Grand Prix in the United States.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455451_hires.jpg?width=1200"
-  },
-  {
-   "title": "F1 Las Vegas Grand Prix LIVE: Race updates as Max Verstappen leads",
-   "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-race-updates-max-verstappen-pole",
-   "source": "Crash.net",
-   "date": "2026-11-22T03:00:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live updates from the 2026 Formula 1 Las Vegas Grand Prix",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455210_hires.jpg?width=1200"
   },
   {
    "title": "Macau GP: Craigie wins F4 World Cup after first-lap pile-up",
@@ -253,26 +323,6 @@
    "result": true,
    "summary": "Mercedes junior Kenzo Craigie won the FIA Formula 4 World Cup in Macau after the race had to be restarted following a pile-up that eliminated 10 cars. The F4 drivers had been involved in multiple incidents on Thursday…",
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgzg4Y/s6/b9b79d9f3ddb09035252660cfd7786-2.jpg"
-  },
-  {
-   "title": "What To Watch For in the Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-las-vegas-grand-prix.3k1glJW46dgLm2gZkIsSYo",
-   "source": "Formula1.com",
-   "date": "2026-11-22T01:46:42.510Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day in Nevada.",
-   "image": null
-  },
-  {
-   "title": "Lindblad's Vegas Qualifying 'such a mess' despite P5 start",
-   "url": "https://www.formula1.com/en/latest/article/it-was-such-a-mess-lindblad-reflects-on-las-vegas-qualifying-ahead-of-p5-start.1TQF9i21VuFhEkETB6CqPc",
-   "source": "Formula1.com",
-   "date": "2026-11-22T01:46:42.510Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Arvid Lindblad believes his Qualifying performance for the Las Vegas Grand Prix \"was such a mess\", despite the Racing Bulls driver set to start from fifth on the grid.",
-   "image": null
   },
   {
    "title": "How Marc Marquez can seal MotoGP title in the Portuguese GP",
@@ -295,16 +345,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YMXb8wl2/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
-   "title": "Wolff reflects on impact of tow in Las Vegas Qualifying",
-   "url": "https://www.formula1.com/en/latest/article/i-have-no-idea-how-these-lap-times-came-together-wolff-reflects-on-slipstream-impact-in-las-vegas-qualifying.5hGMtgEZODMntPSadcUJbO",
-   "source": "Formula1.com",
-   "date": "2026-11-21T19:24:21.605Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Toto Wolff reflected on the impact of the slipstream during Las Vegas Grand Prix Qualifying, with Mercedes believing George Russell was ideally positioned for pole.",
-   "image": null
-  },
-  {
    "title": "Jack Miller furious over MotoGP sprint race schedule change: “We don’t race in the rain anymore”",
    "url": "https://www.motorsport.com/motogp/news/jack-miller-furious-over-motogp-sprint-race-schedule-change-we-dont-race-in-the-rain-anymore/10876611/",
    "source": "Motorsport.com",
@@ -315,26 +355,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/01QNEdD0/s6/jack-miller-pramac-racing.jpg"
   },
   {
-   "title": "Oscar Piastri questions \"strange\" pace deficit to other Mercedes-powered cars in Las Vegas",
-   "url": "https://www.motorsport.com/f1/news/piastri-questions-strange-pace-deficit-to-other-mercedes-powered-cars-in-las-vegas/10876516/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T19:00:03.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oscar Piastri stopped short of echoing the verdict of team-mate Lando Norris that McLaren's straightline speed in Las Vegas was \"just shocking\". But he did acknowledge that the margin of the deficit to rivals was…",
-   "image": "https://cdn-1.motorsport.com/images/amp/01QNxkZ0/s6/oscar-piastri-mclaren.jpg"
-  },
-  {
-   "title": "Max Verstappen takes Las Vegas pole despite “weird issues” since Brazil",
-   "url": "https://www.motorsport.com/f1/news/max-verstappen-takes-las-vegas-pole-despite-weird-issues-since-brazil/10876373/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T18:21:40.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen will lead the field to the green light for Saturday night’s Las Vegas Grand Prix, yet the four-time world champion spent Friday evening fighting his own car as much as his rivals. Verstappen clocked a…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing-a10876373-b707-2.jpg"
-  },
-  {
    "title": "Diogo Moreira admits he is “lucky” after frightening Portimao MotoGP highside",
    "url": "https://www.motorsport.com/motogp/news/diogo-moreira-admits-he-is-lucky-after-frightening-portimao-motogp-highside/10876607/",
    "source": "Motorsport.com",
@@ -343,26 +363,6 @@
    "result": false,
    "summary": "Diogo Moreira admits he considers himself “lucky” to have emerged unscathed from a nasty highside during qualifying for the Portuguese Grand Prix. The LCR rider was on a flying lap in the final minutes of Q1 when he was…",
    "image": "https://cdn-1.motorsport.com/images/amp/63QaMz82/s6/diogo-moreira-team-lcr-honda.jpg"
-  },
-  {
-   "title": "Why Mercedes' tow plan for George Russell fell apart in Las Vegas",
-   "url": "https://www.motorsport.com/f1/news/why-mercedes-tow-plan-for-george-russell-fell-apart-in-las-vegas/10876341/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T18:15:21.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Qualifying for the Las Vegas Grand Prix was decided as much by slipstreams as it was by actual car and driver performance, and this was very clear when looking at Mercedes. Kimi Antonelli went fastest with a 1m33.893s…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YE9EbBMY/s6/george-russell-mercedes-a10876341-b705-3.jpg"
-  },
-  {
-   "title": "Our final Las Vegas Grand Prix betting predictions",
-   "url": "https://www.formula1.com/en/latest/article/our-final-las-vegas-grand-prix-betting-predictions-before-lights-out-on-the-strip.4jYqIilNqAOjx4y3poORZX",
-   "source": "Formula1.com",
-   "date": "2026-11-21T18:13:34.117Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Our expert betting writers bring you their final predictions and latest odds before the Las Vegas Grand Prix.",
-   "image": null
   },
   {
    "title": "'Joke' MotoGP sprint rescheduling infuriates Miller",
@@ -485,16 +485,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0mXykEG6/s6/kakunoshin-ohta-docomo-team-da.jpg"
   },
   {
-   "title": "On This Day: Hamilton takes vital Qatar win to cut Verstappen’s points lead",
-   "url": "https://www.racefans.net/2026/11/21/on-this-day-qatar-grand-prix/",
-   "source": "RaceFans",
-   "date": "2026-11-21T00:01:00.000Z",
-   "series": "Motorsport",
-   "result": true,
-   "summary": "Hamilton wins in Qatar as Verstappen rebounds after penalty",
-   "image": null
-  },
-  {
    "title": "NASCAR set to incrementally increase horsepower as part of 2027 Cup rules",
    "url": "https://www.motorsport.com/nascar-cup/news/nascar-set-to-incrementally-increase-horsepower-at-all-tracks-as-part-of-2027-cup-rules-update/10876155/",
    "source": "Motorsport.com",
@@ -535,16 +525,6 @@
    "image": "https://www.ekartingnews.com/wp-content/uploads/2026/11/Jonathan-Kotyk-Dino-Chiesa-300x200.jpg"
   },
   {
-   "title": "Video: Fire halts final day of Formula E testing",
-   "url": "https://www.racefans.net/2026/11/20/social-media-fire-halts-final-day-of-formula-e-testing/",
-   "source": "RaceFans",
-   "date": "2026-11-20T17:52:45.000Z",
-   "series": "Formula E",
-   "result": false,
-   "summary": "Barnard unhurt as fire ends Formula E 'Gen4' test at Jarama",
-   "image": null
-  },
-  {
    "title": "IndyCar 2026 season review: Chip Ganassi Racing",
    "url": "https://www.motorsport.com/indycar/news/indycar-2026-season-review-chip-ganassi-racing/10876097/",
    "source": "Motorsport.com",
@@ -555,10 +535,10 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0mXyXnX6/s6/scott-dixon-chip-ganassi-racin.jpg"
   },
   {
-   "title": "Formula E pre-season test ends early after car explodes and catches fire",
-   "url": "https://www.autosport.com/formula-e/news/formula-e-pre-season-test-ends-early-after-car-explodes-and-catches-fire/10876079/",
-   "source": "Autosport",
-   "date": "2026-11-20T16:09:36.000Z",
+   "title": "Formula E test ends early after Taylor Barnard's car catches fire and explodes",
+   "url": "https://www.motorsport.com/formula-e/news/taylor-barnard-fusion-porsche-fire-explosion-jarama-test/10876074/",
+   "source": "Motorsport.com",
+   "date": "2026-11-20T16:07:33.000Z",
    "series": "Formula E",
    "result": false,
    "summary": "Taylor Barnard escaped unharmed after his Fusion car caught fire and exploded at Jarama, with the incident bringing the final day of 2027 pre-season Formula E testing to an abrupt end. Friday's running with the new Gen4…",
