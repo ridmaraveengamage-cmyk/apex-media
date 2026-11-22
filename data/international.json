@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:18:55.456Z",
+ "updated": "2026-11-22T21:17:24.940Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,7 +148,7 @@
  ],
  "bySeries": {
   "F1": 15,
-  "Motorsport": 4,
+  "Motorsport": 3,
   "MotoGP": 15,
   "Super Formula": 2,
   "NASCAR": 15,
@@ -164,6 +164,36 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Battle for second place tightens as finish line nears",
+   "url": "https://www.formula1.com/en/latest/article/battle-for-second-place-tightens-as-2026-world-championship-finish-line-nears.5Rqr6EDZZLiPtFbnomVdfb",
+   "source": "Formula1.com",
+   "date": "2026-11-22T21:17:24.940Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen made it four wins in six races but challengers for second place are queueing up.",
+   "image": null
+  },
+  {
+   "title": "F1 plans two-team engine supply limit under 2030 V8 rules",
+   "url": "https://www.autosport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877058/",
+   "source": "Autosport",
+   "date": "2026-11-22T20:32:03.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 is planning a shift to just two power unit supplies per manufacturer in 2030, Autosport has learned, raising questions over the status of Mercedes' three current customers. Over the Las Vegas weekend the FIA…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YP7rVg42/s6/race-start-2.jpg"
+  },
+  {
+   "title": "F1 set to reduce customer teams as key 2030 details emerge",
+   "url": "https://www.motorsport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877055/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T20:26:49.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 is planning a shift to just two power unit supplies per manufacturer in 2030, Motorsport.com has learned, raising questions over the status of Mercedes' three current customers. Over the Las Vegas weekend the FIA…",
+   "image": "https://cdn-1.motorsport.com/images/amp/68Vw5vX2/s6/andrea-kimi-antonelli-mercedes.jpg"
+  },
   {
    "title": "All the key moments from the Las Vegas Grand Prix",
    "url": "https://www.formula1.com/en/latest/article/las-vegas-lowdown-all-the-key-moments-as-verstappen-wins-remarkable-race-and-ferraris-drivers-collide-again.62D9SeuQXSboAspMm7N0pN",
@@ -315,16 +345,6 @@
    "image": null
   },
   {
-   "title": "Perez hit with five-place penalty in Qatar for Camara clash",
-   "url": "https://www.formula1.com/en/latest/article/perez-hit-with-five-place-penalty-in-qatar-after-camara-clash-during-las-vegas-grand-prix.30GG7oJuJ1As0MrkavmStN",
-   "source": "Formula1.com",
-   "date": "2026-11-22T16:17:05.879Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Cadillac's Sergio Perez has been handed a grid penalty for next weekend's Qatar Grand Prix following his collision with the Haas of Rafael Camara in Las Vegas.",
-   "image": null
-  },
-  {
    "title": "How Marc Marquez’s title celebrations were planned to end the GOAT debate in MotoGP",
    "url": "https://www.motorsport.com/motogp/news/marc-marquez-2026-title-celebrations-goat-debate/10876881/",
    "source": "Motorsport.com",
@@ -353,26 +373,6 @@
    "result": false,
    "summary": "Arvid Lindblad admits that Racing Bulls failing to score a single point in the Las Vegas Grand Prix was \"a massive lost opportunity\", with the Formula 1 rookie spinning out of the race behind the Safety Car.",
    "image": null
-  },
-  {
-   "title": "Norris reflects on 'chaotic' Las Vegas GP recovery",
-   "url": "https://www.formula1.com/en/latest/article/the-most-chaotic-race-ever-norris-reflects-on-remarkable-recovery-to-p2-in-las-vegas.Nl1w9QpG0Wy5pHzttLCHw",
-   "source": "Formula1.com",
-   "date": "2026-11-22T15:18:45.036Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris reflects on his recovery to P2 at the Las Vegas Grand Prix, revealing how battery management complicated an exceptionally chaotic race.",
-   "image": null
-  },
-  {
-   "title": "'Very artificial' - F1 drivers divided over Las Vegas overtaking frenzy",
-   "url": "https://www.the-race.com/formula-1/this-is-not-f1-verstappen-criticises-las-vegas-overtaking-frenzy/",
-   "source": "The Race",
-   "date": "2026-11-22T14:07:15.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The racing in F1’s overtake-filled Las Vegas Grand Prix has split opinion among drivers, with some criticising it as “very artificial” and “not F1”",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455826_HiRes.jpg"
   },
   {
    "title": "Marquez clinches eighth MotoGP title despite Aprilia domination",
@@ -503,16 +503,6 @@
    "result": false,
    "summary": "Marc Marquez has shrugged off his shock crash in the sprint race at Portimao on Saturday, admitting he was caught out by the rain but keen to move on. In third position with only a lap to go, the factory Ducati rider…",
    "image": "https://cdn-1.motorsport.com/images/amp/YE9ErwMY/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "Macau GP: Al Dhaheri defeats Colnaghi to take qualification race win",
-   "url": "https://www.autosport.com/openwheel/news/macau-gp-al-dhaheri-defeats-colnaghi-to-take-qualification-race-win/10876413/",
-   "source": "Autosport",
-   "date": "2026-11-21T09:06:49.000Z",
-   "series": "Motorsport",
-   "result": true,
-   "summary": "Rashid Al Dhaheri took victory in the Macau Grand Prix qualification race after jumping polesitter Alex Ninovic at the start and resisting a final-lap attack from Mattia Colnaghi. Rodin racer Ninovic had set the pace…",
-   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNEdb2/s6/al-dhaheri.jpg"
   },
   {
    "title": "Super Formula Suzuka: Kakunoshin Ohta secures title in dramatic fashion as Ayumu Iwasa wins Race 1",
