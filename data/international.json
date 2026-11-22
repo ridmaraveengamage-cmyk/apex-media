@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:17:05.879Z",
+ "updated": "2026-11-22T17:17:33.456Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -147,7 +148,7 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
+  "F1": 17,
   "MotoGP": 15,
   "Motorsport": 4,
   "Super Formula": 2,
@@ -164,6 +165,46 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "What the teams said – Race day in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-las-vegas-2026.2UjFcltnN1WABnZawPqeyP",
+   "source": "Formula1.com",
+   "date": "2026-11-22T17:17:33.456Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The drivers and teams report back on all the events from the 2026 Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Marc Marquez overtakes Valentino Rossi - now only Angel Nieto and Giacomo Agostini have more titles",
+   "url": "https://www.autosport.com/motogp/news/marc-marquez-overtakes-valentino-rossi-now-only-angel-nieto-and-giacomo-agostini-have-more-titles/10877016/",
+   "source": "Autosport",
+   "date": "2026-11-22T17:06:36.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marc Marquez continues to cement his legacy in motorcycle racing and sport as a whole. If his return to the top in 2025, with an impeccable season until he was injured, already left everyone stunned, the legendary…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YMXbRNv2/s6/marc-marquez-ducati-team-2.jpg"
+  },
+  {
+   "title": "Fabio Quartararo says Marc Marquez is the greatest MotoGP rider ever after 10th world title",
+   "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-says-marc-marquez-is-the-greatest-motogp-rider-ever-after-10th-world-title/10877009/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T17:04:32.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Fabio Quartararo believes Marc Marquez's remarkable run to the 2026 MotoGP title has put beyond doubt his status as the greatest rider in the championship's history. Ducati rider Marquez clinched his 10th world…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2d1kQb3Y/s6/marc-marquez-ducati-team-fabio.jpg"
+  },
+  {
+   "title": "Marc Marquez on sealing title with lowly eighth: 'The race could f*** off today'",
+   "url": "https://www.motorsport.com/motogp/news/marc-marquez-on-sealing-title-with-lowly-eighth-the-race-could-f-off-today/10877003/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T16:48:47.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Newly-crowned 2026 MotoGP world champion Marc Marquez says he could not have cared less about the winning Sunday's Portuguese Grand Prix - albeit with somewhat stronger language. The Spaniard rode a cautious race to…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlKJrMY/s6/raul-fernandez-trackhouse-raci.jpg"
+  },
   {
    "title": "5 betting lessons after Verstappen wins in Las Vegas",
    "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-after-max-verstappen-wins-the-las-vegas-grand-prix.5B4tZcliWQwS63az2nHNab",
@@ -203,16 +244,6 @@
    "result": false,
    "summary": "Marc Marquez clinched his eighth MotoGP title and 10th world championship overall at the Portuguese Grand Prix, surpassing Valentino Rossi and settling the debate over who is the greatest rider of all time. Although he…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AMp1Y/s6/marco-bezzecchi-aprilia-racing.jpg"
-  },
-  {
-   "title": "Marc Marquez overtakes Valentino Rossi - now only Angel Nieto and Giacomo Agostini have more titles",
-   "url": "https://www.motorsport.com/motogp/news/marc-marquez-overtakes-valentino-rossi-and-now-only-has-nieto-and-agostini-ahead-of-him/10876983/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T15:47:20.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez continues to cement his legacy in motorcycle racing and sport as a whole. If his return to the top in 2025, with an impeccable season until he was injured, already left everyone stunned, the legendary…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0RrQm4Z0/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Wolff explains how Mercedes challenge fell apart in Vegas",
@@ -365,6 +396,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0JXR7ZNY/s6/fabio-quartararo-yamaha-factor.jpg"
   },
   {
+   "title": "Winners and losers from F1's chaotically extraordinary Las Vegas GP",
+   "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotically-extraordinary-las-vegas/10876889/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T10:34:15.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "A pack of cars covered by seconds, the top three trading first position as part of 35 lead changes, and drivers trying to figure out the best positioning to be ahead at the finish line on the final lap; The Las Vegas…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2GdKBeKY/s6/max-verstappen-red-bull-racing.jpg"
+  },
+  {
    "title": "Macau GP: Kean Nakamura-Berta takes win after Enzo Deligny crashes out",
    "url": "https://www.motorsport.com/openwheel/news/macau-gp-kean-nakamura-berta-takes-win-after-enzo-deligny-crashes-out/10876845/",
    "source": "Motorsport.com",
@@ -375,7 +416,7 @@
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNVaX2/s6/d2b390cea2e109a8dc8b4e83bb300d.jpg"
   },
   {
-   "title": "Sheldon van der Linde survives 250km/h wall strike to win chaotic FIA GT World Cup in Macau",
+   "title": "Kelvin van der Linde survives 250km/h wall strike to win chaotic FIA GT World Cup in Macau",
    "url": "https://www.motorsport.com/intercontinental-gt-challenge/news/fia-gt-weltcup-macau-2026-kvdl-setzt-sich-in-chaotischem-rennen-durch/10876808/",
    "source": "Motorsport.com",
    "date": "2026-11-22T08:06:57.000Z",
@@ -403,16 +444,6 @@
    "result": true,
    "summary": "Mercedes junior Kenzo Craigie won the FIA Formula 4 World Cup in Macau after the race had to be restarted following a pile-up that eliminated 10 cars. The F4 drivers had been involved in multiple incidents on Thursday…",
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgzg4Y/s6/b9b79d9f3ddb09035252660cfd7786-2.jpg"
-  },
-  {
-   "title": "How Marc Marquez can seal MotoGP title in the Portuguese GP",
-   "url": "https://www.the-race.com/motogp/how-marc-marquez-can-seal-motogp-title-in-the-portuguese-gp/",
-   "source": "The Race",
-   "date": "2026-11-21T20:46:39.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez will have a second chance at sealing the 2026 MotoGP title at the Portuguese Grand Prix, after his sprint crash delayed his coronation",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364577_HiRes.jpg"
   },
   {
    "title": "MotoGP Portuguese GP: Full starting grid",
@@ -455,6 +486,16 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364727_HiRes.jpg"
   },
   {
+   "title": "How Marc Marquez can clinch the MotoGP title in Sunday's Portuguese Grand Prix",
+   "url": "https://www.motorsport.com/motogp/news/how-marc-marquez-can-clinch-the-world-title-in-sundays-portuguese-grand-prix/10876601/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T18:00:39.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Following his dramatic late crash in Saturday's sprint race at Portimao, Marc Marquez was unable to seal the world championship. The Spaniard also still has two rivals to consider after Marco Bezzecchi won the race to…",
+   "image": "https://cdn-1.motorsport.com/images/amp/27No8d30/s6/marc-marquez-ducati-team.jpg"
+  },
+  {
    "title": "Jorge Martin on keeping MotoGP title hopes alive: ‘I didn’t do anything, it was in Marquez’s hands’",
    "url": "https://www.motorsport.com/motogp/news/jorge-martin-on-keeping-motogp-titles-hope-alive-i-didnt-do-anything-it-was-in-marquezs-hands/10876594/",
    "source": "Motorsport.com",
@@ -485,26 +526,6 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364189_HiRes.jpg"
   },
   {
-   "title": "Marco Bezzecchi ends sprint \"torture\" as he completes part one of \"miracle\" for MotoGP title",
-   "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-hails-end-to-sprint-torture-as-he-completes-part-one-of-miracle-needed-for-motogp-t/10876563/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T15:44:35.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marco Bezzecchi said after the Qatar Grand Prix that he \"needed a miracle\" to win the 2026 MotoGP title. Given the requirement to win the two remaining sprints and grands prix, with Marc Marquez failing to score, that…",
-   "image": "https://cdn-1.motorsport.com/images/amp/63QaMbE2/s6/marco-bezzecchi-aprilia-racing.jpg"
-  },
-  {
-   "title": "Marquez crashes out on brink of MotoGP title",
-   "url": "https://www.the-race.com/motogp/marquez-crashes-out-on-brink-of-motogp-title/",
-   "source": "The Race",
-   "date": "2026-11-21T15:08:07.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez's coronation as the 2026 MotoGP champion was postponed as he crashed out of the Portimao sprint",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364176_HiRes.jpg"
-  },
-  {
    "title": "Macau GP: Al Dhaheri defeats Colnaghi to take qualification race win",
    "url": "https://www.autosport.com/openwheel/news/macau-gp-al-dhaheri-defeats-colnaghi-to-take-qualification-race-win/10876413/",
    "source": "Autosport",
@@ -515,10 +536,10 @@
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNEdb2/s6/al-dhaheri.jpg"
   },
   {
-   "title": "Super Formula Suzuka: Ohta takes title in dramatic fashion as Iwasa wins opener",
-   "url": "https://www.autosport.com/super-formula/news/super-formula-suzuka-ohta-takes-title-in-dramatic-fashion-as-iwasa-wins-opener/10876358/",
-   "source": "Autosport",
-   "date": "2026-11-21T07:18:58.000Z",
+   "title": "Super Formula Suzuka: Kakunoshin Ohta secures title in dramatic fashion as Ayumu Iwasa wins Race 1",
+   "url": "https://www.motorsport.com/super-formula/news/super-formula-suzuka-kakunoshin-ohta-secures-title-in-dramatic-fashion-as-ayumu-iwasa-wins-race-1/10876353/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T07:16:49.000Z",
    "series": "Super Formula",
    "result": true,
    "summary": "Kakunoshin Ohta secured the Super Formula title with a race to spare at Suzuka by finishing second behind Ayumu Iwasa, surviving a post-race investigation. Dandelion Racing driver Ohta entered the weekend with a…",
