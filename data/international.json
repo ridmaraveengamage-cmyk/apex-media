@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:16:13.927Z",
+ "updated": "2026-11-22T12:16:20.277Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -149,7 +149,7 @@
  "bySeries": {
   "F1": 15,
   "MotoGP": 15,
-  "Motorsport": 5,
+  "Motorsport": 4,
   "Super Formula": 2,
   "NASCAR": 15,
   "Karting": 6,
@@ -164,6 +164,46 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "'I paid the price' – Russell laments Las Vegas GP error",
+   "url": "https://www.formula1.com/en/latest/article/i-paid-the-price-russell-laments-error-in-closing-stages-of-las-vegas-gp.546DMDVRArhwgf1nEXHR1v",
+   "source": "Formula1.com",
+   "date": "2026-11-22T12:16:20.277Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell admits that the \"risk was too high and I paid the price\" after a mistake from the Mercedes driver in the closing stages of the Las Vegas Grand Prix cost him a chance of victory.",
+   "image": null
+  },
+  {
+   "title": "“Some overtakes weren’t overtakes”: Norris queries claim of “352 passes” in Las Vegas",
+   "url": "https://www.racefans.net/2026/11/22/some-overtakes-werent-overtakes-norris-queries-claim-of-352-passes-in-las-vegas/",
+   "source": "RaceFans",
+   "date": "2026-11-22T12:08:45.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Las Vegas Grand Prix featured 352 overtaking moves according to Formula 1 but drivers queried how real the racing was.",
+   "image": null
+  },
+  {
+   "title": "The one aspect of Max Verstappen \"outsmarting\" Mercedes that left Red Bull speechless",
+   "url": "https://www.motorsport.com/f1/news/the-one-aspect-of-max-verstappen-outsmarting-mercedes-that-left-red-bull-speechless/10876912/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T11:58:03.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen claimed his fourth victory in the last six Formula 1 Grands Prix. This time, the Dutchman won at what is known as an energy-poor circuit, which is noteworthy given that Red Bull Ford Powertrains was still…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YE9ErKKY/s6/max-verstappen-red-bull-racing.jpg"
+  },
+  {
+   "title": "Lewis Hamilton: ‘Charles Leclerc’s frame of mind cost us a lot of points today’",
+   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclercs-frame-of-mind-cost-us-a-lot-of-points-today/10876902/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T11:26:45.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton subtly implied Charles Leclerc’s “frame of mind” was to blame for their collision in Formula 1’s Las Vegas Grand Prix. Hamilton and Leclerc were sixth and seventh on lap 37 of the Nevadan race, only some…",
+   "image": "https://cdn-1.motorsport.com/images/amp/27NojvR0/s6/charles-leclerc-ferrari-lewis-.jpg"
+  },
   {
    "title": "Latest Hamilton-Leclerc clash ‘unacceptable’ – Vasseur",
    "url": "https://www.formula1.com/en/latest/article/its-a-lack-of-respect-vasseur-calls-latest-hamilton-leclerc-clash-in-las-vegas-unacceptable.5NGehhmEEtLqzDKxm7bi4z",
@@ -283,46 +323,6 @@
    "result": false,
    "summary": "Isack Hadjar has been handed a 10-second time penalty for deliberately slowing under safety car conditions",
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455049_hires.jpg?width=1200"
-  },
-  {
-   "title": "Leclerc mistake 'completely unacceptable' - Ferrari",
-   "url": "https://www.the-race.com/formula-1/ferrari-reaction-unacceptable-f1-driver-clash-las-vegas/",
-   "source": "The Race",
-   "date": "2026-11-22T09:22:11.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc admits he \"felt quite embarrassed\" for Ferrari after clashing with F1 team-mate Lewis Hamilton in the Las Vegas GP",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456279_HiRes--1--1.jpg"
-  },
-  {
-   "title": "Verstappen responds to Russell comments as rivalry reignites",
-   "url": "https://www.formula1.com/en/latest/article/so-far-below-my-level-verstappen-responds-to-russell-comments-in-las-vegas-as-rivalry-reignites.4li166pkqaJAmwAXx5CZnr",
-   "source": "Formula1.com",
-   "date": "2026-11-22T09:18:22.388Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen has shared his reaction to comments made by George Russell after an on-track incident between them earlier in the Las Vegas Grand Prix weekend.",
-   "image": null
-  },
-  {
-   "title": "'Exactly the kind of result we needed' in Vegas – Piastri",
-   "url": "https://www.formula1.com/en/latest/article/piastri-believes-las-vegas-podium-was-exactly-the-kind-of-result-we-needed.6Vjx9TJwtUhgP05nqxbVkL",
-   "source": "Formula1.com",
-   "date": "2026-11-22T09:18:22.388Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oscar Piastri believes that a double podium for McLaren in the Las Vegas Grand Prix \"was exactly the kind of result we needed\".",
-   "image": null
-  },
-  {
-   "title": "Hamilton reacts to ‘really harsh’ Las Vegas GP penalty",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-frustrated-by-really-harsh-las-vegas-penalty-as-hes-quizzed-on-leclerc-clash.5ASq9S5FeEJNdNi6Igej0Z",
-   "source": "Formula1.com",
-   "date": "2026-11-22T09:18:22.388Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton reflects on his 'really harsh' 10-second penalty at the Las Vegas Grand Prix and his collision with Ferrari team mate Charles Leclerc.",
-   "image": null
   },
   {
    "title": "Macau GP: Kean Nakamura-Berta takes win after Enzo Deligny crashes out",
@@ -493,16 +493,6 @@
    "result": true,
    "summary": "Marco Bezzecchi claimed pole position for the 2026 MotoGP Portuguese Grand Prix ahead of champion-elect Marc Marquez",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364050_HiRes.jpg"
-  },
-  {
-   "title": "On This Day: McLaren hire Zak Brown to lead team after ousting Ron Dennis",
-   "url": "https://www.racefans.net/2026/11/21/on-this-day-zak-brown-takes-charge-at-struggling-mclaren/",
-   "source": "RaceFans",
-   "date": "2026-11-21T10:57:12.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Zak Brown takes over at McLaren: \"It was a pretty grim place\"",
-   "image": null
   },
   {
    "title": "Macau GP: Al Dhaheri defeats Colnaghi to take qualification race win",
