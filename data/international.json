@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:18:22.388Z",
+ "updated": "2026-11-22T10:20:36.710Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -149,10 +149,10 @@
  "bySeries": {
   "F1": 15,
   "Motorsport": 5,
-  "Karting": 7,
   "Super Formula": 2,
   "MotoGP": 15,
   "NASCAR": 15,
+  "Karting": 6,
   "IndyCar": 6,
   "Formula E": 9,
   "IMSA": 11,
@@ -164,6 +164,116 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Hadjar 'clueless' on reason for front wing failure in Vegas",
+   "url": "https://www.formula1.com/en/latest/article/hadjar-clueless-on-reason-for-front-wing-failure-as-post-race-penalty-demotes-him-a-place-in-las-vegas-gp.2tF9g5VLiq5P6MtIpiaZ1J",
+   "source": "Formula1.com",
+   "date": "2026-11-22T10:20:36.710Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Isack Hadjar admits \"I'm waiting for the team to tell me what happened\" after his front wing broke during the Las Vegas Grand Prix, denying the Red Bull driver a chance of a podium.",
+   "image": null
+  },
+  {
+   "title": "Perez hit with five-place penalty in Qatar for Camara clash",
+   "url": "https://www.formula1.com/en/latest/article/perez-hit-with-five-place-penalty-in-qatar-after-camara-clash-during-las-vegas-grand-prix.30GG7oJuJ1As0MrkavmStN",
+   "source": "Formula1.com",
+   "date": "2026-11-22T10:20:36.710Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Cadillac's Sergio Perez has been handed a grid penalty for next weekend's Qatar Grand Prix following his collision with the Haas of Rafael Camara in Las Vegas.",
+   "image": null
+  },
+  {
+   "title": "Max Verstappen is your Las Vegas GP Driver of the Day",
+   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-race-winner-verstappen-gets-your-las-vegas-vote.5QesGibVmO4x9ftqrpghbk",
+   "source": "Formula1.com",
+   "date": "2026-11-22T10:20:36.710Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen picks up the Driver of the Day vote for the 2026 Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Antonelli explains ‘annoying’ last-lap issue in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-explains-annoying-last-lap-issue-in-las-vegas-as-he-admits-having-a-lot-to-learn-in-these-conditions.1i0fzBGmJSWZAK4wNaYMO9",
+   "source": "Formula1.com",
+   "date": "2026-11-22T10:20:36.710Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes' Kimi Antonelli had to settle for fourth place in the Las Vegas Grand Prix after suddenly dropping out of the fight for the lead on the last lap.",
+   "image": null
+  },
+  {
+   "title": "Leclerc ‘embarrassed’ for Ferrari after Hamilton clash",
+   "url": "https://www.formula1.com/en/latest/article/ill-accept-the-blame-leclerc-embarrassed-for-ferrari-as-he-assesses-latest-hamilton-clash-in-las-vegas.7hVueR5bwYsCGdIaYph3mK",
+   "source": "Formula1.com",
+   "date": "2026-11-22T10:20:36.710Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc received a 10-second time penalty after colliding with Ferrari team mate Lewis Hamilton during the Las Vegas Grand Prix, dropping him to 10th place.",
+   "image": null
+  },
+  {
+   "title": "'Something that I've never seen before' – Verstappen on Vegas win",
+   "url": "https://www.formula1.com/en/latest/article/something-that-ive-never-seen-before-in-f1-verstappen-reflects-on-las-vegas-gp-win-after-slipstream-thriller.11R5Iz64C6PLpqrGDJU5OK",
+   "source": "Formula1.com",
+   "date": "2026-11-22T10:20:36.710Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Max Verstappen believes his victory in the Las Vegas Grand Prix was \"something that I've never seen before in Formula 1\", with the race featuring a total of 35 lead changes after a slipstream thriller.",
+   "image": null
+  },
+  {
+   "title": "Max Verstappen continues George Russell fallout, labels 2026 F1 season a \"complete disaster\"",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-calls-george-russells-2026-f1-season-a-complete-disaster-after-vegas-clash/10876885/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T10:13:23.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "While the clash between Max Verstappen and George Russell during the third free practice session for the Formula 1 Las Vegas Grand Prix appeared to have been settled with a warning for the Red Bull driver, the dispute…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing.jpg"
+  },
+  {
+   "title": "Max Verstappen taunts “complete joke” George Russell in Las Vegas revenge",
+   "url": "https://www.crash.net/f1/news/1110752/1/max-verstappen-taunts-complete-joke-george-russell-las-vegas-revenge",
+   "source": "Crash.net",
+   "date": "2026-11-22T09:57:57.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen aims another brutal swipe at George Russell.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/si202611220115.jpg?width=1200"
+  },
+  {
+   "title": "Video: Pass for win and crash decides action-packed Macau Grand Prix",
+   "url": "https://www.racefans.net/2026/11/22/video-pass-for-win-and-crash-decides-action-packed-macau-grand-prix/",
+   "source": "RaceFans",
+   "date": "2026-11-22T09:56:11.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Fight for the lead ends in crash at Macau Grand Prix",
+   "image": null
+  },
+  {
+   "title": "Isack Hadjar punished by FIA over deliberate Las Vegas safety car tactic",
+   "url": "https://www.crash.net/f1/news/1110751/1/isack-hadjar-punished-fia-over-deliberate-las-vegas-safety-car-tactic",
+   "source": "Crash.net",
+   "date": "2026-11-22T09:50:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Isack Hadjar has been handed a 10-second time penalty for deliberately slowing under safety car conditions",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455049_hires.jpg?width=1200"
+  },
+  {
+   "title": "Ferrari's reaction to 'unacceptable' F1 driver clash",
+   "url": "https://www.the-race.com/formula-1/ferrari-reaction-unacceptable-f1-driver-clash-las-vegas/",
+   "source": "The Race",
+   "date": "2026-11-22T09:22:11.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc admits he \"felt quite embarrassed\" for Ferrari after clashing with F1 team-mate Lewis Hamilton in the Las Vegas GP",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456279_HiRes--1--1.jpg"
+  },
   {
    "title": "Verstappen responds to Russell comments as rivalry reignites",
    "url": "https://www.formula1.com/en/latest/article/so-far-below-my-level-verstappen-responds-to-russell-comments-in-las-vegas-as-rivalry-reignites.4li166pkqaJAmwAXx5CZnr",
@@ -205,76 +315,6 @@
    "image": null
   },
   {
-   "title": "Verstappen wins exhilarating Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
-   "source": "Formula1.com",
-   "date": "2026-11-22T09:18:22.388Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Max Verstappen triumphed in a breathless Las Vegas Grand Prix, the Red Bull driver ultimately sharing the podium with McLaren's Lando Norris and Oscar Piastri.",
-   "image": null
-  },
-  {
-   "title": "Furious Fred Vasseur details Charles Leclerc talks after Ferrari clash: “It was not a discussion”",
-   "url": "https://www.crash.net/f1/news/1110749/1/furious-fred-vasseur-details-charles-leclerc-talks-it-was-not-discussion",
-   "source": "Crash.net",
-   "date": "2026-11-22T09:16:24.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fred Vasseur sheds light on his post-race talks with Charles Leclerc in Las Vegas.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456271_hires.jpg?width=1200"
-  },
-  {
-   "title": "George Russell has ‘no regrets’ after Las Vegas GP gamble backfires",
-   "url": "https://www.crash.net/f1/news/1110748/1/george-russell-has-no-regrets-after-las-vegas-gp-gamble-backfires",
-   "source": "Crash.net",
-   "date": "2026-11-22T09:15:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell defended his failed overtake on teammate Kimi Antonelli, which sent him into the barriers and cost him a potential podium finish",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455483_hires.jpg?width=1200"
-  },
-  {
-   "title": "Lindblad “still struggling to understand” how he spun out behind Safety Car",
-   "url": "https://www.racefans.net/2026/11/22/lindblad-still-struggling-to-understand-how-he-spun-out-behind-safety-car/",
-   "source": "RaceFans",
-   "date": "2026-11-22T09:13:41.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "A dejected Arvid Lindblad said he does not understand how he managed to spin out of the Las Vegas Grand Prix during a Safety Car period.",
-   "image": null
-  },
-  {
-   "title": "Hadjar penalised after backing up Russell in Las Vegas GP, Perez given grid drop for Qatar GP",
-   "url": "https://www.autosport.com/f1/news/hadjar-penalised-after-backing-up-russell-in-las-vegas-gp-perez-given-grid-drop-for-qatar-gp/10876867/",
-   "source": "Autosport",
-   "date": "2026-11-22T09:11:46.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Isack Hadjar has received a 10-second penalty for driving unnecessarily slowly in Formula 1’s Las Vegas Grand Prix – the result of his actions under the safety car. The race was neutralised on lap 19 when Sergio Perez…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8Zy8v2/s6/george-russell-mercedes-pierre-2.jpg"
-  },
-  {
-   "title": "Isack Hadjar gets penalty after backing up George Russell in Las Vegas GP",
-   "url": "https://www.motorsport.com/f1/news/isack-hadjar-gets-penalty-after-backing-up-george-russell-in-las-vegas-gp/10876855/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T08:59:53.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Isack Hadjar has received a 10-second penalty for driving unnecessarily slowly in Formula 1’s Las Vegas Grand Prix – the result of his actions under the safety car. The race was neutralised on lap 19 when Sergio Perez…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27No8MO0/s6/isack-hadjar-red-bull-racing.jpg"
-  },
-  {
-   "title": "Kimi Antonelli reveals bizarre blunder behind Las Vegas GP podium loss",
-   "url": "https://www.crash.net/f1/news/1110746/1/kimi-antonelli-reveals-bizarre-blunder-behind-las-vegas-gp-podium-loss",
-   "source": "Crash.net",
-   "date": "2026-11-22T08:50:00.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Kimi Antonelli has revealed how a final-lap battery management mistake cost him a chance of victory",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455706_hires.jpg?width=1200"
-  },
-  {
    "title": "Macau GP: Kean Nakamura-Berta takes win after Enzo Deligny crashes out",
    "url": "https://www.motorsport.com/openwheel/news/macau-gp-kean-nakamura-berta-takes-win-after-enzo-deligny-crashes-out/10876845/",
    "source": "Motorsport.com",
@@ -285,46 +325,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNVaX2/s6/d2b390cea2e109a8dc8b4e83bb300d.jpg"
   },
   {
-   "title": "Vasseur furious with \"unprofessional\" Ferrari clash and demands fresh talks after Las Vegas GP",
-   "url": "https://www.autosport.com/f1/news/vasseur-furious-with-unprofessional-ferrari-clash-and-demands-fresh-talks-after-las-vegas-gp/10876847/",
-   "source": "Autosport",
-   "date": "2026-11-22T08:40:17.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ferrari team boss Fred Vasseur says Charles Leclerc's contact with Lewis Hamilton in the Las Vegas Grand Prix was \"unacceptable\" and showed \"lack of respect for the team\", with the Formula 1 team set for fresh crisis…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8Zy7v2/s6/charles-leclerc-ferrari-lewis-.jpg"
-  },
-  {
-   "title": "Sergio Perez handed Qatar GP grid penalty for causing Las Vegas collision with Rafael Camara",
-   "url": "https://www.crash.net/f1/news/1110745/1/sergio-perez-handed-qatar-gp-grid-penalty-causing-las-vegas-collision-rafael",
-   "source": "Crash.net",
-   "date": "2026-11-22T08:39:02.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Sergio Perez will take a grid penalty into the next F1 race in Qatar.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455743_hires.jpg?width=1200"
-  },
-  {
-   "title": "Fred Vasseur furious with latest \"unprofessional\" Ferrari clash: \"It's the same speech as Mexico\"",
-   "url": "https://www.motorsport.com/f1/news/fred-vasseur-furious-with-latest-unprofessional-ferrari-spat-its-the-same-speech-as-mexico/10876841/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T08:38:22.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ferrari team boss Fred Vasseur says Charles Leclerc's contact with Lewis Hamilton in the Las Vegas Grand Prix was \"unacceptable\" and showed \"lack of respect for the team\", with the Formula 1 team set for fresh crisis…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8Zy7v2/s6/charles-leclerc-ferrari-lewis-.jpg"
-  },
-  {
-   "title": "Winners and losers from F1's 2026 Las Vegas Grand Prix",
-   "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-winners-losers/",
-   "source": "The Race",
-   "date": "2026-11-22T08:22:46.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The Las Vegas GP's relentless lead battle was its defining feature. But the way the F1 drivers involved in it dealt with the pressure varied massively",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456028_HiRes.jpg"
-  },
-  {
    "title": "Sheldon van der Linde survives 250km/h wall strike to win chaotic FIA GT World Cup in Macau",
    "url": "https://www.motorsport.com/intercontinental-gt-challenge/news/fia-gt-weltcup-macau-2026-kvdl-setzt-sich-in-chaotischem-rennen-durch/10876808/",
    "source": "Motorsport.com",
@@ -333,16 +333,6 @@
    "result": false,
    "summary": "Kelvin van der Linde charged from seventh on the grid to claim victory in a wild Macau FIA GT World Cup main race marred by controversial collisions, penalties and a miraculous escape from a 250m/h barrier impact. The…",
    "image": "https://cdn-1.motorsport.com/images/amp/e2d4qyB2/s6/fia-gt-weltcup-macau-2026-kvdl-setzt-sich-in-chaotischem-rennen-durch-26112201.jpg"
-  },
-  {
-   "title": "Live: Watch the second round of WSK Final Cup from Lonato",
-   "url": "https://www.motorsport.com/kart/news/live-watch-the-second-round-of-wsk-final-cup-from-lonato/10876706/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T07:10:03.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "The WSK Final Cup returns to the track for the second round of the season at South Garda Karting in Lonato del Garda, featuring the largest entry list of the series - around 430 drivers from all over the world - with…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2dEoRABY/s6/cover-wsk-final-cup-2026-lonat.jpg"
   },
   {
    "title": "Super Formula Suzuka: Nojiri ends drought with win in season finale",
