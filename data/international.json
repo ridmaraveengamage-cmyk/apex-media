@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T00:10:25.401Z",
+ "updated": "2026-11-22T01:46:42.510Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -165,6 +164,26 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "What To Watch For in the Las Vegas Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-las-vegas-grand-prix.3k1glJW46dgLm2gZkIsSYo",
+   "source": "Formula1.com",
+   "date": "2026-11-22T01:46:42.510Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day in Nevada.",
+   "image": null
+  },
+  {
+   "title": "Lindblad's Vegas Qualifying 'such a mess' despite P5 start",
+   "url": "https://www.formula1.com/en/latest/article/it-was-such-a-mess-lindblad-reflects-on-las-vegas-qualifying-ahead-of-p5-start.1TQF9i21VuFhEkETB6CqPc",
+   "source": "Formula1.com",
+   "date": "2026-11-22T01:46:42.510Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Arvid Lindblad believes his Qualifying performance for the Las Vegas Grand Prix \"was such a mess\", despite the Racing Bulls driver set to start from fifth on the grid.",
+   "image": null
+  },
   {
    "title": "What the teams said – Qualifying in Las Vegas",
    "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-las-vegas-2026.3nVBux5Arj5K1MNogvg9j9",
@@ -366,16 +385,6 @@
    "image": null
   },
   {
-   "title": "Isack Hadjar: “We looked stupid” in Las Vegas as I don’t like slipstreaming",
-   "url": "https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T16:00:04.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Isack Hadjar has admitted to underperforming in qualifying for Formula 1’s Las Vegas Grand Prix due to not realizing how powerful the tow would be on this high-speed street circuit. Hadjar was 0.67s slower than Red Bull…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7Byjr2/s6/isack-hadjar-red-bull-racing.jpg"
-  },
-  {
    "title": "Marquez explains shock late crash that kept MotoGP title fight open",
    "url": "https://www.the-race.com/motogp/marquez-explains-shock-late-crash-that-kept-motogp-title-fight-open/",
    "source": "The Race",
@@ -394,16 +403,6 @@
    "result": false,
    "summary": "Marco Bezzecchi said after the Qatar Grand Prix that he \"needed a miracle\" to win the 2026 MotoGP title. Given the requirement to win the two remaining sprints and grands prix, with Marc Marquez failing to score, that…",
    "image": "https://cdn-1.motorsport.com/images/amp/63QaMbE2/s6/marco-bezzecchi-aprilia-racing.jpg"
-  },
-  {
-   "title": "F1 still 'very small' in US - Domenicali",
-   "url": "https://www.the-race.com/formula-1/f1-still-very-small-in-us-domenicali/",
-   "source": "The Race",
-   "date": "2026-11-21T15:13:40.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 CEO Stefano Domenicali believes the championship is still “very small in the US” despite huge growth.",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Photo-select_Axios2026_EDI-17.jpg"
   },
   {
    "title": "Marquez crashes out on brink of MotoGP title",
