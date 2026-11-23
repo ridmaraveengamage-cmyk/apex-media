@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:53:26.082Z",
+ "updated": "2026-11-23T02:55:08.821Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -164,6 +164,16 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "5 betting lessons after Verstappen wins in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-after-max-verstappen-wins-the-las-vegas-grand-prix.5B4tZcliWQwS63az2nHNab",
+   "source": "Formula1.com",
+   "date": "2026-11-23T02:55:08.821Z",
+   "series": "F1",
+   "result": true,
+   "summary": "It was Verstappen’s third Vegas win in four years, but what did the 2026 edition of this iconic race teach F1 betting fans ahead of the final two races.",
+   "image": null
+  },
   {
    "title": "Hadjar 'clueless' on reason for front wing failure in Vegas",
    "url": "https://www.formula1.com/en/latest/article/hadjar-clueless-on-reason-for-front-wing-failure-as-post-race-penalty-demotes-him-a-place-in-las-vegas-gp.2tF9g5VLiq5P6MtIpiaZ1J",
@@ -353,16 +363,6 @@
    "result": false,
    "summary": "Newly-crowned 2026 MotoGP world champion Marc Marquez says he could not have cared less about the winning Sunday's Portuguese Grand Prix - albeit with somewhat stronger language. The Spaniard rode a cautious race to…",
    "image": "https://cdn-1.motorsport.com/images/amp/2wlKJrMY/s6/raul-fernandez-trackhouse-raci.jpg"
-  },
-  {
-   "title": "Featured Comment: How F1’s power units dictated when drivers overtook in Las Vegas",
-   "url": "https://www.racefans.net/2026/11/22/featured-comment-how-f1s-power-units-dictated-when-drivers-overtook-in-las-vegas/",
-   "source": "RaceFans",
-   "date": "2026-11-22T16:24:32.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "How F1 engineers spot passes coming with power unit data",
-   "image": null
   },
   {
    "title": "How Marc Marquez’s title celebrations were planned to end the GOAT debate in MotoGP",
