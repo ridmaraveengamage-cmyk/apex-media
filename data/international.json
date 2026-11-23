@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:40:50.830Z",
+ "updated": "2026-11-23T16:01:41.111Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -147,24 +148,144 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
+  "F1": 16,
+  "Motorsport": 4,
+  "IMSA": 11,
+  "WEC": 14,
+  "WRC": 12,
+  "BTCC": 3,
   "DTM": 4,
+  "Karting": 7,
   "MotoGP": 15,
-  "Motorsport": 3,
   "F2 / F3": 2,
   "Super Formula": 2,
   "NASCAR": 15,
-  "Karting": 6,
   "IndyCar": 6,
-  "Formula E": 9,
-  "IMSA": 11,
-  "WRC": 11,
+  "Formula E": 10,
   "Dakar": 2,
-  "WEC": 15,
-  "BTCC": 2,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Gasly reveals issue as he felt he could challenge for Vegas win",
+   "url": "https://www.formula1.com/en/latest/article/gasly-reveals-car-issue-in-las-vegas-as-he-felt-he-could-challenge-for-the-win.yyZX6FzglV6KSXOeQBOJN",
+   "source": "Formula1.com",
+   "date": "2026-11-23T16:01:41.111Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Pierre Gasly was one of the stars of a thrilling Las Vegas Grand Prix as the Alpine driver battled with drivers from the top four teams for the whole race.",
+   "image": null
+  },
+  {
+   "title": "Verstappen 'from a different planet' – Mekies",
+   "url": "https://www.formula1.com/en/latest/article/hes-from-a-different-planet-mekies-praises-verstappen-after-las-vegas-gp-victory.TXH10rYL99f2dIZqnVbCq",
+   "source": "Formula1.com",
+   "date": "2026-11-23T16:01:41.111Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Laurent Mekies believes Max Verstappen is \"from a different planet\" after the Red Bull driver \"outsmarted the opposition\" on his way to victory in the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Battle for second place tightens as finish line nears",
+   "url": "https://www.formula1.com/en/latest/article/battle-for-second-place-tightens-as-2026-world-championship-finish-line-nears.5Rqr6EDZZLiPtFbnomVdfb",
+   "source": "Formula1.com",
+   "date": "2026-11-23T16:01:41.111Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen made it four wins in six races but challengers for second place are queueing up.",
+   "image": null
+  },
+  {
+   "title": "5 betting lessons after Verstappen wins in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-after-max-verstappen-wins-the-las-vegas-grand-prix.5B4tZcliWQwS63az2nHNab",
+   "source": "Formula1.com",
+   "date": "2026-11-23T16:01:41.111Z",
+   "series": "F1",
+   "result": true,
+   "summary": "It was Verstappen’s third Vegas win in four years, but what did the 2026 edition of this iconic race teach F1 betting fans ahead of the final two races.",
+   "image": null
+  },
+  {
+   "title": "Wolff explains how Mercedes challenge fell apart in Vegas",
+   "url": "https://www.formula1.com/en/latest/article/wolff-explains-how-the-mercedes-challenge-fell-apart-in-the-closing-laps-in-las-vegas.4Zf0W1yuHxigFi72cspCj",
+   "source": "Formula1.com",
+   "date": "2026-11-23T16:01:41.111Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell and Kimi Antonelli were both in contention for victory in Las Vegas, until it all came undone in the final laps of the event.",
+   "image": null
+  },
+  {
+   "title": "F1 2027 grid: Who will be racing and where?",
+   "url": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T15:46:47.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The 2027 Formula 1 grid has very much taken shape with all but one spot now confirmed following a rather safe ‘silly season’ that didn’t present much drama. There is only one team - Haas - that is changing its line-up…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YMXbMRL2/s6/andrea-kimi-antonelli-mercedes-3.jpg"
+  },
+  {
+   "title": "Autosport Business Awards open nominations to recognise excellence across global motorsport industry",
+   "url": "https://www.autosport.com/autosport-awards/news/autosport-business-awards-open-nominations-to-recognise-excellence-across-global-motorsport-industry/10877252/",
+   "source": "Autosport",
+   "date": "2026-11-23T15:38:17.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Nominations are open for the Autosport Business Awards, sponsored by LIQUI MOLY, that will be presented at the Autosport Awards. The four awards celebrate the commercial achievements that underpin motorsport, and…",
+   "image": "https://cdn-1.motorsport.com/images/amp/25d3GRE0/s6/greg-james-bbc-radio-1-present.jpg"
+  },
+  {
+   "title": "Lewis Hamilton addresses Ferrari number one debate after Charles Leclerc collision",
+   "url": "https://www.crash.net/f1/news/1110846/1/lewis-hamilton-addresses-ferrari-number-one-debate-after-charles-leclerc",
+   "source": "Crash.net",
+   "date": "2026-11-23T15:15:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton has addressed the debate surrounding Ferrari's number one driver following another collision with Charles Leclerc",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1451080_hires.jpg?width=1200"
+  },
+  {
+   "title": "All manufacturers to have exited WEC Hypercar or IMSA GTP since 2021",
+   "url": "https://www.motorsport.com/wec/news/all-manufacturers-to-have-exited-wec-hypercar-or-imsa-gtp-since-2021/10877199/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T15:02:16.000Z",
+   "series": "IMSA",
+   "result": false,
+   "summary": "The current era has attracted a host of new names to the top of sportscar racing, but it has also seen several manufacturers disappear from the grid. While the LMH and LMDh platforms have been instrumental in heralding…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2dEopXnY/s6/start-of-the-race-2.jpg"
+  },
+  {
+   "title": "Peugeot quits WEC, Citroen and Opel to wind down Formula E programmes",
+   "url": "https://www.autosport.com/wec/news/peugeot-quits-wec-citroen-and-opel-to-wind-down-formula-e-programmes/10877231/",
+   "source": "Autosport",
+   "date": "2026-11-23T14:49:31.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Peugeot has withdrawn from the World Endurance Championship with immediate effect, while sister brands Citroen and Opel will pull out of Formula E after the 2027 season, as one of the world's biggest automotive groups…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6x7LlqrY/s6/94-peugeot-totalenergies-peuge-2.jpg"
+  },
+  {
+   "title": "Automotive giant cuts motorsport projects in huge blow to FE + WEC",
+   "url": "https://www.the-race.com/business/stellantis-ends-peugeot-wec-citroen-open-formula-e-projects/",
+   "source": "The Race",
+   "date": "2026-11-23T14:46:03.000Z",
+   "series": "WRC",
+   "result": false,
+   "summary": "Stellantis is cutting its main motorsport programmes, with Peugeot's WEC team stopped immediately and Citroen and Opel to exit Formula E in 2027",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/2284555447-2048x2048--1-.jpg"
+  },
+  {
+   "title": "Cataclean acquires former Plato Mercedes team assets",
+   "url": "https://www.autosport.com/btcc/news/cataclean-acquires-mercedes-team-assets/10877240/",
+   "source": "Autosport",
+   "date": "2026-11-23T14:42:42.000Z",
+   "series": "BTCC",
+   "result": false,
+   "summary": "The CPRL Mercedes team looks set to continue in the British Touring Car Championship next season with the acquisition of its assets by Cataclean. The team, originally known as Plato Racing, went into administration in…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6AlvMp1Y/s6/morgan-r6tb0837-jpg.jpg"
+  },
   {
    "title": "Why Norris and Piastri had 'one of their best races' in Vegas",
    "url": "https://www.formula1.com/en/latest/article/why-stella-believes-norris-and-piastri-had-one-of-their-best-races-in-las-vegas.3nrRVW1vlGiQAEe5LokXri",
@@ -226,6 +347,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/01QNEJe0/s6/lando-norris-mclaren-andrea-ki.jpg"
   },
   {
+   "title": "Jezierski and Bowen Win FIA Karting Arrive and Drive World Cup",
+   "url": "https://www.ekartingnews.com/2026/11/23/jezierski-and-bowen-win-fia-karting-arrive-and-drive-world-cup/",
+   "source": "eKartingNews",
+   "date": "2026-11-23T13:39:53.000Z",
+   "series": "Karting",
+   "result": true,
+   "summary": "The second-ever FIA Karting Arrive and Drive World Cup winners have been crowned a year after the more affordable, accessible and inclusive motor sport format debuted on the FIA Karting calendar. Racing on equal…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/11/FIA-2026-WorldAD-Jezierski-300x200.jpg"
+  },
+  {
    "title": "Guenther Steiner warns George Russell: Do not \"poke the bear\" Max Verstappen",
    "url": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/",
    "source": "Motorsport.com",
@@ -266,36 +397,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YWKA35OY/s6/marc-marquez-ducati-team.jpg"
   },
   {
-   "title": "Kim Kardashian praises F1 Academy drivers after Las Vegas visit",
-   "url": "https://www.motorsport.com/f1-academy/news/kim-kardashian-praises-f1-academy-drivers-after-las-vegas-visit/10877207/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T13:02:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Reality television star and Lewis Hamilton's partner Kim Kardashian has praised the drivers of F1 Academy as \"fearless, focused and so inspiring\", after visiting the all-female series at its season finale in Las Vegas…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5PDmwY/s6/kim-kardashian-on-the-grid-a10877207-b708-2.jpg"
-  },
-  {
-   "title": "Max Verstappen \"would rather stay home\" but trusts F1's safety guarantees for Middle East races",
-   "url": "https://www.motorsport.com/f1/news/max-verstappen-would-rather-stay-home-but-trusts-f1s-safety-guarantees-for-middle-east-races/10876730/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T12:47:24.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "After Formula 1 informed Imola that it would not be needed as a plan B, F1 is now fully committed to concluding the 2026 season in the Middle East. Although F1 has always maintained that it would do \"the right thing\" if…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2y7Q8Pv6/s6/max-verstappen-red-bull-racing.jpg"
-  },
-  {
-   "title": "Mercedes faces major F1 customer engine shake-up under proposed 2030 regulations",
-   "url": "https://www.crash.net/f1/news/1110840/1/mercedes-faces-major-f1-customer-engine-shake-under-proposed-2030-regulations",
-   "source": "Crash.net",
-   "date": "2026-11-23T12:35:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Mercedes could be forced to reduce its Formula 1 customer engine supply agreements under proposed regulations for the 2030 season",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456281_hires.jpg?width=1200"
-  },
-  {
    "title": "Hadjar asked Red Bull to tell Verstappen “stop defending” as they were losing time",
    "url": "https://www.racefans.net/2026/11/23/hadjar-asked-red-bull-to-tell-verstappen-stop-defending-as-they-were-losing-time/",
    "source": "RaceFans",
@@ -304,26 +405,6 @@
    "result": false,
    "summary": "In unheard radio messages, Isack Hadjar warned Red Bull they were costing themselves time because he wasn't allowed to pass Max Verstappen.",
    "image": null
-  },
-  {
-   "title": "Why Ferrari believes written rules won't help manage Charles Leclerc and Lewis Hamilton",
-   "url": "https://www.motorsport.com/f1/news/why-ferrari-believes-written-rules-wont-help-manage-charles-leclerc-and-lewis-hamilton/10877145/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T12:15:49.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The post-race media session with Frederic Vasseur was, in several respects, almost a carbon copy of the conversation in Mexico City. On both occasions, the discussion with the written press took place in a small, almost…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YN7vBdV6/s6/frederic-vasseur-ferrari.jpg"
-  },
-  {
-   "title": "F1's handling impossible balancing act better than you might think",
-   "url": "https://www.the-race.com/business/f1-handling-impossible-balancing-act-better-than-you-might-think/",
-   "source": "The Race",
-   "date": "2026-11-23T12:14:06.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Darren Cox got first-hand experience of balancing what F1's long-standing and new fans want when interviewing its bosses",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Photo-select_Axios2026_EDI-6.jpg"
   },
   {
    "title": "Portugese Grand Prix 2026 MotoGP rider rankings",
@@ -344,16 +425,6 @@
    "result": false,
    "summary": "Crazy. That is probably the only word to summarise the action during last weekend’s entertaining Macau event. From a controversial clash involving the FIA GT World Cup leaders, to a 10-car Formula 4 pile-up and an…",
    "image": "https://cdn-1.motorsport.com/images/amp/2dEoR3nY/s6/knb.jpg"
-  },
-  {
-   "title": "Perez and Camara react to Las Vegas GP clash",
-   "url": "https://www.formula1.com/en/latest/article/perez-and-camara-react-to-las-vegas-grand-prix-clash-as-perez-receives-penalty-for-qatar.2WhxfuDIpCN5yN35Zupw8M",
-   "source": "Formula1.com",
-   "date": "2026-11-23T11:55:44.956Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Sergio Perez's Las Vegas Grand Prix came to an early end when the Cadillac driver collided with the Haas of Rafael Camara.",
-   "image": null
   },
   {
    "title": "Marc Marquez makes history, Valentino Rossi keeps revisiting it",
@@ -1210,20 +1281,10 @@
    "url": "https://www.motorsport.com/dtm/news/ex-dtm-champion-guven-falls-short-of-formula-e-licence-what-can-porsche-do/10873421/",
    "source": "Motorsport.com",
    "date": "2026-11-09T17:15:30.000Z",
-   "series": "WEC",
+   "series": "Formula E",
    "result": false,
    "summary": "What is next for ex-DTM champion Ayhancan Guven in 2027? A year ago, the Turkish Manthey driver sensationally claimed the DTM title, only to be promoted to Porsche factory driver and pulled from the traditional series…",
    "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
-  },
-  {
-   "title": "Ferrari explains tyre pressure mistake in Monza WEC",
-   "url": "https://www.motorsport.com/wec/news/ferrari-explains-tyre-pressure-mistake-in-monza-wec/10873370/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T17:12:14.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Ferrari concluded the 2026 World Endurance Championship season with a podium finish at the Monza 6 Hours, but the Italian manufacturer's race was compromised by multiple penalties for exceeding tyre pressure. On Sunday…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YBVjRNBY/s6/50-ferrari-af-corse-ferrari-49.jpg"
   },
   {
    "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
@@ -1234,16 +1295,6 @@
    "result": false,
    "summary": "The EKN Trackside Live program visits multiple events throughout the karting season. Leading up to major events on the calendar, EKN is happy to provide a show as part of the EKN Radio Network. The EKN OutLap is a…",
    "image": null
-  },
-  {
-   "title": "Conquest Racing locks in 2027 IMSA GTD lineup with Manny Franco full-time return",
-   "url": "https://www.motorsport.com/imsa/news/conquest-racing-locks-in-2027-imsa-gtd-lineup-with-manny-franco-full-time-return/10873389/",
-   "source": "Motorsport.com",
-   "date": "2026-11-09T15:25:04.000Z",
-   "series": "IMSA",
-   "result": false,
-   "summary": "Conquest Racing is gearing up for another campaign in the IMSA WeatherTech SportsCar Championship, marking its fourth consecutive season fielding a Ferrari in the Grand Touring Daytona (GTD) class during a landmark year…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2dEo1jDY/s6/34-conquest-racing-ferrari-296.jpg"
   },
   {
    "title": "Hoogendoorn and Venant Victorious in Italy to Become 2026 FIA Karting World Champions",
