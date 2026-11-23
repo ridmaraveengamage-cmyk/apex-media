@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:53:33.183Z",
+ "updated": "2026-11-23T11:05:03.856Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,16 +148,16 @@
  ],
  "bySeries": {
   "F1": 15,
-  "F2 / F3": 1,
-  "Motorsport": 3,
   "MotoGP": 15,
+  "Motorsport": 3,
+  "F2 / F3": 2,
   "Super Formula": 2,
   "NASCAR": 15,
   "Karting": 6,
   "IndyCar": 6,
   "Formula E": 9,
   "IMSA": 11,
-  "WRC": 12,
+  "WRC": 11,
   "Dakar": 2,
   "WEC": 15,
   "BTCC": 2,
@@ -166,6 +166,156 @@
  },
  "items": [
   {
+   "title": "Gasly reveals issue as he felt he could challenge for Vegas win",
+   "url": "https://www.formula1.com/en/latest/article/gasly-reveals-car-issue-in-las-vegas-as-he-felt-he-could-challenge-for-the-win.yyZX6FzglV6KSXOeQBOJN",
+   "source": "Formula1.com",
+   "date": "2026-11-23T11:05:03.856Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Pierre Gasly was one of the stars of a thrilling Las Vegas Grand Prix as the Alpine driver battled with drivers from the top four teams for the whole race.",
+   "image": null
+  },
+  {
+   "title": "Verstappen 'from a different planet' – Mekies",
+   "url": "https://www.formula1.com/en/latest/article/hes-from-a-different-planet-mekies-praises-verstappen-after-las-vegas-gp-victory.TXH10rYL99f2dIZqnVbCq",
+   "source": "Formula1.com",
+   "date": "2026-11-23T11:05:03.856Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Laurent Mekies believes Max Verstappen is \"from a different planet\" after the Red Bull driver \"outsmarted the opposition\" on his way to victory in the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Why Norris and Piastri had 'one of their best races' in Vegas",
+   "url": "https://www.formula1.com/en/latest/article/why-stella-believes-norris-and-piastri-had-one-of-their-best-races-in-las-vegas.3nrRVW1vlGiQAEe5LokXri",
+   "source": "Formula1.com",
+   "date": "2026-11-23T11:05:03.856Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lando Norris and Oscar Piastri finished second and third in the Las Vegas Grand Prix, with McLaren Team Principal Andrea Stella praising their performances despite the limitations of the MCL40.",
+   "image": null
+  },
+  {
+   "title": "All the key moments from the Las Vegas Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/las-vegas-lowdown-all-the-key-moments-as-verstappen-wins-remarkable-race-and-ferraris-drivers-collide-again.62D9SeuQXSboAspMm7N0pN",
+   "source": "Formula1.com",
+   "date": "2026-11-23T11:05:03.856Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen claimed his fourth win of the season in Las Vegas, having withstood immense pressure throughout in a thrilling race which featured more than 30 changes of the lead.",
+   "image": null
+  },
+  {
+   "title": "Haas confirm Camara will drive for team in final races of 2026",
+   "url": "https://www.formula1.com/en/latest/article/haas-confirm-camara-will-drive-for-the-team-in-final-races-of-2026.2wYY9ymhyqr7rXcuK6S7bj",
+   "source": "Formula1.com",
+   "date": "2026-11-23T11:05:03.856Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ahead of his first full-time Formula 1 season in 2027, Rafael Camara will again drive for Haas at the 2026 Qatar and Abu Dhabi Grands Prix.",
+   "image": null
+  },
+  {
+   "title": "Marc Marquez makes history, Valentino Rossi keeps revisiting it",
+   "url": "https://www.motorsport.com/motogp/news/marquez-makes-history-rossi-keeps-revisiting-it/10877131/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T11:00:08.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "In one of those curious twists of fate, Marquez sealed his eighth MotoGP world title at Portimo just as Rossi was touring Italy to promote his autobiography, La Mia Storia, which was released on 10 November. Throughout…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0qgKmvkY/s6/marc-marquez-ducati.jpg"
+  },
+  {
+   "title": "Herta ends difficult F2 season early",
+   "url": "https://www.the-race.com/formula-1/herta-ends-difficult-f2-season-early/",
+   "source": "The Race",
+   "date": "2026-11-23T10:48:57.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Colton Herta has vacated his Formula 2 seat with two rounds of the 2026 season to go, having missed out on a 2027 Cadillac Formula 1 drive",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1437811_HiRes.jpg"
+  },
+  {
+   "title": "Russell offered to co-operate with Verstappen during Las Vegas Grand Prix",
+   "url": "https://www.racefans.net/2026/11/23/russell-offered-to-co-operate-with-verstappen-during-las-vegas-grand-prix/",
+   "source": "RaceFans",
+   "date": "2026-11-23T10:47:20.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell made an unlikely offer to co-operate with rival Max Verstappen during the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Martin Brundle’s Lewis Hamilton and Charles Leclerc warning comes true at Las Vegas GP",
+   "url": "https://www.crash.net/f1/news/1110832/1/martin-brundles-lewis-hamilton-and-charles-leclerc-warning-comes-true-las-vegas",
+   "source": "Crash.net",
+   "date": "2026-11-23T10:40:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Martin Brundle warned Ferrari that Lewis Hamilton and Charles Leclerc would clash again following their Mexico GP incident",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1439433_hires_0.jpg?width=1200"
+  },
+  {
+   "title": "Five things we learned at MotoGP's tense Portuguese Grand Prix",
+   "url": "https://www.autosport.com/motogp/news/five-things-we-learned-at-motogps-tense-portuguese-grand-prix/10877129/",
+   "source": "Autosport",
+   "date": "2026-11-23T10:38:54.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marco Bezzecchi won the Portuguese Grand Prix last Sunday, but you would barely have known it in the aftermath of the race. That was dominated by Marc Marquez, who had wrapped up his 10th world championship with a nervy…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0o5AMv1Y/s6/world-champion-marc-marquez-du-2.jpg"
+  },
+  {
+   "title": "Winners and losers from MotoGP’s title-deciding Portuguese GP",
+   "url": "https://www.motorsport.com/motogp/news/winners-and-losers-from-motogps-title-deciding-portuguese-gp/10877076/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T10:26:39.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marc Marquez was crowned the 2026 MotoGP champion at the Portuguese Grand Prix on Sunday, even as Aprilia dominated at Portimao and secured the teams’ title with one of its most convincing performances of the year…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YN7vj8V6/s6/marc-marquez-ducati-team.jpg"
+  },
+  {
+   "title": "Spotlight: “Enhanced Madring” for 2027 will include track changes",
+   "url": "https://www.racefans.net/2026/11/23/enhanced-madring-2027-will-include-track-changes/",
+   "source": "RaceFans",
+   "date": "2026-11-23T10:21:41.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Spanish GP promoter promises an \"enhanced Madring\" for 2027",
+   "image": null
+  },
+  {
+   "title": "Haas announce Rafael Camara decision for remaining 2026 F1 races",
+   "url": "https://www.crash.net/f1/news/1110830/1/haas-announce-rafael-camara-decision-remaining-2026-f1-races",
+   "source": "Crash.net",
+   "date": "2026-11-23T10:05:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Haas have confirmed their plans for Rafael Camara for the final two races of the 2026 F1 season",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454269_hires.jpg?width=1200"
+  },
+  {
+   "title": "Herta pulls out of final Formula 2 races in Qatar and Abu Dhabi",
+   "url": "https://www.racefans.net/2026/11/23/herta-pulls-out-of-final-formula-2-races-in-qatar-and-abu-dhabi/",
+   "source": "RaceFans",
+   "date": "2026-11-23T10:02:19.000Z",
+   "series": "F2 / F3",
+   "result": false,
+   "summary": "Colton Herta will not take part in the final two Formula 2 rounds in the Middle East after missing his chance to gain a Cadillac Formula 1 drive.",
+   "image": null
+  },
+  {
+   "title": "Who slept worst last night: Charles Leclerc",
+   "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-charles-leclerc-10877136/10877136/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T10:00:42.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Frederic Vasseur suggested on Saturday evening (Sunday morning in Europe) that, following the Las Vegas Grand Prix, he could essentially deliver the very same dressing-down he had already given his drivers after Mexico…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2GdKxOEY/s6/charles-leclerc-ferrari.jpg"
+  },
+  {
    "title": "The ingredients that created a Grand Prix with 352 overtakes",
    "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV",
    "source": "Formula1.com",
@@ -173,16 +323,6 @@
    "series": "F1",
    "result": false,
    "summary": "Michael Lamonato dissects the circumstances behind a record-breaking Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "What the teams said – Race day in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-las-vegas-2026.2UjFcltnN1WABnZawPqeyP",
-   "source": "Formula1.com",
-   "date": "2026-11-23T09:53:33.183Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The drivers and teams report back on all the events from the 2026 Las Vegas Grand Prix.",
    "image": null
   },
   {
@@ -234,96 +374,6 @@
    "result": false,
    "summary": "Ferrari protege Oliver Bearman remains the only driver on the Formula 1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention at Haas had…",
    "image": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas-2.jpg"
-  },
-  {
-   "title": "Edd Straw's F1 2026 Las Vegas Grand Prix driver rankings",
-   "url": "https://www.the-race.com/formula-1/edd-straws-f1-2026-las-vegas-grand-prix-driver-rankings/",
-   "source": "The Race",
-   "date": "2026-11-23T08:21:45.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Who actually did the best (and worst) job in Formula 1’s wild overtaking-fest Las Vegas Grand Prix?",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455862_HiRes.jpg"
-  },
-  {
-   "title": "Verstappen expects F1’s ‘yo-yo racing’ won’t be fixed until 2030 engines arrive",
-   "url": "https://www.racefans.net/2026/11/23/verstappen-expects-f1s-yo-yo-racing-wont-be-fixed-until-2030-engines-arrive/",
-   "source": "RaceFans",
-   "date": "2026-11-23T07:15:50.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Max Verstappen expects the 'yo-yo racing' seen at some races this year will remain a feature of F1 until it replaces its current power unit rules.",
-   "image": null
-  },
-  {
-   "title": "5 betting lessons after Verstappen wins in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-after-max-verstappen-wins-the-las-vegas-grand-prix.5B4tZcliWQwS63az2nHNab",
-   "source": "Formula1.com",
-   "date": "2026-11-23T02:55:08.821Z",
-   "series": "F1",
-   "result": true,
-   "summary": "It was Verstappen’s third Vegas win in four years, but what did the 2026 edition of this iconic race teach F1 betting fans ahead of the final two races.",
-   "image": null
-  },
-  {
-   "title": "Wolff explains how Mercedes challenge fell apart in Vegas",
-   "url": "https://www.formula1.com/en/latest/article/wolff-explains-how-the-mercedes-challenge-fell-apart-in-the-closing-laps-in-las-vegas.4Zf0W1yuHxigFi72cspCj",
-   "source": "Formula1.com",
-   "date": "2026-11-23T00:16:08.106Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell and Kimi Antonelli were both in contention for victory in Las Vegas, until it all came undone in the final laps of the event.",
-   "image": null
-  },
-  {
-   "title": "Racing Bulls drivers assess 'massive lost opportunity' in Vegas",
-   "url": "https://www.formula1.com/en/latest/article/massive-lost-opportunity-racing-bulls-drivers-reflect-on-no-points-in-las-vegas-gp.1iWZ2ywDpgkLb1FyxW9mcX",
-   "source": "Formula1.com",
-   "date": "2026-11-22T23:15:53.261Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Arvid Lindblad admits that Racing Bulls failing to score a single point in the Las Vegas Grand Prix was \"a massive lost opportunity\", with the Formula 1 rookie spinning out of the race behind the Safety Car.",
-   "image": null
-  },
-  {
-   "title": "Norris reflects on 'chaotic' Las Vegas GP recovery",
-   "url": "https://www.formula1.com/en/latest/article/the-most-chaotic-race-ever-norris-reflects-on-remarkable-recovery-to-p2-in-las-vegas.Nl1w9QpG0Wy5pHzttLCHw",
-   "source": "Formula1.com",
-   "date": "2026-11-22T22:17:46.937Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris reflects on his recovery to P2 at the Las Vegas Grand Prix, revealing how battery management complicated an exceptionally chaotic race.",
-   "image": null
-  },
-  {
-   "title": "Battle for second place tightens as finish line nears",
-   "url": "https://www.formula1.com/en/latest/article/battle-for-second-place-tightens-as-2026-world-championship-finish-line-nears.5Rqr6EDZZLiPtFbnomVdfb",
-   "source": "Formula1.com",
-   "date": "2026-11-22T21:17:24.940Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen made it four wins in six races but challengers for second place are queueing up.",
-   "image": null
-  },
-  {
-   "title": "F1 plans two-team engine supply limit under 2030 V8 rules",
-   "url": "https://www.autosport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877058/",
-   "source": "Autosport",
-   "date": "2026-11-22T20:32:03.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 is planning a shift to just two power unit supplies per manufacturer in 2030, Autosport has learned, raising questions over the status of Mercedes' three current customers. Over the Las Vegas weekend the FIA…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YP7rVg42/s6/race-start-2.jpg"
-  },
-  {
-   "title": "F1 set to reduce customer teams as key 2030 details emerge",
-   "url": "https://www.motorsport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877055/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T20:26:49.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 is planning a shift to just two power unit supplies per manufacturer in 2030, Motorsport.com has learned, raising questions over the status of Mercedes' three current customers. Over the Las Vegas weekend the FIA…",
-   "image": "https://cdn-1.motorsport.com/images/amp/68Vw5vX2/s6/andrea-kimi-antonelli-mercedes.jpg"
   },
   {
    "title": "Laurin Heinrich \"deeply disappointed but not surprised\" by Raffaele Marciello after Macau clash",
@@ -436,16 +486,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YMXb8LG2/s6/tomoki-nojiri-team-mugen-autob.jpg"
   },
   {
-   "title": "Macau GP: Craigie wins F4 World Cup after first-lap pile-up",
-   "url": "https://www.autosport.com/openwheel/news/kenzo-craigie-wins-macau-f4-world-cup-after-huge-10-car-crash/10876648/",
-   "source": "Autosport",
-   "date": "2026-11-22T02:59:40.000Z",
-   "series": "Motorsport",
-   "result": true,
-   "summary": "Mercedes junior Kenzo Craigie won the FIA Formula 4 World Cup in Macau after the race had to be restarted following a pile-up that eliminated 10 cars. The F4 drivers had been involved in multiple incidents on Thursday…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6DGgzg4Y/s6/b9b79d9f3ddb09035252660cfd7786-2.jpg"
-  },
-  {
    "title": "MotoGP Portuguese GP: Full starting grid",
    "url": "https://www.motorsport.com/motogp/news/motogp-portuguese-gp-full-starting-grid/10876529/",
    "source": "Motorsport.com",
@@ -484,36 +524,6 @@
    "result": false,
    "summary": "Jack Miller has slammed MotoGP’s decision to move the Portimao sprint race forward by 30 minutes due to expected inclement weather",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364727_HiRes.jpg"
-  },
-  {
-   "title": "How Marc Marquez can clinch the MotoGP title in Sunday's Portuguese Grand Prix",
-   "url": "https://www.motorsport.com/motogp/news/how-marc-marquez-can-clinch-the-world-title-in-sundays-portuguese-grand-prix/10876601/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T18:00:39.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Following his dramatic late crash in Saturday's sprint race at Portimao, Marc Marquez was unable to seal the world championship. The Spaniard also still has two rivals to consider after Marco Bezzecchi won the race to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27No8d30/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "Jorge Martin on keeping MotoGP title hopes alive: ‘I didn’t do anything, it was in Marquez’s hands’",
-   "url": "https://www.motorsport.com/motogp/news/jorge-martin-on-keeping-motogp-titles-hope-alive-i-didnt-do-anything-it-was-in-marquezs-hands/10876594/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T17:40:45.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Jorge Martin admitted that he lacked speed in the Portuguese Grand Prix sprint, suggesting he owes his slim MotoGP title hopes entirely to Marc Marquez’s crash. The factory Aprilia rider arrived at Portimao needing to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNED82/s6/jorge-martin-aprilia-racing-te.jpg"
-  },
-  {
-   "title": "Marc Marquez: 'Sprint crash was my mistake - but tomorrow we have another shot at title'",
-   "url": "https://www.motorsport.com/motogp/news/marc-marquez-puts-portimao-sprint-error-behind-him-tomorrow-we-have-another-chance/10876585/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T16:56:09.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez has shrugged off his shock crash in the sprint race at Portimao on Saturday, admitting he was caught out by the rain but keen to move on. In third position with only a lap to go, the factory Ducati rider…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YE9ErwMY/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Super Formula Suzuka: Kakunoshin Ohta secures title in dramatic fashion as Ayumu Iwasa wins Race 1",
@@ -1344,16 +1354,6 @@
    "result": false,
    "summary": "Kalle Rovanpera and Ott Tanak will rejoin the World Rally Championship next year as part of a six-car Toyota line-up that will see the marque run two teams and different Rally1 car models. Toyota has announced plans to…",
    "image": "https://cdn-1.motorsport.com/images/amp/2y7A3Xn6/s6/kalle-rovanpera-jonne-halttune.jpg"
-  },
-  {
-   "title": "FIA reveals revised Junior WRC for 2027",
-   "url": "https://www.motorsport.com/wrc/news/fia-reveals-revised-junior-wrc-for-2027/10870994/",
-   "source": "Motorsport.com",
-   "date": "2026-11-02T10:14:32.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "An expanded WRC2 prize drive will be awarded to the 2027 Junior WRC champion as part of a revamped JWRC for next year. The FIA has today confirmed that the WRC’s junior category will once again be contested over five…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6D1XwMK0/s6/diego-dominguez-paraguay-junio.jpg"
   }
  ]
 }
