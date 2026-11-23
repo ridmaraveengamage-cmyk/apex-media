@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:14:03.197Z",
+ "updated": "2026-11-23T14:40:50.830Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,8 +148,9 @@
  ],
  "bySeries": {
   "F1": 15,
+  "DTM": 4,
   "MotoGP": 15,
-  "Motorsport": 4,
+  "Motorsport": 3,
   "F2 / F3": 2,
   "Super Formula": 2,
   "NASCAR": 15,
@@ -161,10 +162,89 @@
   "Dakar": 2,
   "WEC": 15,
   "BTCC": 2,
-  "DTM": 3,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Why Norris and Piastri had 'one of their best races' in Vegas",
+   "url": "https://www.formula1.com/en/latest/article/why-stella-believes-norris-and-piastri-had-one-of-their-best-races-in-las-vegas.3nrRVW1vlGiQAEe5LokXri",
+   "source": "Formula1.com",
+   "date": "2026-11-23T14:40:50.830Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lando Norris and Oscar Piastri finished second and third in the Las Vegas Grand Prix, with McLaren Team Principal Andrea Stella praising their performances despite the limitations of the MCL40.",
+   "image": null
+  },
+  {
+   "title": "All the key moments from the Las Vegas Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/las-vegas-lowdown-all-the-key-moments-as-verstappen-wins-remarkable-race-and-ferraris-drivers-collide-again.62D9SeuQXSboAspMm7N0pN",
+   "source": "Formula1.com",
+   "date": "2026-11-23T14:40:50.830Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen claimed his fourth win of the season in Las Vegas, having withstood immense pressure throughout in a thrilling race which featured more than 30 changes of the lead.",
+   "image": null
+  },
+  {
+   "title": "Haas confirm Camara will drive for team in final races of 2026",
+   "url": "https://www.formula1.com/en/latest/article/haas-confirm-camara-will-drive-for-the-team-in-final-races-of-2026.2wYY9ymhyqr7rXcuK6S7bj",
+   "source": "Formula1.com",
+   "date": "2026-11-23T14:40:50.830Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ahead of his first full-time Formula 1 season in 2027, Rafael Camara will again drive for Haas at the 2026 Qatar and Abu Dhabi Grands Prix.",
+   "image": null
+  },
+  {
+   "title": "Timo Glock rediscovers his joy in Land Porsche test: \"I couldn't stop grinning\"",
+   "url": "https://www.motorsport.com/dtm/news/glock-rediscovers-his-joy-in-land-porsche-test/10877236/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T14:28:41.000Z",
+   "series": "DTM",
+   "result": false,
+   "summary": "Timo Glock had a broad grin on his face after his surprise test day in the Land Porsche at the Hockenheimring on the 12th of October. \"Now I definitely feel like carrying on,\" says the 44-year-old, who has two tough DTM…",
+   "image": "https://cdn-1.motorsport.com/images/amp/B6b4vGB2/s6/glock-nach-land-porsche-test-freude-seit-zwei-jahren-nicht-mehr-so-gross-26111301.jpg"
+  },
+  {
+   "title": "Lewis Hamilton: Ferrari’s top-speed deficit was “brutal” at F1 Las Vegas GP",
+   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-ferraris-top-speed-deficit-was-brutal-at-f1-las-vegas-gp/10876908/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T14:03:33.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ferrari Formula 1 driver Lewis Hamilton says the SF-26’s top-speed deficit was exposed as even more “brutal” than he expected on Las Vegas’ long straights. Hamilton and Charles Leclerc were both eliminated in Q2 and…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6VyK51VY/s6/lewis-hamilton-ferrari.jpg"
+  },
+  {
+   "title": "Was the Las Vegas GP best race of the year - or too fake?",
+   "url": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/",
+   "source": "Autosport",
+   "date": "2026-11-23T13:44:36.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The nature of the Las Vegas Grand Prix divided opinion in Formula 1's fanbase, and these opposing views were shared across the grid as the myriad overlapping passes were lauded and derided in equal measure. Among the…",
+   "image": "https://cdn-1.motorsport.com/images/amp/01QNEJe0/s6/lando-norris-mclaren-andrea-ki.jpg"
+  },
+  {
+   "title": "Guenther Steiner warns George Russell: Do not \"poke the bear\" Max Verstappen",
+   "url": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T13:16:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Former Haas Formula 1 team principal Guenther Steiner has urged Mercedes driver George Russell not to \"poke the bear\" with Max Verstappen, after their war of words at the Las Vegas Grand Prix. Russell hit out at…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-a10877209-b705-2.jpg"
+  },
+  {
+   "title": "Colton Herta suffers fresh F1 setback after losing Formula 2 seat",
+   "url": "https://www.crash.net/f1/news/1110843/1/colton-herta-suffers-fresh-f1-setback-after-losing-formula-2-seat",
+   "source": "Crash.net",
+   "date": "2026-11-23T13:15:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Colton Herta's Formula 1 ambitions have suffered another blow after his Formula 2 campaign came to an early end",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1448162_hires.jpg?width=1200"
+  },
   {
    "title": "The ingredients that created a Grand Prix with 352 overtakes",
    "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV",
@@ -276,76 +356,6 @@
    "image": null
   },
   {
-   "title": "Battle for second place tightens as finish line nears",
-   "url": "https://www.formula1.com/en/latest/article/battle-for-second-place-tightens-as-2026-world-championship-finish-line-nears.5Rqr6EDZZLiPtFbnomVdfb",
-   "source": "Formula1.com",
-   "date": "2026-11-23T11:55:44.956Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen made it four wins in six races but challengers for second place are queueing up.",
-   "image": null
-  },
-  {
-   "title": "5 betting lessons after Verstappen wins in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-after-max-verstappen-wins-the-las-vegas-grand-prix.5B4tZcliWQwS63az2nHNab",
-   "source": "Formula1.com",
-   "date": "2026-11-23T11:55:44.956Z",
-   "series": "F1",
-   "result": true,
-   "summary": "It was Verstappen’s third Vegas win in four years, but what did the 2026 edition of this iconic race teach F1 betting fans ahead of the final two races.",
-   "image": null
-  },
-  {
-   "title": "Wolff explains how Mercedes challenge fell apart in Vegas",
-   "url": "https://www.formula1.com/en/latest/article/wolff-explains-how-the-mercedes-challenge-fell-apart-in-the-closing-laps-in-las-vegas.4Zf0W1yuHxigFi72cspCj",
-   "source": "Formula1.com",
-   "date": "2026-11-23T11:55:44.956Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell and Kimi Antonelli were both in contention for victory in Las Vegas, until it all came undone in the final laps of the event.",
-   "image": null
-  },
-  {
-   "title": "Lando Norris makes remarkable battery admission after Las Vegas GP podium",
-   "url": "https://www.crash.net/f1/news/1110836/1/lando-norris-makes-remarkable-battery-admission-after-las-vegas-gp-podium",
-   "source": "Crash.net",
-   "date": "2026-11-23T11:45:00.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Lando Norris has revealed the extent of his battery management struggles during the Las Vegas Grand Prix",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455545_hires_0.jpg?width=1200"
-  },
-  {
-   "title": "Who slept best last night: Max Verstappen",
-   "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10877167/10877167/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T11:23:51.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "There were 35 overtakes for the lead, they say, in the 2026 Las Vegas Grand Prix. Which sounds believable, but isn't even worth checking. Everyone who watched it knows there were a lot. Apparently, 17 of those involved…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6zoD4Pl0/s6/max-verstappen-red-bull-racing.jpg"
-  },
-  {
-   "title": "Gasly reveals issue as he felt he could challenge for Vegas win",
-   "url": "https://www.formula1.com/en/latest/article/gasly-reveals-car-issue-in-las-vegas-as-he-felt-he-could-challenge-for-the-win.yyZX6FzglV6KSXOeQBOJN",
-   "source": "Formula1.com",
-   "date": "2026-11-23T11:05:03.856Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pierre Gasly was one of the stars of a thrilling Las Vegas Grand Prix as the Alpine driver battled with drivers from the top four teams for the whole race.",
-   "image": null
-  },
-  {
-   "title": "Verstappen 'from a different planet' – Mekies",
-   "url": "https://www.formula1.com/en/latest/article/hes-from-a-different-planet-mekies-praises-verstappen-after-las-vegas-gp-victory.TXH10rYL99f2dIZqnVbCq",
-   "source": "Formula1.com",
-   "date": "2026-11-23T11:05:03.856Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Laurent Mekies believes Max Verstappen is \"from a different planet\" after the Red Bull driver \"outsmarted the opposition\" on his way to victory in the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
    "title": "Marc Marquez makes history, Valentino Rossi keeps revisiting it",
    "url": "https://www.motorsport.com/motogp/news/marquez-makes-history-rossi-keeps-revisiting-it/10877131/",
    "source": "Motorsport.com",
@@ -394,16 +404,6 @@
    "result": false,
    "summary": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech. The nine-time IndyCar race winner made the transition to…",
    "image": "https://cdn-1.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg"
-  },
-  {
-   "title": "Laurin Heinrich \"deeply disappointed but not surprised\" by Raffaele Marciello after Macau clash",
-   "url": "https://www.motorsport.com/gt/news/macau-gt-laurin-heinrich-raffaele-marciello-crash/10877023/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T18:14:22.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Laurin Heinrich has spoken out following the opening-lap collision in the 2026 Macau FIA GT World Cup main race that robbed the Porsche driver of victory after a dominant weekend. With a stony expression, Heinrich had…",
-   "image": "https://cdn-1.motorsport.com/images/amp/l0LkOvN6/s6/macau-crash-heinrich-von-marciello-tief-enttaeuscht-aber-nicht-ueberrascht-26112203.jpg"
   },
   {
    "title": "Marquez overtakes Rossi - now only Nieto and Agostini have more titles",
@@ -486,10 +486,10 @@
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNVaX2/s6/d2b390cea2e109a8dc8b4e83bb300d.jpg"
   },
   {
-   "title": "Super Formula Suzuka: Nojiri ends drought with win in season finale",
-   "url": "https://www.autosport.com/super-formula/news/super-formula-suzuka-nojiri-ends-drought-with-win-in-season-finale/10876723/",
-   "source": "Autosport",
-   "date": "2026-11-22T06:37:36.000Z",
+   "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
+   "url": "https://www.motorsport.com/super-formula/news/super-formula-suzuka-tomoki-nojiri-breaks-drought-with-win-in-season-finale/10876716/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T06:32:41.000Z",
    "series": "Super Formula",
    "result": true,
    "summary": "Tomoki Nojiri ended a year-long Super Formula win drought in the final race of the season at Suzuka on Sunday, beating newly-crowned champion Kakunoshin Ohta. Team Mugen driver Nojiri converted a record-extending 26th…",
