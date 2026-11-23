@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:01:41.111Z",
+ "updated": "2026-11-23T16:59:40.888Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,15 +147,15 @@
   }
  ],
  "bySeries": {
-  "F1": 16,
-  "Motorsport": 4,
+  "F1": 15,
   "IMSA": 11,
-  "WEC": 14,
+  "MotoGP": 15,
+  "WEC": 15,
+  "Motorsport": 3,
   "WRC": 12,
   "BTCC": 3,
   "DTM": 4,
   "Karting": 7,
-  "MotoGP": 15,
   "F2 / F3": 2,
   "Super Formula": 2,
   "NASCAR": 15,
@@ -166,6 +165,126 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "The timeline of Verstappen and Russell’s long rivalry",
+   "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN",
+   "source": "Formula1.com",
+   "date": "2026-11-23T16:59:40.888Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1.com charts how tensions first flared – and have since been reignited – between Max Verstappen and George Russell.",
+   "image": null
+  },
+  {
+   "title": "Sainz hails ‘amazing’ Las Vegas GP after ‘incredible’ P8",
+   "url": "https://www.formula1.com/en/latest/article/sainz-hails-amazing-las-vegas-grand-prix-after-incredible-p8-finish.4FBiwflePJER6l3k6aIFqU",
+   "source": "Formula1.com",
+   "date": "2026-11-23T16:59:40.888Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Carlos Sainz managed to bring his Williams home in eighth place in Las Vegas, scoring for the first time since Baku with a drive the Spaniard called “amazing” after the race.",
+   "image": null
+  },
+  {
+   "title": "5 Winners and 5 Losers from Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-las-vegas.6HVn4aszKitqrWNRTWkksX",
+   "source": "Formula1.com",
+   "date": "2026-11-23T16:59:40.888Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lawrence Barretto picks out his winners and losers from an eventful 2026 Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Qatar Grand Prix betting guide and latest odds",
+   "url": "https://www.formula1.com/en/latest/article/qatar-grand-prix-race-betting-guide-and-what-the-markets-predict-will-happen.5A5FEXzRhph6ATX2PvVmmq",
+   "source": "Formula1.com",
+   "date": "2026-11-23T16:59:40.888Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Our experts bring you all the important betting information you need before making your predictions for Lusail.",
+   "image": null
+  },
+  {
+   "title": "Perez and Camara react to Las Vegas GP clash",
+   "url": "https://www.formula1.com/en/latest/article/perez-and-camara-react-to-las-vegas-grand-prix-clash-as-perez-receives-penalty-for-qatar.2WhxfuDIpCN5yN35Zupw8M",
+   "source": "Formula1.com",
+   "date": "2026-11-23T16:59:40.888Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Sergio Perez's Las Vegas Grand Prix came to an early end when the Cadillac driver collided with the Haas of Rafael Camara.",
+   "image": null
+  },
+  {
+   "title": "Tsunami RT announces 2027 IMSA Michelin Endurance Cup entry in GTD",
+   "url": "https://www.motorsport.com/imsa/news/tsunami-rt-announces-2027-imsa-michelin-endurance-cup-entry-in-gtd/10877265/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T16:42:26.000Z",
+   "series": "IMSA",
+   "result": false,
+   "summary": "San Marino-based racing team Tsunami RT will make its IMSA debut in 2027, entering a Porsche 911 GT3 R (992) in the Grand Touring Daytona (GTD) class for all five rounds of the IMSA Michelin Endurance Cup. The team’s…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0k7Wkpl0/s6/79-tsunami-rt-porsche-911-gt3-.jpg"
+  },
+  {
+   "title": "Where MotoGP rivals stand on Marquez 'greatest of all time' debate",
+   "url": "https://www.the-race.com/motogp/marc-marquez-greatest-of-all-time-debate-what-motogp-rivals-say/",
+   "source": "The Race",
+   "date": "2026-11-23T16:29:38.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Is it time to acknowledge Marc Marquez as the greatest premier-class rider of all time? Here's what his MotoGP peers had to say",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1365339_HiRes.jpg"
+  },
+  {
+   "title": "MotoGP riders pay tribute to Marc Marquez, label him the GOAT",
+   "url": "https://www.motorsport.com/motogp/news/motogp-riders-pay-tribute-marc-marquez-goat-10th-world-title/10877013/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T16:27:49.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marc Marquez continues to add to his legacy as a MotoGP rider and an athlete destined to go down in history as one of the greatest ever seen. The 10-time world champion overcame the inevitable tension of the occasion…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YK15yXk0/s6/marc-marquez-ducati-team.jpg"
+  },
+  {
+   "title": "Stewards right to blame Leclerc for collision with Hamilton, says Vasseur",
+   "url": "https://www.racefans.net/2026/11/23/stewards-right-to-blame-leclerc-for-collision-with-hamilton-says-vasseur/",
+   "source": "RaceFans",
+   "date": "2026-11-23T16:20:11.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ferrari team principal Frederic Vasseur said they gave Charles Leclerc a message five corners before his collision with Lewis Hamilton.",
+   "image": null
+  },
+  {
+   "title": "Lewis Hamilton-endorsed Mercedes junior wins F4 World Cup in Macau",
+   "url": "https://www.crash.net/f1/news/1110849/1/lewis-hamilton-endorsed-mercedes-junior-wins-f4-world-cup-macau",
+   "source": "Crash.net",
+   "date": "2026-11-23T16:10:00.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Kenzo Craigie, who was previously named by Lewis Hamilton as a driver for his dream F1 team, has claimed the FIA F4 World Cup in Macau",
+   "image": "https://www.crash.net/sites/default/files/2026-11/macau20gp_fia_2026_aw-311174-1.jpg?width=1200"
+  },
+  {
+   "title": "F1 2027 grid: Who will be racing and where?",
+   "url": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/",
+   "source": "Autosport",
+   "date": "2026-11-23T16:09:34.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The 2027 Formula 1 grid has very much taken shape with all but one spot now confirmed following a rather safe ‘silly season’ that didn’t present much drama. There is only one team - Haas - that is changing its line-up…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6x7ZeD4Y/s6/oscar-piastri-mclaren-2.jpg"
+  },
+  {
+   "title": "F1 Qatar GP 2026: start time, schedule and how to watch",
+   "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-2026-start-time-schedule-how-to-watch/10877085/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T16:06:30.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Qatar Grand Prix starts at 8 am PT on Sunday, November 29, which is 11 am ET. Formula 1 returns to the Lusail International Circuit for the penultimate race of the 2026 season, with every session live on Apple TV…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6AEWkpk6/s6/george-russell-mercedes-f1-w15-2.jpg"
+  },
   {
    "title": "Gasly reveals issue as he felt he could challenge for Vegas win",
    "url": "https://www.formula1.com/en/latest/article/gasly-reveals-car-issue-in-las-vegas-as-he-felt-he-could-challenge-for-the-win.yyZX6FzglV6KSXOeQBOJN",
@@ -197,34 +316,14 @@
    "image": null
   },
   {
-   "title": "5 betting lessons after Verstappen wins in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-after-max-verstappen-wins-the-las-vegas-grand-prix.5B4tZcliWQwS63az2nHNab",
-   "source": "Formula1.com",
-   "date": "2026-11-23T16:01:41.111Z",
-   "series": "F1",
-   "result": true,
-   "summary": "It was Verstappen’s third Vegas win in four years, but what did the 2026 edition of this iconic race teach F1 betting fans ahead of the final two races.",
-   "image": null
-  },
-  {
-   "title": "Wolff explains how Mercedes challenge fell apart in Vegas",
-   "url": "https://www.formula1.com/en/latest/article/wolff-explains-how-the-mercedes-challenge-fell-apart-in-the-closing-laps-in-las-vegas.4Zf0W1yuHxigFi72cspCj",
-   "source": "Formula1.com",
-   "date": "2026-11-23T16:01:41.111Z",
-   "series": "F1",
+   "title": "Peugeot WEC team axed, Citroen and Opel Formula E squads to close after 2027",
+   "url": "https://www.racefans.net/2026/11/23/peugeot-wec-team-axed-citroen-and-opel-formula-e-squads-to-close-after-2027/",
+   "source": "RaceFans",
+   "date": "2026-11-23T15:51:02.000Z",
+   "series": "WEC",
    "result": false,
-   "summary": "George Russell and Kimi Antonelli were both in contention for victory in Las Vegas, until it all came undone in the final laps of the event.",
+   "summary": "Stellantis has confirmed it will pull its teams out of the World Endurance Championship and Formula E.",
    "image": null
-  },
-  {
-   "title": "F1 2027 grid: Who will be racing and where?",
-   "url": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T15:46:47.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The 2027 Formula 1 grid has very much taken shape with all but one spot now confirmed following a rather safe ‘silly season’ that didn’t present much drama. There is only one team - Haas - that is changing its line-up…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YMXbMRL2/s6/andrea-kimi-antonelli-mercedes-3.jpg"
   },
   {
    "title": "Autosport Business Awards open nominations to recognise excellence across global motorsport industry",
@@ -297,26 +396,6 @@
    "image": null
   },
   {
-   "title": "All the key moments from the Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/las-vegas-lowdown-all-the-key-moments-as-verstappen-wins-remarkable-race-and-ferraris-drivers-collide-again.62D9SeuQXSboAspMm7N0pN",
-   "source": "Formula1.com",
-   "date": "2026-11-23T14:40:50.830Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen claimed his fourth win of the season in Las Vegas, having withstood immense pressure throughout in a thrilling race which featured more than 30 changes of the lead.",
-   "image": null
-  },
-  {
-   "title": "Haas confirm Camara will drive for team in final races of 2026",
-   "url": "https://www.formula1.com/en/latest/article/haas-confirm-camara-will-drive-for-the-team-in-final-races-of-2026.2wYY9ymhyqr7rXcuK6S7bj",
-   "source": "Formula1.com",
-   "date": "2026-11-23T14:40:50.830Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ahead of his first full-time Formula 1 season in 2027, Rafael Camara will again drive for Haas at the 2026 Qatar and Abu Dhabi Grands Prix.",
-   "image": null
-  },
-  {
    "title": "Timo Glock rediscovers his joy in Land Porsche test: \"I couldn't stop grinning\"",
    "url": "https://www.motorsport.com/dtm/news/glock-rediscovers-his-joy-in-land-porsche-test/10877236/",
    "source": "Motorsport.com",
@@ -337,16 +416,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6VyK51VY/s6/lewis-hamilton-ferrari.jpg"
   },
   {
-   "title": "Was the Las Vegas GP best race of the year - or too fake?",
-   "url": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/",
-   "source": "Autosport",
-   "date": "2026-11-23T13:44:36.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The nature of the Las Vegas Grand Prix divided opinion in Formula 1's fanbase, and these opposing views were shared across the grid as the myriad overlapping passes were lauded and derided in equal measure. Among the…",
-   "image": "https://cdn-1.motorsport.com/images/amp/01QNEJe0/s6/lando-norris-mclaren-andrea-ki.jpg"
-  },
-  {
    "title": "Jezierski and Bowen Win FIA Karting Arrive and Drive World Cup",
    "url": "https://www.ekartingnews.com/2026/11/23/jezierski-and-bowen-win-fia-karting-arrive-and-drive-world-cup/",
    "source": "eKartingNews",
@@ -357,36 +426,6 @@
    "image": "https://www.ekartingnews.com/wp-content/uploads/2026/11/FIA-2026-WorldAD-Jezierski-300x200.jpg"
   },
   {
-   "title": "Guenther Steiner warns George Russell: Do not \"poke the bear\" Max Verstappen",
-   "url": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T13:16:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Former Haas Formula 1 team principal Guenther Steiner has urged Mercedes driver George Russell not to \"poke the bear\" with Max Verstappen, after their war of words at the Las Vegas Grand Prix. Russell hit out at…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-a10877209-b705-2.jpg"
-  },
-  {
-   "title": "Colton Herta suffers fresh F1 setback after losing Formula 2 seat",
-   "url": "https://www.crash.net/f1/news/1110843/1/colton-herta-suffers-fresh-f1-setback-after-losing-formula-2-seat",
-   "source": "Crash.net",
-   "date": "2026-11-23T13:15:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Colton Herta's Formula 1 ambitions have suffered another blow after his Formula 2 campaign came to an early end",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1448162_hires.jpg?width=1200"
-  },
-  {
-   "title": "The ingredients that created a Grand Prix with 352 overtakes",
-   "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV",
-   "source": "Formula1.com",
-   "date": "2026-11-23T13:14:03.197Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Michael Lamonato dissects the circumstances behind a record-breaking Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
    "title": "Marc Marquez: 'Curbing my instincts was key to winning 2026 MotoGP title'",
    "url": "https://www.motorsport.com/motogp/news/marc-marquez-reveals-new-mentality-that-was-key-to-winning-2026-motogp-title/10877114/",
    "source": "Motorsport.com",
@@ -395,16 +434,6 @@
    "result": false,
    "summary": "Marc Marquez says his 10th world championship title took more of a mental effort than any of his others. Marquez overturned a yawning 102-point deficit after an early-season injury absence to grab the crown in last…",
    "image": "https://cdn-1.motorsport.com/images/amp/YWKA35OY/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "Hadjar asked Red Bull to tell Verstappen “stop defending” as they were losing time",
-   "url": "https://www.racefans.net/2026/11/23/hadjar-asked-red-bull-to-tell-verstappen-stop-defending-as-they-were-losing-time/",
-   "source": "RaceFans",
-   "date": "2026-11-23T12:32:39.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "In unheard radio messages, Isack Hadjar warned Red Bull they were costing themselves time because he wasn't allowed to pass Max Verstappen.",
-   "image": null
   },
   {
    "title": "Portugese Grand Prix 2026 MotoGP rider rankings",
@@ -547,16 +576,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0JXR7ZNY/s6/fabio-quartararo-yamaha-factor.jpg"
   },
   {
-   "title": "Macau GP: Nakamura-Berta takes win after Deligny crashes out",
-   "url": "https://www.autosport.com/openwheel/news/macau-gp-kean-nakamura-berta-takes-win-after-enzo-deligny-crashes-out/10876849/",
-   "source": "Autosport",
-   "date": "2026-11-22T08:41:30.000Z",
-   "series": "Motorsport",
-   "result": true,
-   "summary": "Kean Nakamura-Berta claimed a comfortable Macau Grand Prix victory after forcing early leader Enzo Deligny into a mistake at Lisboa. The British-born Japanese, Slovak driver, who was third in this year's Formula…",
-   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNVaX2/s6/d2b390cea2e109a8dc8b4e83bb300d.jpg"
-  },
-  {
    "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
    "url": "https://www.motorsport.com/super-formula/news/super-formula-suzuka-tomoki-nojiri-breaks-drought-with-win-in-season-finale/10876716/",
    "source": "Motorsport.com",
@@ -585,26 +604,6 @@
    "result": false,
    "summary": "Jack Miller lashed out at MotoGP’s decision to move the Portuguese Grand Prix sprint in anticipation of poor weather, saying riders don’t get a chance to race in the rain anymore. In the middle of Saturday morning’s…",
    "image": "https://cdn-1.motorsport.com/images/amp/01QNEdD0/s6/jack-miller-pramac-racing.jpg"
-  },
-  {
-   "title": "Diogo Moreira admits he is “lucky” after frightening Portimao MotoGP highside",
-   "url": "https://www.motorsport.com/motogp/news/diogo-moreira-admits-he-is-lucky-after-frightening-portimao-motogp-highside/10876607/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T18:17:04.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Diogo Moreira admits he considers himself “lucky” to have emerged unscathed from a nasty highside during qualifying for the Portuguese Grand Prix. The LCR rider was on a flying lap in the final minutes of Q1 when he was…",
-   "image": "https://cdn-1.motorsport.com/images/amp/63QaMz82/s6/diogo-moreira-team-lcr-honda.jpg"
-  },
-  {
-   "title": "How Marc Marquez can clinch the MotoGP title in Sunday's Portuguese Grand Prix",
-   "url": "https://www.motorsport.com/motogp/news/how-marc-marquez-can-clinch-the-world-title-in-sundays-portuguese-grand-prix/10876601/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T18:00:39.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Following his dramatic late crash in Saturday's sprint race at Portimao, Marc Marquez was unable to seal the world championship. The Spaniard also still has two rivals to consider after Marco Bezzecchi won the race to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27No8d30/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Super Formula Suzuka: Kakunoshin Ohta secures title in dramatic fashion as Ayumu Iwasa wins Race 1",
@@ -1225,16 +1224,6 @@
    "result": false,
    "summary": "Since 2022 there has no longer been a female driver in the DTM, although Ellen Lohr made history in 1992 with her legendary victory against Keke Rosberg & Co. in a Mercedes. However, that could change in 2027. Because…",
    "image": "https://cdn-1.motorsport.com/images/amp/901DOLe6/s6/naechster-mercedes-amg-test-gibt-es-2027-wieder-eine-frau-in-der-dtm-26111001.jpg"
-  },
-  {
-   "title": "Fangio, Haywood headline third batch of Sebring's 75 all-time greatest drivers",
-   "url": "https://www.motorsport.com/imsa/news/fangio-haywood-headline-third-batch-of-sebrings-75-all-time-greatest-drivers/10873657/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T15:35:48.000Z",
-   "series": "IMSA",
-   "result": false,
-   "summary": "Juan Manuel Fangio, one of Formula 1's most iconic World Champions and a two-time winner at Sebring, and multi-time Sebring winner Hurley Haywood have been selected as part of the third \"Class of 75\" driver group. This…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Zq8Vjb6/s6/winningmaserati-juanmanuelfang.jpg"
   },
   {
    "title": "Sebastien Loeb tests again as Project Rally One submits WRC homologation papers",
