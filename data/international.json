@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:05:03.856Z",
+ "updated": "2026-11-23T11:55:44.956Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -149,7 +149,7 @@
  "bySeries": {
   "F1": 15,
   "MotoGP": 15,
-  "Motorsport": 3,
+  "Motorsport": 4,
   "F2 / F3": 2,
   "Super Formula": 2,
   "NASCAR": 15,
@@ -165,6 +165,66 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Perez and Camara react to Las Vegas GP clash",
+   "url": "https://www.formula1.com/en/latest/article/perez-and-camara-react-to-las-vegas-grand-prix-clash-as-perez-receives-penalty-for-qatar.2WhxfuDIpCN5yN35Zupw8M",
+   "source": "Formula1.com",
+   "date": "2026-11-23T11:55:44.956Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Sergio Perez's Las Vegas Grand Prix came to an early end when the Cadillac driver collided with the Haas of Rafael Camara.",
+   "image": null
+  },
+  {
+   "title": "Battle for second place tightens as finish line nears",
+   "url": "https://www.formula1.com/en/latest/article/battle-for-second-place-tightens-as-2026-world-championship-finish-line-nears.5Rqr6EDZZLiPtFbnomVdfb",
+   "source": "Formula1.com",
+   "date": "2026-11-23T11:55:44.956Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen made it four wins in six races but challengers for second place are queueing up.",
+   "image": null
+  },
+  {
+   "title": "5 betting lessons after Verstappen wins in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-after-max-verstappen-wins-the-las-vegas-grand-prix.5B4tZcliWQwS63az2nHNab",
+   "source": "Formula1.com",
+   "date": "2026-11-23T11:55:44.956Z",
+   "series": "F1",
+   "result": true,
+   "summary": "It was Verstappen’s third Vegas win in four years, but what did the 2026 edition of this iconic race teach F1 betting fans ahead of the final two races.",
+   "image": null
+  },
+  {
+   "title": "Wolff explains how Mercedes challenge fell apart in Vegas",
+   "url": "https://www.formula1.com/en/latest/article/wolff-explains-how-the-mercedes-challenge-fell-apart-in-the-closing-laps-in-las-vegas.4Zf0W1yuHxigFi72cspCj",
+   "source": "Formula1.com",
+   "date": "2026-11-23T11:55:44.956Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell and Kimi Antonelli were both in contention for victory in Las Vegas, until it all came undone in the final laps of the event.",
+   "image": null
+  },
+  {
+   "title": "Lando Norris makes remarkable battery admission after Las Vegas GP podium",
+   "url": "https://www.crash.net/f1/news/1110836/1/lando-norris-makes-remarkable-battery-admission-after-las-vegas-gp-podium",
+   "source": "Crash.net",
+   "date": "2026-11-23T11:45:00.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Lando Norris has revealed the extent of his battery management struggles during the Las Vegas Grand Prix",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455545_hires_0.jpg?width=1200"
+  },
+  {
+   "title": "Who slept best last night: Max Verstappen",
+   "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10877167/10877167/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T11:23:51.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "There were 35 overtakes for the lead, they say, in the 2026 Las Vegas Grand Prix. Which sounds believable, but isn't even worth checking. Everyone who watched it knows there were a lot. Apparently, 17 of those involved…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6zoD4Pl0/s6/max-verstappen-red-bull-racing.jpg"
+  },
   {
    "title": "Gasly reveals issue as he felt he could challenge for Vegas win",
    "url": "https://www.formula1.com/en/latest/article/gasly-reveals-car-issue-in-las-vegas-as-he-felt-he-could-challenge-for-the-win.yyZX6FzglV6KSXOeQBOJN",
@@ -223,7 +283,7 @@
    "series": "MotoGP",
    "result": false,
    "summary": "In one of those curious twists of fate, Marquez sealed his eighth MotoGP world title at Portimo just as Rossi was touring Italy to promote his autobiography, La Mia Storia, which was released on 10 November. Throughout…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0qgKmvkY/s6/marc-marquez-ducati.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/0Lde9zP0/s6/marc-marquez-ducati-team-2.jpg"
   },
   {
    "title": "Herta ends difficult F2 season early",
@@ -254,16 +314,6 @@
    "result": false,
    "summary": "Martin Brundle warned Ferrari that Lewis Hamilton and Charles Leclerc would clash again following their Mexico GP incident",
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1439433_hires_0.jpg?width=1200"
-  },
-  {
-   "title": "Five things we learned at MotoGP's tense Portuguese Grand Prix",
-   "url": "https://www.autosport.com/motogp/news/five-things-we-learned-at-motogps-tense-portuguese-grand-prix/10877129/",
-   "source": "Autosport",
-   "date": "2026-11-23T10:38:54.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marco Bezzecchi won the Portuguese Grand Prix last Sunday, but you would barely have known it in the aftermath of the race. That was dominated by Marc Marquez, who had wrapped up his 10th world championship with a nervy…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5AMv1Y/s6/world-champion-marc-marquez-du-2.jpg"
   },
   {
    "title": "Winners and losers from MotoGP’s title-deciding Portuguese GP",
@@ -306,36 +356,6 @@
    "image": null
   },
   {
-   "title": "Who slept worst last night: Charles Leclerc",
-   "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-charles-leclerc-10877136/10877136/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T10:00:42.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Frederic Vasseur suggested on Saturday evening (Sunday morning in Europe) that, following the Las Vegas Grand Prix, he could essentially deliver the very same dressing-down he had already given his drivers after Mexico…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2GdKxOEY/s6/charles-leclerc-ferrari.jpg"
-  },
-  {
-   "title": "The ingredients that created a Grand Prix with 352 overtakes",
-   "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV",
-   "source": "Formula1.com",
-   "date": "2026-11-23T09:53:33.183Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Michael Lamonato dissects the circumstances behind a record-breaking Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Max Verstappen compares chaotic Las Vegas GP win to playing Mario Kart",
-   "url": "https://www.crash.net/f1/news/1110829/1/max-verstappen-compares-chaotic-las-vegas-gp-win-playing-mario-kart",
-   "source": "Crash.net",
-   "date": "2026-11-23T09:45:00.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Max Verstappen compared the chaotic Las Vegas Grand Prix to Mario Kart but admitted the racing left him unconvinced despite taking victory.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456298_hires.jpg?width=1200"
-  },
-  {
    "title": "Herta replaced at Hitech to end F2 season early",
    "url": "https://www.autosport.com/formula2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877140/",
    "source": "Autosport",
@@ -344,36 +364,6 @@
    "result": false,
    "summary": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech. The nine-time IndyCar race winner made the transition to…",
    "image": "https://cdn-1.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg"
-  },
-  {
-   "title": "Red Bull told Verstappen to consider letting Antonelli pass him for the final lap",
-   "url": "https://www.racefans.net/2026/11/23/red-bull-told-verstappen-to-consider-letting-antonelli-pass-him-for-the-final-lap/",
-   "source": "RaceFans",
-   "date": "2026-11-23T09:19:44.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Red Bull told Max Verstappen to consider giving up the lead to Andrea Kimi Antonelli on the penultimate lap of the race in Las Vegas.",
-   "image": null
-  },
-  {
-   "title": "Why Bearman’s expected 2027 Haas F1 deal remains unsigned",
-   "url": "https://www.autosport.com/f1/news/why-bearmans-expected-2027-haas-f1-deal-remains-unsigned/10877066/",
-   "source": "Autosport",
-   "date": "2026-11-23T09:05:17.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ferrari protege Oliver Bearman remains the only driver on the F1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention at Haas had been…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6AlvVJqY/s6/oliver-bearman-haas-f1-team-2.jpg"
-  },
-  {
-   "title": "Salary dispute holding up Ollie Bearman’s new Haas F1 deal",
-   "url": "https://www.motorsport.com/f1/news/salary-dispute-holding-up-oliver-bearmans-new-haas-f1-deal/10877064/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T09:02:57.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ferrari protege Oliver Bearman remains the only driver on the Formula 1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention at Haas had…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas-2.jpg"
   },
   {
    "title": "Laurin Heinrich \"deeply disappointed but not surprised\" by Raffaele Marciello after Macau clash",
@@ -486,6 +476,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YMXb8LG2/s6/tomoki-nojiri-team-mugen-autob.jpg"
   },
   {
+   "title": "Macau GP: Craigie wins F4 World Cup after first-lap pile-up",
+   "url": "https://www.autosport.com/openwheel/news/kenzo-craigie-wins-macau-f4-world-cup-after-huge-10-car-crash/10876648/",
+   "source": "Autosport",
+   "date": "2026-11-22T02:59:40.000Z",
+   "series": "Motorsport",
+   "result": true,
+   "summary": "Mercedes junior Kenzo Craigie won the FIA Formula 4 World Cup in Macau after the race had to be restarted following a pile-up that eliminated 10 cars. The F4 drivers had been involved in multiple incidents on Thursday…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGgzg4Y/s6/b9b79d9f3ddb09035252660cfd7786-2.jpg"
+  },
+  {
    "title": "MotoGP Portuguese GP: Full starting grid",
    "url": "https://www.motorsport.com/motogp/news/motogp-portuguese-gp-full-starting-grid/10876529/",
    "source": "Motorsport.com",
@@ -524,6 +524,16 @@
    "result": false,
    "summary": "Jack Miller has slammed MotoGP’s decision to move the Portimao sprint race forward by 30 minutes due to expected inclement weather",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364727_HiRes.jpg"
+  },
+  {
+   "title": "How Marc Marquez can clinch the MotoGP title in Sunday's Portuguese Grand Prix",
+   "url": "https://www.motorsport.com/motogp/news/how-marc-marquez-can-clinch-the-world-title-in-sundays-portuguese-grand-prix/10876601/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T18:00:39.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Following his dramatic late crash in Saturday's sprint race at Portimao, Marc Marquez was unable to seal the world championship. The Spaniard also still has two rivals to consider after Marco Bezzecchi won the race to…",
+   "image": "https://cdn-1.motorsport.com/images/amp/27No8d30/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Super Formula Suzuka: Kakunoshin Ohta secures title in dramatic fashion as Ayumu Iwasa wins Race 1",
