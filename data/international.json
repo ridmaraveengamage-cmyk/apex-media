@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:41:13.586Z",
+ "updated": "2026-11-23T08:34:51.085Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -165,6 +165,26 @@
  },
  "items": [
   {
+   "title": "Edd Straw's F1 2026 Las Vegas Grand Prix driver rankings",
+   "url": "https://www.the-race.com/formula-1/edd-straws-f1-2026-las-vegas-grand-prix-driver-rankings/",
+   "source": "The Race",
+   "date": "2026-11-23T08:21:45.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Who actually did the best (and worst) job in Formula 1’s wild overtaking-fest Las Vegas Grand Prix?",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455862_HiRes.jpg"
+  },
+  {
+   "title": "Verstappen expects F1’s ‘yo-yo racing’ won’t be fixed until 2030 engines arrive",
+   "url": "https://www.racefans.net/2026/11/23/verstappen-expects-f1s-yo-yo-racing-wont-be-fixed-until-2030-engines-arrive/",
+   "source": "RaceFans",
+   "date": "2026-11-23T07:15:50.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Max Verstappen expects the 'yo-yo racing' seen at some races this year will remain a feature of F1 until it replaces its current power unit rules.",
+   "image": null
+  },
+  {
    "title": "5 betting lessons after Verstappen wins in Las Vegas",
    "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-after-max-verstappen-wins-the-las-vegas-grand-prix.5B4tZcliWQwS63az2nHNab",
    "source": "Formula1.com",
@@ -305,16 +325,6 @@
    "image": null
   },
   {
-   "title": "\"I actually liked it\" – McLaren boss defends Piastri's four-letter outburst in Las Vegas GP",
-   "url": "https://www.motorsport.com/f1/news/i-actually-liked-it-mclaren-boss-defends-piastris-four-letter-outburst-in-las-vegas-gp/10876928/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T18:01:18.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Completing the podium behind a victorious Max Verstappen in Las Vegas probably wasn't on McLaren's bingo card after a troubled qualifying session for Lando Norris and Oscar Piastri. Finishing third would have seemed…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0JXR7QEY/s6/oscar-piastri-mclaren-2.jpg"
-  },
-  {
    "title": "'I will put my name on MotoGP trophy again,' vows Jorge Martin after ceding 2026 title to Marc Marquez",
    "url": "https://www.motorsport.com/motogp/news/i-will-put-my-name-on-motogp-trophy-again-vows-jorge-martin-after-ceding-2026-title-to-marc-marquez/10877017/",
    "source": "Motorsport.com",
@@ -325,17 +335,7 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YMXbR7V2/s6/jorge-martin-aprilia-racing-te.jpg"
   },
   {
-   "title": "What the teams said – Race day in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-las-vegas-2026.2UjFcltnN1WABnZawPqeyP",
-   "source": "Formula1.com",
-   "date": "2026-11-22T17:17:33.456Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The drivers and teams report back on all the events from the 2026 Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Marc Marquez overtakes Valentino Rossi - now only Angel Nieto and Giacomo Agostini have more titles",
+   "title": "Marquez overtakes Rossi - now only Nieto and Agostini have more titles",
    "url": "https://www.autosport.com/motogp/news/marc-marquez-overtakes-valentino-rossi-now-only-angel-nieto-and-giacomo-agostini-have-more-titles/10877016/",
    "source": "Autosport",
    "date": "2026-11-22T17:06:36.000Z",
