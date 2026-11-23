@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:15:53.261Z",
+ "updated": "2026-11-23T00:16:08.106Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -164,6 +164,16 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Wolff explains how Mercedes challenge fell apart in Vegas",
+   "url": "https://www.formula1.com/en/latest/article/wolff-explains-how-the-mercedes-challenge-fell-apart-in-the-closing-laps-in-las-vegas.4Zf0W1yuHxigFi72cspCj",
+   "source": "Formula1.com",
+   "date": "2026-11-23T00:16:08.106Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell and Kimi Antonelli were both in contention for victory in Las Vegas, until it all came undone in the final laps of the event.",
+   "image": null
+  },
   {
    "title": "Racing Bulls drivers assess 'massive lost opportunity' in Vegas",
    "url": "https://www.formula1.com/en/latest/article/massive-lost-opportunity-racing-bulls-drivers-reflect-on-no-points-in-las-vegas-gp.1iWZ2ywDpgkLb1FyxW9mcX",
@@ -352,16 +362,6 @@
    "series": "F1",
    "result": true,
    "summary": "It was Verstappen’s third Vegas win in four years, but what did the 2026 edition of this iconic race teach F1 betting fans ahead of the final two races.",
-   "image": null
-  },
-  {
-   "title": "Hadjar 'clueless' on reason for front wing failure in Vegas",
-   "url": "https://www.formula1.com/en/latest/article/hadjar-clueless-on-reason-for-front-wing-failure-as-post-race-penalty-demotes-him-a-place-in-las-vegas-gp.2tF9g5VLiq5P6MtIpiaZ1J",
-   "source": "Formula1.com",
-   "date": "2026-11-22T16:17:05.879Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Isack Hadjar admits \"I'm waiting for the team to tell me what happened\" after his front wing broke during the Las Vegas Grand Prix, denying the Red Bull driver a chance of a podium.",
    "image": null
   },
   {

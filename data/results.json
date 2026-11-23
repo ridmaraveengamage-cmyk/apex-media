@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:15:56.515Z",
+ "updated": "2026-11-23T00:16:12.930Z",
  "status": {
   "F1": "ok",
   "MotoGP": "ok",
@@ -1111,25 +1111,25 @@
     }
    ],
    "lastRace": {
-    "name": "Grand Prix of Qatar",
-    "place": "Lusail International Circuit",
-    "date": "2026-11-08",
+    "name": "Grand Prix of Portugal",
+    "place": "Autódromo Internacional do Algarve",
+    "date": "2026-11-22",
     "results": [
      {
       "pos": 1,
       "name": "Marco Bezzecchi",
       "team": "Aprilia Racing",
       "color": "#41bfaa",
-      "time": "41:29.173",
+      "time": "41:30.802",
       "points": 25,
       "fastest": false
      },
      {
       "pos": 2,
-      "name": "Marc Marquez",
-      "team": "Ducati Lenovo Team",
-      "color": "#d40000",
-      "time": "+3.083",
+      "name": "Jorge Martin",
+      "team": "Aprilia Racing",
+      "color": "#41bfaa",
+      "time": "+3.845",
       "points": 20,
       "fastest": false
      },
@@ -1138,70 +1138,70 @@
       "name": "Raul Fernandez",
       "team": "SuperFile Trackhouse MotoGP Team",
       "color": "#41bfaa",
-      "time": "+3.614",
+      "time": "+5.711",
       "points": 16,
       "fastest": false
      },
      {
       "pos": 4,
-      "name": "Ai Ogura",
-      "team": "SuperFile Trackhouse MotoGP Team",
-      "color": "#41bfaa",
-      "time": "+4.885",
+      "name": "Fabio Di Giannantonio",
+      "team": "Pertamina Enduro VR46 Racing Team",
+      "color": "#d40000",
+      "time": "+8.828",
       "points": 13,
       "fastest": false
      },
      {
       "pos": 5,
-      "name": "Enea Bastianini",
-      "team": "Red Bull KTM Tech3",
-      "color": "#ff6600",
-      "time": "+6.948",
+      "name": "Ai Ogura",
+      "team": "SuperFile Trackhouse MotoGP Team",
+      "color": "#41bfaa",
+      "time": "+10.305",
       "points": 11,
       "fastest": false
      },
      {
       "pos": 6,
-      "name": "Pedro Acosta",
-      "team": "Red Bull KTM Factory Racing",
-      "color": "#ff6600",
-      "time": "+7.413",
+      "name": "Fermin Aldeguer",
+      "team": "BK8 Gresini Racing MotoGP",
+      "color": "#d40000",
+      "time": "+14.107",
       "points": 10,
       "fastest": false
      },
      {
       "pos": 7,
-      "name": "Jorge Martin",
-      "team": "Aprilia Racing",
-      "color": "#41bfaa",
-      "time": "+14.023",
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "color": "#ff6600",
+      "time": "+17.465",
       "points": 9,
       "fastest": false
      },
      {
       "pos": 8,
-      "name": "Fabio Di Giannantonio",
-      "team": "Pertamina Enduro VR46 Racing Team",
+      "name": "Marc Marquez",
+      "team": "Ducati Lenovo Team",
       "color": "#d40000",
-      "time": "+15.517",
+      "time": "+18.162",
       "points": 8,
       "fastest": false
      },
      {
       "pos": 9,
-      "name": "Johann Zarco",
-      "team": "Castrol Honda LCR",
+      "name": "Luca Marini",
+      "team": "Honda HRC Castrol",
       "color": "#e4002b",
-      "time": "+16.257",
+      "time": "+18.599",
       "points": 7,
       "fastest": false
      },
      {
       "pos": 10,
       "name": "Iker Lecuona",
-      "team": "BK8 Gresini Racing MotoGP",
+      "team": "Ducati Lenovo Team",
       "color": "#d40000",
-      "time": "+17.958",
+      "time": "+22.275",
       "points": 6,
       "fastest": false
      }
