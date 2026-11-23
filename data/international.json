@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:50:46.918Z",
+ "updated": "2026-11-23T22:51:52.908Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,8 +147,9 @@
   }
  ],
  "bySeries": {
+  "IndyCar": 6,
   "F1": 15,
-  "IMSA": 11,
+  "IMSA": 10,
   "MotoGP": 15,
   "WEC": 15,
   "Motorsport": 3,
@@ -159,12 +160,21 @@
   "F2 / F3": 2,
   "Super Formula": 2,
   "NASCAR": 15,
-  "IndyCar": 6,
   "Formula E": 10,
   "Dakar": 2,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Nikita Johnson targets Alex Palou’s rookie benchmark with Coyne ahead of 2027 IndyCar debut",
+   "url": "https://www.motorsport.com/indycar/news/nikita-johnson-targets-alex-palous-rookie-benchmark-with-coyne-ahead-of-2027-indycar-debut/10877312/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T22:05:42.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "Nikita Johnson is using Alex Palou’s 2020 rookie run with Dale Coyne Racing as the exact benchmark for his own IndyCar Series debut next season. Before Palou became a five-time IndyCar champion with Chip Ganassi Racing…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6AlvMq1Y/s6/nikita-johnson-barber-motorspo-3.jpg"
+  },
   {
    "title": "The ingredients that created a Grand Prix with 352 overtakes",
    "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV",
@@ -380,7 +390,7 @@
    "url": "https://www.motorsport.com/wec/news/all-manufacturers-to-have-exited-wec-hypercar-or-imsa-gtp-since-2021/10877199/",
    "source": "Motorsport.com",
    "date": "2026-11-23T15:02:16.000Z",
-   "series": "IMSA",
+   "series": "WEC",
    "result": false,
    "summary": "The current era has attracted a host of new names to the top of sportscar racing, but it has also seen several manufacturers disappear from the grid. While the LMH and LMDh platforms have been instrumental in heralding…",
    "image": "https://cdn-1.motorsport.com/images/amp/2dEopXnY/s6/start-of-the-race-2.jpg"
@@ -1206,16 +1216,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0kZAwwo6/s6/mick-schumacher-rahal-letterma.jpg"
   },
   {
-   "title": "AJ Foyt Racing, GM Defense, and Congressional Medal of Honor Society launch Project Accelerator",
-   "url": "https://www.motorsport.com/indycar/news/aj-foyt-racing-gm-defense-and-congressional-medal-of-honor-society-launch-project-accelerator/10873675/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T18:00:04.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "AJ Foyt Racing, GM Defense, and the Congressional Medal of Honor Society have launched Project Accelerator, a motorsports-driven networking platform designed to connect leaders across the defense, technology, and racing…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6O7zrg56/s6/cmoh-iso1-110926.jpg"
-  },
-  {
    "title": "Jake Walker returns to Turner Motorsport for full-time 2027 IMSA GTD drive",
    "url": "https://www.motorsport.com/imsa/news/jake-walker-returns-to-turner-motorsport-for-full-time-2027-imsa-gtd-drive/10873685/",
    "source": "Motorsport.com",
@@ -1254,16 +1254,6 @@
    "result": false,
    "summary": "Toyota says the battle for the drivers’ title was effectively decided before the Monza 6 Hours, hinting at the Balance of Performance as a contributing factor for an anticlimactic end to the 2026 World Endurance…",
    "image": "https://cdn-1.motorsport.com/images/amp/6b8ZM4j2/s6/8-toyota-gazoo-racing-toyota-t.jpg"
-  },
-  {
-   "title": "The Monza heartbreak that left Genesis without a podium in maiden WEC campaign",
-   "url": "https://www.motorsport.com/wec/news/the-monza-heartbreak-that-left-genesis-without-a-podium-in-maiden-wec-campaign/10873445/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T09:09:20.000Z",
-   "series": "WEC",
-   "result": true,
-   "summary": "Genesis’s maiden campaign in the World Endurance Championship ended without a single podium finish after its leading hypercar retired from the Monza 6 Hours due to a technical issue. Paul-Loup Chatin was running a…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2GdK1kVY/s6/19-genesis-magma-racing-genesi.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Predictions",
