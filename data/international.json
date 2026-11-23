@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:34:51.085Z",
+ "updated": "2026-11-23T09:53:33.183Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,6 +148,7 @@
  ],
  "bySeries": {
   "F1": 15,
+  "F2 / F3": 1,
   "Motorsport": 3,
   "MotoGP": 15,
   "Super Formula": 2,
@@ -164,6 +165,76 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "The ingredients that created a Grand Prix with 352 overtakes",
+   "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV",
+   "source": "Formula1.com",
+   "date": "2026-11-23T09:53:33.183Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Michael Lamonato dissects the circumstances behind a record-breaking Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "What the teams said – Race day in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-las-vegas-2026.2UjFcltnN1WABnZawPqeyP",
+   "source": "Formula1.com",
+   "date": "2026-11-23T09:53:33.183Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The drivers and teams report back on all the events from the 2026 Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Max Verstappen compares chaotic Las Vegas GP win to playing Mario Kart",
+   "url": "https://www.crash.net/f1/news/1110829/1/max-verstappen-compares-chaotic-las-vegas-gp-win-playing-mario-kart",
+   "source": "Crash.net",
+   "date": "2026-11-23T09:45:00.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Max Verstappen compared the chaotic Las Vegas Grand Prix to Mario Kart but admitted the racing left him unconvinced despite taking victory.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456298_hires.jpg?width=1200"
+  },
+  {
+   "title": "Herta replaced at Hitech to end F2 season early",
+   "url": "https://www.autosport.com/formula2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877140/",
+   "source": "Autosport",
+   "date": "2026-11-23T09:42:39.000Z",
+   "series": "F2 / F3",
+   "result": false,
+   "summary": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech. The nine-time IndyCar race winner made the transition to…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg"
+  },
+  {
+   "title": "Red Bull told Verstappen to consider letting Antonelli pass him for the final lap",
+   "url": "https://www.racefans.net/2026/11/23/red-bull-told-verstappen-to-consider-letting-antonelli-pass-him-for-the-final-lap/",
+   "source": "RaceFans",
+   "date": "2026-11-23T09:19:44.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Red Bull told Max Verstappen to consider giving up the lead to Andrea Kimi Antonelli on the penultimate lap of the race in Las Vegas.",
+   "image": null
+  },
+  {
+   "title": "Why Bearman’s expected 2027 Haas F1 deal remains unsigned",
+   "url": "https://www.autosport.com/f1/news/why-bearmans-expected-2027-haas-f1-deal-remains-unsigned/10877066/",
+   "source": "Autosport",
+   "date": "2026-11-23T09:05:17.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ferrari protege Oliver Bearman remains the only driver on the F1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention at Haas had been…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6AlvVJqY/s6/oliver-bearman-haas-f1-team-2.jpg"
+  },
+  {
+   "title": "Salary dispute holding up Ollie Bearman’s new Haas F1 deal",
+   "url": "https://www.motorsport.com/f1/news/salary-dispute-holding-up-oliver-bearmans-new-haas-f1-deal/10877064/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T09:02:57.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ferrari protege Oliver Bearman remains the only driver on the Formula 1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention at Haas had…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas-2.jpg"
+  },
   {
    "title": "Edd Straw's F1 2026 Las Vegas Grand Prix driver rankings",
    "url": "https://www.the-race.com/formula-1/edd-straws-f1-2026-las-vegas-grand-prix-driver-rankings/",
@@ -192,16 +263,6 @@
    "series": "F1",
    "result": true,
    "summary": "It was Verstappen’s third Vegas win in four years, but what did the 2026 edition of this iconic race teach F1 betting fans ahead of the final two races.",
-   "image": null
-  },
-  {
-   "title": "Hadjar 'clueless' on reason for front wing failure in Vegas",
-   "url": "https://www.formula1.com/en/latest/article/hadjar-clueless-on-reason-for-front-wing-failure-as-post-race-penalty-demotes-him-a-place-in-las-vegas-gp.2tF9g5VLiq5P6MtIpiaZ1J",
-   "source": "Formula1.com",
-   "date": "2026-11-23T01:53:26.082Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Isack Hadjar admits \"I'm waiting for the team to tell me what happened\" after his front wing broke during the Las Vegas Grand Prix, denying the Red Bull driver a chance of a podium.",
    "image": null
   },
   {
@@ -251,7 +312,7 @@
    "date": "2026-11-22T20:32:03.000Z",
    "series": "F1",
    "result": false,
-   "summary": "F1 is planning a shift to just two power unit supplies per manufacturer in 2030, Autosport has learned, raising questions over the status of Mercedes' three current customers. Over the Las Vegas weekend the FIA…",
+   "summary": "Formula 1 is planning a shift to just two power unit supplies per manufacturer in 2030, Autosport has learned, raising questions over the status of Mercedes' three current customers. Over the Las Vegas weekend the FIA…",
    "image": "https://cdn-1.motorsport.com/images/amp/YP7rVg42/s6/race-start-2.jpg"
   },
   {
@@ -265,46 +326,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/68Vw5vX2/s6/andrea-kimi-antonelli-mercedes.jpg"
   },
   {
-   "title": "All the key moments from the Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/las-vegas-lowdown-all-the-key-moments-as-verstappen-wins-remarkable-race-and-ferraris-drivers-collide-again.62D9SeuQXSboAspMm7N0pN",
-   "source": "Formula1.com",
-   "date": "2026-11-22T19:26:50.346Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen claimed his fourth win of the season in Las Vegas, having withstood immense pressure throughout in a thrilling race which featured more than 30 changes of the lead.",
-   "image": null
-  },
-  {
-   "title": "Latest Hamilton-Leclerc clash ‘unacceptable’ – Vasseur",
-   "url": "https://www.formula1.com/en/latest/article/its-a-lack-of-respect-vasseur-calls-latest-hamilton-leclerc-clash-in-las-vegas-unacceptable.5NGehhmEEtLqzDKxm7bi4z",
-   "source": "Formula1.com",
-   "date": "2026-11-22T19:26:50.346Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ferrari boss Fred Vasseur has branded the latest clash between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix “unacceptable”, calling for greater respect between his drivers.",
-   "image": null
-  },
-  {
-   "title": "Camara to finish F1 season with Haas, ending F2 title bid",
-   "url": "https://www.autosport.com/f1/news/haas-keeps-rafael-camara-in-f1-ending-his-2026-f2-title-bid/10877044/",
-   "source": "Autosport",
-   "date": "2026-11-22T18:32:32.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge. Camara was confirmed in October as a full-time replacement for Esteban Ocon in 2027…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YP74VKA2/s6/rafael-camara-haas-2.jpg"
-  },
-  {
-   "title": "Haas keeps Rafael Camara in F1, ending his 2026 F2 title bid",
-   "url": "https://www.motorsport.com/f1/news/rafael-camara-gives-up-f2-title-chance-to-finish-2026-f1-season-with-haas/10877028/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T18:28:04.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge. Camara was confirmed in October as a full-time replacement for Esteban Ocon in 2027…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YvKBe8e6/s6/rafael-camara-haas.jpg"
-  },
-  {
    "title": "Laurin Heinrich \"deeply disappointed but not surprised\" by Raffaele Marciello after Macau clash",
    "url": "https://www.motorsport.com/gt/news/macau-gt-laurin-heinrich-raffaele-marciello-crash/10877023/",
    "source": "Motorsport.com",
@@ -313,16 +334,6 @@
    "result": false,
    "summary": "Laurin Heinrich has spoken out following the opening-lap collision in the 2026 Macau FIA GT World Cup main race that robbed the Porsche driver of victory after a dominant weekend. With a stony expression, Heinrich had…",
    "image": "https://cdn-1.motorsport.com/images/amp/l0LkOvN6/s6/macau-crash-heinrich-von-marciello-tief-enttaeuscht-aber-nicht-ueberrascht-26112203.jpg"
-  },
-  {
-   "title": "Haas confirm Camara will drive for team in final races of 2026",
-   "url": "https://www.formula1.com/en/latest/article/haas-confirm-camara-will-drive-for-the-team-in-final-races-of-2026.2wYY9ymhyqr7rXcuK6S7bj",
-   "source": "Formula1.com",
-   "date": "2026-11-22T18:12:58.806Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ahead of his first full-time Formula 1 season in 2027, Rafael Camara will again drive for Haas at the 2026 Qatar and Abu Dhabi Grands Prix.",
-   "image": null
   },
   {
    "title": "'I will put my name on MotoGP trophy again,' vows Jorge Martin after ceding 2026 title to Marc Marquez",
