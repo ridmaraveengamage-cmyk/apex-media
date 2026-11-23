@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:59:40.888Z",
+ "updated": "2026-11-23T17:56:43.538Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -152,10 +152,10 @@
   "MotoGP": 15,
   "WEC": 15,
   "Motorsport": 3,
+  "Karting": 8,
   "WRC": 12,
   "BTCC": 3,
   "DTM": 4,
-  "Karting": 7,
   "F2 / F3": 2,
   "Super Formula": 2,
   "NASCAR": 15,
@@ -165,6 +165,66 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "The ingredients that created a Grand Prix with 352 overtakes",
+   "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV",
+   "source": "Formula1.com",
+   "date": "2026-11-23T17:56:43.538Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Michael Lamonato dissects the circumstances behind a record-breaking Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Max Verstappen’s deadpan reaction to winning F1’s Overtake of the Month award",
+   "url": "https://www.motorsport.com/f1/news/max-verstappens-deadpan-reaction-to-winning-f1s-overtake-of-the-month-award/10877217/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T17:51:43.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen has never been one for forced showmanship, and Formula 1’s Las Vegas Grand Prix Fan Forum offered another reminder. Appearing on stage in Red Bull’s tan Las Vegas teamwear alongside team-mate Isack Hadjar…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0mXykV56/s6/max-verstappen-red-bull-racing-a10877217-b707-2.jpg"
+  },
+  {
+   "title": "Max Verstappen considering 2027 Daytona 24 Hours entry",
+   "url": "https://www.autosport.com/f1/news/max-verstappen-reveals-he-is-considering-2027-daytona-24-hours-entry/10877159/",
+   "source": "Autosport",
+   "date": "2026-11-23T17:43:13.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ahead of the Formula 1 Las Vegas Grand Prix, Max Verstappen first paid a visit to Daytona. The Dutchman said he was primarily there to film content with Red Bull, but the visit also raises the question of whether he is…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6VyKxMwY/s6/max-verstappen-red-bull-racing.jpg"
+  },
+  {
+   "title": "Andrea Stella warns against knee-jerk reaction as Las Vegas reshapes 2030 debate",
+   "url": "https://www.motorsport.com/f1/news/andrea-stella-warns-f1-against-polarised-verdicts-after-record-352-overtake-las-vegas-spectacle/10877202/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T17:38:42.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 1 left Las Vegas facing an awkward paradox. Barely 24 hours after the FIA confirmed unanimous agreement on a framework to introduce simpler, 2.1-litre turbocharged V8 engines in 2030 - a move driven largely by…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0R7BZwO2/s6/andrea-stella-mclaren-a10877202-b706-2.jpg"
+  },
+  {
+   "title": "Lando Norris: \"Looking at the battery more than where I'm going\" in Las Vegas",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-looking-at-the-battery-more-than-where-im-going-in-las-vegas/10877274/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T17:04:03.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "McLaren Formula 1 driver Lando Norris says he spent more of the Las Vegas Grand Prix watching his battery than the road ahead, as he recovered from outside the points to second place. The 2025 champion started third but…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YK15z410/s6/lando-norris-mclaren-a10877274-b706-2.jpg"
+  },
+  {
+   "title": "Russell says he’d worked out how to beat Verstappen to the finishing line",
+   "url": "https://www.racefans.net/2026/11/23/russell-says-hed-worked-out-how-to-beat-verstappen-to-the-finishing-line/",
+   "source": "RaceFans",
+   "date": "2026-11-23T17:02:40.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell says he'd found a better energy deployment strategy to beat Max Verstappen to the finishing than his team mate.",
+   "image": null
+  },
   {
    "title": "The timeline of Verstappen and Russell’s long rivalry",
    "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN",
@@ -286,36 +346,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6AEWkpk6/s6/george-russell-mercedes-f1-w15-2.jpg"
   },
   {
-   "title": "Gasly reveals issue as he felt he could challenge for Vegas win",
-   "url": "https://www.formula1.com/en/latest/article/gasly-reveals-car-issue-in-las-vegas-as-he-felt-he-could-challenge-for-the-win.yyZX6FzglV6KSXOeQBOJN",
-   "source": "Formula1.com",
-   "date": "2026-11-23T16:01:41.111Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pierre Gasly was one of the stars of a thrilling Las Vegas Grand Prix as the Alpine driver battled with drivers from the top four teams for the whole race.",
-   "image": null
-  },
-  {
-   "title": "Verstappen 'from a different planet' – Mekies",
-   "url": "https://www.formula1.com/en/latest/article/hes-from-a-different-planet-mekies-praises-verstappen-after-las-vegas-gp-victory.TXH10rYL99f2dIZqnVbCq",
-   "source": "Formula1.com",
-   "date": "2026-11-23T16:01:41.111Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Laurent Mekies believes Max Verstappen is \"from a different planet\" after the Red Bull driver \"outsmarted the opposition\" on his way to victory in the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Battle for second place tightens as finish line nears",
-   "url": "https://www.formula1.com/en/latest/article/battle-for-second-place-tightens-as-2026-world-championship-finish-line-nears.5Rqr6EDZZLiPtFbnomVdfb",
-   "source": "Formula1.com",
-   "date": "2026-11-23T16:01:41.111Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen made it four wins in six races but challengers for second place are queueing up.",
-   "image": null
-  },
-  {
    "title": "Peugeot WEC team axed, Citroen and Opel Formula E squads to close after 2027",
    "url": "https://www.racefans.net/2026/11/23/peugeot-wec-team-axed-citroen-and-opel-formula-e-squads-to-close-after-2027/",
    "source": "RaceFans",
@@ -336,14 +366,14 @@
    "image": "https://cdn-1.motorsport.com/images/amp/25d3GRE0/s6/greg-james-bbc-radio-1-present.jpg"
   },
   {
-   "title": "Lewis Hamilton addresses Ferrari number one debate after Charles Leclerc collision",
-   "url": "https://www.crash.net/f1/news/1110846/1/lewis-hamilton-addresses-ferrari-number-one-debate-after-charles-leclerc",
-   "source": "Crash.net",
-   "date": "2026-11-23T15:15:00.000Z",
-   "series": "F1",
+   "title": "Soaking Wet Finals for Second Round of the WSK Final Cup in Lonato",
+   "url": "https://www.ekartingnews.com/2026/11/23/soaking-wet-finals-for-second-round-of-the-wsk-final-cup-in-lonato/",
+   "source": "eKartingNews",
+   "date": "2026-11-23T15:08:39.000Z",
+   "series": "Karting",
    "result": false,
-   "summary": "Lewis Hamilton has addressed the debate surrounding Ferrari's number one driver following another collision with Charles Leclerc",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1451080_hires.jpg?width=1200"
+   "summary": "Rain arrived at South Garda Karting to make the final phase of the second round of the WSK Final Cup even more challenging, delivering several surprising results that made this weekend—marked by an exceptional…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/11/WSK-2026-Final-Lonato-OKN-300x200.jpg"
   },
   {
    "title": "All manufacturers to have exited WEC Hypercar or IMSA GTP since 2021",
@@ -386,16 +416,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6AlvMp1Y/s6/morgan-r6tb0837-jpg.jpg"
   },
   {
-   "title": "Why Norris and Piastri had 'one of their best races' in Vegas",
-   "url": "https://www.formula1.com/en/latest/article/why-stella-believes-norris-and-piastri-had-one-of-their-best-races-in-las-vegas.3nrRVW1vlGiQAEe5LokXri",
-   "source": "Formula1.com",
-   "date": "2026-11-23T14:40:50.830Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris and Oscar Piastri finished second and third in the Las Vegas Grand Prix, with McLaren Team Principal Andrea Stella praising their performances despite the limitations of the MCL40.",
-   "image": null
-  },
-  {
    "title": "Timo Glock rediscovers his joy in Land Porsche test: \"I couldn't stop grinning\"",
    "url": "https://www.motorsport.com/dtm/news/glock-rediscovers-his-joy-in-land-porsche-test/10877236/",
    "source": "Motorsport.com",
@@ -404,16 +424,6 @@
    "result": false,
    "summary": "Timo Glock had a broad grin on his face after his surprise test day in the Land Porsche at the Hockenheimring on the 12th of October. \"Now I definitely feel like carrying on,\" says the 44-year-old, who has two tough DTM…",
    "image": "https://cdn-1.motorsport.com/images/amp/B6b4vGB2/s6/glock-nach-land-porsche-test-freude-seit-zwei-jahren-nicht-mehr-so-gross-26111301.jpg"
-  },
-  {
-   "title": "Lewis Hamilton: Ferrari’s top-speed deficit was “brutal” at F1 Las Vegas GP",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-ferraris-top-speed-deficit-was-brutal-at-f1-las-vegas-gp/10876908/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T14:03:33.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ferrari Formula 1 driver Lewis Hamilton says the SF-26’s top-speed deficit was exposed as even more “brutal” than he expected on Las Vegas’ long straights. Hamilton and Charles Leclerc were both eliminated in Q2 and…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6VyK51VY/s6/lewis-hamilton-ferrari.jpg"
   },
   {
    "title": "Jezierski and Bowen Win FIA Karting Arrive and Drive World Cup",
