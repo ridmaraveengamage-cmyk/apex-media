@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:51:52.908Z",
+ "updated": "2026-11-23T23:48:59.522Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,6 +147,7 @@
   }
  ],
  "bySeries": {
+  "NASCAR": 15,
   "IndyCar": 6,
   "F1": 15,
   "IMSA": 10,
@@ -159,12 +160,21 @@
   "DTM": 4,
   "F2 / F3": 2,
   "Super Formula": 2,
-  "NASCAR": 15,
   "Formula E": 10,
   "Dakar": 2,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Dodge’s NASCAR Cup car unveil will include celebrity exhibition race during Snowball Derby",
+   "url": "https://www.motorsport.com/nascar-cup/news/dodges-nascar-cup-car-unveil-will-include-celebrity-exhibition-race-during-snowball-derby/10877320/",
+   "source": "Motorsport.com",
+   "date": "2026-11-23T22:58:50.000Z",
+   "series": "NASCAR",
+   "result": false,
+   "summary": "As part of the unveil of the Dodge car that will race in the NASCAR Cup Series next season under the Kaulig Racing umbrella, a celebrity race has been scheduled for the Snowball Derby featuring celebrities driving Late…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6lmAp3L0/s6/672030415-1760307632025829-573.jpg"
+  },
   {
    "title": "Nikita Johnson targets Alex Palou’s rookie benchmark with Coyne ahead of 2027 IndyCar debut",
    "url": "https://www.motorsport.com/indycar/news/nikita-johnson-targets-alex-palous-rookie-benchmark-with-coyne-ahead-of-2027-indycar-debut/10877312/",
@@ -1144,16 +1154,6 @@
    "result": false,
    "summary": "Mexico City will now serve as the season opener for the 2026/27 Formula E campaign after the postponement of the Jeddah E-Prix. The Saudi Arabian circuit was scheduled to kickstart the Gen4 era on 18-19 December with a…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5PvQ7Y/s6/edoardo-mortara-mahindra-racin.jpg"
-  },
-  {
-   "title": "Austin Cindric wins Ford Veterans Day Classic at Daytona",
-   "url": "https://www.motorsport.com/general/news/austin-cindric-wins-ford-veterans-day-classic-at-daytona/10873980/",
-   "source": "Motorsport.com",
-   "date": "2026-11-12T03:15:35.000Z",
-   "series": "NASCAR",
-   "result": true,
-   "summary": "2022 Daytona 500 winner Austin Cindric, representing the Air Force, won the first-ever Proud to Honor Veterans Day Classic, featuring 12 Ford Mustangs in a 30-minute contest around the Daytona International Speedway…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6zoD8370/s6/gettyimages-2304689083-2.jpg"
   },
   {
    "title": "Wright Motorsports names full-time 2027 IMSA GTD lineup as Sargent joins Adelson",
