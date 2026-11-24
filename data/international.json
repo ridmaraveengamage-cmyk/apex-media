@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:48:59.522Z",
+ "updated": "2026-11-24T01:03:15.024Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,13 +147,13 @@
   }
  ],
  "bySeries": {
+  "Motorsport": 4,
   "NASCAR": 15,
   "IndyCar": 6,
   "F1": 15,
   "IMSA": 10,
   "MotoGP": 15,
   "WEC": 15,
-  "Motorsport": 3,
   "Karting": 8,
   "WRC": 12,
   "BTCC": 3,
@@ -165,6 +165,16 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "On This Day: McLaren appoint rookie Hamilton as Alonso’s team mate for 2007",
+   "url": "https://www.racefans.net/2026/11/24/on-this-day-hamilton-joins-mclaren/",
+   "source": "RaceFans",
+   "date": "2026-11-24T00:01:00.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "McLaren hand Hamilton his Formula 1 debut alongside Alonso",
+   "image": null
+  },
   {
    "title": "Dodge’s NASCAR Cup car unveil will include celebrity exhibition race during Snowball Derby",
    "url": "https://www.motorsport.com/nascar-cup/news/dodges-nascar-cup-car-unveil-will-include-celebrity-exhibition-race-during-snowball-derby/10877320/",
