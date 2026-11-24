@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:55:54.056Z",
+ "updated": "2026-11-24T23:48:55.159Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,16 +148,16 @@
  ],
  "bySeries": {
   "F1": 15,
-  "IndyCar": 10,
+  "NASCAR": 15,
+  "IndyCar": 9,
   "Karting": 11,
   "F2 / F3": 3,
   "WRC": 10,
-  "Motorsport": 8,
+  "Motorsport": 7,
   "MotoGP": 15,
   "IMSA": 11,
   "DTM": 4,
   "WEC": 15,
-  "NASCAR": 15,
   "BTCC": 3,
   "Super Formula": 2,
   "Formula E": 10,
@@ -166,6 +166,36 @@
  },
  "items": [
   {
+   "title": "The 5 drivers most likely to qualify fastest in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
+   "source": "Formula1.com",
+   "date": "2026-11-24T23:48:55.159Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
+   "image": null
+  },
+  {
+   "title": "Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T23:30:01.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 1’s Las Vegas Grand Prix delivered a headline statistic built for highlight reels: 352 overtakes and 35 lead changes across 50 laps, shattering the championship’s all-time passing record. Yet runner-up Lando…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren-a10877443-b706-2.jpg"
+  },
+  {
+   "title": "Joe Gibbs Racing constructs timeline of Chris Gabehart's alleged theft",
+   "url": "https://www.motorsport.com/nascar-cup/news/joe-gibbs-racing-constructs-timeline-of-chris-gabeharts-alleged-theft/10877570/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T23:12:55.000Z",
+   "series": "NASCAR",
+   "result": false,
+   "summary": "While most of the information contained within is familiar to anyone that has followed the entire legal process, Joe Gibbs Racing has now used everything acquired during discovery to construct a timeline to validate its…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YN7vjVe6/s6/gettyimages-2291455874.jpg"
+  },
+  {
    "title": "What time is the 2026 Qatar GP and how can I watch it?",
    "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
    "source": "Formula1.com",
@@ -173,16 +203,6 @@
    "series": "F1",
    "result": false,
    "summary": "Here are all the timings – along with all the additional information you need – for the 22nd Grand Prix weekend of the 2026 season from Qatar.",
-   "image": null
-  },
-  {
-   "title": "The 5 drivers most likely to win in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
-   "source": "Formula1.com",
-   "date": "2026-11-24T22:55:54.056Z",
-   "series": "F1",
-   "result": false,
-   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
    "image": null
   },
   {
@@ -196,13 +216,13 @@
    "image": null
   },
   {
-   "title": "Spotlight: IndyCar adds Kansas to 2010 calendar alongside NASCAR",
-   "url": "https://www.racefans.net/2026/11/24/spotlight-indycar-adds-kansas-to-2010-calendar-alongside-nascar/",
+   "title": "Spotlight: IndyCar adds Kansas to 2027 calendar alongside NASCAR",
+   "url": "https://www.racefans.net/2026/11/24/spotlight-indycar-adds-kansas-to-2027-calendar-alongside-nascar/",
    "source": "RaceFans",
    "date": "2026-11-24T22:52:51.000Z",
    "series": "IndyCar",
    "result": false,
-   "summary": "IndyCar returning to Kansas next year for first time since 2010",
+   "summary": "IndyCar will return to Kansas next year for first time since 2010",
    "image": null
   },
   {
@@ -234,16 +254,6 @@
    "result": false,
    "summary": "Even in a Las Vegas Grand Prix packed with 352 overtakes and 35 lead changes, the defining moments of Max Verstappen’s victory came down to raw wheel-to-wheel nerve rather than battery spreadsheets. Speaking on F1 TV’s…",
    "image": "https://cdn-1.motorsport.com/images/amp/0kZXkEK6/s6/max-verstappen-red-bull-racing-a10877407-b707-2.jpg"
-  },
-  {
-   "title": "IndyCar adds Kansas Speedway to 2027 schedule in joint NASCAR weekend",
-   "url": "https://www.motorsport.com/indycar/news/indycar-adds-kansas-speedway-to-2027-schedule-in-joint-nascar-weekend-/10877534/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T19:00:05.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
-   "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
   },
   {
    "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
@@ -416,16 +426,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/2jEAOXb0/s6/andrea-kimi-antonelli-mercedes.jpg"
   },
   {
-   "title": "Motorsport UK announces new Chair as David Richards steps down",
-   "url": "https://www.crash.net/f1/news/1110868/1/motorsport-uk-announces-new-chair-david-richards-steps-down",
-   "source": "Crash.net",
-   "date": "2026-11-24T15:13:20.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "MSUK has announced a new Chair to replace David Richards",
-   "image": "https://www.crash.net/sites/default/files/2026-09/xpb_1424310_hires.jpg?width=1200"
-  },
-  {
    "title": "Ex-Ford CEO to lead Motorsport UK as David Richards departs",
    "url": "https://www.the-race.com/business/ex-ford-ceo-to-lead-motorsport-uk-as-david-richards-departs/",
    "source": "The Race",
@@ -494,16 +494,6 @@
    "result": false,
    "summary": "Freddie Slater will make his Formula 2 debut in this year’s season-ending Qatar and Abu Dhabi rounds. The butterfly effect originating in Esteban Ocon’s fallout with the Haas Formula 1 team means Rafael Camara has been…",
    "image": "https://cdn-1.motorsport.com/images/amp/YWKAlGkY/s6/freddie-slater-audi-f1-team-2.jpg"
-  },
-  {
-   "title": "Keanu Reeves turns Toto Wolff’s Mercedes office into a comedy set",
-   "url": "https://www.motorsport.com/culture/news/keanu-reeves-nearly-tips-over-in-toto-wolffs-office-chair-during-viral-mercedes-las-vegas-gp-skit/10877389/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T12:21:34.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Even for a Formula 1 team accustomed to Hollywood glamour on the Las Vegas Strip, Mercedes pulled off one of the weekend’s best paddock cameos without a race car in sight. In a short clip posted by Mercedes during the…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7B14O2/s6/keanu-reeves-drives-the-podium-a10877389-b708-2.jpg"
   },
   {
    "title": "Grasser and Bortolotti to McLaren? What McLaren's head of motorsport says",
@@ -1284,16 +1274,6 @@
    "result": true,
    "summary": "Carson Hocevar and Cleetus McFarland have won the 2026 edition of the 2.4 Hours of LeMullets, a full-contact Crown Vic around the Freedom Factory short track in Florida The 3/8-mile oval also had a chicane of sorts on…",
    "image": "https://cdn-1.motorsport.com/images/amp/6VyK9qNY/s6/carson-hocevar-and-cleetus-mcf.jpg"
-  },
-  {
-   "title": "TV ratings released for NASCAR Cup season finale",
-   "url": "https://www.motorsport.com/nascar-cup/news/tv-ratings-released-for-nascar-cup-season-finale/10874404/",
-   "source": "Motorsport.com",
-   "date": "2026-11-13T22:02:09.000Z",
-   "series": "NASCAR",
-   "result": false,
-   "summary": "The live NBC broadcast for the 2026 NASCAR Cup Series finale at Homestead-Miami Speedway earned a 1.37 rating and 2.471 million viewers this past weekend. That is down from the 2025 finale at Phoenix Raceway, also on…",
-   "image": "https://cdn-1.motorsport.com/images/amp/24QGbbeY/s6/start-of-nascar-cup-finale-wit.jpg"
   },
   {
    "title": "Myers Riley Motorsports adds Andretti alongside returning Fraga for 2027 IMSA GTD campaign",
