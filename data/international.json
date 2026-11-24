@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:00:19.247Z",
+ "updated": "2026-11-24T10:06:38.889Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,12 +148,12 @@
  ],
  "bySeries": {
   "F1": 15,
+  "IndyCar": 7,
+  "WEC": 15,
   "NASCAR": 15,
   "Motorsport": 4,
-  "IndyCar": 6,
   "IMSA": 10,
   "MotoGP": 15,
-  "WEC": 15,
   "Karting": 8,
   "WRC": 11,
   "BTCC": 3,
@@ -165,6 +165,36 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Guenther Steiner calls for radical Charles Leclerc demotion threat after Ferrari clashes",
+   "url": "https://www.crash.net/f1/news/1110855/1/guenther-steiner-calls-radical-charles-leclerc-demotion-threat-after-ferrari",
+   "source": "Crash.net",
+   "date": "2026-11-24T09:45:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Guenther Steiner has proposed a radical solution to Ferrari's growing rivalry between Lewis Hamilton and Charles Leclerc",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456271_hires_0.jpg?width=1200"
+  },
+  {
+   "title": "Featured Comment: Herta deserves credit for trying to make the switch from IndyCar",
+   "url": "https://www.racefans.net/2026/11/24/featured-comment-herta-deserves-credit-for-trying-to-make-the-switch-from-indycar/",
+   "source": "RaceFans",
+   "date": "2026-11-24T09:25:55.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "Herta's brave F1 gamble was a risk worth taking",
+   "image": null
+  },
+  {
+   "title": "Why Peugeot is quitting WEC’s Hypercar class",
+   "url": "https://www.motorsport.com/wec/news/why-peugeot-is-quitting-wecs-hypercar-class/10877358/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T09:11:32.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Peugeot’s decision to step away from the World Endurance Championship at the end of 2026 has come as a major surprise. It was one of the first mainstream manufacturers to commit to the new Hypercar regulations, making…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2eZx9v3Y/s6/93-peugeot-totalenergies-peuge-2.jpg"
+  },
   {
    "title": "Was Hadjar helping himself or Verstappen when he collected a penalty in the pits?",
    "url": "https://www.racefans.net/2026/11/24/was-hadjar-helping-himself-or-verstappen-when-he-collected-a-penalty-in-the-pits/",
@@ -344,16 +374,6 @@
    "result": false,
    "summary": "Max Verstappen made it four wins in six races but challengers for second place are queueing up.",
    "image": null
-  },
-  {
-   "title": "What was really behind Las Vegas's 352-overtake F1 chaos",
-   "url": "https://www.the-race.com/formula-1/f1-las-vegas-gp-352-overtakes-chaos-explained/",
-   "source": "The Race",
-   "date": "2026-11-23T18:22:46.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Thought the Las Vegas GP was an extreme example of the 'yo-yo' racing seen earlier in F1 2026? That's not quite what was at play",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/M656883-1.jpg"
   },
   {
    "title": "Tsunami RT announces 2027 IMSA Michelin Endurance Cup entry in GTD",
@@ -1254,16 +1274,6 @@
    "result": false,
    "summary": "New World Rally Championship constructor Project Rally One has again called upon rally legend Sebastien Loeb to test its 2027 car ahead of its debut in Monte Carlo next year. The nine-time world rally champion joined…",
    "image": "https://cdn-1.motorsport.com/images/amp/2GdK1orY/s6/loeb.jpg"
-  },
-  {
-   "title": "Toyota “sad” WEC drivers' title was effectively decided before Monza finale",
-   "url": "https://www.motorsport.com/wec/news/toyota-sad-wec-drivers-title-was-already-decided-before-monza-finale/10873438/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T11:29:11.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Toyota says the battle for the drivers’ title was effectively decided before the Monza 6 Hours, hinting at the Balance of Performance as a contributing factor for an anticlimactic end to the 2026 World Endurance…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8ZM4j2/s6/8-toyota-gazoo-racing-toyota-t.jpg"
   },
   {
    "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Predictions",
