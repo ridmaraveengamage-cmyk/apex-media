@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:55:53.626Z",
+ "updated": "2026-11-24T18:57:42.100Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,13 +148,13 @@
  ],
  "bySeries": {
   "F1": 15,
+  "F2 / F3": 3,
   "WRC": 10,
   "Motorsport": 8,
   "MotoGP": 15,
   "IMSA": 11,
   "Karting": 10,
-  "F2 / F3": 3,
-  "DTM": 5,
+  "DTM": 4,
   "IndyCar": 8,
   "WEC": 15,
   "NASCAR": 15,
@@ -166,14 +166,24 @@
  },
  "items": [
   {
-   "title": "The 5 drivers most likely to win in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
+   "title": "The 5 drivers most likely to qualify fastest in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
    "source": "Formula1.com",
-   "date": "2026-11-24T17:55:53.626Z",
+   "date": "2026-11-24T18:57:42.100Z",
    "series": "F1",
    "result": false,
-   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
+   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
    "image": null
+  },
+  {
+   "title": "What's next for Herta after F1 2027 snub?",
+   "url": "https://www.autosport.com/f1/news/whats-next-for-herta-after-f1-2027-snub/10877533/",
+   "source": "Autosport",
+   "date": "2026-11-24T17:59:55.000Z",
+   "series": "F2 / F3",
+   "result": false,
+   "summary": "Cadillac's decision to stick with veteran incumbent Valtteri Bottas to partner Sergio Perez is a choice for continuity and stability after a debut campaign plagued with issues for Formula 1's 11th team in 2026. It also…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0arKWNy2/s6/colton-herta-hitech-gp-2.jpg"
   },
   {
    "title": "Rovanpera: New 2027 WRC cars will see \"everybody start from zero\"",
@@ -764,16 +774,6 @@
    "result": false,
    "summary": "Colton Herta will not take part in the final two Formula 2 rounds in the Middle East after missing his chance to gain a Cadillac Formula 1 drive.",
    "image": null
-  },
-  {
-   "title": "Herta replaced at Hitech to end F2 season early",
-   "url": "https://www.autosport.com/formula2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877140/",
-   "source": "Autosport",
-   "date": "2026-11-23T09:42:39.000Z",
-   "series": "F2 / F3",
-   "result": false,
-   "summary": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech. The nine-time IndyCar race winner made the transition to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg"
   },
   {
    "title": "Marquez overtakes Rossi - now only Nieto and Agostini have more titles",
@@ -1494,16 +1494,6 @@
    "result": false,
    "summary": "Oliver Solberg reckons it is “awesome” to be part of the revival of the iconic Toyota Celica brand in the World Rally Championship - and is ready to move on from this year’s title heartbreak. A little over a month since…",
    "image": "https://cdn-1.motorsport.com/images/amp/2wlKyLVY/s6/tgr-celica.jpg"
-  },
-  {
-   "title": "Lamborghini facing loss as Grasser Racing Team and star driver eye McLaren switch?",
-   "url": "https://www.motorsport.com/dtm/news/lamborghini-facing-loss-as-grasser-team-and-star-driver-eye-mclaren-switch/10871351/",
-   "source": "Motorsport.com",
-   "date": "2026-11-03T18:46:15.000Z",
-   "series": "DTM",
-   "result": false,
-   "summary": "Will Lamborghini stalwart team Grasser and star driver Mirko Bortolotti switch to McLaren in 2027? There has been speculation about it in the DTM paddock for weeks - and now colleagues at MOTORSPORT aktuell have also…",
-   "image": "https://cdn-1.motorsport.com/images/amp/G2e4Xv10/s6/lamborghini-droht-verlust-grasser-team-und-starpilot-vor-wechsel-zu-mclaren-26110301.jpg"
   }
  ]
 }
