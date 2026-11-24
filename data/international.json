@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:06:38.889Z",
+ "updated": "2026-11-24T10:57:55.350Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,11 +148,11 @@
  ],
  "bySeries": {
   "F1": 15,
-  "IndyCar": 7,
   "WEC": 15,
+  "Motorsport": 5,
+  "IndyCar": 7,
   "NASCAR": 15,
-  "Motorsport": 4,
-  "IMSA": 10,
+  "IMSA": 11,
   "MotoGP": 15,
   "Karting": 8,
   "WRC": 11,
@@ -165,6 +165,76 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Who is Tom Hart? Meet Max Verstappen’s new race engineer",
+   "url": "https://www.formula1.com/en/latest/article/who-is-tom-hart-meet-the-man-set-to-replace-gp-as-max-verstappens-race-engineer-at-red-bull.4U1Zq3JUB2gujP5OoTMW1Z",
+   "source": "Formula1.com",
+   "date": "2026-11-24T10:57:55.350Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Tom Hart has been stepping into the role of Max Verstappen's race engineer during the closing stages of the 2026 season, ahead of Gianpiero Lambiase's departure to McLaren.",
+   "image": null
+  },
+  {
+   "title": "McLaren reveal surprising stance on Oscar Piastri’s foul-mouthed radio message",
+   "url": "https://www.crash.net/f1/news/1110858/1/mclaren-reveal-surprising-stance-oscar-piastris-foul-mouthed-radio-message",
+   "source": "Crash.net",
+   "date": "2026-11-24T10:45:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "McLaren team principal Andrea Stella has addressed Oscar Piastri's frustrated response to a reminder of the team's rules of engagement",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455625_hires.jpg?width=1200"
+  },
+  {
+   "title": "F1's just had a warning about a push-to-pass future",
+   "url": "https://www.the-race.com/formula-1/f1-push-to-pass-overtaking-warning-macau-gp/",
+   "source": "The Race",
+   "date": "2026-11-24T10:42:56.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 is weighing up a push-to-pass overtaking assist for its 2030 engine rules. The world's best junior race has just shown why that's not a fix-all solution",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/b2082b95c1003d53ea7a36dc9f73e876.jpg"
+  },
+  {
+   "title": "The reasons behind Peugeot's WEC Hypercar exit",
+   "url": "https://www.autosport.com/wec/news/the-reasons-behind-peugeots-wec-hypercar-exit/10877384/",
+   "source": "Autosport",
+   "date": "2026-11-24T10:24:21.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Peugeot’s decision to step away from the World Endurance Championship at the end of 2026 has come as a major surprise. It was one of the first mainstream manufacturers to commit to the new Hypercar regulations, making…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YN7vwpP6/s6/94-peugeot-totalenergies-peuge-3.jpg"
+  },
+  {
+   "title": "Video: ‘I’d rather blow up the f***ing engine’: Gasly’s fury over cooling problems",
+   "url": "https://www.racefans.net/2026/11/24/video-id-rather-blow-up-the-fing-engine-gaslys-fury-over-cooling-problems/",
+   "source": "RaceFans",
+   "date": "2026-11-24T10:13:49.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Gasly's overheating problems made him lose his cool",
+   "image": null
+  },
+  {
+   "title": "Isack Hadjar frustrated – What really happened on Red Bull's team radio in Las Vegas",
+   "url": "https://www.motorsport.com/f1/news/isack-hadjar-frustrated-what-really-happened-on-red-bulls-team-radio-in-las-vegas/10877375/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T10:04:17.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Isack Hadjar started Formula 1’s Las Vegas Grand Prix from fourth on the grid, and by lap four he had already found himself running second, right behind Red Bull team-mate Max Verstappen. And given that the grand prix…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0qgKkjkY/s6/isack-hadjar-red-bull-racing.jpg"
+  },
+  {
+   "title": "George Russell accused of being 'all mouth and no trousers' amid Max Verstappen feud",
+   "url": "https://www.crash.net/f1/news/1110857/1/george-russell-accused-being-all-mouth-and-no-trousers-amid-max-verstappen-feud",
+   "source": "Crash.net",
+   "date": "2026-11-24T09:47:46.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell has been urged to back up his criticism of Max Verstappen with his performances on track following their latest clash",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455671_hires.jpg?width=1200"
+  },
   {
    "title": "Guenther Steiner calls for radical Charles Leclerc demotion threat after Ferrari clashes",
    "url": "https://www.crash.net/f1/news/1110855/1/guenther-steiner-calls-radical-charles-leclerc-demotion-threat-after-ferrari",
@@ -324,56 +394,6 @@
    "result": false,
    "summary": "Isack Hadjar left the 2026 Las Vegas Grand Prix empty-handed after a Lap 26 front wing failure and a post-race 10-second safety car penalty relegated him to 15th, yet Red Bull team principal Laurent Mekies saw something…",
    "image": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10877211-b707-2.jpg"
-  },
-  {
-   "title": "Guenther Steiner expects Ferrari board to react after Lewis Hamilton-Charles Leclerc clash",
-   "url": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T19:00:03.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Ferrari will make changes after Lewis Hamilton and Charles Leclerc clashed again at the Las Vegas Grand Prix. Leclerc spun Hamilton around while the pair…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877259-b704-2.jpg"
-  },
-  {
-   "title": "Gasly reveals issue as he felt he could challenge for Vegas win",
-   "url": "https://www.formula1.com/en/latest/article/gasly-reveals-car-issue-in-las-vegas-as-he-felt-he-could-challenge-for-the-win.yyZX6FzglV6KSXOeQBOJN",
-   "source": "Formula1.com",
-   "date": "2026-11-23T18:57:20.650Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pierre Gasly was one of the stars of a thrilling Las Vegas Grand Prix as the Alpine driver battled with drivers from the top four teams for the whole race.",
-   "image": null
-  },
-  {
-   "title": "Verstappen 'from a different planet' – Mekies",
-   "url": "https://www.formula1.com/en/latest/article/hes-from-a-different-planet-mekies-praises-verstappen-after-las-vegas-gp-victory.TXH10rYL99f2dIZqnVbCq",
-   "source": "Formula1.com",
-   "date": "2026-11-23T18:57:20.650Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Laurent Mekies believes Max Verstappen is \"from a different planet\" after the Red Bull driver \"outsmarted the opposition\" on his way to victory in the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
-   "title": "Why Norris and Piastri had 'one of their best races' in Vegas",
-   "url": "https://www.formula1.com/en/latest/article/why-stella-believes-norris-and-piastri-had-one-of-their-best-races-in-las-vegas.3nrRVW1vlGiQAEe5LokXri",
-   "source": "Formula1.com",
-   "date": "2026-11-23T18:57:20.650Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris and Oscar Piastri finished second and third in the Las Vegas Grand Prix, with McLaren Team Principal Andrea Stella praising their performances despite the limitations of the MCL40.",
-   "image": null
-  },
-  {
-   "title": "Battle for second place tightens as finish line nears",
-   "url": "https://www.formula1.com/en/latest/article/battle-for-second-place-tightens-as-2026-world-championship-finish-line-nears.5Rqr6EDZZLiPtFbnomVdfb",
-   "source": "Formula1.com",
-   "date": "2026-11-23T18:57:20.650Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen made it four wins in six races but challengers for second place are queueing up.",
-   "image": null
   },
   {
    "title": "Tsunami RT announces 2027 IMSA Michelin Endurance Cup entry in GTD",
@@ -1220,7 +1240,7 @@
    "url": "https://www.motorsport.com/general/news/joey-logano-logan-sargeant-among-ford-drivers-taking-part-in-daytona-charity-race/10873721/",
    "source": "Motorsport.com",
    "date": "2026-11-10T20:45:15.000Z",
-   "series": "WEC",
+   "series": "IMSA",
    "result": false,
    "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
