@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:57:13.183Z",
+ "updated": "2026-11-24T13:12:34.016Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,24 +147,134 @@
   }
  ],
  "bySeries": {
-  "F1": 16,
+  "F1": 15,
+  "F2 / F3": 3,
+  "Motorsport": 5,
   "DTM": 5,
   "MotoGP": 15,
   "IndyCar": 8,
-  "WEC": 16,
-  "Motorsport": 5,
+  "WEC": 15,
   "NASCAR": 15,
-  "IMSA": 10,
+  "IMSA": 11,
   "Karting": 8,
   "WRC": 10,
   "BTCC": 3,
-  "F2 / F3": 2,
   "Super Formula": 2,
   "Formula E": 10,
   "Dakar": 2,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "13 of F1's weirdest and most amazing records",
+   "url": "https://www.formula1.com/en/latest/article/from-a-qualifying-dead-heat-to-the-lowest-ever-finish-12-of-f1s-weirdest-and.7xNY7kgbMdw2mJZcgCLeey",
+   "source": "Formula1.com",
+   "date": "2026-11-24T13:12:34.016Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1.com takes a closer look at some of the most incredible – and unusual – records from across the sport's history.",
+   "image": null
+  },
+  {
+   "title": "Qatar Grand Prix betting guide and latest odds",
+   "url": "https://www.formula1.com/en/latest/article/qatar-grand-prix-race-betting-guide-and-what-the-markets-predict-will-happen.5A5FEXzRhph6ATX2PvVmmq",
+   "source": "Formula1.com",
+   "date": "2026-11-24T13:12:34.016Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Our experts bring you all the important betting information you need before making your predictions for Lusail.",
+   "image": null
+  },
+  {
+   "title": "Perez and Camara react to Las Vegas GP clash",
+   "url": "https://www.formula1.com/en/latest/article/perez-and-camara-react-to-las-vegas-grand-prix-clash-as-perez-receives-penalty-for-qatar.2WhxfuDIpCN5yN35Zupw8M",
+   "source": "Formula1.com",
+   "date": "2026-11-24T13:12:34.016Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Sergio Perez's Las Vegas Grand Prix came to an early end when the Cadillac driver collided with the Haas of Rafael Camara.",
+   "image": null
+  },
+  {
+   "title": "F1 pundit calls for real consequences at Ferrari: \"I'd chuck Ollie Bearman in for a race\"",
+   "url": "https://www.motorsport.com/f1/news/chuck-bearman-in-for-a-race-james-hinchcliffe-calls-for-real-consequences-after-ferraris-latest-mel/10877438/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T13:00:03.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "After Charles Leclerc and Lewis Hamilton collided for the second time in three races during the 2026 Las Vegas Grand Prix, the paddock debate quickly moved past who misjudged Turn 7 and onto a harder question: how can…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877438-b704-2.jpg"
+  },
+  {
+   "title": "Toto Wolff issues defiant defence of F1 regs and Las Vegas GP as he addresses criticism",
+   "url": "https://www.crash.net/f1/news/1110865/1/toto-wolff-issues-defiant-defence-f1-regs-and-las-vegas-gp-he-addresses-criticism",
+   "source": "Crash.net",
+   "date": "2026-11-24T13:00:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Toto Wolff has likened the Las Vegas Grand Prix to a combination of NASCAR, the Indianapolis 500 and Formula 1 as he urged critics to remain open-minded",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455648_hires.jpg?width=1200"
+  },
+  {
+   "title": "F1's 'cultural relevance' beats its US motorsport competition",
+   "url": "https://www.the-race.com/business/f1-cultural-relevance-beats-us-competition-nascar-indycar/",
+   "source": "The Race",
+   "date": "2026-11-24T12:33:09.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 might have a smaller audience in the US than NASCAR and IndyCar, but Will Buxton feels it has a unique spot in the country's sporting landscape",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456135_HiRes.jpg"
+  },
+  {
+   "title": "Slater to replace Camara for rest of F2 season as Tsolov becomes title favourite",
+   "url": "https://www.autosport.com/formula2/news/slater-replaces-camara-in-f2/10877445/",
+   "source": "Autosport",
+   "date": "2026-11-24T12:32:26.000Z",
+   "series": "F2 / F3",
+   "result": false,
+   "summary": "Freddie Slater will make his Formula 2 debut in this year’s season-ending Qatar and Abu Dhabi rounds. The butterfly effect originating in Esteban Ocon’s fallout with the Haas Formula 1 team means Rafael Camara has been…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YWKAlGkY/s6/freddie-slater-audi-f1-team-2.jpg"
+  },
+  {
+   "title": "Juan Pablo Montoya explains how Red Bull outsmarted Mercedes at F1 Las Vegas GP",
+   "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-explains-how-red-bulls-deployment-trap-outsmarted-mercedes-in-las-vegas/10877399/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T12:28:59.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Mercedes brought the fastest single-lap package to the Las Vegas Strip - newly crowned 2026 world champion Kimi Antonelli topped qualifying before a five-place engine penalty dropped him to sixth, while George Russell…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2dEolPnY/s6/max-verstappen-red-bull-racing-a10877399-b707-2.jpg"
+  },
+  {
+   "title": "Keanu Reeves turns Toto Wolff’s Mercedes office into a comedy set",
+   "url": "https://www.motorsport.com/culture/news/keanu-reeves-nearly-tips-over-in-toto-wolffs-office-chair-during-viral-mercedes-las-vegas-gp-skit/10877389/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T12:21:34.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Even for a Formula 1 team accustomed to Hollywood glamour on the Las Vegas Strip, Mercedes pulled off one of the weekend’s best paddock cameos without a race car in sight. In a short clip posted by Mercedes during the…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0R7B14O2/s6/keanu-reeves-drives-the-podium-a10877389-b708-2.jpg"
+  },
+  {
+   "title": "Max Verstappen eyeing debut in major US race in January",
+   "url": "https://www.crash.net/f1/news/1110863/1/max-verstappen-eyeing-debut-major-us-race-january",
+   "source": "Crash.net",
+   "date": "2026-11-24T12:15:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen has confirmed that he is exploring the possibility of competing in one of the world's most prestigious endurance races during the F1 winter break",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456221_hires.jpg?width=1200"
+  },
+  {
+   "title": "An alternative framework for F1's V8 future",
+   "url": "https://www.the-race.com/formula-1/f1-v8-future-alternative-framework-gary-anderson/",
+   "source": "The Race",
+   "date": "2026-11-24T12:06:48.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 has the chance to prove that it's listened to fans and stakeholders with its 2030 V8 engines. Here's how Gary Anderson would shape those rules",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455747_HiRes.jpg"
+  },
   {
    "title": "Audi-backed Slater to take over Camara’s F2 seat",
    "url": "https://www.formula1.com/en/latest/article/audi-backed-slater-to-take-over-camaras-f2-seat-for-final-two-rounds-in-qatar-and-abu-dhabi.3F0sq83OoErm2IjBqsncqu",
@@ -194,16 +303,6 @@
    "series": "F1",
    "result": false,
    "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
-   "image": null
-  },
-  {
-   "title": "Gasly reveals issue as he felt he could challenge for Vegas win",
-   "url": "https://www.formula1.com/en/latest/article/gasly-reveals-car-issue-in-las-vegas-as-he-felt-he-could-challenge-for-the-win.yyZX6FzglV6KSXOeQBOJN",
-   "source": "Formula1.com",
-   "date": "2026-11-24T11:57:13.183Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pierre Gasly was one of the stars of a thrilling Las Vegas Grand Prix as the Alpine driver battled with drivers from the top four teams for the whole race.",
    "image": null
   },
   {
@@ -257,6 +356,16 @@
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454561_hires.jpg?width=1200"
   },
   {
+   "title": "‘Maybe I’m delusional but I genuinely feel like a podium was possible’ – Lindblad",
+   "url": "https://www.racefans.net/2026/11/24/maybe-im-delusional-but-i-genuinely-feel-like-a-podium-was-possible-lindblad/",
+   "source": "RaceFans",
+   "date": "2026-11-24T11:10:46.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Arvid Lindblad says he and Racing Bulls still don't understand the \"very abnormal\" cause of the spin which put him out of the Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
    "title": "Marc Marquez's engineer explains how he pushed MotoGP rivals to the limit until they made mistakes",
    "url": "https://www.motorsport.com/motogp/news/marquezs-engineer-explains-how-he-pushed-his-rivals-to-the-limit-until-they-made-mistakes/10877371/",
    "source": "Motorsport.com",
@@ -277,26 +386,6 @@
    "image": null
   },
   {
-   "title": "McLaren reveal surprising stance on Oscar Piastri’s foul-mouthed radio message",
-   "url": "https://www.crash.net/f1/news/1110858/1/mclaren-reveal-surprising-stance-oscar-piastris-foul-mouthed-radio-message",
-   "source": "Crash.net",
-   "date": "2026-11-24T10:45:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "McLaren team principal Andrea Stella has addressed Oscar Piastri's frustrated response to a reminder of the team's rules of engagement",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455625_hires.jpg?width=1200"
-  },
-  {
-   "title": "F1's just had a warning about a push-to-pass future",
-   "url": "https://www.the-race.com/formula-1/f1-push-to-pass-overtaking-warning-macau-gp/",
-   "source": "The Race",
-   "date": "2026-11-24T10:42:56.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 is weighing up a push-to-pass overtaking assist for its 2030 engine rules. The world's best junior race has just shown why that's not a fix-all solution",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/b2082b95c1003d53ea7a36dc9f73e876.jpg"
-  },
-  {
    "title": "The reasons behind Peugeot's WEC Hypercar exit",
    "url": "https://www.autosport.com/wec/news/the-reasons-behind-peugeots-wec-hypercar-exit/10877384/",
    "source": "Autosport",
@@ -305,46 +394,6 @@
    "result": false,
    "summary": "Peugeot’s decision to step away from the World Endurance Championship at the end of 2026 has come as a major surprise. It was one of the first mainstream manufacturers to commit to the new Hypercar regulations, making…",
    "image": "https://cdn-1.motorsport.com/images/amp/YN7vwpP6/s6/94-peugeot-totalenergies-peuge-3.jpg"
-  },
-  {
-   "title": "George Russell accused of being 'all mouth and no trousers' amid Max Verstappen feud",
-   "url": "https://www.crash.net/f1/news/1110857/1/george-russell-accused-being-all-mouth-and-no-trousers-amid-max-verstappen-feud",
-   "source": "Crash.net",
-   "date": "2026-11-24T10:15:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell has been urged to back up his criticism of Max Verstappen with his performances on track following their latest clash",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455671_hires.jpg?width=1200"
-  },
-  {
-   "title": "Video: ‘I’d rather blow up the f***ing engine’: Gasly’s fury over cooling problems",
-   "url": "https://www.racefans.net/2026/11/24/video-id-rather-blow-up-the-fing-engine-gaslys-fury-over-cooling-problems/",
-   "source": "RaceFans",
-   "date": "2026-11-24T10:13:49.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Gasly's overheating problems made him lose his cool",
-   "image": null
-  },
-  {
-   "title": "Isack Hadjar frustrated – What really happened on Red Bull's team radio in Las Vegas",
-   "url": "https://www.motorsport.com/f1/news/isack-hadjar-frustrated-what-really-happened-on-red-bulls-team-radio-in-las-vegas/10877375/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T10:04:17.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Isack Hadjar started Formula 1’s Las Vegas Grand Prix from fourth on the grid, and by lap four he had already found himself running second, right behind Red Bull team-mate Max Verstappen. And given that the grand prix…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0qgKkjkY/s6/isack-hadjar-red-bull-racing.jpg"
-  },
-  {
-   "title": "Guenther Steiner calls for radical Charles Leclerc demotion threat after Ferrari clashes",
-   "url": "https://www.crash.net/f1/news/1110855/1/guenther-steiner-calls-radical-charles-leclerc-demotion-threat-after-ferrari",
-   "source": "Crash.net",
-   "date": "2026-11-24T09:45:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Guenther Steiner has proposed a radical solution to Ferrari's growing rivalry between Lewis Hamilton and Charles Leclerc",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456271_hires_0.jpg?width=1200"
   },
   {
    "title": "Featured Comment: Herta deserves credit for trying to make the switch from IndyCar",
@@ -365,16 +414,6 @@
    "result": false,
    "summary": "Peugeot’s decision to step away from the World Endurance Championship at the end of 2026 has come as a major surprise. It was one of the first mainstream manufacturers to commit to the new Hypercar regulations, making…",
    "image": "https://cdn-1.motorsport.com/images/amp/2eZx9v3Y/s6/93-peugeot-totalenergies-peuge-2.jpg"
-  },
-  {
-   "title": "Was Hadjar helping himself or Verstappen when he collected a penalty in the pits?",
-   "url": "https://www.racefans.net/2026/11/24/was-hadjar-helping-himself-or-verstappen-when-he-collected-a-penalty-in-the-pits/",
-   "source": "RaceFans",
-   "date": "2026-11-24T07:15:03.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The stewards penalised Isack Hadjar for driving \"slowly for tactical reasons\" behind the Safety Car. What was Red Bull trying to achieve?",
-   "image": null
   },
   {
    "title": "Spire returns check to Joe Gibbs Racing; rejects attempt to settle countersuit",
@@ -415,46 +454,6 @@
    "result": false,
    "summary": "Nikita Johnson is using Alex Palou’s 2020 rookie run with Dale Coyne Racing as the exact benchmark for his own IndyCar Series debut next season. Before Palou became a five-time IndyCar champion with Chip Ganassi Racing…",
    "image": "https://cdn-1.motorsport.com/images/amp/6AlvMq1Y/s6/nikita-johnson-barber-motorspo-3.jpg"
-  },
-  {
-   "title": "The timeline of Verstappen and Russell’s long rivalry",
-   "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN",
-   "source": "Formula1.com",
-   "date": "2026-11-23T20:50:49.170Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1.com charts how tensions first flared – and have since been reignited – between Max Verstappen and George Russell.",
-   "image": null
-  },
-  {
-   "title": "Sainz hails ‘amazing’ Las Vegas GP after ‘incredible’ P8",
-   "url": "https://www.formula1.com/en/latest/article/sainz-hails-amazing-las-vegas-grand-prix-after-incredible-p8-finish.4FBiwflePJER6l3k6aIFqU",
-   "source": "Formula1.com",
-   "date": "2026-11-23T20:50:49.170Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Carlos Sainz managed to bring his Williams home in eighth place in Las Vegas, scoring for the first time since Baku with a drive the Spaniard called “amazing” after the race.",
-   "image": null
-  },
-  {
-   "title": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
-   "url": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T20:00:03.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Four-time Formula 1 champion Max Verstappen says the last time he won a race like the Las Vegas Grand Prix was when he was playing Mario Kart. The Red Bull driver converted pole position into his 75th grand prix win…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0mXykV56/s6/max-verstappen-red-bull-racing-a10877295-b707-2.jpg"
-  },
-  {
-   "title": "5 Winners and 5 Losers from Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-las-vegas.6HVn4aszKitqrWNRTWkksX",
-   "source": "Formula1.com",
-   "date": "2026-11-23T19:59:37.050Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lawrence Barretto picks out his winners and losers from an eventful 2026 Las Vegas Grand Prix.",
-   "image": null
   },
   {
    "title": "Tsunami RT announces 2027 IMSA Michelin Endurance Cup entry in GTD",
@@ -697,16 +696,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AMp1Y/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
-   "title": "Marquez clinches eighth MotoGP title despite Aprilia domination",
-   "url": "https://www.the-race.com/motogp/marquez-clinches-eighth-motogp-title-despite-aprilia-domination/",
-   "source": "The Race",
-   "date": "2026-11-22T13:57:03.000Z",
-   "series": "MotoGP",
-   "result": true,
-   "summary": "Marc Marquez was finally crowned the 2026 MotoGP champion by finishing a nervous eighth as Aprilia dominated the Portuguese Grand Prix",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1365044_HiRes.jpg"
-  },
-  {
    "title": "MotoGP Portuguese GP: Marquez crowned 2026 champion as Bezzecchi wins tense race",
    "url": "https://www.autosport.com/motogp/news/motogp-portuguese-gp-marquez-crowned-2026-champion-as-bezzecchi-wins-tense-race/10876968/",
    "source": "Autosport",
@@ -735,6 +724,16 @@
    "result": true,
    "summary": "Tomoki Nojiri ended a year-long Super Formula win drought in the final race of the season at Suzuka on Sunday, beating newly-crowned champion Kakunoshin Ohta. Team Mugen driver Nojiri converted a record-extending 26th…",
    "image": "https://cdn-1.motorsport.com/images/amp/YMXb8LG2/s6/tomoki-nojiri-team-mugen-autob.jpg"
+  },
+  {
+   "title": "MotoGP Portuguese GP: Full starting grid",
+   "url": "https://www.motorsport.com/motogp/news/motogp-portuguese-gp-full-starting-grid/10876529/",
+   "source": "Motorsport.com",
+   "date": "2026-11-21T19:44:54.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marco Bezzecchi will start the Portuguese Grand Prix from pole position after setting a record-breaking MotoGP lap in Saturday's qualifying at Portimao. Having already won the sprint race, the factory Aprilia rider will…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8wl2/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Super Formula Suzuka: Kakunoshin Ohta secures title in dramatic fashion as Ayumu Iwasa wins Race 1",
@@ -1281,7 +1280,7 @@
    "url": "https://www.motorsport.com/general/news/joey-logano-logan-sargeant-among-ford-drivers-taking-part-in-daytona-charity-race/10873721/",
    "source": "Motorsport.com",
    "date": "2026-11-10T20:45:15.000Z",
-   "series": "WEC",
+   "series": "IMSA",
    "result": false,
    "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
