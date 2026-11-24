@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:57:55.350Z",
+ "updated": "2026-11-24T11:57:13.183Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -147,17 +148,17 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
-  "WEC": 15,
-  "Motorsport": 5,
-  "IndyCar": 7,
-  "NASCAR": 15,
-  "IMSA": 11,
+  "F1": 16,
+  "DTM": 5,
   "MotoGP": 15,
+  "IndyCar": 8,
+  "WEC": 16,
+  "Motorsport": 5,
+  "NASCAR": 15,
+  "IMSA": 10,
   "Karting": 8,
-  "WRC": 11,
+  "WRC": 10,
   "BTCC": 3,
-  "DTM": 4,
   "F2 / F3": 2,
   "Super Formula": 2,
   "Formula E": 10,
@@ -165,6 +166,106 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Audi-backed Slater to take over Camara’s F2 seat",
+   "url": "https://www.formula1.com/en/latest/article/audi-backed-slater-to-take-over-camaras-f2-seat-for-final-two-rounds-in-qatar-and-abu-dhabi.3F0sq83OoErm2IjBqsncqu",
+   "source": "Formula1.com",
+   "date": "2026-11-24T11:57:13.183Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Audi Driver Development Programme member Freddie Slater will make his F2 debut at the Qatar Grand Prix weekend, joining Invicta Racing for the final two rounds of the 2026 season, ahead of his full-time promotion next…",
+   "image": null
+  },
+  {
+   "title": "PALMER: Where do Ferrari go from here after Las Vegas clash?",
+   "url": "https://www.formula1.com/en/latest/article/where-do-ferrari-go-from-here-after-the-latest-hamilton-leclerc-clash.PSFxRaC5vfQVri3YZxBiu",
+   "source": "Formula1.com",
+   "date": "2026-11-24T11:57:13.183Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer picks the bones out of the Ferrari team mate's clash in Las Vegas, and what the team can do to move on...",
+   "image": null
+  },
+  {
+   "title": "The 5 drivers most likely to win in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
+   "source": "Formula1.com",
+   "date": "2026-11-24T11:57:13.183Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
+   "image": null
+  },
+  {
+   "title": "Gasly reveals issue as he felt he could challenge for Vegas win",
+   "url": "https://www.formula1.com/en/latest/article/gasly-reveals-car-issue-in-las-vegas-as-he-felt-he-could-challenge-for-the-win.yyZX6FzglV6KSXOeQBOJN",
+   "source": "Formula1.com",
+   "date": "2026-11-24T11:57:13.183Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Pierre Gasly was one of the stars of a thrilling Las Vegas Grand Prix as the Alpine driver battled with drivers from the top four teams for the whole race.",
+   "image": null
+  },
+  {
+   "title": "Grasser and Bortolotti to McLaren? What McLaren's head of motorsport says",
+   "url": "https://www.motorsport.com/dtm/news/grasser-and-bortolotti-to-mclaren-what-mclarens-motorsport-chief-says/10877402/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T11:51:58.000Z",
+   "series": "DTM",
+   "result": false,
+   "summary": "Is the Grasser team switching to McLaren? According to information from Motorsport-Total.com, there is plenty to suggest that the Austrian outfit will enter the DTM from 2027 with two 720S GT3s and Mirko Bortolotti…",
+   "image": "https://cdn-1.motorsport.com/images/amp/p2w4pAeY/s6/grasser-team-und-bortolotti-zu-mclaren-das-sagt-der-mclaren-motorsportchef-26112401.jpg"
+  },
+  {
+   "title": "Where Martin thinks he lost 2026 MotoGP title to Marquez",
+   "url": "https://www.the-race.com/motogp/where-martin-thinks-he-lost-2026-motogp-title-to-marquez/",
+   "source": "The Race",
+   "date": "2026-11-24T11:46:20.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Jorge Martin feels that \"missing a year\" with Aprilia was likely the difference in missing out on the 2026 MotoGP riders' title to Marc Marquez",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1365349_HiRes.jpg"
+  },
+  {
+   "title": "New Super Formula champion eyes dream IndyCar move to \"demonstrate\" Japan's quality",
+   "url": "https://www.autosport.com/super-formula/news/super-formula-champion-eyes-indycar-move/10877424/",
+   "source": "Autosport",
+   "date": "2026-11-24T11:40:46.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "New Super Formula champion Kakunoshin Ohta says he wants to demonstrate the value of the Japanese racing scene as he continues to work towards his IndyCar dream. Honda-backed Ohta secured the title with a race to spare…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGgOQDY/s6/kakunoshin-ohta-docomo-team-da.jpg"
+  },
+  {
+   "title": "New Super Formula champion Kakunoshin Ohta’s goal: standing for Japan in IndyCar",
+   "url": "https://www.motorsport.com/super-formula/news/new-super-formula-champion-kakunoshin-ohtas-goal-standing-for-japan-in-indycar/10877409/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T11:37:42.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "New Super Formula champion Kakunoshin Ohta says he wants to demonstrate the value of the Japanese racing scene as he continues to work towards his IndyCar dream. Honda-backed Ohta secured the title with a race to spare…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGgOQDY/s6/kakunoshin-ohta-docomo-team-da.jpg"
+  },
+  {
+   "title": "George Russell urged to 'shut up' in brutal Max Verstappen warning",
+   "url": "https://www.crash.net/f1/news/1110861/1/george-russell-urged-shut-brutal-max-verstappen-warning",
+   "source": "Crash.net",
+   "date": "2026-11-24T11:30:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell has been warned against engaging in a psychological battle with Max Verstappen following their latest dispute",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454561_hires.jpg?width=1200"
+  },
+  {
+   "title": "Marc Marquez's engineer explains how he pushed MotoGP rivals to the limit until they made mistakes",
+   "url": "https://www.motorsport.com/motogp/news/marquezs-engineer-explains-how-he-pushed-his-rivals-to-the-limit-until-they-made-mistakes/10877371/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T11:07:44.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Few would have expected Marc Marquez to become MotoGP world champion this year when, on 9 May, he announced he would undergo yet another surgery on his right arm. Since then, however, the Ducati rider has undergone…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0R7BbGg2/s6/marc-marquez-ducati-team-2.jpg"
+  },
   {
    "title": "Who is Tom Hart? Meet Max Verstappen’s new race engineer",
    "url": "https://www.formula1.com/en/latest/article/who-is-tom-hart-meet-the-man-set-to-replace-gp-as-max-verstappens-race-engineer-at-red-bull.4U1Zq3JUB2gujP5OoTMW1Z",
@@ -206,6 +307,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YN7vwpP6/s6/94-peugeot-totalenergies-peuge-3.jpg"
   },
   {
+   "title": "George Russell accused of being 'all mouth and no trousers' amid Max Verstappen feud",
+   "url": "https://www.crash.net/f1/news/1110857/1/george-russell-accused-being-all-mouth-and-no-trousers-amid-max-verstappen-feud",
+   "source": "Crash.net",
+   "date": "2026-11-24T10:15:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell has been urged to back up his criticism of Max Verstappen with his performances on track following their latest clash",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455671_hires.jpg?width=1200"
+  },
+  {
    "title": "Video: ‘I’d rather blow up the f***ing engine’: Gasly’s fury over cooling problems",
    "url": "https://www.racefans.net/2026/11/24/video-id-rather-blow-up-the-fing-engine-gaslys-fury-over-cooling-problems/",
    "source": "RaceFans",
@@ -224,16 +335,6 @@
    "result": false,
    "summary": "Isack Hadjar started Formula 1’s Las Vegas Grand Prix from fourth on the grid, and by lap four he had already found himself running second, right behind Red Bull team-mate Max Verstappen. And given that the grand prix…",
    "image": "https://cdn-1.motorsport.com/images/amp/0qgKkjkY/s6/isack-hadjar-red-bull-racing.jpg"
-  },
-  {
-   "title": "George Russell accused of being 'all mouth and no trousers' amid Max Verstappen feud",
-   "url": "https://www.crash.net/f1/news/1110857/1/george-russell-accused-being-all-mouth-and-no-trousers-amid-max-verstappen-feud",
-   "source": "Crash.net",
-   "date": "2026-11-24T09:47:46.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell has been urged to back up his criticism of Max Verstappen with his performances on track following their latest clash",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455671_hires.jpg?width=1200"
   },
   {
    "title": "Guenther Steiner calls for radical Charles Leclerc demotion threat after Ferrari clashes",
@@ -316,16 +417,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6AlvMq1Y/s6/nikita-johnson-barber-motorspo-3.jpg"
   },
   {
-   "title": "The ingredients that created a Grand Prix with 352 overtakes",
-   "url": "https://www.formula1.com/en/latest/article/the-ingredients-that-created-a-grand-prix-with-352-overtakes.3IEhw6LQ9NQG9sF0orRKqV",
-   "source": "Formula1.com",
-   "date": "2026-11-23T21:50:46.918Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Michael Lamonato dissects the circumstances behind a record-breaking Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
    "title": "The timeline of Verstappen and Russell’s long rivalry",
    "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN",
    "source": "Formula1.com",
@@ -364,36 +455,6 @@
    "result": false,
    "summary": "Lawrence Barretto picks out his winners and losers from an eventful 2026 Las Vegas Grand Prix.",
    "image": null
-  },
-  {
-   "title": "Qatar Grand Prix betting guide and latest odds",
-   "url": "https://www.formula1.com/en/latest/article/qatar-grand-prix-race-betting-guide-and-what-the-markets-predict-will-happen.5A5FEXzRhph6ATX2PvVmmq",
-   "source": "Formula1.com",
-   "date": "2026-11-23T19:59:37.050Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Our experts bring you all the important betting information you need before making your predictions for Lusail.",
-   "image": null
-  },
-  {
-   "title": "Perez and Camara react to Las Vegas GP clash",
-   "url": "https://www.formula1.com/en/latest/article/perez-and-camara-react-to-las-vegas-grand-prix-clash-as-perez-receives-penalty-for-qatar.2WhxfuDIpCN5yN35Zupw8M",
-   "source": "Formula1.com",
-   "date": "2026-11-23T19:59:37.050Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Sergio Perez's Las Vegas Grand Prix came to an early end when the Cadillac driver collided with the Haas of Rafael Camara.",
-   "image": null
-  },
-  {
-   "title": "Laurent Mekies: Keeping his emotions in check is giving Isack Hadjar “lap time”",
-   "url": "https://www.motorsport.com/f1/news/laurent-mekies-keeping-his-emotions-in-check-is-giving-isack-hadjar-lap-time/10877211/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T19:30:02.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Isack Hadjar left the 2026 Las Vegas Grand Prix empty-handed after a Lap 26 front wing failure and a post-race 10-second safety car penalty relegated him to 15th, yet Red Bull team principal Laurent Mekies saw something…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10877211-b707-2.jpg"
   },
   {
    "title": "Tsunami RT announces 2027 IMSA Michelin Endurance Cup entry in GTD",
@@ -674,26 +735,6 @@
    "result": true,
    "summary": "Tomoki Nojiri ended a year-long Super Formula win drought in the final race of the season at Suzuka on Sunday, beating newly-crowned champion Kakunoshin Ohta. Team Mugen driver Nojiri converted a record-extending 26th…",
    "image": "https://cdn-1.motorsport.com/images/amp/YMXb8LG2/s6/tomoki-nojiri-team-mugen-autob.jpg"
-  },
-  {
-   "title": "MotoGP Portuguese GP: Full starting grid",
-   "url": "https://www.motorsport.com/motogp/news/motogp-portuguese-gp-full-starting-grid/10876529/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T19:44:54.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marco Bezzecchi will start the Portuguese Grand Prix from pole position after setting a record-breaking MotoGP lap in Saturday's qualifying at Portimao. Having already won the sprint race, the factory Aprilia rider will…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8wl2/s6/marco-bezzecchi-aprilia-racing.jpg"
-  },
-  {
-   "title": "Jack Miller furious over MotoGP sprint race schedule change: “We don’t race in the rain anymore”",
-   "url": "https://www.motorsport.com/motogp/news/jack-miller-furious-over-motogp-sprint-race-schedule-change-we-dont-race-in-the-rain-anymore/10876611/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T19:00:03.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Jack Miller lashed out at MotoGP’s decision to move the Portuguese Grand Prix sprint in anticipation of poor weather, saying riders don’t get a chance to race in the rain anymore. In the middle of Saturday morning’s…",
-   "image": "https://cdn-1.motorsport.com/images/amp/01QNEdD0/s6/jack-miller-pramac-racing.jpg"
   },
   {
    "title": "Super Formula Suzuka: Kakunoshin Ohta secures title in dramatic fashion as Ayumu Iwasa wins Race 1",
@@ -1240,7 +1281,7 @@
    "url": "https://www.motorsport.com/general/news/joey-logano-logan-sargeant-among-ford-drivers-taking-part-in-daytona-charity-race/10873721/",
    "source": "Motorsport.com",
    "date": "2026-11-10T20:45:15.000Z",
-   "series": "IMSA",
+   "series": "WEC",
    "result": false,
    "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
@@ -1254,16 +1295,6 @@
    "result": false,
    "summary": "EKN’s Paddock Insider is part of our Trackside coverage, bringing you notes, updates and breaking news as it happens. The article will feature notes from trackside at the Superkarts! USA SuperNationals 29 at the Las…",
    "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
-  },
-  {
-   "title": "Mick Schumacher to skip wrist operation before 2027 IndyCar season",
-   "url": "https://www.motorsport.com/indycar/news/mick-schumacher-to-skip-wrist-operation-before-2027-indycar-season/10873713/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T19:14:57.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "Mick Schumacher will head into his sophomore IndyCar campaign without undergoing surgery on his left wrist, opting instead to continue with conservative treatment and physical therapy. The German driver, who has…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0kZAwwo6/s6/mick-schumacher-rahal-letterma.jpg"
   },
   {
    "title": "Jake Walker returns to Turner Motorsport for full-time 2027 IMSA GTD drive",
@@ -1424,16 +1455,6 @@
    "result": false,
    "summary": "The World Rally Championship will see two of its most popular champions return in 2027, as Kalle Rovanpera and Ott Tanak are part of Toyota’s six car line-up. Rovanpera and Tanak are both making WRC comebacks after…",
    "image": "https://cdn-1.motorsport.com/images/amp/0L1P7qv2/s6/kalle-rovanpera-jonne-halttune.jpg"
-  },
-  {
-   "title": "Toyota explains call to run Celica and Yaris models in WRC 2027",
-   "url": "https://www.motorsport.com/wrc/news/toyota-explains-call-to-run-celica-and-yaris-models-in-wrc-2027/10871232/",
-   "source": "Motorsport.com",
-   "date": "2026-11-03T11:08:08.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "Toyota has explained its strategy to run two different Rally1 models and split its six driver line-up into two separate teams for the 2027 World Rally Championship. The reigning champions unveiled an unusual approach…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0rVP8VP0/s6/tgr-yaris-2027.jpg"
   }
  ]
 }
