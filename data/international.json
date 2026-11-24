@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:37:08.795Z",
+ "updated": "2026-11-24T05:34:50.438Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,8 +147,8 @@
   }
  ],
  "bySeries": {
-  "Motorsport": 4,
   "NASCAR": 15,
+  "Motorsport": 4,
   "IndyCar": 6,
   "F1": 15,
   "IMSA": 10,
@@ -165,6 +165,16 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Spire returns check to Joe Gibbs Racing; rejects attempt to settle countersuit",
+   "url": "https://www.motorsport.com/nascar-cup/news/spire-returns-check-to-joe-gibbs-racing-rejects-attempt-to-settle-countersuit/10877332/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T05:09:47.000Z",
+   "series": "NASCAR",
+   "result": false,
+   "summary": "Spire Motorsports has returned the check for over $100,000 that Joe Gibbs Racing wrote to satisfy a countersuit filed in the ongoing legal matter regarding Chris Gabehart and intellectual property misappropriation…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0JXRDrBY/s6/image20241015133134.jpg"
+  },
   {
    "title": "On This Day: McLaren appoint rookie Hamilton as Alonso’s team mate for 2007",
    "url": "https://www.racefans.net/2026/11/24/on-this-day-hamilton-joins-mclaren/",
@@ -1094,16 +1104,6 @@
    "result": false,
    "summary": "The live NBC broadcast for the 2026 NASCAR Cup Series finale at Homestead-Miami Speedway earned a 1.37 rating and 2.471 million viewers this past weekend. That is down from the 2025 finale at Phoenix Raceway, also on…",
    "image": "https://cdn-1.motorsport.com/images/amp/24QGbbeY/s6/start-of-nascar-cup-finale-wit.jpg"
-  },
-  {
-   "title": "Chase Elliott's car chief leaves Hendrick for NASCAR Truck crew chief role",
-   "url": "https://www.motorsport.com/nascar-truck/news/chase-elliotts-car-chief-leaves-hendrick-for-nascar-truck-crew-chief-role/10874399/",
-   "source": "Motorsport.com",
-   "date": "2026-11-13T21:14:26.000Z",
-   "series": "NASCAR",
-   "result": false,
-   "summary": "McAnally-Hilgemann Racing (MHR) has revealed its crew chief lineup for the 2027 NASCAR FedEx Freight Truck Series, which includes a notable name from the Cup garage. Matt Barndt, who was the car chief for Chase Elliott…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2y7QrNp6/s6/gettyimages-2303431627.jpg"
   },
   {
    "title": "Myers Riley Motorsports adds Andretti alongside returning Fraga for 2027 IMSA GTD campaign",
