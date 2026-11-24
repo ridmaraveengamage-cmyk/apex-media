@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:56:04.659Z",
+ "updated": "2026-11-24T22:55:54.056Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,7 +148,7 @@
  ],
  "bySeries": {
   "F1": 15,
-  "IndyCar": 9,
+  "IndyCar": 10,
   "Karting": 11,
   "F2 / F3": 3,
   "WRC": 10,
@@ -166,24 +166,44 @@
  },
  "items": [
   {
-   "title": "The 5 drivers most likely to qualify fastest in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
+   "title": "What time is the 2026 Qatar GP and how can I watch it?",
+   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
    "source": "Formula1.com",
-   "date": "2026-11-24T21:56:04.659Z",
+   "date": "2026-11-24T22:55:54.056Z",
    "series": "F1",
    "result": false,
-   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
+   "summary": "Here are all the timings – along with all the additional information you need – for the 22nd Grand Prix weekend of the 2026 season from Qatar.",
    "image": null
   },
   {
-   "title": "What time is F1's 2026 Qatar Grand Prix? Full weekend schedule",
-   "url": "https://www.the-race.com/promoted/what-time-is-f1s-2026-qatar-grand-prix-full-weekend-schedule/",
-   "source": "The Race",
-   "date": "2026-11-24T21:27:10.000Z",
+   "title": "The 5 drivers most likely to win in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
+   "source": "Formula1.com",
+   "date": "2026-11-24T22:55:54.056Z",
    "series": "F1",
    "result": false,
-   "summary": "All the times you need to know for Formula 1's next race - the 2026 Qatar Grand Prix",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1389214_HiRes.jpg"
+   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
+   "image": null
+  },
+  {
+   "title": "13 of F1's weirdest and most amazing records",
+   "url": "https://www.formula1.com/en/latest/article/from-a-qualifying-dead-heat-to-the-lowest-ever-finish-12-of-f1s-weirdest-and.7xNY7kgbMdw2mJZcgCLeey",
+   "source": "Formula1.com",
+   "date": "2026-11-24T22:55:54.056Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1.com takes a closer look at some of the most incredible – and unusual – records from across the sport's history.",
+   "image": null
+  },
+  {
+   "title": "Spotlight: IndyCar adds Kansas to 2010 calendar alongside NASCAR",
+   "url": "https://www.racefans.net/2026/11/24/spotlight-indycar-adds-kansas-to-2010-calendar-alongside-nascar/",
+   "source": "RaceFans",
+   "date": "2026-11-24T22:52:51.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "IndyCar returning to Kansas next year for first time since 2010",
+   "image": null
   },
   {
    "title": "Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead",
@@ -194,6 +214,16 @@
    "result": false,
    "summary": "In almost any other Formula 1 race, suggesting a race leader deliberately surrender first place with one lap left would sound unthinkable. At the 2026 Las Vegas Grand Prix, Red Bull’s pitwall genuinely floated the idea…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5Ak91Y/s6/max-verstappen-red-bull-racing-a10877450-b707-4.jpg"
+  },
+  {
+   "title": "EKN Debrief: Episode 175 – Superkarts! USA SuperNationals 29 – Part 1",
+   "url": "https://www.ekartingnews.com/2026/11/24/ekn-debrief-episode-175-superkarts-usa-supernationals-29-part-1/",
+   "source": "eKartingNews",
+   "date": "2026-11-24T20:21:47.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "The Superkarts! USA SuperNationals 29 were held over November 11-15 outside the Las Vegas Motor Speedway. A total of 600 entries across 11 categories battled for five days, leading up to the final laps on SuperSunday to…",
+   "image": null
   },
   {
    "title": "Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas",
@@ -434,16 +464,6 @@
    "result": false,
    "summary": "Maverick Vinales' MotoGP racing career appears to have come to an early end with his withdrawal from the season finale at Valencia this weekend",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202610100016.jpg"
-  },
-  {
-   "title": "Why Gran Turismo, not F1, leads the way in sim racing competitions",
-   "url": "https://www.the-race.com/extra/why-gran-turismo-not-f1-leads-the-way-in-sim-racing-competitions/",
-   "source": "The Race",
-   "date": "2026-11-24T13:23:29.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Gran Turismo is redefining competitive sim racing motorsport - delivering the drama, accessibility and spectacle that F1's virtual rivals have struggled to match",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GT_03102026_oh_29378_kIHJidGZ.JPG"
   },
   {
    "title": "Marco Bezzecchi admits to “too many mistakes” after “painful” MotoGP title loss",
@@ -1434,16 +1454,6 @@
    "result": false,
    "summary": "The EKN Trackside Live program visits multiple events throughout the karting season. Leading up to major events on the calendar, EKN is happy to provide a show as part of the EKN Radio Network. The EKN OutLap is a…",
    "image": null
-  },
-  {
-   "title": "Hoogendoorn and Venant Victorious in Italy to Become 2026 FIA Karting World Champions",
-   "url": "https://www.ekartingnews.com/2026/11/09/hoogendoorn-and-venant-victorious-in-italy-to-become-2026-fia-karting-world-champions/",
-   "source": "eKartingNews",
-   "date": "2026-11-09T12:30:47.000Z",
-   "series": "Karting",
-   "result": true,
-   "summary": "History was written in Italy today (Sunday 8 November) as Dean Hoogendoorn and Antoine Sylva Venant became motor sport’s newest World Champions, taking their place among the sport’s most celebrated names. In the 70th…",
-   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/11/FIA-2026-World-Hoogendoorn-300x200.jpg"
   },
   {
    "title": "Supercars Sandown: Payne Sunday win sets up title challenge",
