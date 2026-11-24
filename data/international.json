@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:52:52.881Z",
+ "updated": "2026-11-24T21:56:04.659Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -149,12 +149,12 @@
  "bySeries": {
   "F1": 15,
   "IndyCar": 9,
+  "Karting": 11,
   "F2 / F3": 3,
   "WRC": 10,
   "Motorsport": 8,
   "MotoGP": 15,
   "IMSA": 11,
-  "Karting": 10,
   "DTM": 4,
   "WEC": 15,
   "NASCAR": 15,
@@ -166,14 +166,34 @@
  },
  "items": [
   {
-   "title": "The 5 drivers most likely to win in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
+   "title": "The 5 drivers most likely to qualify fastest in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
    "source": "Formula1.com",
-   "date": "2026-11-24T20:52:52.881Z",
+   "date": "2026-11-24T21:56:04.659Z",
    "series": "F1",
    "result": false,
-   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
+   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
    "image": null
+  },
+  {
+   "title": "What time is F1's 2026 Qatar Grand Prix? Full weekend schedule",
+   "url": "https://www.the-race.com/promoted/what-time-is-f1s-2026-qatar-grand-prix-full-weekend-schedule/",
+   "source": "The Race",
+   "date": "2026-11-24T21:27:10.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "All the times you need to know for Formula 1's next race - the 2026 Qatar Grand Prix",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1389214_HiRes.jpg"
+  },
+  {
+   "title": "Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead",
+   "url": "https://www.motorsport.com/f1/news/unaired-radio-reveals-red-bull-told-max-verstappen-to-consider-giving-antonelli-the-lead-before-las/10877450/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T21:08:35.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "In almost any other Formula 1 race, suggesting a race leader deliberately surrender first place with one lap left would sound unthinkable. At the 2026 Las Vegas Grand Prix, Red Bull’s pitwall genuinely floated the idea…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0o5Ak91Y/s6/max-verstappen-red-bull-racing-a10877450-b707-4.jpg"
   },
   {
    "title": "Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas",
@@ -194,6 +214,16 @@
    "result": false,
    "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
    "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
+  },
+  {
+   "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
+   "url": "https://www.ekartingnews.com/2026/11/24/factory-karts-names-miami-based-lupo-kart-an-official-dealer/",
+   "source": "eKartingNews",
+   "date": "2026-11-24T18:14:49.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "Factory Karts Inc., a brand of American Kart Manufacturers Inc. (AKM), announced the addition of Lupo Kart to its nationwide dealer network as an official Factory Karts dealer and trackside service center serving…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/06/AKM-logo-300x200.jpg"
   },
   {
    "title": "What's next for Herta after F1 2027 snub?",
@@ -234,16 +264,6 @@
    "result": false,
    "summary": "In the exotic-car market, buyers normally run the other way at the first hint of high mileage, kerbed wheels, or accident history. When the previous owner happens to be Ferrari's star Formula 1 driver, those red flags…",
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgOjwY/s6/charles-leclerc-ferrari-a10877490-b708-2.jpg"
-  },
-  {
-   "title": "What time is the 2026 Qatar GP and how can I watch it?",
-   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
-   "source": "Formula1.com",
-   "date": "2026-11-24T17:06:05.022Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Here are all the timings – along with all the additional information you need – for the 22nd Grand Prix weekend of the 2026 season from Qatar.",
-   "image": null
   },
   {
    "title": "Was Russell ‘playing mind games with himself’ in Las Vegas?",
@@ -443,16 +463,6 @@
    "series": "Karting",
    "result": false,
    "summary": "Every winter, Florida becomes one of the biggest stages in American karting. SKUSA. USPKS. ROTAX. ROK. APEX. T4. From America’s most established national championships to emerging racing series, Florida attracts top…",
-   "image": null
-  },
-  {
-   "title": "13 of F1's weirdest and most amazing records",
-   "url": "https://www.formula1.com/en/latest/article/from-a-qualifying-dead-heat-to-the-lowest-ever-finish-12-of-f1s-weirdest-and.7xNY7kgbMdw2mJZcgCLeey",
-   "source": "Formula1.com",
-   "date": "2026-11-24T13:12:34.016Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1.com takes a closer look at some of the most incredible – and unusual – records from across the sport's history.",
    "image": null
   },
   {
@@ -726,16 +736,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YWKA35OY/s6/marc-marquez-ducati-team.jpg"
   },
   {
-   "title": "Portugese Grand Prix 2026 MotoGP rider rankings",
-   "url": "https://www.the-race.com/motogp/portugese-grand-prix-2026-motogp-rider-rankings/",
-   "source": "The Race",
-   "date": "2026-11-23T12:10:37.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez was the man of the moment after taking the title win at Portimao - but just how close could he get to top spot in this week's rider rankings?",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1365377_HiRes.jpg"
-  },
-  {
    "title": "The star performers of a wild Macau weekend",
    "url": "https://www.autosport.com/general/news/the-star-performers-of-a-wild-macau-weekend/10877186/",
    "source": "Autosport",
@@ -804,6 +804,16 @@
    "result": false,
    "summary": "Fabio Quartararo believes Marc Marquez's remarkable run to the 2026 MotoGP title has put beyond doubt his status as the greatest rider in the championship's history. Ducati rider Marquez clinched his 10th world…",
    "image": "https://cdn-1.motorsport.com/images/amp/2d1kQb3Y/s6/marc-marquez-ducati-team-fabio.jpg"
+  },
+  {
+   "title": "Marc Marquez on sealing title with lowly eighth: 'The race could f*** off today'",
+   "url": "https://www.motorsport.com/motogp/news/marc-marquez-on-sealing-title-with-lowly-eighth-the-race-could-f-off-today/10877003/",
+   "source": "Motorsport.com",
+   "date": "2026-11-22T16:48:47.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Newly-crowned 2026 MotoGP world champion Marc Marquez says he could not have cared less about the winning Sunday's Portuguese Grand Prix - albeit with somewhat stronger language. The Spaniard rode a cautious race to…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlKJrMY/s6/raul-fernandez-trackhouse-raci.jpg"
   },
   {
    "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
