@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:06:05.022Z",
+ "updated": "2026-11-24T17:55:53.626Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,16 +148,16 @@
  ],
  "bySeries": {
   "F1": 15,
+  "WRC": 10,
+  "Motorsport": 8,
   "MotoGP": 15,
   "IMSA": 11,
   "Karting": 10,
-  "Motorsport": 7,
   "F2 / F3": 3,
   "DTM": 5,
   "IndyCar": 8,
   "WEC": 15,
   "NASCAR": 15,
-  "WRC": 9,
   "BTCC": 3,
   "Super Formula": 2,
   "Formula E": 10,
@@ -165,6 +165,46 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "The 5 drivers most likely to win in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
+   "source": "Formula1.com",
+   "date": "2026-11-24T17:55:53.626Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
+   "image": null
+  },
+  {
+   "title": "Rovanpera: New 2027 WRC cars will see \"everybody start from zero\"",
+   "url": "https://www.autosport.com/wrc/news/rovanpera-new-2027-wrc-cars-will-see-everybody-start-from-zero/10877526/",
+   "source": "Autosport",
+   "date": "2026-11-24T17:14:16.000Z",
+   "series": "WRC",
+   "result": false,
+   "summary": "Kalle Rovanpera expects the 2027 World Rally Championship to be a reset for the drivers with ‘everybody starting from zero’ as they adapt to all-new Rally1 cars. After a year on the sidelines, the two-time world…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6grQnexY/s6/kalle-rovanpera-2.jpg"
+  },
+  {
+   "title": "Former F1 tester who suffered life-changing injuries in full-time racing return",
+   "url": "https://www.crash.net/f1/news/1110872/1/former-f1-tester-who-suffered-life-changing-injuries-full-time-racing-return",
+   "source": "Crash.net",
+   "date": "2026-11-24T17:10:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "A former Formula 1 test driver has secured a full-time seat in one of North America's leading motorsport championships for 2027",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_911638_hires.jpg?width=1200"
+  },
+  {
+   "title": "Charles Leclerc’s Ferrari SUV is up for sale with scars from his viral Monaco crash",
+   "url": "https://www.motorsport.com/culture/news/charles-leclercs-daily-driven-ferrari-purosangue-is-up-for-sale-complete-with-scars-from-his-viral-/10877490/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T17:06:09.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "In the exotic-car market, buyers normally run the other way at the first hint of high mileage, kerbed wheels, or accident history. When the previous owner happens to be Ferrari's star Formula 1 driver, those red flags…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGgOjwY/s6/charles-leclerc-ferrari-a10877490-b708-2.jpg"
+  },
   {
    "title": "What time is the 2026 Qatar GP and how can I watch it?",
    "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
@@ -183,16 +223,6 @@
    "series": "F1",
    "result": false,
    "summary": "George Russell and Max Verstappen were the talk of the town after last weekend’s Las Vegas Grand Prix, with the pair’s long-standing rivalry being renewed via a sequence of on- and off-track moments.",
-   "image": null
-  },
-  {
-   "title": "The 5 drivers most likely to qualify fastest in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
-   "source": "Formula1.com",
-   "date": "2026-11-24T17:06:05.022Z",
-   "series": "F1",
-   "result": false,
-   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
    "image": null
   },
   {
@@ -404,16 +434,6 @@
    "result": false,
    "summary": "After Charles Leclerc and Lewis Hamilton collided for the second time in three races during the 2026 Las Vegas Grand Prix, the paddock debate quickly moved past who misjudged Turn 7 and onto a harder question: how can…",
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877438-b704-2.jpg"
-  },
-  {
-   "title": "Toto Wolff issues defiant defence of F1 regs and Las Vegas GP as he addresses criticism",
-   "url": "https://www.crash.net/f1/news/1110865/1/toto-wolff-issues-defiant-defence-f1-regs-and-las-vegas-gp-he-addresses-criticism",
-   "source": "Crash.net",
-   "date": "2026-11-24T13:00:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Toto Wolff has likened the Las Vegas Grand Prix to a combination of NASCAR, the Indianapolis 500 and Formula 1 as he urged critics to remain open-minded",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455648_hires.jpg?width=1200"
   },
   {
    "title": "Slater to replace Camara for rest of F2 season as Tsolov becomes title favourite",
