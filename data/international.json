@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:04:54.125Z",
+ "updated": "2026-11-24T17:06:05.022Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -149,6 +149,7 @@
  "bySeries": {
   "F1": 15,
   "MotoGP": 15,
+  "IMSA": 11,
   "Karting": 10,
   "Motorsport": 7,
   "F2 / F3": 3,
@@ -156,7 +157,6 @@
   "IndyCar": 8,
   "WEC": 15,
   "NASCAR": 15,
-  "IMSA": 11,
   "WRC": 9,
   "BTCC": 3,
   "Super Formula": 2,
@@ -165,6 +165,76 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "What time is the 2026 Qatar GP and how can I watch it?",
+   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
+   "source": "Formula1.com",
+   "date": "2026-11-24T17:06:05.022Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Here are all the timings – along with all the additional information you need – for the 22nd Grand Prix weekend of the 2026 season from Qatar.",
+   "image": null
+  },
+  {
+   "title": "Was Russell ‘playing mind games with himself’ in Las Vegas?",
+   "url": "https://www.formula1.com/en/latest/article/was-russell-playing-mind-games-with-himself-before-verstappens-victory-in-las-vegas.3ZYU5SCNPd2f2JQIKr7LlM",
+   "source": "Formula1.com",
+   "date": "2026-11-24T17:06:05.022Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell and Max Verstappen were the talk of the town after last weekend’s Las Vegas Grand Prix, with the pair’s long-standing rivalry being renewed via a sequence of on- and off-track moments.",
+   "image": null
+  },
+  {
+   "title": "The 5 drivers most likely to qualify fastest in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
+   "source": "Formula1.com",
+   "date": "2026-11-24T17:06:05.022Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
+   "image": null
+  },
+  {
+   "title": "Audi-backed Slater to take over Camara’s F2 seat",
+   "url": "https://www.formula1.com/en/latest/article/audi-backed-slater-to-take-over-camaras-f2-seat-for-final-two-rounds-in-qatar-and-abu-dhabi.3F0sq83OoErm2IjBqsncqu",
+   "source": "Formula1.com",
+   "date": "2026-11-24T17:06:05.022Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Audi Driver Development Programme member Freddie Slater will make his F2 debut at the Qatar Grand Prix weekend, joining Invicta Racing for the final two rounds of the 2026 season, ahead of his full-time promotion next…",
+   "image": null
+  },
+  {
+   "title": "PALMER: Where do Ferrari go from here after Las Vegas clash?",
+   "url": "https://www.formula1.com/en/latest/article/where-do-ferrari-go-from-here-after-the-latest-hamilton-leclerc-clash.PSFxRaC5vfQVri3YZxBiu",
+   "source": "Formula1.com",
+   "date": "2026-11-24T17:06:05.022Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer picks the bones out of the Ferrari team mate's clash in Las Vegas, and what the team can do to move on...",
+   "image": null
+  },
+  {
+   "title": "Gigi Dall'Igna: ‘Marc Marquez is the best rider in history, no doubt about that’",
+   "url": "https://www.motorsport.com/motogp/news/gigi-dalligna-marc-marquez-is-the-best-rider-in-history-no-doubt-about-that/10877521/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T16:36:03.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "With the 2027 MotoGP championship battle settled by Marc Marquez's 10th world title, you don't need extensive knowledge to understand that without him Ducati would have struggled to extend its dominance in the premier…",
+   "image": "https://cdn-1.motorsport.com/images/amp/68Vw54B2/s6/marc-marquez-piscina-portimao.jpg"
+  },
+  {
+   "title": "Robert Wickens set for first full-season IMSA WeatherTech Campaign in 2027 with Hanley Motorsports",
+   "url": "https://www.motorsport.com/imsa/news/robert-wickens-set-for-first-full-season-imsa-weathertech-campaign-in-2027-with-hanley-motorsports/10877508/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T16:30:06.000Z",
+   "series": "IMSA",
+   "result": false,
+   "summary": "Hanley Motorsports Incorporated (HMI) has signed Robert Wickens and Mason Filippi as its full-season driver pairing for the 2027 IMSA WeatherTech SportsCar Championship GTD class. The duo will share the #42 BMW M4 GT3…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2y7Qgpy6/s6/robert-wickens-chris-griffis-m.jpg"
+  },
   {
    "title": "The RB22 tweaks that helped Verstappen take victory in Las Vegas",
    "url": "https://www.formula1.com/en/latest/article/the-rb22-tweaks-that-helped-verstappen-take-victory-in-las-vegas.67NV2uD7vnuxKuW9SHi685",
@@ -183,16 +253,6 @@
    "series": "F1",
    "result": false,
    "summary": "Max Verstappen came out on top at the end of a thrilling Las Vegas Grand Prix, adding another first-class victory to his name after an overtake-filled race. But who else impressed our Power Rankings judges in the City…",
-   "image": null
-  },
-  {
-   "title": "The 5 drivers most likely to win in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
-   "source": "Formula1.com",
-   "date": "2026-11-24T16:04:54.125Z",
-   "series": "F1",
-   "result": false,
-   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
    "image": null
   },
   {
@@ -276,26 +336,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YP74V1e2/s6/motorsport-uk-chairman-announc-2.jpg"
   },
   {
-   "title": "The timeline of Verstappen and Russell’s long rivalry",
-   "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN",
-   "source": "Formula1.com",
-   "date": "2026-11-24T14:37:29.335Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1.com charts how tensions first flared – and have since been reignited – between Max Verstappen and George Russell.",
-   "image": null
-  },
-  {
-   "title": "Sainz hails ‘amazing’ Las Vegas GP after ‘incredible’ P8",
-   "url": "https://www.formula1.com/en/latest/article/sainz-hails-amazing-las-vegas-grand-prix-after-incredible-p8-finish.4FBiwflePJER6l3k6aIFqU",
-   "source": "Formula1.com",
-   "date": "2026-11-24T14:37:29.335Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Carlos Sainz managed to bring his Williams home in eighth place in Las Vegas, scoring for the first time since Baku with a drive the Spaniard called “amazing” after the race.",
-   "image": null
-  },
-  {
    "title": "Maverick Vinales ruled out of Valencia GP, can’t bid farewell to MotoGP",
    "url": "https://www.motorsport.com/motogp/news/maverick-vinales-ruled-out-of-valencia-gp-cant-bid-farewell-to-motogp/10877477/",
    "source": "Motorsport.com",
@@ -376,16 +416,6 @@
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455648_hires.jpg?width=1200"
   },
   {
-   "title": "F1's 'cultural relevance' beats its US motorsport competition",
-   "url": "https://www.the-race.com/business/f1-cultural-relevance-beats-us-competition-nascar-indycar/",
-   "source": "The Race",
-   "date": "2026-11-24T12:33:09.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 might have a smaller audience in the US than NASCAR and IndyCar, but Will Buxton feels it has a unique spot in the country's sporting landscape",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456135_HiRes.jpg"
-  },
-  {
    "title": "Slater to replace Camara for rest of F2 season as Tsolov becomes title favourite",
    "url": "https://www.autosport.com/formula2/news/slater-replaces-camara-in-f2/10877445/",
    "source": "Autosport",
@@ -394,16 +424,6 @@
    "result": false,
    "summary": "Freddie Slater will make his Formula 2 debut in this year’s season-ending Qatar and Abu Dhabi rounds. The butterfly effect originating in Esteban Ocon’s fallout with the Haas Formula 1 team means Rafael Camara has been…",
    "image": "https://cdn-1.motorsport.com/images/amp/YWKAlGkY/s6/freddie-slater-audi-f1-team-2.jpg"
-  },
-  {
-   "title": "Juan Pablo Montoya explains how Red Bull outsmarted Mercedes at F1 Las Vegas GP",
-   "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-explains-how-red-bulls-deployment-trap-outsmarted-mercedes-in-las-vegas/10877399/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T12:28:59.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Mercedes brought the fastest single-lap package to the Las Vegas Strip - newly crowned 2026 world champion Kimi Antonelli topped qualifying before a five-place engine penalty dropped him to sixth, while George Russell…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2dEolPnY/s6/max-verstappen-red-bull-racing-a10877399-b707-2.jpg"
   },
   {
    "title": "Keanu Reeves turns Toto Wolff’s Mercedes office into a comedy set",
@@ -754,16 +774,6 @@
    "result": false,
    "summary": "Fabio Quartararo believes Marc Marquez's remarkable run to the 2026 MotoGP title has put beyond doubt his status as the greatest rider in the championship's history. Ducati rider Marquez clinched his 10th world…",
    "image": "https://cdn-1.motorsport.com/images/amp/2d1kQb3Y/s6/marc-marquez-ducati-team-fabio.jpg"
-  },
-  {
-   "title": "Marc Marquez on sealing title with lowly eighth: 'The race could f*** off today'",
-   "url": "https://www.motorsport.com/motogp/news/marc-marquez-on-sealing-title-with-lowly-eighth-the-race-could-f-off-today/10877003/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T16:48:47.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Newly-crowned 2026 MotoGP world champion Marc Marquez says he could not have cared less about the winning Sunday's Portuguese Grand Prix - albeit with somewhat stronger language. The Spaniard rode a cautious race to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlKJrMY/s6/raul-fernandez-trackhouse-raci.jpg"
   },
   {
    "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
@@ -1334,16 +1344,6 @@
    "result": false,
    "summary": "EKN’s Paddock Insider is part of our Trackside coverage, bringing you notes, updates and breaking news as it happens. The article will feature notes from trackside at the Superkarts! USA SuperNationals 29 at the Las…",
    "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
-  },
-  {
-   "title": "Jake Walker returns to Turner Motorsport for full-time 2027 IMSA GTD drive",
-   "url": "https://www.motorsport.com/imsa/news/jake-walker-returns-to-turner-motorsport-for-full-time-2027-imsa-gtd-drive/10873685/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T16:42:50.000Z",
-   "series": "IMSA",
-   "result": false,
-   "summary": "Turner Motorsport is set to celebrate a milestone 30th season of professional racing in 2027, renewing its long-standing exclusivity with BMW and welcoming a familiar face back to its full-time driver lineup. The New…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YE9E9OPY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
   },
   {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
