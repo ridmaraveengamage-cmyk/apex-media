@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:37:29.335Z",
+ "updated": "2026-11-24T16:04:54.125Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -149,15 +149,15 @@
  "bySeries": {
   "F1": 15,
   "MotoGP": 15,
+  "Karting": 10,
+  "Motorsport": 7,
   "F2 / F3": 3,
-  "Motorsport": 5,
   "DTM": 5,
   "IndyCar": 8,
   "WEC": 15,
   "NASCAR": 15,
   "IMSA": 11,
-  "Karting": 8,
-  "WRC": 10,
+  "WRC": 9,
   "BTCC": 3,
   "Super Formula": 2,
   "Formula E": 10,
@@ -166,14 +166,114 @@
  },
  "items": [
   {
-   "title": "The 5 drivers most likely to qualify fastest in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
+   "title": "The RB22 tweaks that helped Verstappen take victory in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/the-rb22-tweaks-that-helped-verstappen-take-victory-in-las-vegas.67NV2uD7vnuxKuW9SHi685",
    "source": "Formula1.com",
-   "date": "2026-11-24T14:37:29.335Z",
+   "date": "2026-11-24T16:04:54.125Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Red Bull made tweaks to their RB22 for the Las Vegas Grand Prix, with a new front wing endplate to complement recent tweaks to the sidepod, as Mark Hughes explains, with technical illustrations from Giorgio Piola.",
+   "image": null
+  },
+  {
+   "title": "Who impressed our Power Rankings judges in Las Vegas?",
+   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-las-vegas-grand-prix.8LxxDUxVsoaYjfw269gz5",
+   "source": "Formula1.com",
+   "date": "2026-11-24T16:04:54.125Z",
    "series": "F1",
    "result": false,
-   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
+   "summary": "Max Verstappen came out on top at the end of a thrilling Las Vegas Grand Prix, adding another first-class victory to his name after an overtake-filled race. But who else impressed our Power Rankings judges in the City…",
    "image": null
+  },
+  {
+   "title": "The 5 drivers most likely to win in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
+   "source": "Formula1.com",
+   "date": "2026-11-24T16:04:54.125Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
+   "image": null
+  },
+  {
+   "title": "Who is Tom Hart? Meet Max Verstappen’s new race engineer",
+   "url": "https://www.formula1.com/en/latest/article/who-is-tom-hart-meet-the-man-set-to-replace-gp-as-max-verstappens-race-engineer-at-red-bull.4U1Zq3JUB2gujP5OoTMW1Z",
+   "source": "Formula1.com",
+   "date": "2026-11-24T16:04:54.125Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Tom Hart has been stepping into the role of Max Verstappen's race engineer during the closing stages of the 2026 season, ahead of Gianpiero Lambiase's departure to McLaren.",
+   "image": null
+  },
+  {
+   "title": "Historic Ayrton Senna Williams F1 car fails to sell at multi-million-dollar auction",
+   "url": "https://www.crash.net/f1/news/1110870/1/historic-ayrton-senna-williams-f1-car-fails-sell-multi-million-dollar-auction",
+   "source": "Crash.net",
+   "date": "2026-11-24T16:00:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "One of only two Williams F1 cars driven by Ayrton Senna has failed to meet its reserve price after being put up for auction",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1026545_hires.jpg?width=1200"
+  },
+  {
+   "title": "Ducati's ace up its sleeve for 2027?",
+   "url": "https://www.the-race.com/promoted/ducatis-ace-up-its-sleeve-motogp-2027/",
+   "source": "The Race",
+   "date": "2026-11-24T15:49:26.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "While every MotoGP team might be flat-out working on 2027 while still staying focused on 2026, Ducati clearly believes that it's got something of an ace up its sleeve",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364783_HiRes.jpg"
+  },
+  {
+   "title": "ROK Cup USA Confirms Orlando Kart Center for Rounds Two and Three of the 2027 Florida Winter Tour",
+   "url": "https://www.ekartingnews.com/2026/11/24/rok-cup-usa-confirms-orlando-kart-center-for-rounds-two-and-three-of-the-2027-florida-winter-tour/",
+   "source": "eKartingNews",
+   "date": "2026-11-24T15:40:11.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "ROK Cup USA is pleased to confirm that Orlando Kart Center will host Rounds 2 and 3 of the 2027 Florida Winter Tour (FWT). The Central Florida facility will welcome the series on February 26–28 and March 12–14, 2027…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2022/06/ROK-Cup-Logo-2022-300x200.jpg"
+  },
+  {
+   "title": "The issue that cost Pierre Gasly a potential \"win\" at F1's Las Vegas GP",
+   "url": "https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T15:38:33.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Pierre Gasly reckons he potentially had the pace to win the Las Vegas Grand Prix, had a cooling issue not affected his Alpine Formula 1 car in the closing stages. The Frenchman finished fifth from eighth on the grid…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2jEAOXb0/s6/andrea-kimi-antonelli-mercedes.jpg"
+  },
+  {
+   "title": "Motorsport UK announces new Chair as David Richards steps down",
+   "url": "https://www.crash.net/f1/news/1110868/1/motorsport-uk-announces-new-chair-david-richards-steps-down",
+   "source": "Crash.net",
+   "date": "2026-11-24T15:13:20.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "MSUK has announced a new Chair to replace David Richards",
+   "image": "https://www.crash.net/sites/default/files/2026-09/xpb_1424310_hires.jpg?width=1200"
+  },
+  {
+   "title": "Ex-Ford CEO to lead Motorsport UK as David Richards departs",
+   "url": "https://www.the-race.com/business/ex-ford-ceo-to-lead-motorsport-uk-as-david-richards-departs/",
+   "source": "The Race",
+   "date": "2026-11-24T15:01:33.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "The UK's national motorsport body has announced the successor to David Richards.",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1424134_HiRes.jpg"
+  },
+  {
+   "title": "Richards set to step down as Motorsport UK chairman",
+   "url": "https://www.autosport.com/general/news/richards-set-to-step-down-as-motorsport-uk-chairman/10877268/",
+   "source": "Autosport",
+   "date": "2026-11-24T15:01:18.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "David Richards is set to step down as chairman of Motorsport UK with Morgan Motor Company’s Steve Armstrong serving as his replacement. The change will go through on 1 January 2027 and comes after Richards served the…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YP74V1e2/s6/motorsport-uk-chairman-announc-2.jpg"
   },
   {
    "title": "The timeline of Verstappen and Russell’s long rivalry",
@@ -193,16 +293,6 @@
    "series": "F1",
    "result": false,
    "summary": "Carlos Sainz managed to bring his Williams home in eighth place in Las Vegas, scoring for the first time since Baku with a drive the Spaniard called “amazing” after the race.",
-   "image": null
-  },
-  {
-   "title": "5 Winners and 5 Losers from Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-las-vegas.6HVn4aszKitqrWNRTWkksX",
-   "source": "Formula1.com",
-   "date": "2026-11-24T14:37:29.335Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lawrence Barretto picks out his winners and losers from an eventful 2026 Las Vegas Grand Prix.",
    "image": null
   },
   {
@@ -246,6 +336,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/25dLRoM0/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
+   "title": "T4 Series USA Joins the 2027 Florida Open",
+   "url": "https://www.ekartingnews.com/2026/11/24/t4-series-usa-joins-the-2027-florida-open/",
+   "source": "eKartingNews",
+   "date": "2026-11-24T13:17:20.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "Every winter, Florida becomes one of the biggest stages in American karting. SKUSA. USPKS. ROTAX. ROK. APEX. T4. From America’s most established national championships to emerging racing series, Florida attracts top…",
+   "image": null
+  },
+  {
    "title": "13 of F1's weirdest and most amazing records",
    "url": "https://www.formula1.com/en/latest/article/from-a-qualifying-dead-heat-to-the-lowest-ever-finish-12-of-f1s-weirdest-and.7xNY7kgbMdw2mJZcgCLeey",
    "source": "Formula1.com",
@@ -253,16 +353,6 @@
    "series": "F1",
    "result": false,
    "summary": "F1.com takes a closer look at some of the most incredible – and unusual – records from across the sport's history.",
-   "image": null
-  },
-  {
-   "title": "Qatar Grand Prix betting guide and latest odds",
-   "url": "https://www.formula1.com/en/latest/article/qatar-grand-prix-race-betting-guide-and-what-the-markets-predict-will-happen.5A5FEXzRhph6ATX2PvVmmq",
-   "source": "Formula1.com",
-   "date": "2026-11-24T13:12:34.016Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Our experts bring you all the important betting information you need before making your predictions for Lusail.",
    "image": null
   },
   {
@@ -324,46 +414,6 @@
    "result": false,
    "summary": "Even for a Formula 1 team accustomed to Hollywood glamour on the Las Vegas Strip, Mercedes pulled off one of the weekend’s best paddock cameos without a race car in sight. In a short clip posted by Mercedes during the…",
    "image": "https://cdn-1.motorsport.com/images/amp/0R7B14O2/s6/keanu-reeves-drives-the-podium-a10877389-b708-2.jpg"
-  },
-  {
-   "title": "Max Verstappen eyeing debut in major US race in January",
-   "url": "https://www.crash.net/f1/news/1110863/1/max-verstappen-eyeing-debut-major-us-race-january",
-   "source": "Crash.net",
-   "date": "2026-11-24T12:15:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen has confirmed that he is exploring the possibility of competing in one of the world's most prestigious endurance races during the F1 winter break",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456221_hires.jpg?width=1200"
-  },
-  {
-   "title": "Gary Anderson's alternative F1 V8 engine proposal",
-   "url": "https://www.the-race.com/formula-1/f1-v8-future-alternative-framework-gary-anderson/",
-   "source": "The Race",
-   "date": "2026-11-24T12:06:48.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 has the chance to prove that it's listened to fans and stakeholders with its 2030 V8 engines. Here's how Gary Anderson would shape those rules",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455747_HiRes.jpg"
-  },
-  {
-   "title": "Audi-backed Slater to take over Camara’s F2 seat",
-   "url": "https://www.formula1.com/en/latest/article/audi-backed-slater-to-take-over-camaras-f2-seat-for-final-two-rounds-in-qatar-and-abu-dhabi.3F0sq83OoErm2IjBqsncqu",
-   "source": "Formula1.com",
-   "date": "2026-11-24T11:57:13.183Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Audi Driver Development Programme member Freddie Slater will make his F2 debut at the Qatar Grand Prix weekend, joining Invicta Racing for the final two rounds of the 2026 season, ahead of his full-time promotion next…",
-   "image": null
-  },
-  {
-   "title": "PALMER: Where do Ferrari go from here after Las Vegas clash?",
-   "url": "https://www.formula1.com/en/latest/article/where-do-ferrari-go-from-here-after-the-latest-hamilton-leclerc-clash.PSFxRaC5vfQVri3YZxBiu",
-   "source": "Formula1.com",
-   "date": "2026-11-24T11:57:13.183Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer picks the bones out of the Ferrari team mate's clash in Las Vegas, and what the team can do to move on...",
-   "image": null
   },
   {
    "title": "Grasser and Bortolotti to McLaren? What McLaren's head of motorsport says",
@@ -714,16 +764,6 @@
    "result": false,
    "summary": "Newly-crowned 2026 MotoGP world champion Marc Marquez says he could not have cared less about the winning Sunday's Portuguese Grand Prix - albeit with somewhat stronger language. The Spaniard rode a cautious race to…",
    "image": "https://cdn-1.motorsport.com/images/amp/2wlKJrMY/s6/raul-fernandez-trackhouse-raci.jpg"
-  },
-  {
-   "title": "How Marc Marquez’s title celebrations were planned to end the GOAT debate in MotoGP",
-   "url": "https://www.motorsport.com/motogp/news/marc-marquez-2026-title-celebrations-goat-debate/10876881/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T16:08:25.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez clinched his eighth MotoGP title and 10th world championship overall at the Portuguese Grand Prix, surpassing Valentino Rossi and settling the debate over who is the greatest rider of all time. Although he…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5AMp1Y/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
@@ -1444,16 +1484,6 @@
    "result": false,
    "summary": "Will Lamborghini stalwart team Grasser and star driver Mirko Bortolotti switch to McLaren in 2027? There has been speculation about it in the DTM paddock for weeks - and now colleagues at MOTORSPORT aktuell have also…",
    "image": "https://cdn-1.motorsport.com/images/amp/G2e4Xv10/s6/lamborghini-droht-verlust-grasser-team-und-starpilot-vor-wechsel-zu-mclaren-26110301.jpg"
-  },
-  {
-   "title": "Why Kalle Rovanpera and Ott Tanak are returning to the WRC",
-   "url": "https://www.motorsport.com/wrc/news/why-kalle-rovanpera-and-ott-tanak-are-returning-to-the-wrc/10871308/",
-   "source": "Motorsport.com",
-   "date": "2026-11-03T15:50:54.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "The World Rally Championship will see two of its most popular champions return in 2027, as Kalle Rovanpera and Ott Tanak are part of Toyota’s six car line-up. Rovanpera and Tanak are both making WRC comebacks after…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0L1P7qv2/s6/kalle-rovanpera-jonne-halttune.jpg"
   }
  ]
 }
