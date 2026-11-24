@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:27:37.615Z",
+ "updated": "2026-11-24T07:56:06.355Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,15 +147,15 @@
   }
  ],
  "bySeries": {
+  "F1": 15,
   "NASCAR": 15,
   "Motorsport": 4,
   "IndyCar": 6,
-  "F1": 15,
   "IMSA": 10,
   "MotoGP": 15,
   "WEC": 15,
   "Karting": 8,
-  "WRC": 12,
+  "WRC": 11,
   "BTCC": 3,
   "DTM": 4,
   "F2 / F3": 2,
@@ -165,6 +165,16 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Was Hadjar helping himself or Verstappen when he collected a penalty in the pits?",
+   "url": "https://www.racefans.net/2026/11/24/was-hadjar-helping-himself-or-verstappen-when-he-collected-a-penalty-in-the-pits/",
+   "source": "RaceFans",
+   "date": "2026-11-24T07:15:03.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The stewards penalised Isack Hadjar for driving \"slowly for tactical reasons\" behind the Safety Car. What was Red Bull trying to achieve?",
+   "image": null
+  },
   {
    "title": "Spire returns check to Joe Gibbs Racing; rejects attempt to settle countersuit",
    "url": "https://www.motorsport.com/nascar-cup/news/spire-returns-check-to-joe-gibbs-racing-rejects-attempt-to-settle-countersuit/10877332/",
@@ -344,16 +354,6 @@
    "result": false,
    "summary": "Thought the Las Vegas GP was an extreme example of the 'yo-yo' racing seen earlier in F1 2026? That's not quite what was at play",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/M656883-1.jpg"
-  },
-  {
-   "title": "Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”",
-   "url": "https://www.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-and-nascar-and-formula-1-mixed/10877232/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T18:10:17.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Even after watching both Mercedes drivers slip off the podium in the final three laps, team principal Toto Wolff left the 2026 Las Vegas Grand Prix thrilled by the spectacle. While critics questioned whether Formula 1’s…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0arEdzP2/s6/toto-wolff-mercedes-a10877232-b705-2.jpg"
   },
   {
    "title": "Tsunami RT announces 2027 IMSA Michelin Endurance Cup entry in GTD",
@@ -1404,16 +1404,6 @@
    "result": false,
    "summary": "Toyota has explained its strategy to run two different Rally1 models and split its six driver line-up into two separate teams for the 2027 World Rally Championship. The reigning champions unveiled an unusual approach…",
    "image": "https://cdn-1.motorsport.com/images/amp/0rVP8VP0/s6/tgr-yaris-2027.jpg"
-  },
-  {
-   "title": "Kalle Rovanpera and Ott Tanak set for WRC return as Toyota announces bumper 2027 line-up",
-   "url": "https://www.motorsport.com/wrc/news/kalle-rovanpera-and-ott-tanak-set-for-wrc-return-as-toyota-announces-bumper-2027-line-up/10871119/",
-   "source": "Motorsport.com",
-   "date": "2026-11-03T07:48:11.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "Kalle Rovanpera and Ott Tanak will rejoin the World Rally Championship next year as part of a six-car Toyota line-up that will see the marque run two teams and different Rally1 car models. Toyota has announced plans to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2y7A3Xn6/s6/kalle-rovanpera-jonne-halttune.jpg"
   }
  ]
 }
