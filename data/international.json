@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:57:42.100Z",
+ "updated": "2026-11-24T20:52:52.881Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,6 +148,7 @@
  ],
  "bySeries": {
   "F1": 15,
+  "IndyCar": 9,
   "F2 / F3": 3,
   "WRC": 10,
   "Motorsport": 8,
@@ -155,7 +156,6 @@
   "IMSA": 11,
   "Karting": 10,
   "DTM": 4,
-  "IndyCar": 8,
   "WEC": 15,
   "NASCAR": 15,
   "BTCC": 3,
@@ -166,14 +166,34 @@
  },
  "items": [
   {
-   "title": "The 5 drivers most likely to qualify fastest in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
+   "title": "The 5 drivers most likely to win in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
    "source": "Formula1.com",
-   "date": "2026-11-24T18:57:42.100Z",
+   "date": "2026-11-24T20:52:52.881Z",
    "series": "F1",
    "result": false,
-   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
+   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
    "image": null
+  },
+  {
+   "title": "Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas",
+   "url": "https://www.motorsport.com/f1/news/jolyon-palmer-hails-max-verstappens-unbelievable-racecraft-in-george-russell-duel/10877407/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T20:05:06.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Even in a Las Vegas Grand Prix packed with 352 overtakes and 35 lead changes, the defining moments of Max Verstappen’s victory came down to raw wheel-to-wheel nerve rather than battery spreadsheets. Speaking on F1 TV’s…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0kZXkEK6/s6/max-verstappen-red-bull-racing-a10877407-b707-2.jpg"
+  },
+  {
+   "title": "IndyCar adds Kansas Speedway to 2027 schedule in joint NASCAR weekend",
+   "url": "https://www.motorsport.com/indycar/news/indycar-adds-kansas-speedway-to-2027-schedule-in-joint-nascar-weekend-/10877534/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T19:00:05.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
+   "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
   },
   {
    "title": "What's next for Herta after F1 2027 snub?",
@@ -434,16 +454,6 @@
    "result": false,
    "summary": "F1.com takes a closer look at some of the most incredible – and unusual – records from across the sport's history.",
    "image": null
-  },
-  {
-   "title": "F1 pundit calls for real consequences at Ferrari: \"I'd chuck Ollie Bearman in for a race\"",
-   "url": "https://www.motorsport.com/f1/news/chuck-bearman-in-for-a-race-james-hinchcliffe-calls-for-real-consequences-after-ferraris-latest-mel/10877438/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T13:00:03.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "After Charles Leclerc and Lewis Hamilton collided for the second time in three races during the 2026 Las Vegas Grand Prix, the paddock debate quickly moved past who misjudged Turn 7 and onto a harder question: how can…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877438-b704-2.jpg"
   },
   {
    "title": "Slater to replace Camara for rest of F2 season as Tsolov becomes title favourite",
