@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:12:34.016Z",
+ "updated": "2026-11-24T14:37:29.335Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,10 +148,10 @@
  ],
  "bySeries": {
   "F1": 15,
+  "MotoGP": 15,
   "F2 / F3": 3,
   "Motorsport": 5,
   "DTM": 5,
-  "MotoGP": 15,
   "IndyCar": 8,
   "WEC": 15,
   "NASCAR": 15,
@@ -165,6 +165,86 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "The 5 drivers most likely to qualify fastest in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
+   "source": "Formula1.com",
+   "date": "2026-11-24T14:37:29.335Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
+   "image": null
+  },
+  {
+   "title": "The timeline of Verstappen and Russell’s long rivalry",
+   "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN",
+   "source": "Formula1.com",
+   "date": "2026-11-24T14:37:29.335Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1.com charts how tensions first flared – and have since been reignited – between Max Verstappen and George Russell.",
+   "image": null
+  },
+  {
+   "title": "Sainz hails ‘amazing’ Las Vegas GP after ‘incredible’ P8",
+   "url": "https://www.formula1.com/en/latest/article/sainz-hails-amazing-las-vegas-grand-prix-after-incredible-p8-finish.4FBiwflePJER6l3k6aIFqU",
+   "source": "Formula1.com",
+   "date": "2026-11-24T14:37:29.335Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Carlos Sainz managed to bring his Williams home in eighth place in Las Vegas, scoring for the first time since Baku with a drive the Spaniard called “amazing” after the race.",
+   "image": null
+  },
+  {
+   "title": "5 Winners and 5 Losers from Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-las-vegas.6HVn4aszKitqrWNRTWkksX",
+   "source": "Formula1.com",
+   "date": "2026-11-24T14:37:29.335Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lawrence Barretto picks out his winners and losers from an eventful 2026 Las Vegas Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Maverick Vinales ruled out of Valencia GP, can’t bid farewell to MotoGP",
+   "url": "https://www.motorsport.com/motogp/news/maverick-vinales-ruled-out-of-valencia-gp-cant-bid-farewell-to-motogp/10877477/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T13:53:08.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "As has been the case at many MotoGP races since he injured his shoulder in qualifying at the 2025 German Grand Prix, Maverick Vinales won’t take part in the final round of the 2026 season, the Valencia GP. Having…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6VyKj8VY/s6/maverick-vinales-red-bull-ktm--2.jpg"
+  },
+  {
+   "title": "Vinales' hugely frustrating MotoGP career ends early",
+   "url": "https://www.the-race.com/motogp/maverick-vinales-hugely-frustrating-motogp-career-ends-early/",
+   "source": "The Race",
+   "date": "2026-11-24T13:40:59.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Maverick Vinales' MotoGP racing career appears to have come to an early end with his withdrawal from the season finale at Valencia this weekend",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202610100016.jpg"
+  },
+  {
+   "title": "Why Gran Turismo, not F1, leads the way in sim racing competitions",
+   "url": "https://www.the-race.com/extra/why-gran-turismo-not-f1-leads-the-way-in-sim-racing-competitions/",
+   "source": "The Race",
+   "date": "2026-11-24T13:23:29.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Gran Turismo is redefining competitive sim racing motorsport - delivering the drama, accessibility and spectacle that F1's virtual rivals have struggled to match",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GT_03102026_oh_29378_kIHJidGZ.JPG"
+  },
+  {
+   "title": "Marco Bezzecchi admits to “too many mistakes” after “painful” MotoGP title loss",
+   "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-admits-to-too-many-mistakes-after-painful-motogp-title-loss/10877363/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T13:18:01.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marco Bezzecchi has admitted he made “too many mistakes” in the 2026 MotoGP season, as he reflected on the reasons behind his “painful” title loss to Marc Marquez. The Aprilia rider had emerged as the early favourite…",
+   "image": "https://cdn-1.motorsport.com/images/amp/25dLRoM0/s6/marco-bezzecchi-aprilia-racing.jpg"
+  },
   {
    "title": "13 of F1's weirdest and most amazing records",
    "url": "https://www.formula1.com/en/latest/article/from-a-qualifying-dead-heat-to-the-lowest-ever-finish-12-of-f1s-weirdest-and.7xNY7kgbMdw2mJZcgCLeey",
@@ -183,16 +263,6 @@
    "series": "F1",
    "result": false,
    "summary": "Our experts bring you all the important betting information you need before making your predictions for Lusail.",
-   "image": null
-  },
-  {
-   "title": "Perez and Camara react to Las Vegas GP clash",
-   "url": "https://www.formula1.com/en/latest/article/perez-and-camara-react-to-las-vegas-grand-prix-clash-as-perez-receives-penalty-for-qatar.2WhxfuDIpCN5yN35Zupw8M",
-   "source": "Formula1.com",
-   "date": "2026-11-24T13:12:34.016Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Sergio Perez's Las Vegas Grand Prix came to an early end when the Cadillac driver collided with the Haas of Rafael Camara.",
    "image": null
   },
   {
@@ -266,7 +336,7 @@
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456221_hires.jpg?width=1200"
   },
   {
-   "title": "An alternative framework for F1's V8 future",
+   "title": "Gary Anderson's alternative F1 V8 engine proposal",
    "url": "https://www.the-race.com/formula-1/f1-v8-future-alternative-framework-gary-anderson/",
    "source": "The Race",
    "date": "2026-11-24T12:06:48.000Z",
@@ -293,16 +363,6 @@
    "series": "F1",
    "result": false,
    "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer picks the bones out of the Ferrari team mate's clash in Las Vegas, and what the team can do to move on...",
-   "image": null
-  },
-  {
-   "title": "The 5 drivers most likely to win in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
-   "source": "Formula1.com",
-   "date": "2026-11-24T11:57:13.183Z",
-   "series": "F1",
-   "result": false,
-   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
    "image": null
   },
   {
@@ -346,26 +406,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgOQDY/s6/kakunoshin-ohta-docomo-team-da.jpg"
   },
   {
-   "title": "George Russell urged to 'shut up' in brutal Max Verstappen warning",
-   "url": "https://www.crash.net/f1/news/1110861/1/george-russell-urged-shut-brutal-max-verstappen-warning",
-   "source": "Crash.net",
-   "date": "2026-11-24T11:30:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell has been warned against engaging in a psychological battle with Max Verstappen following their latest dispute",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454561_hires.jpg?width=1200"
-  },
-  {
-   "title": "‘Maybe I’m delusional but I genuinely feel like a podium was possible’ – Lindblad",
-   "url": "https://www.racefans.net/2026/11/24/maybe-im-delusional-but-i-genuinely-feel-like-a-podium-was-possible-lindblad/",
-   "source": "RaceFans",
-   "date": "2026-11-24T11:10:46.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Arvid Lindblad says he and Racing Bulls still don't understand the \"very abnormal\" cause of the spin which put him out of the Las Vegas Grand Prix.",
-   "image": null
-  },
-  {
    "title": "Marc Marquez's engineer explains how he pushed MotoGP rivals to the limit until they made mistakes",
    "url": "https://www.motorsport.com/motogp/news/marquezs-engineer-explains-how-he-pushed-his-rivals-to-the-limit-until-they-made-mistakes/10877371/",
    "source": "Motorsport.com",
@@ -374,16 +414,6 @@
    "result": false,
    "summary": "Few would have expected Marc Marquez to become MotoGP world champion this year when, on 9 May, he announced he would undergo yet another surgery on his right arm. Since then, however, the Ducati rider has undergone…",
    "image": "https://cdn-1.motorsport.com/images/amp/0R7BbGg2/s6/marc-marquez-ducati-team-2.jpg"
-  },
-  {
-   "title": "Who is Tom Hart? Meet Max Verstappen’s new race engineer",
-   "url": "https://www.formula1.com/en/latest/article/who-is-tom-hart-meet-the-man-set-to-replace-gp-as-max-verstappens-race-engineer-at-red-bull.4U1Zq3JUB2gujP5OoTMW1Z",
-   "source": "Formula1.com",
-   "date": "2026-11-24T10:57:55.350Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Tom Hart has been stepping into the role of Max Verstappen's race engineer during the closing stages of the 2026 season, ahead of Gianpiero Lambiase's departure to McLaren.",
-   "image": null
   },
   {
    "title": "The reasons behind Peugeot's WEC Hypercar exit",
@@ -696,26 +726,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AMp1Y/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
-   "title": "MotoGP Portuguese GP: Marquez crowned 2026 champion as Bezzecchi wins tense race",
-   "url": "https://www.autosport.com/motogp/news/motogp-portuguese-gp-marquez-crowned-2026-champion-as-bezzecchi-wins-tense-race/10876968/",
-   "source": "Autosport",
-   "date": "2026-11-22T13:53:43.000Z",
-   "series": "MotoGP",
-   "result": true,
-   "summary": "Marc Marquez sealed the 2026 MotoGP title with a conservative ride to eighth at the Portuguese Grand Prix, as Marco Bezzecchi led a 1-2-3 finish for Aprilia. Having missed out on a chance to seal the title in both the…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6b8ZA5w2/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "Fabio Quartararo on Portimao sprint charge: 'The first few laps were fun!'",
-   "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-on-portimao-sprint-charge-the-first-few-laps-were-fun/10876614/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T11:01:35.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Fabio Quartararo is more upbeat than usual ahead of Sunday's Portuguese Grand Prix, following a \"fun\" ride in the sprint race on Saturday. The French rider fought his way from 20th on the grid to eighth in the final…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0JXR7ZNY/s6/fabio-quartararo-yamaha-factor.jpg"
-  },
-  {
    "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
    "url": "https://www.motorsport.com/super-formula/news/super-formula-suzuka-tomoki-nojiri-breaks-drought-with-win-in-season-finale/10876716/",
    "source": "Motorsport.com",
@@ -724,16 +734,6 @@
    "result": true,
    "summary": "Tomoki Nojiri ended a year-long Super Formula win drought in the final race of the season at Suzuka on Sunday, beating newly-crowned champion Kakunoshin Ohta. Team Mugen driver Nojiri converted a record-extending 26th…",
    "image": "https://cdn-1.motorsport.com/images/amp/YMXb8LG2/s6/tomoki-nojiri-team-mugen-autob.jpg"
-  },
-  {
-   "title": "MotoGP Portuguese GP: Full starting grid",
-   "url": "https://www.motorsport.com/motogp/news/motogp-portuguese-gp-full-starting-grid/10876529/",
-   "source": "Motorsport.com",
-   "date": "2026-11-21T19:44:54.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marco Bezzecchi will start the Portuguese Grand Prix from pole position after setting a record-breaking MotoGP lap in Saturday's qualifying at Portimao. Having already won the sprint race, the factory Aprilia rider will…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8wl2/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "Super Formula Suzuka: Kakunoshin Ohta secures title in dramatic fashion as Ayumu Iwasa wins Race 1",
