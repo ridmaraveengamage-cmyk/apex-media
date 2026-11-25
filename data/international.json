@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:14:50.987Z",
+ "updated": "2026-11-25T08:48:22.295Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -166,13 +166,33 @@
  },
  "items": [
   {
-   "title": "The 5 drivers most likely to qualify fastest in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
+   "title": "The 5 drivers most likely to win in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
    "source": "Formula1.com",
-   "date": "2026-11-25T07:14:50.987Z",
+   "date": "2026-11-25T08:48:22.295Z",
    "series": "F1",
    "result": false,
-   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
+   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
+   "image": null
+  },
+  {
+   "title": "Stats: Mercedes have disappeared from the podium since their championship win | 2026 Las Vegas Grand Prix stats and facts",
+   "url": "https://www.racefans.net/2026/11/25/stats-mercedes-have-disappeared-from-the-podium-since-their-championship-win/",
+   "source": "RaceFans",
+   "date": "2026-11-25T07:45:53.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Mercedes had a driver on the podium at every grand prix this year until they won the constructors' championship. Here are more stats from Las Vegas.",
+   "image": null
+  },
+  {
+   "title": "How to watch the 2026 Qatar Grand Prix live this weekend",
+   "url": "https://www.racefans.net/2026/11/25/how-to-watch-the-2026-qatar-grand-prix-live-this-weekend/",
+   "source": "RaceFans",
+   "date": "2026-11-25T07:15:55.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "It's race week! Formula 1 heads to Losail International Circuit this weekend. Here's how to watch the Qatar Grand Prix and more.",
    "image": null
   },
   {
@@ -386,16 +406,6 @@
    "image": null
   },
   {
-   "title": "Historic Ayrton Senna Williams F1 car fails to sell at multi-million-dollar auction",
-   "url": "https://www.crash.net/f1/news/1110870/1/historic-ayrton-senna-williams-f1-car-fails-sell-multi-million-dollar-auction",
-   "source": "Crash.net",
-   "date": "2026-11-24T16:00:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "One of only two Williams F1 cars driven by Ayrton Senna has failed to meet its reserve price after being put up for auction",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1026545_hires.jpg?width=1200"
-  },
-  {
    "title": "Ducati's ace up its sleeve for 2027?",
    "url": "https://www.the-race.com/promoted/ducatis-ace-up-its-sleeve-motogp-2027/",
    "source": "The Race",
@@ -414,16 +424,6 @@
    "result": false,
    "summary": "ROK Cup USA is pleased to confirm that Orlando Kart Center will host Rounds 2 and 3 of the 2027 Florida Winter Tour (FWT). The Central Florida facility will welcome the series on February 26–28 and March 12–14, 2027…",
    "image": "https://www.ekartingnews.com/wp-content/uploads/2022/06/ROK-Cup-Logo-2022-300x200.jpg"
-  },
-  {
-   "title": "The issue that cost Pierre Gasly a potential \"win\" at F1's Las Vegas GP",
-   "url": "https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T15:38:33.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Pierre Gasly reckons he potentially had the pace to win the Las Vegas Grand Prix, had a cooling issue not affected his Alpine Formula 1 car in the closing stages. The Frenchman finished fifth from eighth on the grid…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2jEAOXb0/s6/andrea-kimi-antonelli-mercedes.jpg"
   },
   {
    "title": "Ex-Ford CEO to lead Motorsport UK as David Richards departs",
