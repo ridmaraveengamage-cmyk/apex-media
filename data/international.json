@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:01:32.445Z",
+ "updated": "2026-11-25T16:03:54.784Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -147,24 +147,94 @@
   }
  ],
  "bySeries": {
-  "IMSA": 11,
-  "Motorsport": 6,
-  "WRC": 11,
   "F1": 15,
+  "MotoGP": 15,
+  "IndyCar": 10,
+  "WEC": 15,
+  "IMSA": 11,
+  "Motorsport": 5,
+  "WRC": 11,
   "NASCAR": 15,
   "Super Formula": 3,
   "Formula E": 11,
   "DTM": 5,
-  "MotoGP": 15,
-  "IndyCar": 9,
   "Karting": 11,
   "F2 / F3": 2,
-  "WEC": 15,
   "BTCC": 3,
   "Dakar": 2,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
+   "url": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
+   "source": "Formula1.com",
+   "date": "2026-11-25T16:03:54.784Z",
+   "series": "F1",
+   "result": false,
+   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Jack Whitehall has shared his experiences as an official Friend of F1 – including a memorable first meeting with Kimi Antonelli.",
+   "image": null
+  },
+  {
+   "title": "The 5 drivers most likely to qualify fastest in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
+   "source": "Formula1.com",
+   "date": "2026-11-25T16:03:54.784Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
+   "image": null
+  },
+  {
+   "title": "Injured Bagnaia will miss last GP with Ducati, first MotoGP test with Aprilia",
+   "url": "https://www.autosport.com/motogp/news/embargo-injured-francesco-bagnaia-will-miss-last-gp-with-ducati-first-test-with-aprilia/10877705/",
+   "source": "Autosport",
+   "date": "2026-11-25T15:50:12.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Francesco Bagnaia will not be able to say goodbye to Ducati as a rider as injury has ruled him out of both the Valencia Grand Prix and his debut MotoGP test for Aprilia. The Italian, who has taken two world titles and…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YWKARwVY/s6/francesco-bagnaia-ducati-team-2.jpg"
+  },
+  {
+   "title": "F1’s 27-lap tyre limit rule for Qatar Grand Prix explained",
+   "url": "https://www.crash.net/f1/news/1110887/1/f1s-27-lap-tyre-limit-rule-qatar-grand-prix-explained",
+   "source": "Crash.net",
+   "date": "2026-11-25T15:44:12.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Pirelli has imposed a mandated lap limit on each tyre set for the Qatar Grand Prix.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/2249194502.jpg?width=1200"
+  },
+  {
+   "title": "Jack Harvey named Special Advisor at Dreyer & Reinbold, will sit out 2027 Indy 500",
+   "url": "https://www.motorsport.com/indycar/news/jack-harvey-named-special-advisor-at-dreyer-reinbold-will-sit-out-2027-indy-500/10877714/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T15:20:46.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "IndyCar driver and FOX Sports reporter Jack Harvey has announced that he will step aside from competing in the 2027 Indianapolis 500, shifting his focus toward a return to the cockpit in 2028. The update comes roughly…",
+   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNGgL2/s6/jack-harvey.jpg"
+  },
+  {
+   "title": "Ferrari told to ‘say Lewis Hamilton is number one or get a new team boss’ in blunt David Croft ultimatum",
+   "url": "https://www.crash.net/f1/news/1110886/1/ferrari-told-say-lewis-hamilton-number-one-or-get-new-team-boss-blunt-david-croft",
+   "source": "Crash.net",
+   "date": "2026-11-25T15:14:56.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "David Croft spells out blunt ultimatum for Ferrari after Lewis Hamilton and Charles Leclerc run-in.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455536_hires_0.jpg?width=1200"
+  },
+  {
+   "title": "What Peugeot had planned for its abandoned 2027 WEC Hypercar",
+   "url": "https://www.autosport.com/wec/news/what-peugeot-had-planned-for-its-abandoned-2027-wec-hypercar-/10877678/",
+   "source": "Autosport",
+   "date": "2026-11-25T15:11:04.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "The 2027-spec 9X8 LMH was set to offer Peugeot its best chance of becoming a consistent World Endurance Championship frontrunner against some stiff Hypercar competition. The French manufacturer had invested considerable…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlKkxBY/s6/9x8-2027.jpg"
+  },
   {
    "title": "AO Racing adds Connor Zilisch for Rolex 24, shuffles lineups for 2027 IMSA season",
    "url": "https://www.motorsport.com/imsa/news/ao-racing-adds-connor-zilisch-for-rolex-24-shuffles-lineups-for-2027-imsa-season/10877709/",
@@ -276,16 +346,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0ZqAezM6/s6/luke-browning-realize-kondo-ra.jpg"
   },
   {
-   "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
-   "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe",
-   "source": "Formula1.com",
-   "date": "2026-11-25T11:29:30.054Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The penultimate race weekend of the 2026 season comes from Qatar, and much like last year, Pirelli have mandated a lap limit on each tyre set for the Lusail International Circuit, due to the unique demands of the track.",
-   "image": null
-  },
-  {
    "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium",
    "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI",
    "source": "Formula1.com",
@@ -326,16 +386,6 @@
    "image": null
   },
   {
-   "title": "Audi-backed Slater to take over Camara’s F2 seat",
-   "url": "https://www.formula1.com/en/latest/article/audi-backed-slater-to-take-over-camaras-f2-seat-for-final-two-rounds-in-qatar-and-abu-dhabi.3F0sq83OoErm2IjBqsncqu",
-   "source": "Formula1.com",
-   "date": "2026-11-25T11:29:30.054Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Audi Driver Development Programme member Freddie Slater will make his F2 debut at the Qatar Grand Prix weekend, joining Invicta Racing for the final two rounds of the 2026 season, ahead of his full-time promotion next…",
-   "image": null
-  },
-  {
    "title": "Fernando Alonso admits Aston Martin \"can’t be competitive\" as he outlines huge F1 shortfall",
    "url": "https://www.crash.net/f1/news/1110880/1/fernando-alonso-admits-aston-martin-cant-be-competitive-he-outlines-huge-f1",
    "source": "Crash.net",
@@ -354,26 +404,6 @@
    "result": false,
    "summary": "What many had feared has unfortunately come to pass. In light of the substantial financial hole that emerged at the end of 2025 and the losses recorded in the third quarter of this year, Stellantis has decided to close…",
    "image": "https://cdn-1.motorsport.com/images/amp/YWKA31DY/s6/citroen-racing-citroen-e-cx-2.jpg"
-  },
-  {
-   "title": "Charles Leclerc sells Ferrari SUV he pranged in viral Monaco crash",
-   "url": "https://www.crash.net/f1/news/1110878/1/charles-leclerc-sells-ferrari-suv-he-pranged-viral-monaco-crash",
-   "source": "Crash.net",
-   "date": "2026-11-25T10:36:03.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc is selling one of his Ferrari cars.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454435_hires.jpg?width=1200"
-  },
-  {
-   "title": "What tyres will the teams have for the Qatar Grand Prix?",
-   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-qatar-grand-prix.7JllCRweDY5sW1N9LzdkLm",
-   "source": "Formula1.com",
-   "date": "2026-11-25T10:10:07.657Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Qatar Grand Prix weekend, with a maximum of 27 laps permitted on each set.",
-   "image": null
   },
   {
    "title": "Marco Wittmann protégé triumphs: Who are the 2026 Road to DTM winners?",
@@ -726,16 +756,6 @@
    "image": null
   },
   {
-   "title": "Autosport Business Awards open nominations to recognise excellence across global motorsport industry",
-   "url": "https://www.autosport.com/autosport-awards/news/autosport-business-awards-open-nominations-to-recognise-excellence-across-global-motorsport-industry/10877252/",
-   "source": "Autosport",
-   "date": "2026-11-23T15:38:17.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Nominations are open for the Autosport Business Awards, sponsored by LIQUI MOLY, that will be presented at the Autosport Awards. The four awards celebrate the commercial achievements that underpin motorsport, and…",
-   "image": "https://cdn-1.motorsport.com/images/amp/25d3GRE0/s6/greg-james-bbc-radio-1-present.jpg"
-  },
-  {
    "title": "Soaking Wet Finals for Second Round of the WSK Final Cup in Lonato",
    "url": "https://www.ekartingnews.com/2026/11/23/soaking-wet-finals-for-second-round-of-the-wsk-final-cup-in-lonato/",
    "source": "eKartingNews",
@@ -854,16 +874,6 @@
    "result": false,
    "summary": "Fabio Quartararo believes Marc Marquez's remarkable run to the 2026 MotoGP title has put beyond doubt his status as the greatest rider in the championship's history. Ducati rider Marquez clinched his 10th world…",
    "image": "https://cdn-1.motorsport.com/images/amp/2d1kQb3Y/s6/marc-marquez-ducati-team-fabio.jpg"
-  },
-  {
-   "title": "Marc Marquez on sealing title with lowly eighth: 'The race could f*** off today'",
-   "url": "https://www.motorsport.com/motogp/news/marc-marquez-on-sealing-title-with-lowly-eighth-the-race-could-f-off-today/10877003/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T16:48:47.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Newly-crowned 2026 MotoGP world champion Marc Marquez says he could not have cared less about the winning Sunday's Portuguese Grand Prix - albeit with somewhat stronger language. The Spaniard rode a cautious race to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlKJrMY/s6/raul-fernandez-trackhouse-raci.jpg"
   },
   {
    "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
@@ -1374,16 +1384,6 @@
    "result": false,
    "summary": "Wright Motorsports is gearing up for a championship push in the 2027 IMSA WeatherTech SportsCar Championship, confirming the return of its signature dark green #120 Porsche 911 GT3 R (992) for a fourth consecutive…",
    "image": "https://cdn-1.motorsport.com/images/amp/63QaZJ42/s6/120-wright-motorsports-porsche.jpg"
-  },
-  {
-   "title": "The new records set by Toyota's Hypercar trio with WEC 2026 title",
-   "url": "https://www.motorsport.com/wec/news/the-new-records-set-by-toyotas-hypercar-trio-with-wec-2026-title/10873848/",
-   "source": "Motorsport.com",
-   "date": "2026-11-11T13:23:55.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Sebastien Buemi, Brendon Hartley and Ryo Hirakawa had already established their credentials in sportscar racing, but their names were etched into history last week following their success in the 2026 World Endurance…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Zq8vjM6/s6/8-toyota-gazoo-racing-toyota-t-2.jpg"
   },
   {
    "title": "Double Mini champion gets big BTCC break for 2027",
