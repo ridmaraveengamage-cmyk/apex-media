@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:29:30.054Z",
+ "updated": "2026-11-25T12:35:16.433Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,14 +148,14 @@
  ],
  "bySeries": {
   "F1": 15,
-  "Formula E": 11,
   "Super Formula": 3,
+  "Formula E": 11,
   "DTM": 5,
   "MotoGP": 15,
   "NASCAR": 15,
   "IndyCar": 9,
   "Karting": 11,
-  "F2 / F3": 3,
+  "F2 / F3": 2,
   "WRC": 10,
   "IMSA": 11,
   "Motorsport": 5,
@@ -165,6 +165,46 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Was Russell ‘playing mind games with himself’ in Las Vegas?",
+   "url": "https://www.formula1.com/en/latest/article/was-russell-playing-mind-games-with-himself-before-verstappens-victory-in-las-vegas.3ZYU5SCNPd2f2JQIKr7LlM",
+   "source": "Formula1.com",
+   "date": "2026-11-25T12:35:16.433Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell and Max Verstappen were the talk of the town after last weekend’s Las Vegas Grand Prix, with the pair’s long-standing rivalry being renewed via a sequence of on- and off-track moments.",
+   "image": null
+  },
+  {
+   "title": "F1 returns to the track its tyres can’t cope with: Seven Qatar GP talking points",
+   "url": "https://www.racefans.net/2026/11/25/f1-returns-to-the-track-its-tyres-cant-cope-with-seven-qatar-gp-talking-points/",
+   "source": "RaceFans",
+   "date": "2026-11-25T12:08:32.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Despite concerns over instability in the region, Formula 1 heads to the Middle East this weekend. Here are the Qatar Grand Prix talking points.",
+   "image": null
+  },
+  {
+   "title": "McLaren's driver management lessons for Ferrari",
+   "url": "https://www.the-race.com/formula-1/mclarens-driver-management-lessons-for-ferrari/",
+   "source": "The Race",
+   "date": "2026-11-25T12:01:29.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "McLaren's F1 drivers don't always appreciate its racing instructions. But they work. And Ferrari should learn from that",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456211_HiRes.jpg"
+  },
+  {
+   "title": "Luke Browning reveals hardest aspect of maiden Super Formula season",
+   "url": "https://www.motorsport.com/super-formula/news/luke-browning-reveals-hardest-aspect-of-maiden-super-formula-season/10877640/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T11:44:24.000Z",
+   "series": "Super Formula",
+   "result": false,
+   "summary": "Williams Formula 1 reserve driver Luke Browning says getting up to speed on new circuits was the hardest aspect of his Super Formula season, as he sealed the Rookie of the Year title. Driving for the Toyota-powered…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0ZqAezM6/s6/luke-browning-realize-kondo-ra.jpg"
+  },
   {
    "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
    "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe",
@@ -256,16 +296,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YWKA31DY/s6/citroen-racing-citroen-e-cx-2.jpg"
   },
   {
-   "title": "Browning reveals hardest aspect of maiden Super Formula season",
-   "url": "https://www.autosport.com/super-formula/news/luke-browning-reveals-hardest-aspect-of-maiden-super-formula-season/10877643/",
-   "source": "Autosport",
-   "date": "2026-11-25T10:50:43.000Z",
-   "series": "Super Formula",
-   "result": false,
-   "summary": "Williams Formula 1 reserve driver Luke Browning says getting up to speed on new circuits was the hardest aspect of his Super Formula season, as he sealed the Rookie of the Year title. Driving for the Toyota-powered…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0ZqAezM6/s6/luke-browning-realize-kondo-ra.jpg"
-  },
-  {
    "title": "Charles Leclerc sells Ferrari SUV he pranged in viral Monaco crash",
    "url": "https://www.crash.net/f1/news/1110878/1/charles-leclerc-sells-ferrari-suv-he-pranged-viral-monaco-crash",
    "source": "Crash.net",
@@ -316,16 +346,6 @@
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1428140_hires.jpg?width=1200"
   },
   {
-   "title": "Max Verstappen played GTA 6 for 40 hours and still won the Las Vegas GP",
-   "url": "https://www.crash.net/f1/news/1110876/1/max-verstappen-played-gta-6-40-hours-and-still-won-las-vegas-gp",
-   "source": "Crash.net",
-   "date": "2026-11-25T09:55:06.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Max Verstappen reveals how much time he spent playing GTA 6 in Las Vegas.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456258_hires.jpg?width=1200"
-  },
-  {
    "title": "Six ways Marc Marquez outgunned Aprilia to the 2026 MotoGP title",
    "url": "https://www.motorsport.com/motogp/news/six-ways-marc-marquez-outgunned-the-factory-aprilias-to-the-2026-motogp-title/10877602/",
    "source": "Motorsport.com",
@@ -334,26 +354,6 @@
    "result": false,
    "summary": "For a rider who could always win on raw speed, Marc Marquez had to become creative both on and off the track to compensate for his physical limitations in MotoGP this year. Winning the 2026 MotoGP title required the…",
    "image": "https://cdn-1.motorsport.com/images/amp/01QNE4Z0/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "The unusual reason F1's engine freeze could return",
-   "url": "https://www.the-race.com/formula-1/unusual-reason-f1-engine-freeze-could-return/",
-   "source": "The Race",
-   "date": "2026-11-25T09:37:38.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1's early switch to V8 engines in 2030 is set to mean the return of engine freeze rules before then - but for an unusual reason",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456081_HiRes.jpg"
-  },
-  {
-   "title": "Alonso: “We can't be competitive with the power unit we have”",
-   "url": "https://www.autosport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877607/",
-   "source": "Autosport",
-   "date": "2026-11-25T09:16:47.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fernando Alonso says Honda is “a very long way behind” its Formula 1 rivals and Aston Martin therefore “can’t be competitive” with the Japanese engine, albeit expressing hope for the future. As F1 switched to power…",
-   "image": "https://cdn-1.motorsport.com/images/amp/68VwBRQ2/s6/fernando-alonso-aston-martin-r-2.jpg"
   },
   {
    "title": "Joe Gibbs Racing constructs timeline of Chris Gabehart's alleged theft",
@@ -793,16 +793,6 @@
    "series": "Motorsport",
    "result": false,
    "summary": "Spanish GP promoter promises an \"enhanced Madring\" for 2027",
-   "image": null
-  },
-  {
-   "title": "Herta pulls out of final Formula 2 races in Qatar and Abu Dhabi",
-   "url": "https://www.racefans.net/2026/11/23/herta-pulls-out-of-final-formula-2-races-in-qatar-and-abu-dhabi/",
-   "source": "RaceFans",
-   "date": "2026-11-23T10:02:19.000Z",
-   "series": "F2 / F3",
-   "result": false,
-   "summary": "Colton Herta will not take part in the final two Formula 2 rounds in the Middle East after missing his chance to gain a Cadillac Formula 1 drive.",
    "image": null
   },
   {
