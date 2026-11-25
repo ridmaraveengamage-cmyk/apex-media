@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:35:16.433Z",
+ "updated": "2026-11-25T13:53:53.280Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -147,24 +148,64 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
+  "F1": 16,
+  "NASCAR": 15,
   "Super Formula": 3,
   "Formula E": 11,
   "DTM": 5,
   "MotoGP": 15,
-  "NASCAR": 15,
-  "IndyCar": 9,
+  "IndyCar": 10,
   "Karting": 11,
   "F2 / F3": 2,
   "WRC": 10,
-  "IMSA": 11,
+  "IMSA": 10,
   "Motorsport": 5,
-  "WEC": 15,
+  "WEC": 16,
   "BTCC": 3,
   "Dakar": 2,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints",
+   "url": "https://www.formula1.com/en/latest/article/from-monza-mayhem-to-suzuka-showdowns-10-dramatic-rivalry-flashpoints-in-f1-history.3tetZNSgL2jM1F3THX3k1M",
+   "source": "Formula1.com",
+   "date": "2026-11-25T13:53:53.280Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen and George Russell traded blows on and off track in Las Vegas last weekend – but that is merely the latest episode in a long history of driver rivalries in Formula 1.",
+   "image": null
+  },
+  {
+   "title": "Max Verstappen vs George Russell: The timeline of F1’s biggest rivalry",
+   "url": "https://www.crash.net/f1/feature/1110882/1/max-verstappen-vs-george-russell-timeline-f1s-biggest-rivalry",
+   "source": "Crash.net",
+   "date": "2026-11-25T13:45:33.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen and George Russell's F1 rivalry reignited in Las Vegas. This is the history behind their bitter feud.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1421655_hires.jpg?width=1200"
+  },
+  {
+   "title": "Zak Brown rules out McLaren engine programme for F1 2030",
+   "url": "https://www.motorsport.com/f1/news/zak-brown-rules-out-mclaren-engine-programme-for-f1-2030/10877436/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T13:15:47.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Zak Brown has ruled out a factory engine programme for the 2030 Formula 1 campaign as McLaren is “very happy” with its Mercedes partnership. The British marque has been a Mercedes customer since 2021 and has enjoyed…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6grQp5lY/s6/andrea-kimi-antonelli-mercedes.jpg"
+  },
+  {
+   "title": "Lennix Busch tests kart for the first time, okay after \"pretty big\" crash",
+   "url": "https://www.motorsport.com/nascar-cup/news/lennix-busch-tests-race-car-for-first-time-all-smiles-despite-crash/10877574/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T12:40:03.000Z",
+   "series": "NASCAR",
+   "result": false,
+   "summary": "Kyle and his wife Samantha Busch made a point of documenting their son Brexton's racing development on YouTube, which has continued even after Kyle's tragic passing earlier this year at the age of 41. Kyle was recently…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YMXbNEG2/s6/kyle-busch-s-son-brexton-busch.jpg"
+  },
   {
    "title": "Was Russell ‘playing mind games with himself’ in Las Vegas?",
    "url": "https://www.formula1.com/en/latest/article/was-russell-playing-mind-games-with-himself-before-verstappens-victory-in-las-vegas.3ZYU5SCNPd2f2JQIKr7LlM",
@@ -266,16 +307,6 @@
    "image": null
   },
   {
-   "title": "PALMER: Where do Ferrari go from here after Las Vegas clash?",
-   "url": "https://www.formula1.com/en/latest/article/where-do-ferrari-go-from-here-after-the-latest-hamilton-leclerc-clash.PSFxRaC5vfQVri3YZxBiu",
-   "source": "Formula1.com",
-   "date": "2026-11-25T11:29:30.054Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer picks the bones out of the Ferrari team mate's clash in Las Vegas, and what the team can do to move on...",
-   "image": null
-  },
-  {
    "title": "Fernando Alonso admits Aston Martin \"can’t be competitive\" as he outlines huge F1 shortfall",
    "url": "https://www.crash.net/f1/news/1110880/1/fernando-alonso-admits-aston-martin-cant-be-competitive-he-outlines-huge-f1",
    "source": "Crash.net",
@@ -336,16 +367,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/725jaW9Y/s6/marco-wittmann-schuetzling-triumphiert-wer-sind-die-road-to-dtm-sieger-2026-26110801.jpg"
   },
   {
-   "title": "Colton Herta slammed by Will Buxton for 'childish' decision after F1 setback",
-   "url": "https://www.crash.net/f1/news/1110873/1/colton-herta-slammed-will-buxton-childish-decision-after-f1-setback",
-   "source": "Crash.net",
-   "date": "2026-11-25T10:00:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Will Buxton has questioned Colton Herta's decision to reject a Cadillac reserve driver role following the team's decision to retain Valtteri Bottas for 2027",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1428140_hires.jpg?width=1200"
-  },
-  {
    "title": "Six ways Marc Marquez outgunned Aprilia to the 2026 MotoGP title",
    "url": "https://www.motorsport.com/motogp/news/six-ways-marc-marquez-outgunned-the-factory-aprilias-to-the-2026-motogp-title/10877602/",
    "source": "Motorsport.com",
@@ -384,6 +405,16 @@
    "result": false,
    "summary": "The Superkarts! USA SuperNationals 29 were held over November 11-15 outside the Las Vegas Motor Speedway. A total of 600 entries across 11 categories battled for five days, leading up to the final laps on SuperSunday to…",
    "image": null
+  },
+  {
+   "title": "IndyCar adds Kansas Speedway to 2027 schedule in joint NASCAR weekend",
+   "url": "https://www.motorsport.com/indycar/news/indycar-adds-kansas-speedway-to-2027-schedule-in-joint-nascar-weekend-/10877534/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T19:00:05.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
+   "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
   },
   {
    "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
@@ -1266,16 +1297,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YMX3BMV2/s6/pilotos-y-equipos-de-formula-e.jpg"
   },
   {
-   "title": "Carson Hocevar and Cleetus McFarland win LeMullets 2026 in epic finish",
-   "url": "https://www.motorsport.com/general/news/carson-hocevar-and-cleetus-mcfarland-win-lemullets-2026/10874411/",
-   "source": "Motorsport.com",
-   "date": "2026-11-14T04:20:50.000Z",
-   "series": "NASCAR",
-   "result": true,
-   "summary": "Carson Hocevar and Cleetus McFarland have won the 2026 edition of the 2.4 Hours of LeMullets, a full-contact Crown Vic around the Freedom Factory short track in Florida The 3/8-mile oval also had a chicane of sorts on…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6VyK9qNY/s6/carson-hocevar-and-cleetus-mcf.jpg"
-  },
-  {
    "title": "Myers Riley Motorsports adds Andretti alongside returning Fraga for 2027 IMSA GTD campaign",
    "url": "https://www.motorsport.com/imsa/news/myers-riley-motorsports-adds-andretti-alongside-returning-fraga-for-2027-imsa-gtd-campaign/10874371/",
    "source": "Motorsport.com",
@@ -1370,7 +1391,7 @@
    "url": "https://www.motorsport.com/general/news/joey-logano-logan-sargeant-among-ford-drivers-taking-part-in-daytona-charity-race/10873721/",
    "source": "Motorsport.com",
    "date": "2026-11-10T20:45:15.000Z",
-   "series": "IMSA",
+   "series": "WEC",
    "result": false,
    "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
