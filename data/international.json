@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:48:22.295Z",
+ "updated": "2026-11-25T10:10:07.657Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,13 +148,13 @@
  ],
  "bySeries": {
   "F1": 15,
+  "MotoGP": 15,
   "NASCAR": 15,
   "IndyCar": 9,
   "Karting": 11,
   "F2 / F3": 3,
   "WRC": 10,
-  "Motorsport": 7,
-  "MotoGP": 15,
+  "Motorsport": 6,
   "IMSA": 11,
   "DTM": 4,
   "WEC": 15,
@@ -166,14 +166,94 @@
  },
  "items": [
   {
-   "title": "The 5 drivers most likely to win in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-qatar-grand-prix-according-to-the-betting-markets.3BzTGI3GGJZHfB5FxGTeN8",
+   "title": "What tyres will the teams have for the Qatar Grand Prix?",
+   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-qatar-grand-prix.7JllCRweDY5sW1N9LzdkLm",
    "source": "Formula1.com",
-   "date": "2026-11-25T08:48:22.295Z",
+   "date": "2026-11-25T10:10:07.657Z",
    "series": "F1",
    "result": false,
-   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Lusail International Circuit.",
+   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Qatar Grand Prix weekend, with a maximum of 27 laps permitted on each set.",
    "image": null
+  },
+  {
+   "title": "The 5 drivers most likely to qualify fastest in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
+   "source": "Formula1.com",
+   "date": "2026-11-25T10:10:07.657Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
+   "image": null
+  },
+  {
+   "title": "Colton Herta slammed by Will Buxton for 'childish' decision after F1 setback",
+   "url": "https://www.crash.net/f1/news/1110873/1/colton-herta-slammed-will-buxton-childish-decision-after-f1-setback",
+   "source": "Crash.net",
+   "date": "2026-11-25T10:00:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Will Buxton has questioned Colton Herta's decision to reject a Cadillac reserve driver role following the team's decision to retain Valtteri Bottas for 2027",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1428140_hires.jpg?width=1200"
+  },
+  {
+   "title": "Max Verstappen played GTA 6 for 40 hours and still won the Las Vegas GP",
+   "url": "https://www.crash.net/f1/news/1110876/1/max-verstappen-played-gta-6-40-hours-and-still-won-las-vegas-gp",
+   "source": "Crash.net",
+   "date": "2026-11-25T09:55:06.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Max Verstappen reveals how much time he spent playing GTA 6 in Las Vegas.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456258_hires.jpg?width=1200"
+  },
+  {
+   "title": "Six ways Marc Marquez outgunned Aprilia to the 2026 MotoGP title",
+   "url": "https://www.motorsport.com/motogp/news/six-ways-marc-marquez-outgunned-the-factory-aprilias-to-the-2026-motogp-title/10877602/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T09:50:55.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "For a rider who could always win on raw speed, Marc Marquez had to become creative both on and off the track to compensate for his physical limitations in MotoGP this year. Winning the 2026 MotoGP title required the…",
+   "image": "https://cdn-1.motorsport.com/images/amp/01QNE4Z0/s6/marc-marquez-ducati-team.jpg"
+  },
+  {
+   "title": "What time is the next F1 race? Full Qatar GP schedule and how to watch",
+   "url": "https://www.crash.net/f1/news/1110875/1/what-time-next-f1-race-full-qatar-gp-schedule-and-how-watch",
+   "source": "Crash.net",
+   "date": "2026-11-25T09:38:28.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The next round of the 2026 Formula 1 season takes place at the Qatar Grand Prix.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1389214_hires.jpg?width=1200"
+  },
+  {
+   "title": "The unusual reason F1's engine freeze could return",
+   "url": "https://www.the-race.com/formula-1/unusual-reason-f1-engine-freeze-could-return/",
+   "source": "The Race",
+   "date": "2026-11-25T09:37:38.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1's early switch to V8 engines in 2030 is set to mean the return of engine freeze rules before then - but for an unusual reason",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456081_HiRes.jpg"
+  },
+  {
+   "title": "Alonso: “We can't be competitive with the power unit we have”",
+   "url": "https://www.autosport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877607/",
+   "source": "Autosport",
+   "date": "2026-11-25T09:16:47.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Fernando Alonso says Honda is “a very long way behind” its Formula 1 rivals and Aston Martin therefore “can’t be competitive” with the Japanese engine, albeit expressing hope for the future. As F1 switched to power…",
+   "image": "https://cdn-1.motorsport.com/images/amp/68VwBRQ2/s6/fernando-alonso-aston-martin-r-2.jpg"
+  },
+  {
+   "title": "Ferrari urged to bench Lewis Hamilton or Charles Leclerc after Las Vegas GP clash",
+   "url": "https://www.crash.net/f1/news/1110871/1/ferrari-urged-bench-lewis-hamilton-or-charles-leclerc-after-las-vegas-gp-clash",
+   "source": "Crash.net",
+   "date": "2026-11-25T09:00:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ferrari have been urged to take drastic action to prevent further collisions between Lewis Hamilton and Charles Leclerc following their latest clash in Las Vegas",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1402081_hires.jpg?width=1200"
   },
   {
    "title": "Stats: Mercedes have disappeared from the podium since their championship win | 2026 Las Vegas Grand Prix stats and facts",
@@ -214,26 +294,6 @@
    "result": false,
    "summary": "While most of the information contained within is familiar to anyone that has followed the entire legal process, Joe Gibbs Racing has now used everything acquired during discovery to construct a timeline to validate its…",
    "image": "https://cdn-1.motorsport.com/images/amp/YN7vjVe6/s6/gettyimages-2291455874.jpg"
-  },
-  {
-   "title": "What time is the 2026 Qatar GP and how can I watch it?",
-   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
-   "source": "Formula1.com",
-   "date": "2026-11-24T22:55:54.056Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Here are all the timings – along with all the additional information you need – for the 22nd Grand Prix weekend of the 2026 season from Qatar.",
-   "image": null
-  },
-  {
-   "title": "13 of F1's weirdest and most amazing records",
-   "url": "https://www.formula1.com/en/latest/article/from-a-qualifying-dead-heat-to-the-lowest-ever-finish-12-of-f1s-weirdest-and.7xNY7kgbMdw2mJZcgCLeey",
-   "source": "Formula1.com",
-   "date": "2026-11-24T22:55:54.056Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1.com takes a closer look at some of the most incredible – and unusual – records from across the sport's history.",
-   "image": null
   },
   {
    "title": "Spotlight: IndyCar adds Kansas to 2027 calendar alongside NASCAR",
@@ -336,26 +396,6 @@
    "image": null
   },
   {
-   "title": "Audi-backed Slater to take over Camara’s F2 seat",
-   "url": "https://www.formula1.com/en/latest/article/audi-backed-slater-to-take-over-camaras-f2-seat-for-final-two-rounds-in-qatar-and-abu-dhabi.3F0sq83OoErm2IjBqsncqu",
-   "source": "Formula1.com",
-   "date": "2026-11-24T17:06:05.022Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Audi Driver Development Programme member Freddie Slater will make his F2 debut at the Qatar Grand Prix weekend, joining Invicta Racing for the final two rounds of the 2026 season, ahead of his full-time promotion next…",
-   "image": null
-  },
-  {
-   "title": "PALMER: Where do Ferrari go from here after Las Vegas clash?",
-   "url": "https://www.formula1.com/en/latest/article/where-do-ferrari-go-from-here-after-the-latest-hamilton-leclerc-clash.PSFxRaC5vfQVri3YZxBiu",
-   "source": "Formula1.com",
-   "date": "2026-11-24T17:06:05.022Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer picks the bones out of the Ferrari team mate's clash in Las Vegas, and what the team can do to move on...",
-   "image": null
-  },
-  {
    "title": "Gigi Dall'Igna: ‘Marc Marquez is the best rider in history, no doubt about that’",
    "url": "https://www.motorsport.com/motogp/news/gigi-dalligna-marc-marquez-is-the-best-rider-in-history-no-doubt-about-that/10877521/",
    "source": "Motorsport.com",
@@ -374,36 +414,6 @@
    "result": false,
    "summary": "Hanley Motorsports Incorporated (HMI) has signed Robert Wickens and Mason Filippi as its full-season driver pairing for the 2027 IMSA WeatherTech SportsCar Championship GTD class. The duo will share the #42 BMW M4 GT3…",
    "image": "https://cdn-1.motorsport.com/images/amp/2y7Qgpy6/s6/robert-wickens-chris-griffis-m.jpg"
-  },
-  {
-   "title": "The RB22 tweaks that helped Verstappen take victory in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/the-rb22-tweaks-that-helped-verstappen-take-victory-in-las-vegas.67NV2uD7vnuxKuW9SHi685",
-   "source": "Formula1.com",
-   "date": "2026-11-24T16:04:54.125Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Red Bull made tweaks to their RB22 for the Las Vegas Grand Prix, with a new front wing endplate to complement recent tweaks to the sidepod, as Mark Hughes explains, with technical illustrations from Giorgio Piola.",
-   "image": null
-  },
-  {
-   "title": "Who impressed our Power Rankings judges in Las Vegas?",
-   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-las-vegas-grand-prix.8LxxDUxVsoaYjfw269gz5",
-   "source": "Formula1.com",
-   "date": "2026-11-24T16:04:54.125Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen came out on top at the end of a thrilling Las Vegas Grand Prix, adding another first-class victory to his name after an overtake-filled race. But who else impressed our Power Rankings judges in the City…",
-   "image": null
-  },
-  {
-   "title": "Who is Tom Hart? Meet Max Verstappen’s new race engineer",
-   "url": "https://www.formula1.com/en/latest/article/who-is-tom-hart-meet-the-man-set-to-replace-gp-as-max-verstappens-race-engineer-at-red-bull.4U1Zq3JUB2gujP5OoTMW1Z",
-   "source": "Formula1.com",
-   "date": "2026-11-24T16:04:54.125Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Tom Hart has been stepping into the role of Max Verstappen's race engineer during the closing stages of the 2026 season, ahead of Gianpiero Lambiase's departure to McLaren.",
-   "image": null
   },
   {
    "title": "Ducati's ace up its sleeve for 2027?",
@@ -734,26 +744,6 @@
    "result": true,
    "summary": "The second-ever FIA Karting Arrive and Drive World Cup winners have been crowned a year after the more affordable, accessible and inclusive motor sport format debuted on the FIA Karting calendar. Racing on equal…",
    "image": "https://www.ekartingnews.com/wp-content/uploads/2026/11/FIA-2026-WorldAD-Jezierski-300x200.jpg"
-  },
-  {
-   "title": "Marc Marquez: 'Curbing my instincts was key to winning 2026 MotoGP title'",
-   "url": "https://www.motorsport.com/motogp/news/marc-marquez-reveals-new-mentality-that-was-key-to-winning-2026-motogp-title/10877114/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T13:12:16.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez says his 10th world championship title took more of a mental effort than any of his others. Marquez overturned a yawning 102-point deficit after an early-season injury absence to grab the crown in last…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YWKA35OY/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "The star performers of a wild Macau weekend",
-   "url": "https://www.autosport.com/general/news/the-star-performers-of-a-wild-macau-weekend/10877186/",
-   "source": "Autosport",
-   "date": "2026-11-23T11:56:12.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Crazy. That is probably the only word to summarise the action during last weekend’s entertaining Macau event. From a controversial clash involving the FIA GT World Cup leaders, to a 10-car Formula 4 pile-up and an…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2dEoR3nY/s6/knb.jpg"
   },
   {
    "title": "Marc Marquez makes history, Valentino Rossi keeps revisiting it",
