@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:04:00.765Z",
+ "updated": "2026-11-25T17:51:20.985Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,12 +148,12 @@
  ],
  "bySeries": {
   "F1": 15,
+  "Motorsport": 5,
   "IMSA": 10,
   "MotoGP": 15,
   "IndyCar": 10,
   "WEC": 15,
   "Karting": 12,
-  "Motorsport": 4,
   "WRC": 9,
   "NASCAR": 15,
   "Super Formula": 3,
@@ -165,6 +165,56 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
+   "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
+   "source": "Formula1.com",
+   "date": "2026-11-25T17:51:20.985Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The FIA have completed their review of the F1 teams' and power unit manufacturers' compliance with the 2025 Financial Regulations.",
+   "image": null
+  },
+  {
+   "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium",
+   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI",
+   "source": "Formula1.com",
+   "date": "2026-11-25T17:51:20.985Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Here is all the information you need to follow the Qatar Grand Prix weekend live on F1 TV.",
+   "image": null
+  },
+  {
+   "title": "Our early Bet Builder for the Qatar Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-qatar-grand-prix.7FBX6XRKhMuX5CMZ996cZ1",
+   "source": "Formula1.com",
+   "date": "2026-11-25T17:51:20.985Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Qatar Grand Prix, including podium finish and top-six selections.",
+   "image": null
+  },
+  {
+   "title": "Gordon Ramsay named new Top Gear lead presenter",
+   "url": "https://www.the-race.com/extra/gordon-ramsay-named-new-top-gear-lead-presenter/",
+   "source": "The Race",
+   "date": "2026-11-25T17:45:12.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Gordon Ramsay will lead an all-new presenting team as the BBC prepares to bring Top Gear back to screens in 2028, with the celebrity chef bringing a lifelong passion for cars and F1 to the iconic motoring show.",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/p0ppwrdz.jpg"
+  },
+  {
+   "title": "Five things to look out for at F1’s Qatar GP",
+   "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1s-qatar-gp/10877727/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T17:13:20.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The 2026 Formula 1 season is nearing its conclusion, with the Qatar Grand Prix taking place this weekend ahead of the Abu Dhabi finale next week. Both titles have already been decided with Kimi Antonelli and Mercedes…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YMX3X1v2/s6/lusail-city-qatar-november-29--2.jpg"
+  },
   {
    "title": "5 storylines we're excited about ahead of the Qatar GP",
    "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A",
@@ -203,16 +253,6 @@
    "series": "F1",
    "result": false,
    "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Qatar Grand Prix weekend, with a maximum of 27 laps permitted on each set.",
-   "image": null
-  },
-  {
-   "title": "Best value early bets for the Qatar Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9",
-   "source": "Formula1.com",
-   "date": "2026-11-25T17:04:00.765Z",
-   "series": "F1",
-   "result": false,
-   "summary": "We've selected our pick of early bets offering the best value for F1 bettors at the Qatar Grand Prix.",
    "image": null
   },
   {
@@ -272,7 +312,7 @@
    "date": "2026-11-25T16:11:25.000Z",
    "series": "F1",
    "result": false,
-   "summary": "The FIA has announced two Formula 1 teams committed breaches of its cost cap regulations during the 2025 season.",
+   "summary": "The FIA has announced two Formula 1 teams failed to comply with the cost cap regulations during the 2025 season.",
    "image": null
   },
   {
@@ -396,26 +436,6 @@
    "image": null
   },
   {
-   "title": "Max Verstappen vs George Russell: The timeline of F1’s biggest rivalry",
-   "url": "https://www.crash.net/f1/feature/1110882/1/max-verstappen-vs-george-russell-timeline-f1s-biggest-rivalry",
-   "source": "Crash.net",
-   "date": "2026-11-25T13:45:33.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen and George Russell's F1 rivalry reignited in Las Vegas. This is the history behind their bitter feud.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1421655_hires.jpg?width=1200"
-  },
-  {
-   "title": "Zak Brown rules out McLaren engine programme for F1 2030",
-   "url": "https://www.motorsport.com/f1/news/zak-brown-rules-out-mclaren-engine-programme-for-f1-2030/10877436/",
-   "source": "Motorsport.com",
-   "date": "2026-11-25T13:15:47.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Zak Brown has ruled out a factory engine programme for the 2030 Formula 1 campaign as McLaren is “very happy” with its Mercedes partnership. The British marque has been a Mercedes customer since 2021 and has enjoyed…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YBVjXkBY/s6/oscar-piastri-mclaren-2.jpg"
-  },
-  {
    "title": "Lennix Busch tests kart for the first time, okay after \"pretty big\" crash",
    "url": "https://www.motorsport.com/nascar-cup/news/lennix-busch-tests-race-car-for-first-time-all-smiles-despite-crash/10877574/",
    "source": "Motorsport.com",
@@ -424,16 +444,6 @@
    "result": false,
    "summary": "Kyle and his wife Samantha Busch made a point of documenting their son Brexton's racing development on YouTube, which has continued even after Kyle's tragic passing earlier this year at the age of 41. Kyle was recently…",
    "image": "https://cdn-1.motorsport.com/images/amp/YMXbNEG2/s6/kyle-busch-s-son-brexton-busch.jpg"
-  },
-  {
-   "title": "F1 returns to the track its tyres can’t cope with: Seven Qatar GP talking points",
-   "url": "https://www.racefans.net/2026/11/25/f1-returns-to-the-track-its-tyres-cant-cope-with-seven-qatar-gp-talking-points/",
-   "source": "RaceFans",
-   "date": "2026-11-25T12:08:32.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Despite concerns over instability in the region, Formula 1 heads to the Middle East this weekend. Here are the Qatar Grand Prix talking points.",
-   "image": null
   },
   {
    "title": "Luke Browning reveals hardest aspect of maiden Super Formula season",
