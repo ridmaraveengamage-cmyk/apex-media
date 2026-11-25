@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:03:54.784Z",
+ "updated": "2026-11-25T17:04:00.765Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,23 +148,143 @@
  ],
  "bySeries": {
   "F1": 15,
+  "IMSA": 10,
   "MotoGP": 15,
   "IndyCar": 10,
   "WEC": 15,
-  "IMSA": 11,
-  "Motorsport": 5,
-  "WRC": 11,
+  "Karting": 12,
+  "Motorsport": 4,
+  "WRC": 9,
   "NASCAR": 15,
   "Super Formula": 3,
   "Formula E": 11,
   "DTM": 5,
-  "Karting": 11,
   "F2 / F3": 2,
   "BTCC": 3,
   "Dakar": 2,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "5 storylines we're excited about ahead of the Qatar GP",
+   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A",
+   "source": "Formula1.com",
+   "date": "2026-11-25T17:04:00.765Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Qatar for Round 22 of the 2026 season.",
+   "image": null
+  },
+  {
+   "title": "QUIZ: 10 tricky questions on F1 driver bust-ups",
+   "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-f1-driver-bust-ups.L5pATOFep8eOxnoTZTjjf",
+   "source": "Formula1.com",
+   "date": "2026-11-25T17:04:00.765Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell and Max Verstappen exchanged words off track and battled on track in Las Vegas – and F1 history has seen plenty of flashpoints between rivals.",
+   "image": null
+  },
+  {
+   "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
+   "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe",
+   "source": "Formula1.com",
+   "date": "2026-11-25T17:04:00.765Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The penultimate race weekend of the 2026 season comes from Qatar, and much like last year, Pirelli have mandated a lap limit on each tyre set for the Lusail International Circuit, due to the unique demands of the track.",
+   "image": null
+  },
+  {
+   "title": "What tyres will the teams have for the Qatar Grand Prix?",
+   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-qatar-grand-prix.7JllCRweDY5sW1N9LzdkLm",
+   "source": "Formula1.com",
+   "date": "2026-11-25T17:04:00.765Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Qatar Grand Prix weekend, with a maximum of 27 laps permitted on each set.",
+   "image": null
+  },
+  {
+   "title": "Best value early bets for the Qatar Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9",
+   "source": "Formula1.com",
+   "date": "2026-11-25T17:04:00.765Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We've selected our pick of early bets offering the best value for F1 bettors at the Qatar Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Williams and Alpine breached F1's cost cap in 2025",
+   "url": "https://www.the-race.com/business/williams-and-alpine-breached-f1s-cost-cap-in-2025/",
+   "source": "The Race",
+   "date": "2026-11-25T16:53:42.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Williams and Alpine F1 teams both breached the FIA's cost cap rules in 2025, with Williams committing spending and procedural transgressions",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1447404_HiRes.jpg"
+  },
+  {
+   "title": "F1 cost cap: What are the rules and how much money can teams spend?",
+   "url": "https://www.crash.net/f1/news/1014425/1/f1-cost-cap-how-red-bull-broke-it-their-punishment-and-2025-budget",
+   "source": "Crash.net",
+   "date": "2026-11-25T16:49:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Everything you need to know about the F1 cost cap rules.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1453937_hires_0.jpg?width=1200"
+  },
+  {
+   "title": "AF Corse USA steps up to full-season IMSA GTD campaign in 2027",
+   "url": "https://www.motorsport.com/imsa/news/af-corse-usa-steps-up-to-full-season-imsa-gtd-campaign-in-2027/10877748/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T16:44:08.000Z",
+   "series": "IMSA",
+   "result": false,
+   "summary": "AF Corse USA is expanding its IMSA WeatherTech SportsCar Championship presence to a full-season Grand Touring Daytona (GTD) campaign with its #50 Ferrari 296 GT3 EVO, while entering a second car in Grand Touring Daytona…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0rVPe850/s6/296gt3-evo-gtd-imsa27-grey-cop.jpg"
+  },
+  {
+   "title": "Bagnaia to miss what should've been his final Ducati race",
+   "url": "https://www.the-race.com/motogp/pecco-bagnaia-to-miss-what-should-have-been-final-ducati-motogp-race/",
+   "source": "The Race",
+   "date": "2026-11-25T16:37:01.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Pecco Bagnaia's time at Ducati has come to an early end as the team announced he will miss the MotoGP season finale at Valencia this weekend",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361328_HiRes.jpg"
+  },
+  {
+   "title": "Williams hit with penalty as two teams breach F1 cost cap rules",
+   "url": "https://www.crash.net/f1/news/1110889/1/williams-hit-penalty-two-teams-breach-f1-cost-cap-rules",
+   "source": "Crash.net",
+   "date": "2026-11-25T16:29:18.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "FIA finds two F1 teams guilty of breaching the 2025 cost cap rules.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454729_hires.jpg?width=1200"
+  },
+  {
+   "title": "Williams given aero test reduction and fine for cost cap breach, Alpine also fined",
+   "url": "https://www.racefans.net/2026/11/25/williams-given-aero-test-reduction-and-fine-for-cost-cap-breach-alpine-also-fined/",
+   "source": "RaceFans",
+   "date": "2026-11-25T16:11:25.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The FIA has announced two Formula 1 teams committed breaches of its cost cap regulations during the 2025 season.",
+   "image": null
+  },
+  {
+   "title": "Aprilia MotoGP duo set for fond farewell after Valencia duel: \"We found something we didn't expect\"",
+   "url": "https://www.motorsport.com/motogp/news/wedswhy-aprilias-duo-is-set-for-a-fond-farewell-after-valencia-duel-we-found-something-we-didnt-exp/10877197/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T16:07:20.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Aprilia's factory pairing of Marco Bezzecchi and Jorge Martin will end a two-year stint in the same garage with a final-round battle for second place in the world championship this weekend. And, if the riders are to be…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YpbA7Gd0/s6/jorge-martin-aprilia-racing-te.jpg"
+  },
   {
    "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
    "url": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
@@ -176,16 +296,6 @@
    "image": null
   },
   {
-   "title": "The 5 drivers most likely to qualify fastest in Qatar",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-qatar.5F3SjC6NtGm5aD4FOJGwlZ",
-   "source": "Formula1.com",
-   "date": "2026-11-25T16:03:54.784Z",
-   "series": "F1",
-   "result": false,
-   "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
-   "image": null
-  },
-  {
    "title": "Injured Bagnaia will miss last GP with Ducati, first MotoGP test with Aprilia",
    "url": "https://www.autosport.com/motogp/news/embargo-injured-francesco-bagnaia-will-miss-last-gp-with-ducati-first-test-with-aprilia/10877705/",
    "source": "Autosport",
@@ -194,16 +304,6 @@
    "result": false,
    "summary": "Francesco Bagnaia will not be able to say goodbye to Ducati as a rider as injury has ruled him out of both the Valencia Grand Prix and his debut MotoGP test for Aprilia. The Italian, who has taken two world titles and…",
    "image": "https://cdn-1.motorsport.com/images/amp/YWKARwVY/s6/francesco-bagnaia-ducati-team-2.jpg"
-  },
-  {
-   "title": "F1’s 27-lap tyre limit rule for Qatar Grand Prix explained",
-   "url": "https://www.crash.net/f1/news/1110887/1/f1s-27-lap-tyre-limit-rule-qatar-grand-prix-explained",
-   "source": "Crash.net",
-   "date": "2026-11-25T15:44:12.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pirelli has imposed a mandated lap limit on each tyre set for the Qatar Grand Prix.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/2249194502.jpg?width=1200"
   },
   {
    "title": "Jack Harvey named Special Advisor at Dreyer & Reinbold, will sit out 2027 Indy 500",
@@ -236,6 +336,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/2wlKkxBY/s6/9x8-2027.jpg"
   },
   {
+   "title": "Superkarts! USA Welcomes Three New Members into Hall of Fame",
+   "url": "https://www.ekartingnews.com/2026/11/25/superkarts-usa-welcomes-three-new-members-into-hall-of-fame/",
+   "source": "eKartingNews",
+   "date": "2026-11-25T15:02:15.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "Superkarts! USA welcomed three new members into its Hall of Fame during the opening ceremonies on SuperSunday at the SKUSA SuperNationals 29 in Las Vegas on November 15. Longtime SKUSA staff member Tony Leone, renowned…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2023/05/SKUSA-logo-2023-300x200.jpg"
+  },
+  {
    "title": "AO Racing adds Connor Zilisch for Rolex 24, shuffles lineups for 2027 IMSA season",
    "url": "https://www.motorsport.com/imsa/news/ao-racing-adds-connor-zilisch-for-rolex-24-shuffles-lineups-for-2027-imsa-season/10877709/",
    "source": "Motorsport.com",
@@ -254,6 +364,16 @@
    "result": false,
    "summary": "1. McLaren Endurance Racing - Brand Experience Coordinator - Woking McLaren Endurance Racing is recruiting a Brand Experience Coordinator. You will support the planning and delivery of Brand Experience activity across…",
    "image": "https://cdn-1.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
+  },
+  {
+   "title": "Cup Karts North America Announces 2027 Summer Nationals to LOK",
+   "url": "https://www.ekartingnews.com/2026/11/25/cup-karts-north-america-announces-2027-summer-nationals-to-lok/",
+   "source": "eKartingNews",
+   "date": "2026-11-25T14:16:01.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "When it comes to planning the CKNA National schedule, there are a few givens. Grands will most certainly always be at New Castle. What other track could handle the insane fields and acres of parking? The situation is…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/09/USPKS-2026-LOK-300x200.jpg"
   },
   {
    "title": "Skoda considers WRC Rally1 update kit for 2027",
@@ -306,16 +426,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YMXbNEG2/s6/kyle-busch-s-son-brexton-busch.jpg"
   },
   {
-   "title": "Was Russell ‘playing mind games with himself’ in Las Vegas?",
-   "url": "https://www.formula1.com/en/latest/article/was-russell-playing-mind-games-with-himself-before-verstappens-victory-in-las-vegas.3ZYU5SCNPd2f2JQIKr7LlM",
-   "source": "Formula1.com",
-   "date": "2026-11-25T12:35:16.433Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell and Max Verstappen were the talk of the town after last weekend’s Las Vegas Grand Prix, with the pair’s long-standing rivalry being renewed via a sequence of on- and off-track moments.",
-   "image": null
-  },
-  {
    "title": "F1 returns to the track its tyres can’t cope with: Seven Qatar GP talking points",
    "url": "https://www.racefans.net/2026/11/25/f1-returns-to-the-track-its-tyres-cant-cope-with-seven-qatar-gp-talking-points/",
    "source": "RaceFans",
@@ -326,16 +436,6 @@
    "image": null
   },
   {
-   "title": "McLaren's driver management lessons for Ferrari",
-   "url": "https://www.the-race.com/formula-1/mclarens-driver-management-lessons-for-ferrari/",
-   "source": "The Race",
-   "date": "2026-11-25T12:01:29.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "McLaren's F1 drivers don't always appreciate its racing instructions. But they work. And Ferrari should learn from that",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456211_HiRes.jpg"
-  },
-  {
    "title": "Luke Browning reveals hardest aspect of maiden Super Formula season",
    "url": "https://www.motorsport.com/super-formula/news/luke-browning-reveals-hardest-aspect-of-maiden-super-formula-season/10877640/",
    "source": "Motorsport.com",
@@ -344,56 +444,6 @@
    "result": false,
    "summary": "Williams Formula 1 reserve driver Luke Browning says getting up to speed on new circuits was the hardest aspect of his Super Formula season, as he sealed the Rookie of the Year title. Driving for the Toyota-powered…",
    "image": "https://cdn-1.motorsport.com/images/amp/0ZqAezM6/s6/luke-browning-realize-kondo-ra.jpg"
-  },
-  {
-   "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium",
-   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI",
-   "source": "Formula1.com",
-   "date": "2026-11-25T11:29:30.054Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Here is all the information you need to follow the Qatar Grand Prix weekend live on F1 TV.",
-   "image": null
-  },
-  {
-   "title": "What time is the 2026 Qatar GP and how can I watch it?",
-   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
-   "source": "Formula1.com",
-   "date": "2026-11-25T11:29:30.054Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Here are all the timings – along with all the additional information you need – for the 22nd Grand Prix weekend of the 2026 season from Qatar.",
-   "image": null
-  },
-  {
-   "title": "The RB22 tweaks that helped Verstappen take victory in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/the-rb22-tweaks-that-helped-verstappen-take-victory-in-las-vegas.67NV2uD7vnuxKuW9SHi685",
-   "source": "Formula1.com",
-   "date": "2026-11-25T11:29:30.054Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Red Bull made tweaks to their RB22 for the Las Vegas Grand Prix, with a new front wing endplate to complement recent tweaks to the sidepod, as Mark Hughes explains, with technical illustrations from Giorgio Piola.",
-   "image": null
-  },
-  {
-   "title": "Who impressed our Power Rankings judges in Las Vegas?",
-   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-las-vegas-grand-prix.8LxxDUxVsoaYjfw269gz5",
-   "source": "Formula1.com",
-   "date": "2026-11-25T11:29:30.054Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen came out on top at the end of a thrilling Las Vegas Grand Prix, adding another first-class victory to his name after an overtake-filled race. But who else impressed our Power Rankings judges in the City…",
-   "image": null
-  },
-  {
-   "title": "Fernando Alonso admits Aston Martin \"can’t be competitive\" as he outlines huge F1 shortfall",
-   "url": "https://www.crash.net/f1/news/1110880/1/fernando-alonso-admits-aston-martin-cant-be-competitive-he-outlines-huge-f1",
-   "source": "Crash.net",
-   "date": "2026-11-25T11:24:58.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fernando Alonso makes major admission about Honda's power unit deficit.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455561_hires.jpg?width=1200"
   },
   {
    "title": "Opel and Citroen exit is not a betrayal of Formula E, but a major blow at the worst possible time",
@@ -494,16 +544,6 @@
    "result": false,
    "summary": "With the 2027 MotoGP championship battle settled by Marc Marquez's 10th world title, you don't need extensive knowledge to understand that without him Ducati would have struggled to extend its dominance in the premier…",
    "image": "https://cdn-1.motorsport.com/images/amp/68Vw54B2/s6/marc-marquez-piscina-portimao.jpg"
-  },
-  {
-   "title": "Robert Wickens set for first full-season IMSA WeatherTech Campaign in 2027 with Hanley Motorsports",
-   "url": "https://www.motorsport.com/imsa/news/robert-wickens-set-for-first-full-season-imsa-weathertech-campaign-in-2027-with-hanley-motorsports/10877508/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T16:30:06.000Z",
-   "series": "IMSA",
-   "result": false,
-   "summary": "Hanley Motorsports Incorporated (HMI) has signed Robert Wickens and Mason Filippi as its full-season driver pairing for the 2027 IMSA WeatherTech SportsCar Championship GTD class. The duo will share the #42 BMW M4 GT3…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2y7Qgpy6/s6/robert-wickens-chris-griffis-m.jpg"
   },
   {
    "title": "Ducati's ace up its sleeve for 2027?",
@@ -726,16 +766,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0k7Wkpl0/s6/79-tsunami-rt-porsche-911-gt3-.jpg"
   },
   {
-   "title": "Where MotoGP rivals stand on Marquez 'greatest of all time' debate",
-   "url": "https://www.the-race.com/motogp/marc-marquez-greatest-of-all-time-debate-what-motogp-rivals-say/",
-   "source": "The Race",
-   "date": "2026-11-23T16:29:38.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Is it time to acknowledge Marc Marquez as the greatest premier-class rider of all time? Here's what his MotoGP peers had to say",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1365339_HiRes.jpg"
-  },
-  {
    "title": "MotoGP riders pay tribute to Marc Marquez, label him the GOAT",
    "url": "https://www.motorsport.com/motogp/news/motogp-riders-pay-tribute-marc-marquez-goat-10th-world-title/10877013/",
    "source": "Motorsport.com",
@@ -784,16 +814,6 @@
    "result": false,
    "summary": "Peugeot has withdrawn from the World Endurance Championship with immediate effect, while sister brands Citroen and Opel will pull out of Formula E after the 2027 season, as one of the world's biggest automotive groups…",
    "image": "https://cdn-1.motorsport.com/images/amp/YE9EwyqY/s6/93-peugeot-totalenergies-peuge.jpg"
-  },
-  {
-   "title": "Automotive giant cuts motorsport projects in huge blow to FE + WEC",
-   "url": "https://www.the-race.com/business/stellantis-ends-peugeot-wec-citroen-open-formula-e-projects/",
-   "source": "The Race",
-   "date": "2026-11-23T14:46:03.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "Stellantis is cutting its main motorsport programmes, with Peugeot's WEC team stopped immediately and Citroen and Opel to exit Formula E in 2027",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/2284555447-2048x2048--1-.jpg"
   },
   {
    "title": "Cataclean acquires former Plato Mercedes team assets",
@@ -846,16 +866,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YN7vj8V6/s6/marc-marquez-ducati-team.jpg"
   },
   {
-   "title": "Spotlight: “Enhanced Madring” for 2027 will include track changes",
-   "url": "https://www.racefans.net/2026/11/23/enhanced-madring-2027-will-include-track-changes/",
-   "source": "RaceFans",
-   "date": "2026-11-23T10:21:41.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "Spanish GP promoter promises an \"enhanced Madring\" for 2027",
-   "image": null
-  },
-  {
    "title": "Marquez overtakes Rossi - now only Nieto and Agostini have more titles",
    "url": "https://www.autosport.com/motogp/news/marc-marquez-overtakes-valentino-rossi-now-only-angel-nieto-and-giacomo-agostini-have-more-titles/10877016/",
    "source": "Autosport",
@@ -864,16 +874,6 @@
    "result": false,
    "summary": "Marc Marquez continues to cement his legacy in motorcycle racing and sport as a whole. If his return to the top in 2025, with an impeccable season until he was injured, already left everyone stunned, the legendary…",
    "image": "https://cdn-1.motorsport.com/images/amp/YMXbRNv2/s6/marc-marquez-ducati-team-2.jpg"
-  },
-  {
-   "title": "Fabio Quartararo says Marc Marquez is the greatest MotoGP rider ever after 10th world title",
-   "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-says-marc-marquez-is-the-greatest-motogp-rider-ever-after-10th-world-title/10877009/",
-   "source": "Motorsport.com",
-   "date": "2026-11-22T17:04:32.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Fabio Quartararo believes Marc Marquez's remarkable run to the 2026 MotoGP title has put beyond doubt his status as the greatest rider in the championship's history. Ducati rider Marquez clinched his 10th world…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2d1kQb3Y/s6/marc-marquez-ducati-team-fabio.jpg"
   },
   {
    "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
@@ -1376,16 +1376,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0o5PvQ7Y/s6/edoardo-mortara-mahindra-racin.jpg"
   },
   {
-   "title": "Wright Motorsports names full-time 2027 IMSA GTD lineup as Sargent joins Adelson",
-   "url": "https://www.motorsport.com/imsa/news/wright-motorsports-names-full-time-2027-imsa-gtd-lineup-as-sargent-joins-adelson/10873913/",
-   "source": "Motorsport.com",
-   "date": "2026-11-11T16:42:06.000Z",
-   "series": "IMSA",
-   "result": false,
-   "summary": "Wright Motorsports is gearing up for a championship push in the 2027 IMSA WeatherTech SportsCar Championship, confirming the return of its signature dark green #120 Porsche 911 GT3 R (992) for a fourth consecutive…",
-   "image": "https://cdn-1.motorsport.com/images/amp/63QaZJ42/s6/120-wright-motorsports-porsche.jpg"
-  },
-  {
    "title": "Double Mini champion gets big BTCC break for 2027",
    "url": "https://www.autosport.com/btcc/news/btcc/10873535/",
    "source": "Autosport",
@@ -1446,16 +1436,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/10RkpvE2/s6/ex-dtm-meister-gueven-schafft-formel-e-lizenzhuerde-nicht-was-macht-porsche-26110901.jpg"
   },
   {
-   "title": "EKN OutLap: EP116 – Superkarts! USA SuperNationals 29 – Part 2",
-   "url": "https://www.ekartingnews.com/2026/11/09/ekn-outlap-ep116-superkarts-usa-supernationals-29-part-2/",
-   "source": "eKartingNews",
-   "date": "2026-11-09T15:51:50.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "The EKN Trackside Live program visits multiple events throughout the karting season. Leading up to major events on the calendar, EKN is happy to provide a show as part of the EKN Radio Network. The EKN OutLap is a…",
-   "image": null
-  },
-  {
    "title": "Supercars Sandown: Payne Sunday win sets up title challenge",
    "url": "https://www.autosport.com/supercars/news/supercars-sandown-sunday-win-sets-up-matt-payne-for-title-challenge/10872878/",
    "source": "Autosport",
@@ -1514,16 +1494,6 @@
    "result": false,
    "summary": "Sebastien Ogier’s World Rally Championship programme for 2027 is yet to be finalised but Toyota expects the nine-time world champion to contest no more than three rallies. Ogier was absent from Toyota’s 2027 driver…",
    "image": "https://cdn-1.motorsport.com/images/amp/YE9EyoPY/s6/sebastien-ogier-toyota-gazoo-r.jpg"
-  },
-  {
-   "title": "Oliver Solberg relishing Toyota’s historic Celica WRC revival for 2027",
-   "url": "https://www.motorsport.com/wrc/news/oliver-solberg-relishing-toyotas-historic-celica-wrc-revival-for-2027/10871512/",
-   "source": "Motorsport.com",
-   "date": "2026-11-04T16:07:19.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "Oliver Solberg reckons it is “awesome” to be part of the revival of the iconic Toyota Celica brand in the World Rally Championship - and is ready to move on from this year’s title heartbreak. A little over a month since…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlKyLVY/s6/tgr-celica.jpg"
   }
  ]
 }
