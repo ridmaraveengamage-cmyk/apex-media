@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:55:25.118Z",
+ "updated": "2026-11-25T20:54:53.142Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,6 +148,7 @@
  ],
  "bySeries": {
   "F1": 15,
+  "NASCAR": 15,
   "Motorsport": 5,
   "IMSA": 10,
   "MotoGP": 15,
@@ -155,7 +156,6 @@
   "IndyCar": 10,
   "WEC": 15,
   "WRC": 9,
-  "NASCAR": 15,
   "Super Formula": 3,
   "Formula E": 11,
   "DTM": 5,
@@ -166,14 +166,44 @@
  },
  "items": [
   {
-   "title": "Our early Bet Builder for the Qatar Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-qatar-grand-prix.7FBX6XRKhMuX5CMZ996cZ1",
+   "title": "Best value early bets for the Qatar Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9",
    "source": "Formula1.com",
-   "date": "2026-11-25T19:55:25.118Z",
+   "date": "2026-11-25T20:54:53.142Z",
    "series": "F1",
    "result": false,
-   "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Qatar Grand Prix, including podium finish and top-six selections.",
+   "summary": "We've selected our pick of early bets offering the best value for F1 bettors at the Qatar Grand Prix.",
    "image": null
+  },
+  {
+   "title": "FIA filings reveal the Red Bull aero update behind Max Verstappen’s Las Vegas GP win",
+   "url": "https://www.motorsport.com/f1/news/fia-filings-reveal-the-lone-rb22-aero-update-behind-max-verstappens-las-vegas-gp-win/10877619/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T20:31:23.000Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Max Verstappen’s Las Vegas Grand Prix victory played out like a high-speed chess match on battery deployment, yet the race-winning foundation rested on a much quieter aerodynamic fix. As Formula1.com’s Tech Weekly…",
+   "image": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-a10877619-b707-3.jpg"
+  },
+  {
+   "title": "Judge denies Joe Gibbs Racing an injunction against Spire",
+   "url": "https://www.motorsport.com/nascar-cup/news/judge-denies-joe-gibbs-racing-an-injunction-against-spire/10877768/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T20:20:55.000Z",
+   "series": "NASCAR",
+   "result": false,
+   "summary": "The Western District of North Carolina issued a court order on Wednesday afternoon denying Joe Gibbs Racing an extension of the preliminary injunction placed on Chris Gabehart onto Spire Motorsports. Joe Gibbs Racing…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGgzb9Y/s6/clt-courthouse-01.jpg"
+  },
+  {
+   "title": "Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer",
+   "url": "https://www.motorsport.com/f1/news/worn-out-fred-vasseur-is-running-out-of-answers-at-ferrari-says-jolyon-palmer-/10877422/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T19:57:56.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "In a 2026 Las Vegas Grand Prix where 22 drivers traded a record 352 overtakes largely cleanly, Formula 1’s fiercest intra-team blowup still belonged to Ferrari. On Lap 38, Charles Leclerc dived down the inside of Lewis…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YN7vBdV6/s6/frederic-vasseur-ferrari-a10877422-b704-2.jpg"
   },
   {
    "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
@@ -366,16 +396,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/Y9lNGgL2/s6/jack-harvey.jpg"
   },
   {
-   "title": "Ferrari told to ‘say Lewis Hamilton is number one or get a new team boss’ in blunt David Croft ultimatum",
-   "url": "https://www.crash.net/f1/news/1110886/1/ferrari-told-say-lewis-hamilton-number-one-or-get-new-team-boss-blunt-david-croft",
-   "source": "Crash.net",
-   "date": "2026-11-25T15:14:56.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "David Croft spells out blunt ultimatum for Ferrari after Lewis Hamilton and Charles Leclerc run-in.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455536_hires_0.jpg?width=1200"
-  },
-  {
    "title": "What Peugeot had planned for its abandoned 2027 WEC Hypercar",
    "url": "https://www.autosport.com/wec/news/what-peugeot-had-planned-for-its-abandoned-2027-wec-hypercar-/10877678/",
    "source": "Autosport",
@@ -434,16 +454,6 @@
    "result": false,
    "summary": "Skoda Motorsport is considering developing a Rally1 kit, enabling its Rally2 car to contest the World Rally Championship top tier next year. New technical regulations for 2027 afford Rally2 manufacturers the opportunity…",
    "image": "https://cdn-1.motorsport.com/images/amp/6AlvMXGY/s6/robert-virves.jpg"
-  },
-  {
-   "title": "From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints",
-   "url": "https://www.formula1.com/en/latest/article/from-monza-mayhem-to-suzuka-showdowns-10-dramatic-rivalry-flashpoints-in-f1-history.3tetZNSgL2jM1F3THX3k1M",
-   "source": "Formula1.com",
-   "date": "2026-11-25T13:53:53.280Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen and George Russell traded blows on and off track in Las Vegas last weekend – but that is merely the latest episode in a long history of driver rivalries in Formula 1.",
-   "image": null
   },
   {
    "title": "Lennix Busch tests kart for the first time, okay after \"pretty big\" crash",
@@ -1304,16 +1314,6 @@
    "result": false,
    "summary": "The 2026 World Endurance Championship season finale at Monza should have been a high-stakes showdown between the two Toyota TR010 Hybrids, completely free of team orders. Instead, it delivered an anticlimax that exposed…",
    "image": "https://cdn-1.motorsport.com/images/amp/63QaOjl2/s6/toyota-celebrates-2026-hyperca.jpg"
-  },
-  {
-   "title": "The ten closest finishes from the 2026 NASCAR season",
-   "url": "https://www.motorsport.com/nascar-cup/news/the-ten-closest-finishes-from-the-2026-nascar-season/10874229/",
-   "source": "Motorsport.com",
-   "date": "2026-11-14T17:04:54.000Z",
-   "series": "NASCAR",
-   "result": false,
-   "summary": "Keeping up Motorsport.com's annual tradition, it's time to take a look back at the ten closest finishes of the 2026 season in the Cup, O'Reilly, and Truck Series. Feel free to check out the 2025 list HERE. Once again…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YXyKjk76/s6/gettyimages-2261544795.jpg"
   },
   {
    "title": "BMW \"proud of what we achieved\" after securing runner-up in 2026 WEC",
