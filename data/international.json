@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:10:07.657Z",
+ "updated": "2026-11-25T11:29:30.054Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,23 +148,133 @@
  ],
  "bySeries": {
   "F1": 15,
+  "Formula E": 11,
+  "Super Formula": 3,
+  "DTM": 5,
   "MotoGP": 15,
   "NASCAR": 15,
   "IndyCar": 9,
   "Karting": 11,
   "F2 / F3": 3,
   "WRC": 10,
-  "Motorsport": 6,
   "IMSA": 11,
-  "DTM": 4,
+  "Motorsport": 5,
   "WEC": 15,
   "BTCC": 3,
-  "Super Formula": 2,
-  "Formula E": 10,
   "Dakar": 2,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
+   "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe",
+   "source": "Formula1.com",
+   "date": "2026-11-25T11:29:30.054Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The penultimate race weekend of the 2026 season comes from Qatar, and much like last year, Pirelli have mandated a lap limit on each tyre set for the Lusail International Circuit, due to the unique demands of the track.",
+   "image": null
+  },
+  {
+   "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium",
+   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI",
+   "source": "Formula1.com",
+   "date": "2026-11-25T11:29:30.054Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Here is all the information you need to follow the Qatar Grand Prix weekend live on F1 TV.",
+   "image": null
+  },
+  {
+   "title": "What time is the 2026 Qatar GP and how can I watch it?",
+   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
+   "source": "Formula1.com",
+   "date": "2026-11-25T11:29:30.054Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Here are all the timings – along with all the additional information you need – for the 22nd Grand Prix weekend of the 2026 season from Qatar.",
+   "image": null
+  },
+  {
+   "title": "The RB22 tweaks that helped Verstappen take victory in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/the-rb22-tweaks-that-helped-verstappen-take-victory-in-las-vegas.67NV2uD7vnuxKuW9SHi685",
+   "source": "Formula1.com",
+   "date": "2026-11-25T11:29:30.054Z",
+   "series": "F1",
+   "result": true,
+   "summary": "Red Bull made tweaks to their RB22 for the Las Vegas Grand Prix, with a new front wing endplate to complement recent tweaks to the sidepod, as Mark Hughes explains, with technical illustrations from Giorgio Piola.",
+   "image": null
+  },
+  {
+   "title": "Who impressed our Power Rankings judges in Las Vegas?",
+   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-las-vegas-grand-prix.8LxxDUxVsoaYjfw269gz5",
+   "source": "Formula1.com",
+   "date": "2026-11-25T11:29:30.054Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen came out on top at the end of a thrilling Las Vegas Grand Prix, adding another first-class victory to his name after an overtake-filled race. But who else impressed our Power Rankings judges in the City…",
+   "image": null
+  },
+  {
+   "title": "Audi-backed Slater to take over Camara’s F2 seat",
+   "url": "https://www.formula1.com/en/latest/article/audi-backed-slater-to-take-over-camaras-f2-seat-for-final-two-rounds-in-qatar-and-abu-dhabi.3F0sq83OoErm2IjBqsncqu",
+   "source": "Formula1.com",
+   "date": "2026-11-25T11:29:30.054Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Audi Driver Development Programme member Freddie Slater will make his F2 debut at the Qatar Grand Prix weekend, joining Invicta Racing for the final two rounds of the 2026 season, ahead of his full-time promotion next…",
+   "image": null
+  },
+  {
+   "title": "PALMER: Where do Ferrari go from here after Las Vegas clash?",
+   "url": "https://www.formula1.com/en/latest/article/where-do-ferrari-go-from-here-after-the-latest-hamilton-leclerc-clash.PSFxRaC5vfQVri3YZxBiu",
+   "source": "Formula1.com",
+   "date": "2026-11-25T11:29:30.054Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer picks the bones out of the Ferrari team mate's clash in Las Vegas, and what the team can do to move on...",
+   "image": null
+  },
+  {
+   "title": "Fernando Alonso admits Aston Martin \"can’t be competitive\" as he outlines huge F1 shortfall",
+   "url": "https://www.crash.net/f1/news/1110880/1/fernando-alonso-admits-aston-martin-cant-be-competitive-he-outlines-huge-f1",
+   "source": "Crash.net",
+   "date": "2026-11-25T11:24:58.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Fernando Alonso makes major admission about Honda's power unit deficit.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455561_hires.jpg?width=1200"
+  },
+  {
+   "title": "Opel and Citroen exit is not a betrayal of Formula E, but a major blow at the worst possible time",
+   "url": "https://www.autosport.com/formula-e/news/opel-and-citroen-exit-is-not-a-betrayal-of-formula-e-but-a-major-blow-at-the-worst-possible-time/10877649/",
+   "source": "Autosport",
+   "date": "2026-11-25T11:04:50.000Z",
+   "series": "Formula E",
+   "result": false,
+   "summary": "What many had feared has unfortunately come to pass. In light of the substantial financial hole that emerged at the end of 2025 and the losses recorded in the third quarter of this year, Stellantis has decided to close…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YWKA31DY/s6/citroen-racing-citroen-e-cx-2.jpg"
+  },
+  {
+   "title": "Browning reveals hardest aspect of maiden Super Formula season",
+   "url": "https://www.autosport.com/super-formula/news/luke-browning-reveals-hardest-aspect-of-maiden-super-formula-season/10877643/",
+   "source": "Autosport",
+   "date": "2026-11-25T10:50:43.000Z",
+   "series": "Super Formula",
+   "result": false,
+   "summary": "Williams Formula 1 reserve driver Luke Browning says getting up to speed on new circuits was the hardest aspect of his Super Formula season, as he sealed the Rookie of the Year title. Driving for the Toyota-powered…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0ZqAezM6/s6/luke-browning-realize-kondo-ra.jpg"
+  },
+  {
+   "title": "Charles Leclerc sells Ferrari SUV he pranged in viral Monaco crash",
+   "url": "https://www.crash.net/f1/news/1110878/1/charles-leclerc-sells-ferrari-suv-he-pranged-viral-monaco-crash",
+   "source": "Crash.net",
+   "date": "2026-11-25T10:36:03.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc is selling one of his Ferrari cars.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454435_hires.jpg?width=1200"
+  },
   {
    "title": "What tyres will the teams have for the Qatar Grand Prix?",
    "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-qatar-grand-prix.7JllCRweDY5sW1N9LzdkLm",
@@ -184,6 +294,16 @@
    "result": false,
    "summary": "We have looked at the betting markets for Qualifying at the Lusail International Circuit and assessed the chances of the leading contenders for pole position.",
    "image": null
+  },
+  {
+   "title": "Marco Wittmann protégé triumphs: Who are the 2026 Road to DTM winners?",
+   "url": "https://www.motorsport.com/dtm/news/marco-wittmann-protege-triumphs-who-are-the-2026-road-to-dtm-winners/10877481/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T10:10:02.000Z",
+   "series": "DTM",
+   "result": true,
+   "summary": "In 2024, the DTM junior programme \"Road to DTM\" was launched - and in 2026, with Finn Wiebelhaus, a winner of the programme made it into the DTM for the first time. The young driver from Hesse impressed in the HRT Ford…",
+   "image": "https://cdn-1.motorsport.com/images/amp/725jaW9Y/s6/marco-wittmann-schuetzling-triumphiert-wer-sind-die-road-to-dtm-sieger-2026-26110801.jpg"
   },
   {
    "title": "Colton Herta slammed by Will Buxton for 'childish' decision after F1 setback",
@@ -216,16 +336,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/01QNE4Z0/s6/marc-marquez-ducati-team.jpg"
   },
   {
-   "title": "What time is the next F1 race? Full Qatar GP schedule and how to watch",
-   "url": "https://www.crash.net/f1/news/1110875/1/what-time-next-f1-race-full-qatar-gp-schedule-and-how-watch",
-   "source": "Crash.net",
-   "date": "2026-11-25T09:38:28.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The next round of the 2026 Formula 1 season takes place at the Qatar Grand Prix.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1389214_hires.jpg?width=1200"
-  },
-  {
    "title": "The unusual reason F1's engine freeze could return",
    "url": "https://www.the-race.com/formula-1/unusual-reason-f1-engine-freeze-could-return/",
    "source": "The Race",
@@ -244,46 +354,6 @@
    "result": false,
    "summary": "Fernando Alonso says Honda is “a very long way behind” its Formula 1 rivals and Aston Martin therefore “can’t be competitive” with the Japanese engine, albeit expressing hope for the future. As F1 switched to power…",
    "image": "https://cdn-1.motorsport.com/images/amp/68VwBRQ2/s6/fernando-alonso-aston-martin-r-2.jpg"
-  },
-  {
-   "title": "Ferrari urged to bench Lewis Hamilton or Charles Leclerc after Las Vegas GP clash",
-   "url": "https://www.crash.net/f1/news/1110871/1/ferrari-urged-bench-lewis-hamilton-or-charles-leclerc-after-las-vegas-gp-clash",
-   "source": "Crash.net",
-   "date": "2026-11-25T09:00:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ferrari have been urged to take drastic action to prevent further collisions between Lewis Hamilton and Charles Leclerc following their latest clash in Las Vegas",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1402081_hires.jpg?width=1200"
-  },
-  {
-   "title": "Stats: Mercedes have disappeared from the podium since their championship win | 2026 Las Vegas Grand Prix stats and facts",
-   "url": "https://www.racefans.net/2026/11/25/stats-mercedes-have-disappeared-from-the-podium-since-their-championship-win/",
-   "source": "RaceFans",
-   "date": "2026-11-25T07:45:53.000Z",
-   "series": "F1",
-   "result": true,
-   "summary": "Mercedes had a driver on the podium at every grand prix this year until they won the constructors' championship. Here are more stats from Las Vegas.",
-   "image": null
-  },
-  {
-   "title": "How to watch the 2026 Qatar Grand Prix live this weekend",
-   "url": "https://www.racefans.net/2026/11/25/how-to-watch-the-2026-qatar-grand-prix-live-this-weekend/",
-   "source": "RaceFans",
-   "date": "2026-11-25T07:15:55.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "It's race week! Formula 1 heads to Losail International Circuit this weekend. Here's how to watch the Qatar Grand Prix and more.",
-   "image": null
-  },
-  {
-   "title": "Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle",
-   "url": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T23:30:01.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1’s Las Vegas Grand Prix delivered a headline statistic built for highlight reels: 352 overtakes and 35 lead changes across 50 laps, shattering the championship’s all-time passing record. Yet runner-up Lando…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren-a10877443-b706-2.jpg"
   },
   {
    "title": "Joe Gibbs Racing constructs timeline of Chris Gabehart's alleged theft",
@@ -306,16 +376,6 @@
    "image": null
   },
   {
-   "title": "Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead",
-   "url": "https://www.motorsport.com/f1/news/unaired-radio-reveals-red-bull-told-max-verstappen-to-consider-giving-antonelli-the-lead-before-las/10877450/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T21:08:35.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "In almost any other Formula 1 race, suggesting a race leader deliberately surrender first place with one lap left would sound unthinkable. At the 2026 Las Vegas Grand Prix, Red Bull’s pitwall genuinely floated the idea…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5Ak91Y/s6/max-verstappen-red-bull-racing-a10877450-b707-4.jpg"
-  },
-  {
    "title": "EKN Debrief: Episode 175 – Superkarts! USA SuperNationals 29 – Part 1",
    "url": "https://www.ekartingnews.com/2026/11/24/ekn-debrief-episode-175-superkarts-usa-supernationals-29-part-1/",
    "source": "eKartingNews",
@@ -324,16 +384,6 @@
    "result": false,
    "summary": "The Superkarts! USA SuperNationals 29 were held over November 11-15 outside the Las Vegas Motor Speedway. A total of 600 entries across 11 categories battled for five days, leading up to the final laps on SuperSunday to…",
    "image": null
-  },
-  {
-   "title": "Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas",
-   "url": "https://www.motorsport.com/f1/news/jolyon-palmer-hails-max-verstappens-unbelievable-racecraft-in-george-russell-duel/10877407/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T20:05:06.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Even in a Las Vegas Grand Prix packed with 352 overtakes and 35 lead changes, the defining moments of Max Verstappen’s victory came down to raw wheel-to-wheel nerve rather than battery spreadsheets. Speaking on F1 TV’s…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0kZXkEK6/s6/max-verstappen-red-bull-racing-a10877407-b707-2.jpg"
   },
   {
    "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
@@ -364,36 +414,6 @@
    "result": false,
    "summary": "Kalle Rovanpera expects the 2027 World Rally Championship to be a reset for the drivers with ‘everybody starting from zero’ as they adapt to all-new Rally1 cars. After a year on the sidelines, the two-time world…",
    "image": "https://cdn-1.motorsport.com/images/amp/6grQnexY/s6/kalle-rovanpera-2.jpg"
-  },
-  {
-   "title": "Former F1 tester who suffered life-changing injuries in full-time racing return",
-   "url": "https://www.crash.net/f1/news/1110872/1/former-f1-tester-who-suffered-life-changing-injuries-full-time-racing-return",
-   "source": "Crash.net",
-   "date": "2026-11-24T17:10:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "A former Formula 1 test driver has secured a full-time seat in one of North America's leading motorsport championships for 2027",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_911638_hires.jpg?width=1200"
-  },
-  {
-   "title": "Charles Leclerc’s Ferrari SUV is up for sale with scars from his viral Monaco crash",
-   "url": "https://www.motorsport.com/culture/news/charles-leclercs-daily-driven-ferrari-purosangue-is-up-for-sale-complete-with-scars-from-his-viral-/10877490/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T17:06:09.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "In the exotic-car market, buyers normally run the other way at the first hint of high mileage, kerbed wheels, or accident history. When the previous owner happens to be Ferrari's star Formula 1 driver, those red flags…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6DGgOjwY/s6/charles-leclerc-ferrari-a10877490-b708-2.jpg"
-  },
-  {
-   "title": "Was Russell ‘playing mind games with himself’ in Las Vegas?",
-   "url": "https://www.formula1.com/en/latest/article/was-russell-playing-mind-games-with-himself-before-verstappens-victory-in-las-vegas.3ZYU5SCNPd2f2JQIKr7LlM",
-   "source": "Formula1.com",
-   "date": "2026-11-24T17:06:05.022Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell and Max Verstappen were the talk of the town after last weekend’s Las Vegas Grand Prix, with the pair’s long-standing rivalry being renewed via a sequence of on- and off-track moments.",
-   "image": null
   },
   {
    "title": "Gigi Dall'Igna: ‘Marc Marquez is the best rider in history, no doubt about that’",
