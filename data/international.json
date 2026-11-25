@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:51:20.985Z",
+ "updated": "2026-11-25T18:50:43.797Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -151,9 +151,9 @@
   "Motorsport": 5,
   "IMSA": 10,
   "MotoGP": 15,
+  "Karting": 12,
   "IndyCar": 10,
   "WEC": 15,
-  "Karting": 12,
   "WRC": 9,
   "NASCAR": 15,
   "Super Formula": 3,
@@ -165,6 +165,16 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Best value early bets for the Qatar Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9",
+   "source": "Formula1.com",
+   "date": "2026-11-25T18:50:43.797Z",
+   "series": "F1",
+   "result": false,
+   "summary": "We've selected our pick of early bets offering the best value for F1 bettors at the Qatar Grand Prix.",
+   "image": null
+  },
   {
    "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
    "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
@@ -183,16 +193,6 @@
    "series": "F1",
    "result": false,
    "summary": "Here is all the information you need to follow the Qatar Grand Prix weekend live on F1 TV.",
-   "image": null
-  },
-  {
-   "title": "Our early Bet Builder for the Qatar Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-qatar-grand-prix.7FBX6XRKhMuX5CMZ996cZ1",
-   "source": "Formula1.com",
-   "date": "2026-11-25T17:51:20.985Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Qatar Grand Prix, including podium finish and top-six selections.",
    "image": null
   },
   {
@@ -304,6 +304,16 @@
    "result": false,
    "summary": "FIA finds two F1 teams guilty of breaching the 2025 cost cap rules.",
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454729_hires.jpg?width=1200"
+  },
+  {
+   "title": "Briggs & Stratton Racing Releases the 2027 Briggs 206 Rule Set",
+   "url": "https://www.ekartingnews.com/2026/11/25/briggs-stratton-racing-releases-the-2027-briggs-206-rule-set/",
+   "source": "eKartingNews",
+   "date": "2026-11-25T16:16:41.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "Briggs & Stratton Racing is proud to announce the official release of the 2027 Rule Set for the 206 engine platform, which will go into effect on January 1st, 2027. Continuing our commitment to stability and…",
+   "image": null
   },
   {
    "title": "Williams given aero test reduction and fine for cost cap breach, Alpine also fined",
@@ -1424,16 +1434,6 @@
    "result": false,
    "summary": "New World Rally Championship constructor Project Rally One has again called upon rally legend Sebastien Loeb to test its 2027 car ahead of its debut in Monte Carlo next year. The nine-time world rally champion joined…",
    "image": "https://cdn-1.motorsport.com/images/amp/2GdK1orY/s6/loeb.jpg"
-  },
-  {
-   "title": "EKN Exclusive: Superkarts! USA SuperNationals 29 – Preview Series – Predictions",
-   "url": "https://www.ekartingnews.com/2026/11/09/ekn-exclusive-superkarts-usa-supernationals-29-preview-series-predictions/",
-   "source": "eKartingNews",
-   "date": "2026-11-09T18:00:55.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "eKartingNews.com is proud to present our Preview Series for the Superkarts! USA SuperNationals 29. Leading up to the on-track action of the 2026 edition of the marquee SKUSA event, EKN will preview each of the 11…",
-   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
   },
   {
    "title": "Ex-DTM champion Guven fails to clear Formula E license hurdle: What is Porsche doing?",
