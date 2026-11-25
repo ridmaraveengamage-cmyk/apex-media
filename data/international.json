@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:54:53.142Z",
+ "updated": "2026-11-25T21:55:33.144Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,11 +148,11 @@
  ],
  "bySeries": {
   "F1": 15,
+  "Karting": 12,
   "NASCAR": 15,
   "Motorsport": 5,
   "IMSA": 10,
   "MotoGP": 15,
-  "Karting": 12,
   "IndyCar": 10,
   "WEC": 15,
   "WRC": 9,
@@ -166,14 +166,54 @@
  },
  "items": [
   {
-   "title": "Best value early bets for the Qatar Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9",
+   "title": "From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints",
+   "url": "https://www.formula1.com/en/latest/article/from-monza-mayhem-to-suzuka-showdowns-10-dramatic-rivalry-flashpoints-in-f1-history.3tetZNSgL2jM1F3THX3k1M",
    "source": "Formula1.com",
-   "date": "2026-11-25T20:54:53.142Z",
+   "date": "2026-11-25T21:55:33.144Z",
    "series": "F1",
    "result": false,
-   "summary": "We've selected our pick of early bets offering the best value for F1 bettors at the Qatar Grand Prix.",
+   "summary": "Max Verstappen and George Russell traded blows on and off track in Las Vegas last weekend – but that is merely the latest episode in a long history of driver rivalries in Formula 1.",
    "image": null
+  },
+  {
+   "title": "Our early Bet Builder for the Qatar Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-qatar-grand-prix.7FBX6XRKhMuX5CMZ996cZ1",
+   "source": "Formula1.com",
+   "date": "2026-11-25T21:55:33.144Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Qatar Grand Prix, including podium finish and top-six selections.",
+   "image": null
+  },
+  {
+   "title": "EKN Debrief: Episode 176 – Superkarts! USA SuperNationals 29 – Part 2",
+   "url": "https://www.ekartingnews.com/2026/11/25/ekn-debrief-episode-176-superkarts-usa-supernationals-29-part-2/",
+   "source": "eKartingNews",
+   "date": "2026-11-25T21:31:19.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "The Superkarts! USA SuperNationals 29 were held over November 11-15 outside the Las Vegas Motor Speedway. A total of 600 entries across 11 categories battled for five days, leading up to the final laps on SuperSunday to…",
+   "image": null
+  },
+  {
+   "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi",
+   "url": "https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T21:25:17.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 1’s paddock is touching down in Doha for the penultimate round of the 2026 championship, yet Max Verstappen is not pretending the trip sits easily with him. Speaking to Dutch outlet De Telegraaf, the four-time…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0arEDRG2/s6/max-verstappen-red-bull-racing-a10877645-b707-2.jpg"
+  },
+  {
+   "title": "Ex-F1 driver Martin Donnelly confirms memoir release with Lewis Hamilton and Brad Pitt contribution",
+   "url": "https://www.motorsport.com/culture/news/ex-f1-driver-martin-donnelly-sets-june-2027-release-for-survival-memoir-unbroken-with-brad-pitt-and/10877632/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T21:01:55.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "More than three decades after one of Formula 1’s most harrowing accidents cut his grand prix career short, Martin Donnelly is finally putting the full story in his own words. Retailer listings from Penguin Books UK and…",
+   "image": "https://cdn-1.motorsport.com/images/amp/254n4zk0/s6/martin-donnelly-a10877632-b708-2.jpg"
   },
   {
    "title": "FIA filings reveal the Red Bull aero update behind Max Verstappen’s Las Vegas GP win",
@@ -204,6 +244,16 @@
    "result": false,
    "summary": "In a 2026 Las Vegas Grand Prix where 22 drivers traded a record 352 overtakes largely cleanly, Formula 1’s fiercest intra-team blowup still belonged to Ferrari. On Lap 38, Charles Leclerc dived down the inside of Lewis…",
    "image": "https://cdn-1.motorsport.com/images/amp/YN7vBdV6/s6/frederic-vasseur-ferrari-a10877422-b704-2.jpg"
+  },
+  {
+   "title": "eKartingNews.com Driver of the Month: October 2026 – Brady Schad",
+   "url": "https://www.ekartingnews.com/2026/11/25/ekartingnews-com-driver-of-the-month-october-2026-brady-schad/",
+   "source": "eKartingNews",
+   "date": "2026-11-25T19:29:50.000Z",
+   "series": "Karting",
+   "result": false,
+   "summary": "In a continued effort to highlight the many outstanding performances by drivers around the country, eKartingNews.com is proud to introduce the ‘Driver of the Month’ program. Each month, the staff at EKN will determine…",
+   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/10/CKNA-GNX-Sun-Brady-Schad-300x200.jpg"
   },
   {
    "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
@@ -326,16 +376,6 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361328_HiRes.jpg"
   },
   {
-   "title": "Williams hit with penalty as two teams breach F1 cost cap rules",
-   "url": "https://www.crash.net/f1/news/1110889/1/williams-hit-penalty-two-teams-breach-f1-cost-cap-rules",
-   "source": "Crash.net",
-   "date": "2026-11-25T16:29:18.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "FIA finds two F1 teams guilty of breaching the 2025 cost cap rules.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454729_hires.jpg?width=1200"
-  },
-  {
    "title": "Briggs & Stratton Racing Releases the 2027 Briggs 206 Rule Set",
    "url": "https://www.ekartingnews.com/2026/11/25/briggs-stratton-racing-releases-the-2027-briggs-206-rule-set/",
    "source": "eKartingNews",
@@ -343,16 +383,6 @@
    "series": "Karting",
    "result": false,
    "summary": "Briggs & Stratton Racing is proud to announce the official release of the 2027 Rule Set for the 206 engine platform, which will go into effect on January 1st, 2027. Continuing our commitment to stability and…",
-   "image": null
-  },
-  {
-   "title": "Williams given aero test reduction and fine for cost cap breach, Alpine also fined",
-   "url": "https://www.racefans.net/2026/11/25/williams-given-aero-test-reduction-and-fine-for-cost-cap-breach-alpine-also-fined/",
-   "source": "RaceFans",
-   "date": "2026-11-25T16:11:25.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA has announced two Formula 1 teams failed to comply with the cost cap regulations during the 2025 season.",
    "image": null
   },
   {
@@ -364,16 +394,6 @@
    "result": false,
    "summary": "Aprilia's factory pairing of Marco Bezzecchi and Jorge Martin will end a two-year stint in the same garage with a final-round battle for second place in the world championship this weekend. And, if the riders are to be…",
    "image": "https://cdn-1.motorsport.com/images/amp/YpbA7Gd0/s6/jorge-martin-aprilia-racing-te.jpg"
-  },
-  {
-   "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
-   "url": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
-   "source": "Formula1.com",
-   "date": "2026-11-25T16:03:54.784Z",
-   "series": "F1",
-   "result": false,
-   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Jack Whitehall has shared his experiences as an official Friend of F1 – including a memorable first meeting with Kimi Antonelli.",
-   "image": null
   },
   {
    "title": "Injured Bagnaia will miss last GP with Ducati, first MotoGP test with Aprilia",
@@ -523,16 +543,6 @@
    "series": "IndyCar",
    "result": false,
    "summary": "IndyCar will return to Kansas next year for first time since 2010",
-   "image": null
-  },
-  {
-   "title": "EKN Debrief: Episode 175 – Superkarts! USA SuperNationals 29 – Part 1",
-   "url": "https://www.ekartingnews.com/2026/11/24/ekn-debrief-episode-175-superkarts-usa-supernationals-29-part-1/",
-   "source": "eKartingNews",
-   "date": "2026-11-24T20:21:47.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "The Superkarts! USA SuperNationals 29 were held over November 11-15 outside the Las Vegas Motor Speedway. A total of 600 entries across 11 categories battled for five days, leading up to the final laps on SuperSunday to…",
    "image": null
   },
   {
@@ -1404,16 +1414,6 @@
    "result": false,
    "summary": "Two-time Mini Challenge champion Tom Ovenden is to step up to the British Touring Car Championship for 2027 with Excelr8 Motorsport. The 22-year-old remains within the same organisation with which he claimed the…",
    "image": "https://cdn-1.motorsport.com/images/amp/YpbPNZg0/s6/tom-ovenden-mini-challenge-cha-2.jpg"
-  },
-  {
-   "title": "Paddock Insider: Superkarts! USA SuperNationals 29",
-   "url": "https://www.ekartingnews.com/2026/11/10/paddock-insider-superkarts-usa-supernationals-29/",
-   "source": "eKartingNews",
-   "date": "2026-11-10T20:18:29.000Z",
-   "series": "Karting",
-   "result": false,
-   "summary": "EKN’s Paddock Insider is part of our Trackside coverage, bringing you notes, updates and breaking news as it happens. The article will feature notes from trackside at the Superkarts! USA SuperNationals 29 at the Las…",
-   "image": "https://www.ekartingnews.com/wp-content/uploads/2026/08/SKUSA-SuperNationals-29-logo-SuperNats29-300x200.jpg"
   },
   {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
