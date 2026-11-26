@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:46:08.559Z",
+ "updated": "2026-11-26T10:08:10.559Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,32 +148,142 @@
  ],
  "bySeries": {
   "F1": 15,
+  "BTCC": 4,
+  "MotoGP": 15,
   "Karting": 12,
   "NASCAR": 15,
   "Motorsport": 5,
   "IMSA": 10,
-  "MotoGP": 15,
-  "IndyCar": 10,
+  "IndyCar": 9,
   "WEC": 15,
   "WRC": 9,
   "Super Formula": 3,
   "Formula E": 11,
   "DTM": 5,
   "F2 / F3": 2,
-  "BTCC": 3,
   "Dakar": 2,
   "Supercars": 2
  },
  "items": [
   {
-   "title": "Best value early bets for the Qatar Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9",
+   "title": "2027 line-ups confirmed: Who is on the grid for next season?",
+   "url": "https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX",
    "source": "Formula1.com",
-   "date": "2026-11-26T08:46:08.559Z",
+   "date": "2026-11-26T10:08:10.559Z",
    "series": "F1",
    "result": false,
-   "summary": "We've selected our pick of early bets offering the best value for F1 bettors at the Qatar Grand Prix.",
+   "summary": "With Ollie Bearman now confirmed at Haas for next season, the 2027 grid is finally complete. So, which teams have changed their line ups, who is sticking with their current pairings and how many new faces are on the…",
    "image": null
+  },
+  {
+   "title": "Why Bearman’s new Haas deal took so long to get over the line",
+   "url": "https://www.formula1.com/en/latest/article/analysis-why-bearmans-new-haas-deal-took-so-long-to-get-over-the-line.M0No4qdgSUFPFMgGKkNKv",
+   "source": "Formula1.com",
+   "date": "2026-11-26T10:08:10.559Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lawrence Barretto explains the delay in announcing Ollie Bearman's latest Haas contract, which marks the completion of the 2027 grid.",
+   "image": null
+  },
+  {
+   "title": "Bearman to continue with Haas for 2027",
+   "url": "https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.dRq9fWh9OGjhXuShgGnqE",
+   "source": "Formula1.com",
+   "date": "2026-11-26T10:08:10.559Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Haas Formula 1 team have confirmed that Ollie Bearman has re-signed with the American outfit.",
+   "image": null
+  },
+  {
+   "title": "McLaren flags the crucial early-stop trap inside Qatar’s raised 27-lap rule",
+   "url": "https://www.motorsport.com/f1/news/mclaren-flags-the-crucial-early-stop-trap-inside-qatars-raised-27-lap-tire-rule/10877828/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T10:03:32.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Formula 1 returns to the Losail International Circuit this weekend with a familiar strategic guardrail - and a subtly shifted trap waiting right after lights out. Ahead of the 2026 Qatar Grand Prix, Pirelli and the FIA…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YK131jw0/s6/lando-norris-mclaren-oscar-pia-a10877828-b706-3.jpg"
+  },
+  {
+   "title": "Excelr8 goes for customer BTCC engine for 2027",
+   "url": "https://www.autosport.com/btcc/news/excelr8-goes-for-customer-btcc-engine-for-2027/10877832/",
+   "source": "Autosport",
+   "date": "2026-11-26T09:54:56.000Z",
+   "series": "BTCC",
+   "result": false,
+   "summary": "Tom Ingram’s bid for a third British Touring Car Championship title in 2027 will be powered by a customer TOCA engine. Excelr8 Motorsport, the team with which Ingram has raced since 2021 and won both his crowns, has…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2y7AxQe6/s6/tom-ingram-team-vertu.jpg"
+  },
+  {
+   "title": "Recent MotoGP hopeful retires suddenly aged 23",
+   "url": "https://www.the-race.com/motogp/recent-motogp-hopeful-sergio-garcia-retires-suddenly-aged-23/",
+   "source": "The Race",
+   "date": "2026-11-26T09:22:25.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Moto2 rider Sergio Garcia has announced his retirement from motorcycle racing, just over two years after narrowly missing out on a MotoGP debut",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1320722_HiRes.jpg"
+  },
+  {
+   "title": "F1 2027 grid: Which drivers have a seat and who is out of contract?",
+   "url": "https://www.crash.net/f1/feature/1088707/1/f1-2027-grid-every-teams-confirmed-driver-line",
+   "source": "Crash.net",
+   "date": "2026-11-26T09:20:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The complete F1 grid for the 2027 season, including every team’s confirmed driver line-ups (so far).",
+   "image": "https://www.crash.net/sites/default/files/2026-10/xpb_1447111_hires.jpg?width=1200"
+  },
+  {
+   "title": "Haas finally confirms Bearman’s new contract for 2027",
+   "url": "https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027/",
+   "source": "RaceFans",
+   "date": "2026-11-26T09:19:12.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Haas will run two Ferrari junior drivers in 2027 after confirming Oliver Bearman will remain alongside Rafael Camara.",
+   "image": null
+  },
+  {
+   "title": "Bearman finally gets 2027 Haas deal after drawn-out renewal",
+   "url": "https://www.the-race.com/formula-1/ollie-bearman-2027-haas-f1-deal-drawn-out-renewal/",
+   "source": "The Race",
+   "date": "2026-11-26T09:08:09.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ollie Bearman's stay at Haas for the 2027 F1 season has finally been confirmed after a drawn-out renewal",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455510_HiRes.jpg"
+  },
+  {
+   "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set",
+   "url": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T09:00:41.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Oliver Bearman will officially stay at Haas for the 2027 Formula 1 season after he and the team finally put pen to paper on a new deal. The American squad announced the renewal on Thursday, meaning the 21-year-old…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas.jpg"
+  },
+  {
+   "title": "Spotlight: F1 has ‘more people who look like the fans’ due to diversity push – Hamilton",
+   "url": "https://www.racefans.net/2026/11/26/spotlight-f1-has-more-people-who-look-like-the-fans-due-to-diversity-push-hamilton/",
+   "source": "RaceFans",
+   "date": "2026-11-26T08:59:27.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 now has 'more people who look like the fans' - Hamilton",
+   "image": null
+  },
+  {
+   "title": "Joan Mir cleared to travel to Valencia MotoGP finale after receiving medical approval",
+   "url": "https://www.motorsport.com/motogp/news/joan-mir-viaja-a-valencia-tras-recibir-el-ok-de-sus-medicos/10877809/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T08:48:09.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Joan Mir will be in Valencia this weekend to contest his final race as a factory Honda HRC rider in MotoGP. The Spaniard, who has missed six of the last seven grands prix due to medical issues involving dizziness and…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6O7zDvw6/s6/joan-mir-honda-hrc.jpg"
   },
   {
    "title": "F1 drivers face highest tyre pressure orders yet in Qatar",
@@ -236,76 +346,6 @@
    "image": null
   },
   {
-   "title": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
-   "url": "https://www.motorsport.com/f1/news/fred-vasseur-refuses-to-shield-leclerc-over-hamilton-collision-the-decision-of-the-fia-was-quite-cl/10877483/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T01:30:02.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 team bosses usually rush to soften the blow when stewards penalise one of their drivers. After Charles Leclerc clipped Lewis Hamilton into a spin at Turn 7 during the 2026 Las Vegas Grand Prix, Ferrari team…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0rVPdjJ0/s6/fred-vasseur-ferrari-a10877483-b704-2.jpg"
-  },
-  {
-   "title": "What tyres will the teams have for the Qatar Grand Prix?",
-   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-qatar-grand-prix.7JllCRweDY5sW1N9LzdkLm",
-   "source": "Formula1.com",
-   "date": "2026-11-26T01:08:18.766Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Qatar Grand Prix weekend, with a maximum of 27 laps permitted on each set.",
-   "image": null
-  },
-  {
-   "title": "Nico Rosberg rules George Russell out of 2027 F1 title fight: “Dug himself into a mental hole”",
-   "url": "https://www.motorsport.com/f1/news/nico-rosberg-rules-george-russell-out-of-2027-f1-title-fight-he-dug-himself-into-a-mental-hole/10877719/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T00:30:03.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell entered the 2026 Formula 1 campaign looking every bit like Mercedes’ undisputed leader. Nine months later, former Silver Arrows world champion Nico Rosberg does not even consider the 28-year-old a…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2y7QRGg6/s6/george-russell-mercedes-a10877719-b705-2.jpg"
-  },
-  {
-   "title": "Ralf Schumacher sees echoes of Lewis Hamilton's Nico Rosberg \"mind games\" after Las Vegas",
-   "url": "https://www.motorsport.com/f1/news/ralf-schumacher-says-lewis-hamilton-wants-ferraris-no-1-power-by-any-means-necessary-after-leclerc-/10877712/",
-   "source": "Motorsport.com",
-   "date": "2026-11-25T23:30:05.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Stewards and Ferrari team principal Fred Vasseur placed the blame for the Scuderia’s latest intra-team collision on Charles Leclerc. Former Formula 1 driver Ralf Schumacher, however, believes the real power play at…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10877712-b704-4.jpg"
-  },
-  {
-   "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
-   "url": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
-   "source": "Formula1.com",
-   "date": "2026-11-25T22:53:30.852Z",
-   "series": "F1",
-   "result": false,
-   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Jack Whitehall has shared his experiences as an official Friend of F1 – including a memorable first meeting with Kimi Antonelli.",
-   "image": null
-  },
-  {
-   "title": "Nearly $3 million on ten wrists: inside the wild luxury watch Flex at the 2026 Las Vegas Grand Prix",
-   "url": "https://www.motorsport.com/culture/news/nearly-3-million-on-ten-wrists-inside-the-wild-luxury-watch-flex-at-the-2026-las-vegas-grand-prix/10877653/",
-   "source": "Motorsport.com",
-   "date": "2026-11-25T22:00:05.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1’s 2026 Las Vegas Grand Prix served up 352 overtakes on the Strip, yet the hardware flashing across the podium and red carpet was almost as loud as the racing. A widely shared Instagram watch-spotting carousel…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8gv2/s6/a-general-view-of-the-f1-paddo-a10877653-b708-2.jpg"
-  },
-  {
-   "title": "From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints",
-   "url": "https://www.formula1.com/en/latest/article/from-monza-mayhem-to-suzuka-showdowns-10-dramatic-rivalry-flashpoints-in-f1-history.3tetZNSgL2jM1F3THX3k1M",
-   "source": "Formula1.com",
-   "date": "2026-11-25T21:55:33.144Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen and George Russell traded blows on and off track in Las Vegas last weekend – but that is merely the latest episode in a long history of driver rivalries in Formula 1.",
-   "image": null
-  },
-  {
    "title": "EKN Debrief: Episode 176 – Superkarts! USA SuperNationals 29 – Part 2",
    "url": "https://www.ekartingnews.com/2026/11/25/ekn-debrief-episode-176-superkarts-usa-supernationals-29-part-2/",
    "source": "eKartingNews",
@@ -314,16 +354,6 @@
    "result": false,
    "summary": "The Superkarts! USA SuperNationals 29 were held over November 11-15 outside the Las Vegas Motor Speedway. A total of 600 entries across 11 categories battled for five days, leading up to the final laps on SuperSunday to…",
    "image": null
-  },
-  {
-   "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi",
-   "url": "https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/",
-   "source": "Motorsport.com",
-   "date": "2026-11-25T21:25:17.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1’s paddock is touching down in Doha for the penultimate round of the 2026 championship, yet Max Verstappen is not pretending the trip sits easily with him. Speaking to Dutch outlet De Telegraaf, the four-time…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0arEDRG2/s6/max-verstappen-red-bull-racing-a10877645-b707-2.jpg"
   },
   {
    "title": "Judge denies Joe Gibbs Racing an injunction against Spire",
@@ -686,26 +716,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/p2w4pAeY/s6/grasser-team-und-bortolotti-zu-mclaren-das-sagt-der-mclaren-motorsportchef-26112401.jpg"
   },
   {
-   "title": "Where Martin thinks he lost 2026 MotoGP title to Marquez",
-   "url": "https://www.the-race.com/motogp/where-martin-thinks-he-lost-2026-motogp-title-to-marquez/",
-   "source": "The Race",
-   "date": "2026-11-24T11:46:20.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Jorge Martin feels that \"missing a year\" with Aprilia was likely the difference in missing out on the 2026 MotoGP riders' title to Marc Marquez",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1365349_HiRes.jpg"
-  },
-  {
-   "title": "New Super Formula champion eyes dream IndyCar move to \"demonstrate\" Japan's quality",
-   "url": "https://www.autosport.com/super-formula/news/super-formula-champion-eyes-indycar-move/10877424/",
-   "source": "Autosport",
-   "date": "2026-11-24T11:40:46.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "New Super Formula champion Kakunoshin Ohta says he wants to demonstrate the value of the Japanese racing scene as he continues to work towards his IndyCar dream. Honda-backed Ohta secured the title with a race to spare…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6DGgOQDY/s6/kakunoshin-ohta-docomo-team-da.jpg"
-  },
-  {
    "title": "New Super Formula champion Kakunoshin Ohta’s goal: standing for Japan in IndyCar",
    "url": "https://www.motorsport.com/super-formula/news/new-super-formula-champion-kakunoshin-ohtas-goal-standing-for-japan-in-indycar/10877409/",
    "source": "Motorsport.com",
@@ -724,16 +734,6 @@
    "result": false,
    "summary": "Few would have expected Marc Marquez to become MotoGP world champion this year when, on 9 May, he announced he would undergo yet another surgery on his right arm. Since then, however, the Ducati rider has undergone…",
    "image": "https://cdn-1.motorsport.com/images/amp/0R7BbGg2/s6/marc-marquez-ducati-team-2.jpg"
-  },
-  {
-   "title": "The reasons behind Peugeot's WEC Hypercar exit",
-   "url": "https://www.autosport.com/wec/news/the-reasons-behind-peugeots-wec-hypercar-exit/10877384/",
-   "source": "Autosport",
-   "date": "2026-11-24T10:24:21.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Peugeot’s decision to step away from the World Endurance Championship at the end of 2026 has come as a major surprise. It was one of the first mainstream manufacturers to commit to the new Hypercar regulations, making…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YN7vwpP6/s6/94-peugeot-totalenergies-peuge-3.jpg"
   },
   {
    "title": "Featured Comment: Herta deserves credit for trying to make the switch from IndyCar",
@@ -904,16 +904,6 @@
    "result": false,
    "summary": "Marc Marquez was crowned the 2026 MotoGP champion at the Portuguese Grand Prix on Sunday, even as Aprilia dominated at Portimao and secured the teams’ title with one of its most convincing performances of the year…",
    "image": "https://cdn-1.motorsport.com/images/amp/YN7vj8V6/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "Marquez overtakes Rossi - now only Nieto and Agostini have more titles",
-   "url": "https://www.autosport.com/motogp/news/marc-marquez-overtakes-valentino-rossi-now-only-angel-nieto-and-giacomo-agostini-have-more-titles/10877016/",
-   "source": "Autosport",
-   "date": "2026-11-22T17:06:36.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez continues to cement his legacy in motorcycle racing and sport as a whole. If his return to the top in 2025, with an impeccable season until he was injured, already left everyone stunned, the legendary…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YMXbRNv2/s6/marc-marquez-ducati-team-2.jpg"
   },
   {
    "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
@@ -1404,6 +1394,16 @@
    "result": false,
    "summary": "Mexico City will now serve as the season opener for the 2026/27 Formula E campaign after the postponement of the Jeddah E-Prix. The Saudi Arabian circuit was scheduled to kickstart the Gen4 era on 18-19 December with a…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5PvQ7Y/s6/edoardo-mortara-mahindra-racin.jpg"
+  },
+  {
+   "title": "The new records set by Toyota's Hypercar trio with WEC 2026 title",
+   "url": "https://www.motorsport.com/wec/news/the-new-records-set-by-toyotas-hypercar-trio-with-wec-2026-title/10873848/",
+   "source": "Motorsport.com",
+   "date": "2026-11-11T13:23:55.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Sebastien Buemi, Brendon Hartley and Ryo Hirakawa had already established their credentials in sportscar racing, but their names were etched into history last week following their success in the 2026 World Endurance…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0Zq8vjM6/s6/8-toyota-gazoo-racing-toyota-t-2.jpg"
   },
   {
    "title": "Double Mini champion gets big BTCC break for 2027",
