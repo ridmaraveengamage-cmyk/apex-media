@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:56:43.164Z",
+ "updated": "2026-11-26T18:56:38.772Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -148,15 +149,15 @@
  ],
  "bySeries": {
   "F1": 15,
-  "WRC": 10,
   "MotoGP": 15,
+  "WEC": 15,
+  "WRC": 10,
   "BTCC": 4,
   "Karting": 12,
   "NASCAR": 15,
-  "Motorsport": 3,
+  "Motorsport": 2,
   "IMSA": 10,
-  "IndyCar": 9,
-  "WEC": 15,
+  "IndyCar": 10,
   "Super Formula": 3,
   "Formula E": 11,
   "DTM": 5,
@@ -164,6 +165,56 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Leclerc and Hamilton address aftermath of Las Vegas clash",
+   "url": "https://www.formula1.com/en/latest/article/were-all-disappointed-leclerc-and-hamilton-address-aftermath-of-las-vegas-clash.34d9bV1J0varyAnDCWPAjU",
+   "source": "Formula1.com",
+   "date": "2026-11-26T18:56:38.772Z",
+   "series": "F1",
+   "result": false,
+   "summary": "After contact limited them to the lower end of the points in Las Vegas, Charles Leclerc and Lewis Hamilton have insisted they’re working towards a solution to avoid further intra-team incidents.",
+   "image": null
+  },
+  {
+   "title": "Why Aprilia really wants the MotoGP constructors title, while Ducati could hardly care less",
+   "url": "https://www.autosport.com/motogp/news/why-aprilia-really-wants-the-motogp-constructors-title-while-ducati-could-hardly-care-less/10878018/",
+   "source": "Autosport",
+   "date": "2026-11-26T18:36:10.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "MotoGP's long and winding road around the globe finally runs out of puff at Valencia this weekend. With the riders championship already decided in favour of Marc Marquez, the closing round boils down to emotional…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2QedXMO2/s6/marco-bezzecchi-aprilia-racing.jpg"
+  },
+  {
+   "title": "Christian Horner and Geri Halliwell reportedly snap up \"Pride and Prejudice\" mansion",
+   "url": "https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T18:20:23.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Former Red Bull Racing team principal and CEO Christian Horner and his wife, Spice Girl Geri Halliwell, are understood to have bought Edgcote House, the historic Northamptonshire estate that appeared in the BBC's Pride…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2d1k3zDY/s6/geri-horner-and-christian-horn-a10878015-b708-2.jpg"
+  },
+  {
+   "title": "Ford pays tribute to its legendary GT40 with WEC 2027 hypercar",
+   "url": "https://www.autosport.com/wec/news/ford-pays-tribute-to-gt40-with-wec-2027-car/10877998/",
+   "source": "Autosport",
+   "date": "2026-11-26T18:00:20.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Ford has officially named its upcoming 2027 World Endurance Championship LMDh contender the GT41 - unveiling the car on Thanksgiving Thursday. It was a fittingly American stage for the reveal of the naturally-aspirated…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2jEAOJk0/s6/ford-gt41-hypercar.jpg"
+  },
+  {
+   "title": "Ford reveals name for 2027 WEC LMDh challenger",
+   "url": "https://www.motorsport.com/wec/news/ford-reveals-name-for-2027-wec-lmdh-challenger/10877687/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T18:00:14.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Ford has officially named its upcoming 2027 World Endurance Championship LMDh contender the GT41 - unveiling the car on Thanksgiving Thursday. It was a fittingly American stage for the reveal of the naturally-aspirated…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YXyKM776/s6/ford-gt41-hypercar.jpg"
+  },
   {
    "title": "Lindblad left ‘trying to hold back tears’ after Las Vegas spin",
    "url": "https://www.formula1.com/en/latest/article/lindblad-left-trying-to-hold-back-tears-after-las-vegas-spin-as-he-reflects-on-emotional-social-media-post.6eGFigwGZhsbeR31PHHf4j",
@@ -245,16 +296,6 @@
    "image": null
   },
   {
-   "title": "Bearman to continue with Haas for 2027",
-   "url": "https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.dRq9fWh9OGjhXuShgGnqE",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:56:43.164Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The Haas Formula 1 team have confirmed that Ollie Bearman has re-signed with the American outfit.",
-   "image": null
-  },
-  {
    "title": "Neuville, Fourmaux and Meeke in latest Rally2 test for Hyundai",
    "url": "https://www.autosport.com/wrc/news/neuville-in-latest-rally-2-test-for-hyundai/10878010/",
    "source": "Autosport",
@@ -323,16 +364,6 @@
    "result": false,
    "summary": "The Las Vegas Grand Prix weekend reignited the long-running tension between Red Bull and Mercedes drivers, Max Verstappen and George Russell, and it was the talking point of Sky's F1 Show podcast this week. Three-time W…",
    "image": "https://cdn-1.motorsport.com/images/amp/0JXRmkBY/s6/max-verstappen-red-bull-racing-a10877980-b707-2.jpg"
-  },
-  {
-   "title": "Bearman reflects on new Haas deal and Ferrari hopes",
-   "url": "https://www.formula1.com/en/latest/article/im-looking-forward-to-the-future-bearman-reflects-on-new-haas-deal-and-hopes-of-dream-ferrari-drive.2HEQCXu8ItvVTJrmYBR5H1",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:05:34.191Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ollie Bearman arrives into the Qatar Grand Prix weekend with his future finally confirmed, following the announcement that he will continue to drive for Haas in 2027.",
-   "image": null
   },
   {
    "title": "WRC2 star of interest to new WRC constructor for 2027",
@@ -555,16 +586,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YMXbrpG2/s6/77-ao-racing-porsche-911-nick-.jpg"
   },
   {
-   "title": "Top five roles on Motorsport Jobs this week",
-   "url": "https://www.autosport.com/general/news/top-five-roles-on-motorsport-jobs-this-week-10877698/10877698/",
-   "source": "Autosport",
-   "date": "2026-11-25T14:34:31.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "1. McLaren Endurance Racing - Brand Experience Coordinator - Woking McLaren Endurance Racing is recruiting a Brand Experience Coordinator. You will support the planning and delivery of Brand Experience activity across…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
-  },
-  {
    "title": "Cup Karts North America Announces 2027 Summer Nationals to LOK",
    "url": "https://www.ekartingnews.com/2026/11/25/cup-karts-north-america-announces-2027-summer-nationals-to-lok/",
    "source": "eKartingNews",
@@ -655,6 +676,16 @@
    "image": null
   },
   {
+   "title": "IndyCar adds Kansas Speedway to 2027 schedule in joint NASCAR weekend",
+   "url": "https://www.motorsport.com/indycar/news/indycar-adds-kansas-speedway-to-2027-schedule-in-joint-nascar-weekend-/10877534/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T19:00:05.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
+   "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
+  },
+  {
    "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
    "url": "https://www.ekartingnews.com/2026/11/24/factory-karts-names-miami-based-lupo-kart-an-official-dealer/",
    "source": "eKartingNews",
@@ -703,16 +734,6 @@
    "result": false,
    "summary": "ROK Cup USA is pleased to confirm that Orlando Kart Center will host Rounds 2 and 3 of the 2027 Florida Winter Tour (FWT). The Central Florida facility will welcome the series on February 26–28 and March 12–14, 2027…",
    "image": "https://www.ekartingnews.com/wp-content/uploads/2022/06/ROK-Cup-Logo-2022-300x200.jpg"
-  },
-  {
-   "title": "Maverick Vinales ruled out of Valencia GP, can’t bid farewell to MotoGP",
-   "url": "https://www.motorsport.com/motogp/news/maverick-vinales-ruled-out-of-valencia-gp-cant-bid-farewell-to-motogp/10877477/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T13:53:08.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "As has been the case at many MotoGP races since he injured his shoulder in qualifying at the 2025 German Grand Prix, Maverick Vinales won’t take part in the final round of the 2026 season, the Valencia GP. Having…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6VyKj8VY/s6/maverick-vinales-red-bull-ktm--2.jpg"
   },
   {
    "title": "T4 Series USA Joins the 2027 Florida Open",
@@ -1365,16 +1386,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0o5PvQ7Y/s6/edoardo-mortara-mahindra-racin.jpg"
   },
   {
-   "title": "The new records set by Toyota's Hypercar trio with WEC 2026 title",
-   "url": "https://www.motorsport.com/wec/news/the-new-records-set-by-toyotas-hypercar-trio-with-wec-2026-title/10873848/",
-   "source": "Motorsport.com",
-   "date": "2026-11-11T13:23:55.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Sebastien Buemi, Brendon Hartley and Ryo Hirakawa had already established their credentials in sportscar racing, but their names were etched into history last week following their success in the 2026 World Endurance…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Zq8vjM6/s6/8-toyota-gazoo-racing-toyota-t-2.jpg"
-  },
-  {
    "title": "Double Mini champion gets big BTCC break for 2027",
    "url": "https://www.autosport.com/btcc/news/btcc/10873535/",
    "source": "Autosport",
@@ -1383,16 +1394,6 @@
    "result": false,
    "summary": "Two-time Mini Challenge champion Tom Ovenden is to step up to the British Touring Car Championship for 2027 with Excelr8 Motorsport. The 22-year-old remains within the same organisation with which he claimed the…",
    "image": "https://cdn-1.motorsport.com/images/amp/YpbPNZg0/s6/tom-ovenden-mini-challenge-cha-2.jpg"
-  },
-  {
-   "title": "Joey Logano and Logan Sargeant among Ford drivers taking part in Daytona exhibition race",
-   "url": "https://www.motorsport.com/general/news/joey-logano-logan-sargeant-among-ford-drivers-taking-part-in-daytona-charity-race/10873721/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T20:45:15.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
   },
   {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
