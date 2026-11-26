@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:56:38.772Z",
+ "updated": "2026-11-26T20:01:48.106Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -149,15 +148,15 @@
  ],
  "bySeries": {
   "F1": 15,
-  "MotoGP": 15,
   "WEC": 15,
+  "IndyCar": 10,
+  "MotoGP": 15,
   "WRC": 10,
   "BTCC": 4,
   "Karting": 12,
   "NASCAR": 15,
-  "Motorsport": 2,
+  "Motorsport": 1,
   "IMSA": 10,
-  "IndyCar": 10,
   "Super Formula": 3,
   "Formula E": 11,
   "DTM": 5,
@@ -165,6 +164,76 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Russell reacts to Verstappen’s Las Vegas comments",
+   "url": "https://www.formula1.com/en/latest/article/it-was-quite-amusing-russell-shares-his-reaction-to-verstappens-las-vegas-comments.6sv6Xkop4lBcCxge8ZgxXv",
+   "source": "Formula1.com",
+   "date": "2026-11-26T20:01:48.106Z",
+   "series": "F1",
+   "result": false,
+   "summary": "After tensions between himself and Max Verstappen resurfaced following the Las Vegas Grand Prix, George Russell has given his take on how the situation stands.",
+   "image": null
+  },
+  {
+   "title": "Bearman reflects on new Haas deal and Ferrari hopes",
+   "url": "https://www.formula1.com/en/latest/article/im-looking-forward-to-the-future-bearman-reflects-on-new-haas-deal-and-hopes-of-dream-ferrari-drive.2HEQCXu8ItvVTJrmYBR5H1",
+   "source": "Formula1.com",
+   "date": "2026-11-26T20:01:48.106Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ollie Bearman arrives into the Qatar Grand Prix weekend with his future finally confirmed, following the announcement that he will continue to drive for Haas in 2027.",
+   "image": null
+  },
+  {
+   "title": "Max Verstappen faces unexpected Red Bull absence at Qatar GP after late change of plan",
+   "url": "https://www.crash.net/f1/news/1110928/1/max-verstappen-faces-unexpected-red-bull-absence-qatar-gp-after-late-change-plan",
+   "source": "Crash.net",
+   "date": "2026-11-26T20:00:13.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen will be without a key member of his Red Bull F1 team in Qatar.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456640_hires.jpg?width=1200"
+  },
+  {
+   "title": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-without-gianpiero-lambiase-at-qatar-gp-as-tom-hart-steps-in/10878042/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T19:55:34.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of this Formula 1…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YBVj7QzY/s6/max-verstappen-red-bull-racing.jpg"
+  },
+  {
+   "title": "Spotlight: Ford reveals the GT41 Hypercar it will race in WEC",
+   "url": "https://www.racefans.net/2026/11/26/spotlight-ford-reveals-the-gt41-hypercar-it-will-race-in-wec/",
+   "source": "RaceFans",
+   "date": "2026-11-26T19:12:30.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Ford reveals GT41 Hypercar for 2027 WEC season",
+   "image": null
+  },
+  {
+   "title": "Why Max Verstappen has ruled out Indy 500 entry",
+   "url": "https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T19:05:20.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "Four-time Formula 1 champion Max Verstappen has ruled out racing in the Indianapolis 500, citing the lasting effects of Nelson Piquet's crash at the Speedway. Piquet, the father of Verstappen's partner Kelly Piquet…",
+   "image": "https://cdn-1.motorsport.com/images/amp/68VwB9x2/s6/max-verstappen-red-bull-racing-a10878029-b707-2.jpg"
+  },
+  {
+   "title": "Christian Horner seals move with £52m purchase of Pride and Prejudice mansion",
+   "url": "https://www.crash.net/f1/news/1110927/1/christian-horner-seals-move-ps52m-purchase-pride-and-prejudice-mansion",
+   "source": "Crash.net",
+   "date": "2026-11-26T18:59:37.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Christian Horner and wife Geri have bought a new luxury home.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1339838_hires.jpg?width=1200"
+  },
   {
    "title": "Leclerc and Hamilton address aftermath of Las Vegas clash",
    "url": "https://www.formula1.com/en/latest/article/were-all-disappointed-leclerc-and-hamilton-address-aftermath-of-las-vegas-clash.34d9bV1J0varyAnDCWPAjU",
@@ -246,7 +315,7 @@
    "image": null
   },
   {
-   "title": "LIVE COVERAGE: All the build-up ahead of the Qatar GP weekend",
+   "title": "AS IT HAPPENED: All the build-up ahead of the Qatar GP weekend",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-qatar-2026.4WEmmZr6fKX8XU6mHM6lN9",
    "source": "Formula1.com",
    "date": "2026-11-26T17:56:43.164Z",
@@ -286,16 +355,6 @@
    "image": null
   },
   {
-   "title": "Why Bearman’s new Haas deal took so long to get over the line",
-   "url": "https://www.formula1.com/en/latest/article/analysis-why-bearmans-new-haas-deal-took-so-long-to-get-over-the-line.M0No4qdgSUFPFMgGKkNKv",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:56:43.164Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lawrence Barretto explains the delay in announcing Ollie Bearman's latest Haas contract, which marks the completion of the 2027 grid.",
-   "image": null
-  },
-  {
    "title": "Neuville, Fourmaux and Meeke in latest Rally2 test for Hyundai",
    "url": "https://www.autosport.com/wrc/news/neuville-in-latest-rally-2-test-for-hyundai/10878010/",
    "source": "Autosport",
@@ -324,46 +383,6 @@
    "result": false,
    "summary": "Jorge Martin says he would like to finish the world championship as runner-up in Valencia this weekend, but admits that the most important thing now is to enjoy his final outing with Aprilia and secure the constructors'…",
    "image": "https://cdn-1.motorsport.com/images/amp/2y7Qg8X6/s6/jorge-martin-aprilia-racing-te.jpg"
-  },
-  {
-   "title": "Charles Leclerc “not allowed” to disclose Ferrari’s solution for Lewis Hamilton crash",
-   "url": "https://www.crash.net/f1/news/1110922/1/charles-leclerc-not-allowed-disclose-ferraris-solution-lewis-hamilton-crash",
-   "source": "Crash.net",
-   "date": "2026-11-26T17:13:55.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc was tight-lipped about how Ferrari will avoid a repeat of its intra-team collision in Las Vegas.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456573_hires.jpg?width=1200"
-  },
-  {
-   "title": "Why Ferrari's coy on 'solution' to Hamilton-Leclerc problem",
-   "url": "https://www.the-race.com/formula-1/why-ferrari-coy-solution-hamilton-leclerc-f1-problem/",
-   "source": "The Race",
-   "date": "2026-11-26T17:07:51.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc and Lewis Hamilton have discussed their Las Vegas GP F1 clash, but Ferrari won't reveal details of any \"solution\" to its ongoing driver problem",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456438_HiRes.jpg"
-  },
-  {
-   "title": "Hamilton convinced Ferrari will \"figure it out\" following Leclerc skirmish",
-   "url": "https://www.autosport.com/f1/news/hamilton-convinced-ferrari-will-figure-it-out/10877979/",
-   "source": "Autosport",
-   "date": "2026-11-26T17:07:17.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ferrari driver Lewis Hamilton says he is confident that he and team-mate Charles Leclerc will \"figure it out\" following their latest on-track skirmish at last week's Las Vegas Grand Prix. A fortnight on from a costly…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2wlKzmeY/s6/charles-leclerc-ferrari-lewis--2.jpg"
-  },
-  {
-   "title": "Max Verstappen and George Russell rivalry \"really cool for the sport\", says F1 pundit",
-   "url": "https://www.motorsport.com/f1/news/george-russell-gets-under-max-verstappens-skin-more-than-any-other-driver-says-f1-pundit/10877980/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T17:06:54.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The Las Vegas Grand Prix weekend reignited the long-running tension between Red Bull and Mercedes drivers, Max Verstappen and George Russell, and it was the talking point of Sky's F1 Show podcast this week. Three-time W…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0JXRmkBY/s6/max-verstappen-red-bull-racing-a10877980-b707-2.jpg"
   },
   {
    "title": "WRC2 star of interest to new WRC constructor for 2027",
@@ -676,16 +695,6 @@
    "image": null
   },
   {
-   "title": "IndyCar adds Kansas Speedway to 2027 schedule in joint NASCAR weekend",
-   "url": "https://www.motorsport.com/indycar/news/indycar-adds-kansas-speedway-to-2027-schedule-in-joint-nascar-weekend-/10877534/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T19:00:05.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
-   "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
-  },
-  {
    "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
    "url": "https://www.ekartingnews.com/2026/11/24/factory-karts-names-miami-based-lupo-kart-an-official-dealer/",
    "source": "eKartingNews",
@@ -794,16 +803,6 @@
    "result": false,
    "summary": "Spire Motorsports has returned the check for over $100,000 that Joe Gibbs Racing wrote to satisfy a countersuit filed in the ongoing legal matter regarding Chris Gabehart and intellectual property misappropriation…",
    "image": "https://cdn-1.motorsport.com/images/amp/0JXRDrBY/s6/image20241015133134.jpg"
-  },
-  {
-   "title": "On This Day: McLaren appoint rookie Hamilton as Alonso’s team mate for 2007",
-   "url": "https://www.racefans.net/2026/11/24/on-this-day-hamilton-joins-mclaren/",
-   "source": "RaceFans",
-   "date": "2026-11-24T00:01:00.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "McLaren hand Hamilton his Formula 1 debut alongside Alonso",
-   "image": null
   },
   {
    "title": "Dodge’s NASCAR Cup car unveil will include celebrity exhibition race during Snowball Derby",
@@ -1354,16 +1353,6 @@
    "result": false,
    "summary": "Ahead of another fiercely competitive Le Mans Prototype 2 (LMP2) campaign in the IMSA WeatherTech SportsCar Championship, Tower Motorsports has assembled a formidable roster for its #8 ORECA LMP2 07 as it sets its…",
    "image": "https://cdn-1.motorsport.com/images/amp/68VWqPl2/s6/8-tower-motorsports-oreca-lmp2.jpg"
-  },
-  {
-   "title": "Why Corvette’s new LMGT3 champion Jonny Edgar has a bright future",
-   "url": "https://www.motorsport.com/wec/news/why-corvettes-new-lmgt3-champion-jonny-edgar-has-a-bright-future/10874124/",
-   "source": "Motorsport.com",
-   "date": "2026-11-12T16:39:26.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Jonny Edgar is emerging as one of the brightest prospects in the World Endurance Championship following his title-winning campaign with TF Sport in 2026. The young Briton was always expected to make it big in…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
   },
   {
    "title": "Argentina set to make WRC comeback in 2028",
