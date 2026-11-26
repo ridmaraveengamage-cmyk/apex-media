@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:53:28.783Z",
+ "updated": "2026-11-26T21:53:32.835Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,8 +148,8 @@
  ],
  "bySeries": {
   "F1": 15,
-  "IndyCar": 9,
   "MotoGP": 15,
+  "IndyCar": 9,
   "WEC": 15,
   "WRC": 10,
   "BTCC": 4,
@@ -164,6 +164,56 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Everything you need to know about the Lusail International Circuit",
+   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-lusail-international-circuit.5QWk6JkgFRrObe3OR2mROI",
+   "source": "Formula1.com",
+   "date": "2026-11-26T21:53:32.835Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Get up to speed with all the key Lusail International Circuit statistics, driving pointers, facts and more.",
+   "image": null
+  },
+  {
+   "title": "Jack Miller to revive unraced Australian GP livery for MotoGP farewell",
+   "url": "https://www.motorsport.com/motogp/news/jack-miller-to-bring-back-unraced-australian-gp-livery-for-valencia-motogp-farewell/10878052/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T21:44:37.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Jack Miller will contest this weekend’s MotoGP finale in Valencia in a special livery that he was originally due to run at his final Australian Grand Prix appearance last month. The 31-year-old will carry Australia’s…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0R7BRrO2/s6/jack-miller-pramac-racing.jpg"
+  },
+  {
+   "title": "Everything we learned on day one of F1's 2026 Qatar Grand Prix",
+   "url": "https://www.the-race.com/formula-1/everything-we-learned-on-day-one-of-f1s-2026-qatar-grand-prix/",
+   "source": "The Race",
+   "date": "2026-11-26T21:17:07.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "More Las Vegas fallout drama, the last 2027 driver line-up question settled and some surprising admissions at Lusail",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456591_HiRes.jpg"
+  },
+  {
+   "title": "F1 drivers just played Kahoot! on real stewards' decisions",
+   "url": "https://www.the-race.com/formula-1/fia-used-a-game-to-get-f1-drivers-feedback-on-2026-incidents/",
+   "source": "The Race",
+   "date": "2026-11-26T21:14:24.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1's annual drivers and stewards' meeting in Qatar took an unusual twist this year",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455817_HiRes.jpg"
+  },
+  {
+   "title": "Kimi Antonelli teases Nordschleife race with Max Verstappen, but there is one condition",
+   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-teases-nordschleife-race-with-max-verstappen-but-there-is-one-condition/10878047/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T20:56:51.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "2026 Formula 1 champion Kimi Antonelli says he would love to race alongside four-time champion Max Verstappen at the Nordschleife, but admits he would first have to win the support of Mercedes team principal Toto Wolff…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6zoDNx70/s6/kimi-antonelli-mercedes-max-ve-a10878047-b708-2.jpg"
+  },
   {
    "title": "What could shake up the Qatar betting markets?",
    "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-qatar-grand-prix.4En8C9V0hDrmUFFiwxjmu1",
@@ -312,46 +362,6 @@
    "series": "F1",
    "result": false,
    "summary": "The Las Vegas Grand Prix ended in heartbreak for Arvid Lindblad, with the Racing Bulls driver having since opened up about the emotions he experienced following his spin out of the race.",
-   "image": null
-  },
-  {
-   "title": "Camara reacts to decision to sacrifice F2 title challenge",
-   "url": "https://www.formula1.com/en/latest/article/obviously-not-easy-camara-reacts-to-decision-to-sacrifice-f2-title-challenge-for-haas-drive.ltxdSbb5ibvHqIXHBAMId",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:56:43.164Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Rafael Camara will see out the 2026 season with Haas instead of pursuing the Formula 2 title.",
-   "image": null
-  },
-  {
-   "title": "Norris concedes 2026 ‘certainly not been our finest’ year",
-   "url": "https://www.formula1.com/en/latest/article/you-cant-win-them-all-norris-concedes-it-hasnt-been-mclarens-finest-year-in-2026-assessment.bJdxL08P1IOeV8wzQkUsX",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:56:43.164Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris has reflected on how his position in the championship has changed over the last 12 months, accepting that “you can’t win them all”.",
-   "image": null
-  },
-  {
-   "title": "AS IT HAPPENED: All the build-up ahead of the Qatar GP weekend",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-qatar-2026.4WEmmZr6fKX8XU6mHM6lN9",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:56:43.164Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Live coverage of all the build-up ahead of the 2026 Qatar Grand Prix weekend.",
-   "image": null
-  },
-  {
-   "title": "Facts, stats and trivia ahead of the 2026 Qatar GP",
-   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-qatar-grand-prix.7Ayey9W9IVQ1yNkR8F6zEI",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:56:43.164Z",
-   "series": "F1",
-   "result": false,
-   "summary": "As F1 moves on to Lusail for the Qatar Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
    "image": null
   },
   {
@@ -723,16 +733,6 @@
    "result": false,
    "summary": "ROK Cup USA is pleased to confirm that Orlando Kart Center will host Rounds 2 and 3 of the 2027 Florida Winter Tour (FWT). The Central Florida facility will welcome the series on February 26–28 and March 12–14, 2027…",
    "image": "https://www.ekartingnews.com/wp-content/uploads/2022/06/ROK-Cup-Logo-2022-300x200.jpg"
-  },
-  {
-   "title": "Maverick Vinales ruled out of Valencia GP, can’t bid farewell to MotoGP",
-   "url": "https://www.motorsport.com/motogp/news/maverick-vinales-ruled-out-of-valencia-gp-cant-bid-farewell-to-motogp/10877477/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T13:53:08.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "As has been the case at many MotoGP races since he injured his shoulder in qualifying at the 2025 German Grand Prix, Maverick Vinales won’t take part in the final round of the 2026 season, the Valencia GP. Having…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6VyKj8VY/s6/maverick-vinales-red-bull-ktm--2.jpg"
   },
   {
    "title": "T4 Series USA Joins the 2027 Florida Open",
