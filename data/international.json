@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:26:57.777Z",
+ "updated": "2026-11-26T12:33:38.032Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,8 +22,9 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Formula1.com",
@@ -147,15 +148,15 @@
   }
  ],
  "bySeries": {
-  "F1": 15,
-  "BTCC": 4,
+  "F1": 17,
   "MotoGP": 15,
+  "BTCC": 4,
   "Karting": 12,
   "NASCAR": 15,
-  "Motorsport": 5,
+  "Motorsport": 4,
   "IMSA": 10,
-  "IndyCar": 9,
-  "WEC": 15,
+  "IndyCar": 10,
+  "WEC": 16,
   "WRC": 8,
   "Super Formula": 3,
   "Formula E": 11,
@@ -165,6 +166,96 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
+   "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
+   "source": "Formula1.com",
+   "date": "2026-11-26T12:33:38.032Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The FIA have completed their review of the F1 teams' and power unit manufacturers' compliance with the 2025 Financial Regulations.",
+   "image": null
+  },
+  {
+   "title": "5 storylines we're excited about ahead of the Qatar GP",
+   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A",
+   "source": "Formula1.com",
+   "date": "2026-11-26T12:33:38.032Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Qatar for Round 22 of the 2026 season.",
+   "image": null
+  },
+  {
+   "title": "QUIZ: 10 tricky questions on F1 driver bust-ups",
+   "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-f1-driver-bust-ups.L5pATOFep8eOxnoTZTjjf",
+   "source": "Formula1.com",
+   "date": "2026-11-26T12:33:38.032Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell and Max Verstappen exchanged words off track and battled on track in Las Vegas – and F1 history has seen plenty of flashpoints between rivals.",
+   "image": null
+  },
+  {
+   "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
+   "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe",
+   "source": "Formula1.com",
+   "date": "2026-11-26T12:33:38.032Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The penultimate race weekend of the 2026 season comes from Qatar, and much like last year, Pirelli have mandated a lap limit on each tyre set for the Lusail International Circuit, due to the unique demands of the track.",
+   "image": null
+  },
+  {
+   "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium",
+   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI",
+   "source": "Formula1.com",
+   "date": "2026-11-26T12:33:38.032Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Here is all the information you need to follow the Qatar Grand Prix weekend live on F1 TV.",
+   "image": null
+  },
+  {
+   "title": "Will Buxton questions if Ferrari should sack ‘golden child’ Charles Leclerc",
+   "url": "https://www.crash.net/f1/news/1110901/1/will-buxton-questions-if-ferrari-should-sack-golden-child-charles-leclerc",
+   "source": "Crash.net",
+   "date": "2026-11-26T12:32:55.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1 broadcaster Will Buxton gives his take on the fallout between Lewis Hamilton and Charles Leclerc at Ferrari.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455572_hires.jpg?width=1200"
+  },
+  {
+   "title": "F1 2027 grid: Who will be racing and where?",
+   "url": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/",
+   "source": "Autosport",
+   "date": "2026-11-26T12:13:37.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The 2027 Formula 1 grid is now complete following the announcement from Haas that it has retained star youngster Oliver Bearman. But the American squad is also the only team that is altering its driver pairing for next…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2GdKBmOY/s6/rafael-camara-haas-f1-team-lan-3.jpg"
+  },
+  {
+   "title": "The unexpected riding shift that took Marc Marquez to a 10th world title",
+   "url": "https://www.motorsport.com/motogp/news/marquezs-unexpected-riding-shift-in-pursuit-of-a-10th-world-title/10877862/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T12:07:12.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Upon bursting into MotoGP in 2013, Marc Marquez showed a unique ability in left-hand corners. This made him practically untouchable at anti-clockwise venues such as Austin, where he took his first victory in only his…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0JXR7NoY/s6/marc-marquez-ducati-team.jpg"
+  },
+  {
+   "title": "Golf star blames F1’s Carlos Sainz and Lance Stroll for missing club",
+   "url": "https://www.crash.net/f1/news/1110899/1/golf-star-blames-f1s-carlos-sainz-and-lance-stroll-missing-club",
+   "source": "Crash.net",
+   "date": "2026-11-26T12:03:41.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Min Woo Lee has blamed two F1 drivers for a missing club after giving them a golf lesson.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454348_hires.jpg?width=1200"
+  },
   {
    "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
    "url": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
@@ -236,36 +327,6 @@
    "image": null
   },
   {
-   "title": "Why Bearman’s new Haas deal took so long to get over the line",
-   "url": "https://www.formula1.com/en/latest/article/analysis-why-bearmans-new-haas-deal-took-so-long-to-get-over-the-line.M0No4qdgSUFPFMgGKkNKv",
-   "source": "Formula1.com",
-   "date": "2026-11-26T10:08:10.559Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lawrence Barretto explains the delay in announcing Ollie Bearman's latest Haas contract, which marks the completion of the 2027 grid.",
-   "image": null
-  },
-  {
-   "title": "Bearman to continue with Haas for 2027",
-   "url": "https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.dRq9fWh9OGjhXuShgGnqE",
-   "source": "Formula1.com",
-   "date": "2026-11-26T10:08:10.559Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The Haas Formula 1 team have confirmed that Ollie Bearman has re-signed with the American outfit.",
-   "image": null
-  },
-  {
-   "title": "McLaren flags the crucial early-stop trap inside Qatar’s raised 27-lap rule",
-   "url": "https://www.motorsport.com/f1/news/mclaren-flags-the-crucial-early-stop-trap-inside-qatars-raised-27-lap-tire-rule/10877828/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T10:03:32.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Formula 1 returns to the Losail International Circuit this weekend with a familiar strategic guardrail - and a subtly shifted trap waiting right after lights out. Ahead of the 2026 Qatar Grand Prix, Pirelli and the FIA…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YK131jw0/s6/lando-norris-mclaren-oscar-pia-a10877828-b706-3.jpg"
-  },
-  {
    "title": "Excelr8 goes for customer BTCC engine for 2027",
    "url": "https://www.autosport.com/btcc/news/excelr8-goes-for-customer-btcc-engine-for-2027/10877832/",
    "source": "Autosport",
@@ -286,16 +347,6 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1320722_HiRes.jpg"
   },
   {
-   "title": "F1 2027 grid: Which drivers have a seat and who is out of contract?",
-   "url": "https://www.crash.net/f1/feature/1088707/1/f1-2027-grid-every-teams-confirmed-driver-line",
-   "source": "Crash.net",
-   "date": "2026-11-26T09:20:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The complete F1 grid for the 2027 season, including every team’s confirmed driver line-ups (so far).",
-   "image": "https://www.crash.net/sites/default/files/2026-10/xpb_1447111_hires.jpg?width=1200"
-  },
-  {
    "title": "Haas finally confirms Bearman’s new contract for 2027",
    "url": "https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027/",
    "source": "RaceFans",
@@ -304,26 +355,6 @@
    "result": false,
    "summary": "Haas will run two Ferrari junior drivers in 2027 after confirming Oliver Bearman will remain alongside Rafael Camara.",
    "image": null
-  },
-  {
-   "title": "Bearman finally gets 2027 Haas deal after drawn-out renewal",
-   "url": "https://www.the-race.com/formula-1/ollie-bearman-2027-haas-f1-deal-drawn-out-renewal/",
-   "source": "The Race",
-   "date": "2026-11-26T09:08:09.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ollie Bearman's stay at Haas for the 2027 F1 season has finally been confirmed after a drawn-out renewal",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455510_HiRes.jpg"
-  },
-  {
-   "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set",
-   "url": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T09:00:41.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Oliver Bearman will officially stay at Haas for the 2027 Formula 1 season after he and the team finally put pen to paper on a new deal. The American squad announced the renewal on Thursday, meaning the 21-year-old…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas.jpg"
   },
   {
    "title": "Spotlight: F1 has ‘more people who look like the fans’ due to diversity push – Hamilton",
@@ -576,6 +607,16 @@
    "image": null
   },
   {
+   "title": "IndyCar adds Kansas Speedway to 2027 schedule in joint NASCAR weekend",
+   "url": "https://www.motorsport.com/indycar/news/indycar-adds-kansas-speedway-to-2027-schedule-in-joint-nascar-weekend-/10877534/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T19:00:05.000Z",
+   "series": "IndyCar",
+   "result": false,
+   "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
+   "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
+  },
+  {
    "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
    "url": "https://www.ekartingnews.com/2026/11/24/factory-karts-names-miami-based-lupo-kart-an-official-dealer/",
    "source": "eKartingNews",
@@ -644,16 +685,6 @@
    "result": false,
    "summary": "The UK's national motorsport body has announced the successor to David Richards.",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1424134_HiRes.jpg"
-  },
-  {
-   "title": "Richards set to step down as Motorsport UK chairman",
-   "url": "https://www.autosport.com/general/news/richards-set-to-step-down-as-motorsport-uk-chairman/10877268/",
-   "source": "Autosport",
-   "date": "2026-11-24T15:01:18.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "David Richards is set to step down as chairman of Motorsport UK with Morgan Motor Company’s Steve Armstrong serving as his replacement. The change will go through on 1 January 2027 and comes after Richards served the…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YP74V1e2/s6/motorsport-uk-chairman-announc-2.jpg"
   },
   {
    "title": "Maverick Vinales ruled out of Valencia GP, can’t bid farewell to MotoGP",
@@ -884,16 +915,6 @@
    "result": false,
    "summary": "In one of those curious twists of fate, Marquez sealed his eighth MotoGP world title at Portimo just as Rossi was touring Italy to promote his autobiography, La Mia Storia, which was released on 10 November. Throughout…",
    "image": "https://cdn-1.motorsport.com/images/amp/0Lde9zP0/s6/marc-marquez-ducati-team-2.jpg"
-  },
-  {
-   "title": "Winners and losers from MotoGP’s title-deciding Portuguese GP",
-   "url": "https://www.motorsport.com/motogp/news/winners-and-losers-from-motogps-title-deciding-portuguese-gp/10877076/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T10:26:39.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez was crowned the 2026 MotoGP champion at the Portuguese Grand Prix on Sunday, even as Aprilia dominated at Portimao and secured the teams’ title with one of its most convincing performances of the year…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YN7vj8V6/s6/marc-marquez-ducati-team.jpg"
   },
   {
    "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
@@ -1404,6 +1425,16 @@
    "result": false,
    "summary": "Two-time Mini Challenge champion Tom Ovenden is to step up to the British Touring Car Championship for 2027 with Excelr8 Motorsport. The 22-year-old remains within the same organisation with which he claimed the…",
    "image": "https://cdn-1.motorsport.com/images/amp/YpbPNZg0/s6/tom-ovenden-mini-challenge-cha-2.jpg"
+  },
+  {
+   "title": "Joey Logano and Logan Sargeant among Ford drivers taking part in Daytona exhibition race",
+   "url": "https://www.motorsport.com/general/news/joey-logano-logan-sargeant-among-ford-drivers-taking-part-in-daytona-charity-race/10873721/",
+   "source": "Motorsport.com",
+   "date": "2026-11-10T20:45:15.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
   },
   {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
