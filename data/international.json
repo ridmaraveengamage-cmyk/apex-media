@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:57:33.429Z",
+ "updated": "2026-11-26T15:59:49.318Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,6 +148,7 @@
  ],
  "bySeries": {
   "F1": 15,
+  "WRC": 9,
   "MotoGP": 15,
   "BTCC": 4,
   "Karting": 12,
@@ -156,15 +157,93 @@
   "IMSA": 10,
   "IndyCar": 9,
   "WEC": 15,
-  "WRC": 8,
   "Super Formula": 3,
   "Formula E": 11,
   "DTM": 5,
-  "F2 / F3": 1,
   "Dakar": 2,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Russell stands by Verstappen comments at Las Vegas GP - despite \"amusing\" reaction",
+   "url": "https://www.autosport.com/f1/news/russell-defends-las-vegas-f1-comments/10877940/",
+   "source": "Autosport",
+   "date": "2026-11-26T15:56:53.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Two years after their last major spat around this time of the year, George Russell and Max Verstappen clashed again last week in Las Vegas after an impeding incident in free practice. It infuriated the Briton, with…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0rVPeQJ0/s6/max-verstappen-red-bull-racing-3.jpg"
+  },
+  {
+   "title": "George Russell: Max Verstappen comments \"amusing\", but I stand by what I said",
+   "url": "https://www.motorsport.com/f1/news/george-russell-max-verstappen-comments-amusing-but-i-stand-by-what-i-said/10877931/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T15:50:05.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Two years after their last major spat around this time of the year, Russell and Verstappen clashed again last week in Vegas after an impeding incident in free practice that infuriated the Briton, with Verstappen ruining…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-2.jpg"
+  },
+  {
+   "title": "George Russell responds to Max Verstappen’s scathing comments for the first time",
+   "url": "https://www.crash.net/f1/news/1110911/1/george-russell-responds-max-verstappens-scathing-comments-first-time",
+   "source": "Crash.net",
+   "date": "2026-11-26T15:44:49.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell responds to Max Verstappen's comments after the Las Vegas Grand Prix.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456528_hires.jpg?width=1200"
+  },
+  {
+   "title": "WRC2 star of interest to new WRC constructor for 2027",
+   "url": "https://www.autosport.com/wrc/news/wrc2-star-of-interest-to-new-wrc-constructor/10877923/",
+   "source": "Autosport",
+   "date": "2026-11-26T15:34:18.000Z",
+   "series": "WRC",
+   "result": false,
+   "summary": "WRC2 event winner Leo Rossel is the latest name on Project Rally One’s driver wish list as it weighs up its options ahead of a maiden World Rally Championship season next year. The tuner operation is planning to field…",
+   "image": "https://cdn-1.motorsport.com/images/amp/24QedbqY/s6/leo-rossel-guillaume-mercoiret-2.jpg"
+  },
+  {
+   "title": "George Russell shrugs off Max Verstappen’s Las Vegas remarks: “Certain things really made me laugh”",
+   "url": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-verstappens-las-vegas-barbs-ahead-of-qatar-gp-certain-things-really-made-/10877899/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T15:33:00.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "George Russell arrived at the Losail International Circuit on Thursday refusing to pour fresh fuel on Formula 1’s loudest driver feud - though he made it clear he was not retracting a word of what started it. Speaking…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6n7blXl0/s6/max-verstappen-red-bull-racing-a10877899-b705-4.jpg"
+  },
+  {
+   "title": "Lando Norris on George Russell and Max Verstappen rivalry: \"Helps when you back it up on track\"",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-on-george-russell-and-max-verstappen-rivalry-helps-when-you-back-it-up-on-track/10877909/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T15:09:13.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "2025 Formula 1 champion Lando Norris has weighed in on the renewed feud between Max Verstappen and George Russell, arguing that rivals do not have to get along and that results on the track are what count. Verstappen…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YWKAlWDY/s6/lando-norris-mclaren-a10877909-b706-2.jpg"
+  },
+  {
+   "title": "Emotional Bagnaia pays tribute to Ducati ahead of Aprilia move",
+   "url": "https://www.autosport.com/motogp/news/bagnaia-ducati-tribute-ahead-of-motogp-move-to-aprilia/10877906/",
+   "source": "Autosport",
+   "date": "2026-11-26T15:08:59.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Francesco Bagnaia was at a loss for words as he bid farewell to Ducati on the eve of the Valencia Grand Prix - revealing he cannot take part in this weekend’s 2026 MotoGP finale due to a head injury. The three-time…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YWKARwVY/s6/francesco-bagnaia-ducati-team-2.jpg"
+  },
+  {
+   "title": "Brain bleed denied desperate Bagnaia Ducati farewell",
+   "url": "https://www.the-race.com/motogp/brain-bleed-denied-desperate-bagnaia-ducati-farewell/",
+   "source": "The Race",
+   "date": "2026-11-26T15:05:57.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Pecco Bagnaia reveals a brain bleed left him unable to race in the final MotoGP round at Valencia",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1357932_HiRes.jpg"
+  },
   {
    "title": "Norris concedes 2026 ‘certainly not been our finest’ year",
    "url": "https://www.formula1.com/en/latest/article/you-cant-win-them-all-norris-concedes-it-hasnt-been-mclarens-finest-year-in-2026-assessment.bJdxL08P1IOeV8wzQkUsX",
@@ -192,7 +271,7 @@
    "date": "2026-11-26T14:55:30.000Z",
    "series": "MotoGP",
    "result": false,
-   "summary": "Francesco Bagnaia was at a loss for words as he bid farewell to Ducati on the eve of this weekend’s Valencia Grand Prix, revealing he cannot take part in this weekend’s MotoGP finale due to a head injury. The three-time…",
+   "summary": "Francesco Bagnaia was at a loss for words as he bid farewell to Ducati on the eve of this weekend’s Valencia Grand Prix, revealing he cannot take part in the MotoGP finale due to a head injury. The three-time world…",
    "image": "https://cdn-1.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team.jpg"
   },
   {
@@ -276,16 +355,6 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456037_HiRes.jpg"
   },
   {
-   "title": "Lando Norris weighs in on Max Verstappen and George Russell conflict",
-   "url": "https://www.crash.net/f1/news/1110905/1/lando-norris-weighs-max-verstappen-and-george-russell-conflict",
-   "source": "Crash.net",
-   "date": "2026-11-26T13:37:54.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lando Norris has his say on the escalating row between Max Verstappen and George Russell.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456380_hires.jpg?width=1200"
-  },
-  {
    "title": "Qatar expects its F1 race to be sold out",
    "url": "https://www.the-race.com/business/qatar-gp-expects-2026-f1-race-sell-out/",
    "source": "The Race",
@@ -294,46 +363,6 @@
    "result": false,
    "summary": "The motorsport body behind the Qatar GP expects the 2026 F1 race to have a \"full house\" despite regional conflict in the lead up to it",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1389098_HiRes.jpg"
-  },
-  {
-   "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
-   "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
-   "source": "Formula1.com",
-   "date": "2026-11-26T12:33:38.032Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA have completed their review of the F1 teams' and power unit manufacturers' compliance with the 2025 Financial Regulations.",
-   "image": null
-  },
-  {
-   "title": "5 storylines we're excited about ahead of the Qatar GP",
-   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A",
-   "source": "Formula1.com",
-   "date": "2026-11-26T12:33:38.032Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Qatar for Round 22 of the 2026 season.",
-   "image": null
-  },
-  {
-   "title": "QUIZ: 10 tricky questions on F1 driver bust-ups",
-   "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-f1-driver-bust-ups.L5pATOFep8eOxnoTZTjjf",
-   "source": "Formula1.com",
-   "date": "2026-11-26T12:33:38.032Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell and Max Verstappen exchanged words off track and battled on track in Las Vegas – and F1 history has seen plenty of flashpoints between rivals.",
-   "image": null
-  },
-  {
-   "title": "Will Buxton questions if Ferrari should sack ‘golden child’ Charles Leclerc",
-   "url": "https://www.crash.net/f1/news/1110901/1/will-buxton-questions-if-ferrari-should-sack-golden-child-charles-leclerc",
-   "source": "Crash.net",
-   "date": "2026-11-26T12:32:55.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 broadcaster Will Buxton gives his take on the fallout between Lewis Hamilton and Charles Leclerc at Ferrari.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455572_hires.jpg?width=1200"
   },
   {
    "title": "The unexpected riding shift that took Marc Marquez to a 10th world title",
@@ -616,24 +645,14 @@
    "image": "https://www.ekartingnews.com/wp-content/uploads/2026/06/AKM-logo-300x200.jpg"
   },
   {
-   "title": "What's next for Herta after F1 2027 snub?",
-   "url": "https://www.autosport.com/f1/news/whats-next-for-herta-after-f1-2027-snub/10877533/",
-   "source": "Autosport",
-   "date": "2026-11-24T17:59:55.000Z",
-   "series": "F2 / F3",
-   "result": false,
-   "summary": "Cadillac's decision to stick with veteran incumbent Valtteri Bottas to partner Sergio Perez is a choice for continuity and stability after a debut campaign plagued with issues for Formula 1's 11th team in 2026. It also…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0arKWNy2/s6/colton-herta-hitech-gp-2.jpg"
-  },
-  {
-   "title": "Rovanpera: New 2027 WRC cars will see \"everybody start from zero\"",
-   "url": "https://www.autosport.com/wrc/news/rovanpera-new-2027-wrc-cars-will-see-everybody-start-from-zero/10877526/",
-   "source": "Autosport",
-   "date": "2026-11-24T17:14:16.000Z",
+   "title": "Kalle Rovanpera: New 2027 WRC cars will see \"everybody start from zero\"",
+   "url": "https://www.motorsport.com/wrc/news/kalle-rovanpera-new-2027-wrc-cars-will-see-everybody-start-from-zero/10877523/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T17:12:36.000Z",
    "series": "WRC",
    "result": false,
    "summary": "Kalle Rovanpera expects the 2027 World Rally Championship to be a reset for the drivers with ‘everybody starting from zero’ as they adapt to all-new Rally1 cars. After a year on the sidelines, the two-time world…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6grQnexY/s6/kalle-rovanpera-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/2jEDEWP0/s6/kalle-rovanpera-toyota-gazoo-r.jpg"
   },
   {
    "title": "Gigi Dall'Igna: ‘Marc Marquez is the best rider in history, no doubt about that’",
@@ -696,16 +715,6 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202610100016.jpg"
   },
   {
-   "title": "Marco Bezzecchi admits to “too many mistakes” after “painful” MotoGP title loss",
-   "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-admits-to-too-many-mistakes-after-painful-motogp-title-loss/10877363/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T13:18:01.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marco Bezzecchi has admitted he made “too many mistakes” in the 2026 MotoGP season, as he reflected on the reasons behind his “painful” title loss to Marc Marquez. The Aprilia rider had emerged as the early favourite…",
-   "image": "https://cdn-1.motorsport.com/images/amp/25dLRoM0/s6/marco-bezzecchi-aprilia-racing.jpg"
-  },
-  {
    "title": "T4 Series USA Joins the 2027 Florida Open",
    "url": "https://www.ekartingnews.com/2026/11/24/t4-series-usa-joins-the-2027-florida-open/",
    "source": "eKartingNews",
@@ -734,16 +743,6 @@
    "result": false,
    "summary": "New Super Formula champion Kakunoshin Ohta says he wants to demonstrate the value of the Japanese racing scene as he continues to work towards his IndyCar dream. Honda-backed Ohta secured the title with a race to spare…",
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgOQDY/s6/kakunoshin-ohta-docomo-team-da.jpg"
-  },
-  {
-   "title": "Marc Marquez's engineer explains how he pushed MotoGP rivals to the limit until they made mistakes",
-   "url": "https://www.motorsport.com/motogp/news/marquezs-engineer-explains-how-he-pushed-his-rivals-to-the-limit-until-they-made-mistakes/10877371/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T11:07:44.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Few would have expected Marc Marquez to become MotoGP world champion this year when, on 9 May, he announced he would undergo yet another surgery on his right arm. Since then, however, the Ducati rider has undergone…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7BbGg2/s6/marc-marquez-ducati-team-2.jpg"
   },
   {
    "title": "Featured Comment: Herta deserves credit for trying to make the switch from IndyCar",
@@ -814,16 +813,6 @@
    "result": false,
    "summary": "San Marino-based racing team Tsunami RT will make its IMSA debut in 2027, entering a Porsche 911 GT3 R (992) in the Grand Touring Daytona (GTD) class for all five rounds of the IMSA Michelin Endurance Cup. The team’s…",
    "image": "https://cdn-1.motorsport.com/images/amp/0k7Wkpl0/s6/79-tsunami-rt-porsche-911-gt3-.jpg"
-  },
-  {
-   "title": "Peugeot WEC team axed, Citroen and Opel Formula E squads to close after 2027",
-   "url": "https://www.racefans.net/2026/11/23/peugeot-wec-team-axed-citroen-and-opel-formula-e-squads-to-close-after-2027/",
-   "source": "RaceFans",
-   "date": "2026-11-23T15:51:02.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Stellantis has confirmed it will pull its teams out of the World Endurance Championship and Formula E.",
-   "image": null
   },
   {
    "title": "Soaking Wet Finals for Second Round of the WSK Final Cup in Lonato",
@@ -1394,6 +1383,16 @@
    "result": false,
    "summary": "Two-time Mini Challenge champion Tom Ovenden is to step up to the British Touring Car Championship for 2027 with Excelr8 Motorsport. The 22-year-old remains within the same organisation with which he claimed the…",
    "image": "https://cdn-1.motorsport.com/images/amp/YpbPNZg0/s6/tom-ovenden-mini-challenge-cha-2.jpg"
+  },
+  {
+   "title": "Joey Logano and Logan Sargeant among Ford drivers taking part in Daytona exhibition race",
+   "url": "https://www.motorsport.com/general/news/joey-logano-logan-sargeant-among-ford-drivers-taking-part-in-daytona-charity-race/10873721/",
+   "source": "Motorsport.com",
+   "date": "2026-11-10T20:45:15.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
   },
   {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
