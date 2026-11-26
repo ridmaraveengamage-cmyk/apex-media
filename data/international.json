@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:05:34.191Z",
+ "updated": "2026-11-26T17:56:43.164Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -149,14 +148,14 @@
  ],
  "bySeries": {
   "F1": 15,
-  "WRC": 9,
+  "WRC": 10,
   "MotoGP": 15,
   "BTCC": 4,
   "Karting": 12,
   "NASCAR": 15,
-  "Motorsport": 4,
+  "Motorsport": 3,
   "IMSA": 10,
-  "IndyCar": 10,
+  "IndyCar": 9,
   "WEC": 15,
   "Super Formula": 3,
   "Formula E": 11,
@@ -165,6 +164,166 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Lindblad left ‘trying to hold back tears’ after Las Vegas spin",
+   "url": "https://www.formula1.com/en/latest/article/lindblad-left-trying-to-hold-back-tears-after-las-vegas-spin-as-he-reflects-on-emotional-social-media-post.6eGFigwGZhsbeR31PHHf4j",
+   "source": "Formula1.com",
+   "date": "2026-11-26T17:56:43.164Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Las Vegas Grand Prix ended in heartbreak for Arvid Lindblad, with the Racing Bulls driver having since opened up about the emotions he experienced following his spin out of the race.",
+   "image": null
+  },
+  {
+   "title": "Camara reacts to decision to sacrifice F2 title challenge",
+   "url": "https://www.formula1.com/en/latest/article/obviously-not-easy-camara-reacts-to-decision-to-sacrifice-f2-title-challenge-for-haas-drive.ltxdSbb5ibvHqIXHBAMId",
+   "source": "Formula1.com",
+   "date": "2026-11-26T17:56:43.164Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Rafael Camara will see out the 2026 season with Haas instead of pursuing the Formula 2 title.",
+   "image": null
+  },
+  {
+   "title": "Norris concedes 2026 ‘certainly not been our finest’ year",
+   "url": "https://www.formula1.com/en/latest/article/you-cant-win-them-all-norris-concedes-it-hasnt-been-mclarens-finest-year-in-2026-assessment.bJdxL08P1IOeV8wzQkUsX",
+   "source": "Formula1.com",
+   "date": "2026-11-26T17:56:43.164Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lando Norris has reflected on how his position in the championship has changed over the last 12 months, accepting that “you can’t win them all”.",
+   "image": null
+  },
+  {
+   "title": "LIVE COVERAGE: All the build-up ahead of the Qatar GP weekend",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-qatar-2026.4WEmmZr6fKX8XU6mHM6lN9",
+   "source": "Formula1.com",
+   "date": "2026-11-26T17:56:43.164Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Live coverage of all the build-up ahead of the 2026 Qatar Grand Prix weekend.",
+   "image": null
+  },
+  {
+   "title": "Facts, stats and trivia ahead of the 2026 Qatar GP",
+   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-qatar-grand-prix.7Ayey9W9IVQ1yNkR8F6zEI",
+   "source": "Formula1.com",
+   "date": "2026-11-26T17:56:43.164Z",
+   "series": "F1",
+   "result": false,
+   "summary": "As F1 moves on to Lusail for the Qatar Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
+   "image": null
+  },
+  {
+   "title": "Everything you need to know about the Lusail International Circuit",
+   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-lusail-international-circuit.5QWk6JkgFRrObe3OR2mROI",
+   "source": "Formula1.com",
+   "date": "2026-11-26T17:56:43.164Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Get up to speed with all the key Lusail International Circuit statistics, driving pointers, facts and more.",
+   "image": null
+  },
+  {
+   "title": "2027 line-ups confirmed: Who is on the grid for next season?",
+   "url": "https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX",
+   "source": "Formula1.com",
+   "date": "2026-11-26T17:56:43.164Z",
+   "series": "F1",
+   "result": false,
+   "summary": "With Ollie Bearman now confirmed at Haas for next season, the 2027 grid is finally complete. So, which teams have changed their line ups, who is sticking with their current pairings and how many new faces are on the…",
+   "image": null
+  },
+  {
+   "title": "Why Bearman’s new Haas deal took so long to get over the line",
+   "url": "https://www.formula1.com/en/latest/article/analysis-why-bearmans-new-haas-deal-took-so-long-to-get-over-the-line.M0No4qdgSUFPFMgGKkNKv",
+   "source": "Formula1.com",
+   "date": "2026-11-26T17:56:43.164Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lawrence Barretto explains the delay in announcing Ollie Bearman's latest Haas contract, which marks the completion of the 2027 grid.",
+   "image": null
+  },
+  {
+   "title": "Bearman to continue with Haas for 2027",
+   "url": "https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.dRq9fWh9OGjhXuShgGnqE",
+   "source": "Formula1.com",
+   "date": "2026-11-26T17:56:43.164Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Haas Formula 1 team have confirmed that Ollie Bearman has re-signed with the American outfit.",
+   "image": null
+  },
+  {
+   "title": "Neuville, Fourmaux and Meeke in latest Rally2 test for Hyundai",
+   "url": "https://www.autosport.com/wrc/news/neuville-in-latest-rally-2-test-for-hyundai/10878010/",
+   "source": "Autosport",
+   "date": "2026-11-26T17:48:15.000Z",
+   "series": "WRC",
+   "result": false,
+   "summary": "Thierry Neuville, Kris Meeke and Adrien Fourmaux have been testing Hyundai's upgraded Rally2 machine this week as the service park awaits official confirmation of the brand’s 2027 World Rally Championship plans. The…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2eZxO7jY/s6/thierry-neuville-martijn-wydae-2.jpg"
+  },
+  {
+   "title": "Lewis Hamilton answers biggest question about Ferrari rules after Charles Leclerc clash",
+   "url": "https://www.crash.net/f1/news/1110924/1/lewis-hamilton-answers-biggest-question-about-ferrari-rules-after-charles-leclerc",
+   "source": "Crash.net",
+   "date": "2026-11-26T17:42:01.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lewis Hamilton reveals key aspect of Ferrari's rules of engagement after his latest clash with Charles Leclerc.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456409_hires.jpg?width=1200"
+  },
+  {
+   "title": "Jorge Martin: \"My relationship with Aprilia has been difficult, but it's made me a better person and rider\"",
+   "url": "https://www.motorsport.com/motogp/news/jorge-martin-my-relationship-with-aprilia-has-been-difficult-but-its-made-me-a-better-person-and-ri/10877986/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T17:20:59.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Jorge Martin says he would like to finish the world championship as runner-up in Valencia this weekend, but admits that the most important thing now is to enjoy his final outing with Aprilia and secure the constructors'…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2y7Qg8X6/s6/jorge-martin-aprilia-racing-te.jpg"
+  },
+  {
+   "title": "Charles Leclerc “not allowed” to disclose Ferrari’s solution for Lewis Hamilton crash",
+   "url": "https://www.crash.net/f1/news/1110922/1/charles-leclerc-not-allowed-disclose-ferraris-solution-lewis-hamilton-crash",
+   "source": "Crash.net",
+   "date": "2026-11-26T17:13:55.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc was tight-lipped about how Ferrari will avoid a repeat of its intra-team collision in Las Vegas.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456573_hires.jpg?width=1200"
+  },
+  {
+   "title": "Why Ferrari's coy on 'solution' to Hamilton-Leclerc problem",
+   "url": "https://www.the-race.com/formula-1/why-ferrari-coy-solution-hamilton-leclerc-f1-problem/",
+   "source": "The Race",
+   "date": "2026-11-26T17:07:51.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc and Lewis Hamilton have discussed their Las Vegas GP F1 clash, but Ferrari won't reveal details of any \"solution\" to its ongoing driver problem",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456438_HiRes.jpg"
+  },
+  {
+   "title": "Hamilton convinced Ferrari will \"figure it out\" following Leclerc skirmish",
+   "url": "https://www.autosport.com/f1/news/hamilton-convinced-ferrari-will-figure-it-out/10877979/",
+   "source": "Autosport",
+   "date": "2026-11-26T17:07:17.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Ferrari driver Lewis Hamilton says he is confident that he and team-mate Charles Leclerc will \"figure it out\" following their latest on-track skirmish at last week's Las Vegas Grand Prix. A fortnight on from a costly…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2wlKzmeY/s6/charles-leclerc-ferrari-lewis--2.jpg"
+  },
+  {
+   "title": "Max Verstappen and George Russell rivalry \"really cool for the sport\", says F1 pundit",
+   "url": "https://www.motorsport.com/f1/news/george-russell-gets-under-max-verstappens-skin-more-than-any-other-driver-says-f1-pundit/10877980/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T17:06:54.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Las Vegas Grand Prix weekend reignited the long-running tension between Red Bull and Mercedes drivers, Max Verstappen and George Russell, and it was the talking point of Sky's F1 Show podcast this week. Three-time W…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0JXRmkBY/s6/max-verstappen-red-bull-racing-a10877980-b707-2.jpg"
+  },
   {
    "title": "Bearman reflects on new Haas deal and Ferrari hopes",
    "url": "https://www.formula1.com/en/latest/article/im-looking-forward-to-the-future-bearman-reflects-on-new-haas-deal-and-hopes-of-dream-ferrari-drive.2HEQCXu8ItvVTJrmYBR5H1",
@@ -176,136 +335,6 @@
    "image": null
   },
   {
-   "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
-   "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:05:34.191Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA have completed their review of the F1 teams' and power unit manufacturers' compliance with the 2025 Financial Regulations.",
-   "image": null
-  },
-  {
-   "title": "5 storylines we're excited about ahead of the Qatar GP",
-   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:05:34.191Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Qatar for Round 22 of the 2026 season.",
-   "image": null
-  },
-  {
-   "title": "Lewis Hamilton on latest Charles Leclerc flashpoint: \"We're going to figure it out\"",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-on-latest-charles-leclerc-flashpoint-were-going-to-figure-it-out/10877972/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T17:02:09.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ferrari driver Lewis Hamilton says he is confident he and team-mate Charles Leclerc will \"figure it out\" following their latest on-track skirmish at last week's Las Vegas GP. Two weeks on from a costly on-track incident…",
-   "image": "https://cdn-1.motorsport.com/images/amp/27NojvR0/s6/charles-leclerc-ferrari-lewis-.jpg"
-  },
-  {
-   "title": "George Russell calls out Ted Kravitz and Will Buxton for ‘spinning the truth’ amid F1 media admission",
-   "url": "https://www.crash.net/f1/news/1110918/1/george-russell-calls-out-ted-kravitz-and-will-buxton-spinning-truth-amid-media",
-   "source": "Crash.net",
-   "date": "2026-11-26T16:42:36.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell has admitted he has been \"too open and honest\" with F1 media.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456518_hires.jpg?width=1200"
-  },
-  {
-   "title": "Leclerc furious with integrity being questioned after Hamilton clashes",
-   "url": "https://www.autosport.com/f1/news/leclerc-furious-with-integrity-being-questioned-after-hamilton-clashes/10877960/",
-   "source": "Autosport",
-   "date": "2026-11-26T16:26:29.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc was left furious by those ‘questioning his integrity and love for Ferrari’ after yet another clash with Formula 1 team-mate Lewis Hamilton - having urged to find a “solution”. The Ferrari pair have been…",
-   "image": "https://cdn-1.motorsport.com/images/amp/63QaDqb2/s6/lewis-hamilton-ferrari-charles-2.jpg"
-  },
-  {
-   "title": "Charles Leclerc refuses to reveal Ferrari's \"rules of engagement\" after Lewis Hamilton crash",
-   "url": "https://www.motorsport.com/f1/news/charles-leclerc-admits-ferraris-on-track-clashes-are-unacceptable-as-he-and-hamilton-seek-private-s/10877945/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T16:23:20.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc walked into Thursday’s FIA press conference at the Losail International Circuit knowing the spotlight would stay locked on Ferrari’s garage. Five days after spinning team-mate Lewis Hamilton at the Las…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari-a10877945-b704-2.jpg"
-  },
-  {
-   "title": "Charles Leclerc urges \"solution\" after several clashes with Lewis Hamilton",
-   "url": "https://www.motorsport.com/f1/news/charles-leclerc-urges-to-find-solution-after-several-clashes-with-lewis-hamilton/10877951/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T16:22:36.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc was left furious by those ‘questioning his integrity and love for Ferrari’ after yet another clash with Formula 1 team-mate Lewis Hamilton - having urged to find a “solution”. The Ferrari pair have been…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari.jpg"
-  },
-  {
-   "title": "David Croft: Max Verstappen has Fernando Alonso's race intelligence but is faster",
-   "url": "https://www.motorsport.com/f1/news/david-croft-max-verstappen-has-fernando-alonsos-race-intelligence-but-is-faster/10877947/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T16:13:05.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Sky Sports Formula 1 lead commentator David Croft sees Fernando Alonso's smart racing in Max Verstappen, but adds that the four-time champion has more speed. Speaking on Sky Sports' F1 Show podcast after Verstappen's…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0mXyz7z6/s6/fernando-alonso-aston-martin-r-a10877947-b707-2.jpg"
-  },
-  {
-   "title": "Russell's biggest lesson from Verstappen war of words",
-   "url": "https://www.the-race.com/formula-1/russell-feels-punished-for-being-too-open-and-honest/",
-   "source": "The Race",
-   "date": "2026-11-26T16:06:16.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell's biggest lesson from feuding with Max Verstappen is that he has been \"too open and honest\" when speaking to Formula 1 media",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456518_HiRes.jpg"
-  },
-  {
-   "title": "Charles Leclerc clears up number one status at Ferrari rumours",
-   "url": "https://www.crash.net/f1/news/1110915/1/charles-leclerc-clears-number-one-status-ferrari-rumours",
-   "source": "Crash.net",
-   "date": "2026-11-26T16:05:48.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Charles Leclerc has dismissed suggestions he has number one status at Ferrari.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456339_hires.jpg?width=1200"
-  },
-  {
-   "title": "Russell stands by Verstappen comments at Las Vegas GP - despite \"amusing\" reaction",
-   "url": "https://www.autosport.com/f1/news/russell-defends-las-vegas-f1-comments/10877940/",
-   "source": "Autosport",
-   "date": "2026-11-26T15:56:53.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Two years after their last major spat around this time of the year, George Russell and Max Verstappen clashed again last week in Las Vegas after an impeding incident in free practice. It infuriated the Briton, with…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5AMMjY/s6/george-russell-mercedes-4.jpg"
-  },
-  {
-   "title": "George Russell: Max Verstappen comments \"amusing\", but I stand by what I said",
-   "url": "https://www.motorsport.com/f1/news/george-russell-max-verstappen-comments-amusing-but-i-stand-by-what-i-said/10877931/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T15:50:05.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Two years after their last major spat around this time of the year, Russell and Verstappen clashed again last week in Vegas after an impeding incident in free practice that infuriated the Briton, with Verstappen ruining…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-2.jpg"
-  },
-  {
-   "title": "George Russell responds to Max Verstappen’s scathing comments for the first time",
-   "url": "https://www.crash.net/f1/news/1110911/1/george-russell-responds-max-verstappens-scathing-comments-first-time",
-   "source": "Crash.net",
-   "date": "2026-11-26T15:44:49.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell responds to Max Verstappen's comments after the Las Vegas Grand Prix.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456528_hires.jpg?width=1200"
-  },
-  {
    "title": "WRC2 star of interest to new WRC constructor for 2027",
    "url": "https://www.autosport.com/wrc/news/wrc2-star-of-interest-to-new-wrc-constructor/10877923/",
    "source": "Autosport",
@@ -314,16 +343,6 @@
    "result": false,
    "summary": "WRC2 event winner Leo Rossel is the latest name on Project Rally One’s driver wish list as it weighs up its options ahead of a maiden World Rally Championship season next year. The tuner operation is planning to field…",
    "image": "https://cdn-1.motorsport.com/images/amp/24QedbqY/s6/leo-rossel-guillaume-mercoiret-2.jpg"
-  },
-  {
-   "title": "George Russell shrugs off Max Verstappen’s Las Vegas remarks: “Certain things really made me laugh”",
-   "url": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-verstappens-las-vegas-barbs-ahead-of-qatar-gp-certain-things-really-made-/10877899/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T15:33:00.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell arrived at the Losail International Circuit on Thursday refusing to pour fresh fuel on Formula 1’s loudest driver feud - though he made it clear he was not retracting a word of what started it. Speaking…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6n7blXl0/s6/max-verstappen-red-bull-racing-a10877899-b705-4.jpg"
   },
   {
    "title": "Emotional Bagnaia pays tribute to Ducati ahead of Aprilia move",
@@ -586,14 +605,14 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0ZqAezM6/s6/luke-browning-realize-kondo-ra.jpg"
   },
   {
-   "title": "Opel and Citroen exit is not a betrayal of Formula E, but a major blow at the worst possible time",
-   "url": "https://www.autosport.com/formula-e/news/opel-and-citroen-exit-is-not-a-betrayal-of-formula-e-but-a-major-blow-at-the-worst-possible-time/10877649/",
-   "source": "Autosport",
-   "date": "2026-11-25T11:04:50.000Z",
+   "title": "Opel, Citroen exit is not a betrayal of Formula E, but a major blow at the worst possible time",
+   "url": "https://www.motorsport.com/formula-e/news/opel-and-citroens-exit-is-not-a-betrayal-of-formula-e-but-a-major-blow-at-the-worst-possible-time/10877638/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T10:58:25.000Z",
    "series": "Formula E",
    "result": false,
    "summary": "What many had feared has unfortunately come to pass. In light of the substantial financial hole that emerged at the end of 2025 and the losses recorded in the third quarter of this year, Stellantis has decided to close…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YWKA31DY/s6/citroen-racing-citroen-e-cx-2.jpg"
+   "image": "https://cdn-1.motorsport.com/images/amp/6n7b3rA0/s6/opel-gse-formula-e-team-gse-27.jpg"
   },
   {
    "title": "Marco Wittmann protégé triumphs: Who are the 2026 Road to DTM winners?",
@@ -634,16 +653,6 @@
    "result": false,
    "summary": "IndyCar will return to Kansas next year for first time since 2010",
    "image": null
-  },
-  {
-   "title": "IndyCar adds Kansas Speedway to 2027 schedule in joint NASCAR weekend",
-   "url": "https://www.motorsport.com/indycar/news/indycar-adds-kansas-speedway-to-2027-schedule-in-joint-nascar-weekend-/10877534/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T19:00:05.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
-   "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
   },
   {
    "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
@@ -696,16 +705,6 @@
    "image": "https://www.ekartingnews.com/wp-content/uploads/2022/06/ROK-Cup-Logo-2022-300x200.jpg"
   },
   {
-   "title": "Ex-Ford CEO to lead Motorsport UK as David Richards departs",
-   "url": "https://www.the-race.com/business/ex-ford-ceo-to-lead-motorsport-uk-as-david-richards-departs/",
-   "source": "The Race",
-   "date": "2026-11-24T15:01:33.000Z",
-   "series": "Motorsport",
-   "result": false,
-   "summary": "The UK's national motorsport body has announced the successor to David Richards.",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1424134_HiRes.jpg"
-  },
-  {
    "title": "Maverick Vinales ruled out of Valencia GP, can’t bid farewell to MotoGP",
    "url": "https://www.motorsport.com/motogp/news/maverick-vinales-ruled-out-of-valencia-gp-cant-bid-farewell-to-motogp/10877477/",
    "source": "Motorsport.com",
@@ -714,16 +713,6 @@
    "result": false,
    "summary": "As has been the case at many MotoGP races since he injured his shoulder in qualifying at the 2025 German Grand Prix, Maverick Vinales won’t take part in the final round of the 2026 season, the Valencia GP. Having…",
    "image": "https://cdn-1.motorsport.com/images/amp/6VyKj8VY/s6/maverick-vinales-red-bull-ktm--2.jpg"
-  },
-  {
-   "title": "Marco Bezzecchi admits to “too many mistakes” after “painful” MotoGP title loss",
-   "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-admits-to-too-many-mistakes-after-painful-motogp-title-loss/10877363/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T13:18:01.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marco Bezzecchi has admitted he made “too many mistakes” in the 2026 MotoGP season, as he reflected on the reasons behind his “painful” title loss to Marc Marquez. The Aprilia rider had emerged as the early favourite…",
-   "image": "https://cdn-1.motorsport.com/images/amp/25dLRoM0/s6/marco-bezzecchi-aprilia-racing.jpg"
   },
   {
    "title": "T4 Series USA Joins the 2027 Florida Open",
