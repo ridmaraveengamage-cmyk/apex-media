@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:01:48.106Z",
+ "updated": "2026-11-26T20:53:28.783Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 15
+   "count": 0
   },
   {
    "name": "Formula1.com",
@@ -148,9 +148,9 @@
  ],
  "bySeries": {
   "F1": 15,
-  "WEC": 15,
-  "IndyCar": 10,
+  "IndyCar": 9,
   "MotoGP": 15,
+  "WEC": 15,
   "WRC": 10,
   "BTCC": 4,
   "Karting": 12,
@@ -164,6 +164,36 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "What could shake up the Qatar betting markets?",
+   "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-qatar-grand-prix.4En8C9V0hDrmUFFiwxjmu1",
+   "source": "Formula1.com",
+   "date": "2026-11-26T20:53:28.783Z",
+   "series": "F1",
+   "result": false,
+   "summary": "After the lights go out in Lusail, clued-up bettors will be poised to make smart betting decisions in real time markets.",
+   "image": null
+  },
+  {
+   "title": "'I was overconfident' - Antonelli battling post-title hangover",
+   "url": "https://www.the-race.com/formula-1/i-was-overconfident-antonelli-battling-post-title-hangover/",
+   "source": "The Race",
+   "date": "2026-11-26T20:29:36.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Kimi Antonelli admitted he was \"overconfident\" after sealing his Formula 1 title and that it's caused mistakes",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453556_HiRes-1.jpg"
+  },
+  {
+   "title": "Verstappen to work with new race engineer Tom Hart again at Qatar GP",
+   "url": "https://www.autosport.com/f1/news/verstappen-to-work-with-new-race-engineer-tom-hart-again-at-qatar-gp/10878044/",
+   "source": "Autosport",
+   "date": "2026-11-26T20:02:57.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of this Formula 1…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YP74Zm42/s6/max-verstappen-red-bull-racing-2.jpg"
+  },
   {
    "title": "Russell reacts to Verstappen’s Las Vegas comments",
    "url": "https://www.formula1.com/en/latest/article/it-was-quite-amusing-russell-shares-his-reaction-to-verstappens-las-vegas-comments.6sv6Xkop4lBcCxge8ZgxXv",
@@ -203,16 +233,6 @@
    "result": false,
    "summary": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of this Formula 1…",
    "image": "https://cdn-1.motorsport.com/images/amp/YBVj7QzY/s6/max-verstappen-red-bull-racing.jpg"
-  },
-  {
-   "title": "Spotlight: Ford reveals the GT41 Hypercar it will race in WEC",
-   "url": "https://www.racefans.net/2026/11/26/spotlight-ford-reveals-the-gt41-hypercar-it-will-race-in-wec/",
-   "source": "RaceFans",
-   "date": "2026-11-26T19:12:30.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Ford reveals GT41 Hypercar for 2027 WEC season",
-   "image": null
   },
   {
    "title": "Why Max Verstappen has ruled out Indy 500 entry",
@@ -335,26 +355,6 @@
    "image": null
   },
   {
-   "title": "Everything you need to know about the Lusail International Circuit",
-   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-lusail-international-circuit.5QWk6JkgFRrObe3OR2mROI",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:56:43.164Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Get up to speed with all the key Lusail International Circuit statistics, driving pointers, facts and more.",
-   "image": null
-  },
-  {
-   "title": "2027 line-ups confirmed: Who is on the grid for next season?",
-   "url": "https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX",
-   "source": "Formula1.com",
-   "date": "2026-11-26T17:56:43.164Z",
-   "series": "F1",
-   "result": false,
-   "summary": "With Ollie Bearman now confirmed at Haas for next season, the 2027 grid is finally complete. So, which teams have changed their line ups, who is sticking with their current pairings and how many new faces are on the…",
-   "image": null
-  },
-  {
    "title": "Neuville, Fourmaux and Meeke in latest Rally2 test for Hyundai",
    "url": "https://www.autosport.com/wrc/news/neuville-in-latest-rally-2-test-for-hyundai/10878010/",
    "source": "Autosport",
@@ -363,16 +363,6 @@
    "result": false,
    "summary": "Thierry Neuville, Kris Meeke and Adrien Fourmaux have been testing Hyundai's upgraded Rally2 machine this week as the service park awaits official confirmation of the brand’s 2027 World Rally Championship plans. The…",
    "image": "https://cdn-1.motorsport.com/images/amp/2eZxO7jY/s6/thierry-neuville-martijn-wydae-2.jpg"
-  },
-  {
-   "title": "Lewis Hamilton answers biggest question about Ferrari rules after Charles Leclerc clash",
-   "url": "https://www.crash.net/f1/news/1110924/1/lewis-hamilton-answers-biggest-question-about-ferrari-rules-after-charles-leclerc",
-   "source": "Crash.net",
-   "date": "2026-11-26T17:42:01.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Lewis Hamilton reveals key aspect of Ferrari's rules of engagement after his latest clash with Charles Leclerc.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456409_hires.jpg?width=1200"
   },
   {
    "title": "Jorge Martin: \"My relationship with Aprilia has been difficult, but it's made me a better person and rider\"",
@@ -576,9 +566,9 @@
   },
   {
    "title": "What Peugeot had planned for its abandoned 2027 WEC Hypercar",
-   "url": "https://www.autosport.com/wec/news/what-peugeot-had-planned-for-its-abandoned-2027-wec-hypercar-/10877678/",
-   "source": "Autosport",
-   "date": "2026-11-25T15:11:04.000Z",
+   "url": "https://www.motorsport.com/wec/news/what-peugeot-had-planned-for-its-abandoned-2027-wec-hypercar-/10877664/",
+   "source": "Motorsport.com",
+   "date": "2026-11-25T15:06:26.000Z",
    "series": "WEC",
    "result": false,
    "summary": "The 2027-spec 9X8 LMH was set to offer Peugeot its best chance of becoming a consistent World Endurance Championship frontrunner against some stiff Hypercar competition. The French manufacturer had invested considerable…",
@@ -685,14 +675,14 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YN7vjVe6/s6/gettyimages-2291455874.jpg"
   },
   {
-   "title": "Spotlight: IndyCar adds Kansas to 2027 calendar alongside NASCAR",
-   "url": "https://www.racefans.net/2026/11/24/spotlight-indycar-adds-kansas-to-2027-calendar-alongside-nascar/",
-   "source": "RaceFans",
-   "date": "2026-11-24T22:52:51.000Z",
+   "title": "IndyCar adds Kansas Speedway to 2027 schedule in joint NASCAR weekend",
+   "url": "https://www.motorsport.com/indycar/news/indycar-adds-kansas-speedway-to-2027-schedule-in-joint-nascar-weekend-/10877534/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T19:00:05.000Z",
    "series": "IndyCar",
    "result": false,
-   "summary": "IndyCar will return to Kansas next year for first time since 2010",
-   "image": null
+   "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
+   "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
   },
   {
    "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
@@ -725,16 +715,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/68Vw54B2/s6/marc-marquez-piscina-portimao.jpg"
   },
   {
-   "title": "Ducati's ace up its sleeve for 2027?",
-   "url": "https://www.the-race.com/promoted/ducatis-ace-up-its-sleeve-motogp-2027/",
-   "source": "The Race",
-   "date": "2026-11-24T15:49:26.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "While every MotoGP team might be flat-out working on 2027 while still staying focused on 2026, Ducati clearly believes that it's got something of an ace up its sleeve",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1364783_HiRes.jpg"
-  },
-  {
    "title": "ROK Cup USA Confirms Orlando Kart Center for Rounds Two and Three of the 2027 Florida Winter Tour",
    "url": "https://www.ekartingnews.com/2026/11/24/rok-cup-usa-confirms-orlando-kart-center-for-rounds-two-and-three-of-the-2027-florida-winter-tour/",
    "source": "eKartingNews",
@@ -743,6 +723,16 @@
    "result": false,
    "summary": "ROK Cup USA is pleased to confirm that Orlando Kart Center will host Rounds 2 and 3 of the 2027 Florida Winter Tour (FWT). The Central Florida facility will welcome the series on February 26–28 and March 12–14, 2027…",
    "image": "https://www.ekartingnews.com/wp-content/uploads/2022/06/ROK-Cup-Logo-2022-300x200.jpg"
+  },
+  {
+   "title": "Maverick Vinales ruled out of Valencia GP, can’t bid farewell to MotoGP",
+   "url": "https://www.motorsport.com/motogp/news/maverick-vinales-ruled-out-of-valencia-gp-cant-bid-farewell-to-motogp/10877477/",
+   "source": "Motorsport.com",
+   "date": "2026-11-24T13:53:08.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "As has been the case at many MotoGP races since he injured his shoulder in qualifying at the 2025 German Grand Prix, Maverick Vinales won’t take part in the final round of the 2026 season, the Valencia GP. Having…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6VyKj8VY/s6/maverick-vinales-red-bull-ktm--2.jpg"
   },
   {
    "title": "T4 Series USA Joins the 2027 Florida Open",
@@ -773,16 +763,6 @@
    "result": false,
    "summary": "New Super Formula champion Kakunoshin Ohta says he wants to demonstrate the value of the Japanese racing scene as he continues to work towards his IndyCar dream. Honda-backed Ohta secured the title with a race to spare…",
    "image": "https://cdn-1.motorsport.com/images/amp/6DGgOQDY/s6/kakunoshin-ohta-docomo-team-da.jpg"
-  },
-  {
-   "title": "Featured Comment: Herta deserves credit for trying to make the switch from IndyCar",
-   "url": "https://www.racefans.net/2026/11/24/featured-comment-herta-deserves-credit-for-trying-to-make-the-switch-from-indycar/",
-   "source": "RaceFans",
-   "date": "2026-11-24T09:25:55.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "Herta's brave F1 gamble was a risk worth taking",
-   "image": null
   },
   {
    "title": "Why Peugeot is quitting WEC’s Hypercar class",
@@ -1353,6 +1333,16 @@
    "result": false,
    "summary": "Ahead of another fiercely competitive Le Mans Prototype 2 (LMP2) campaign in the IMSA WeatherTech SportsCar Championship, Tower Motorsports has assembled a formidable roster for its #8 ORECA LMP2 07 as it sets its…",
    "image": "https://cdn-1.motorsport.com/images/amp/68VWqPl2/s6/8-tower-motorsports-oreca-lmp2.jpg"
+  },
+  {
+   "title": "Why Corvette’s new LMGT3 champion Jonny Edgar has a bright future",
+   "url": "https://www.motorsport.com/wec/news/why-corvettes-new-lmgt3-champion-jonny-edgar-has-a-bright-future/10874124/",
+   "source": "Motorsport.com",
+   "date": "2026-11-12T16:39:26.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Jonny Edgar is emerging as one of the brightest prospects in the World Endurance Championship following his title-winning campaign with TF Sport in 2026. The young Briton was always expected to make it big in…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
   },
   {
    "title": "Argentina set to make WRC comeback in 2028",
