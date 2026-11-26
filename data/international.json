@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:08:10.559Z",
+ "updated": "2026-11-26T11:26:57.777Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -156,15 +156,75 @@
   "IMSA": 10,
   "IndyCar": 9,
   "WEC": 15,
-  "WRC": 9,
+  "WRC": 8,
   "Super Formula": 3,
   "Formula E": 11,
   "DTM": 5,
-  "F2 / F3": 2,
+  "F2 / F3": 1,
   "Dakar": 2,
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
+   "url": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
+   "source": "Formula1.com",
+   "date": "2026-11-26T11:26:57.777Z",
+   "series": "F1",
+   "result": false,
+   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Jack Whitehall has shared his experiences as an official Friend of F1 – including a memorable first meeting with Kimi Antonelli.",
+   "image": null
+  },
+  {
+   "title": "From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints",
+   "url": "https://www.formula1.com/en/latest/article/from-monza-mayhem-to-suzuka-showdowns-10-dramatic-rivalry-flashpoints-in-f1-history.3tetZNSgL2jM1F3THX3k1M",
+   "source": "Formula1.com",
+   "date": "2026-11-26T11:26:57.777Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Max Verstappen and George Russell traded blows on and off track in Las Vegas last weekend – but that is merely the latest episode in a long history of driver rivalries in Formula 1.",
+   "image": null
+  },
+  {
+   "title": "Fernando Alonso to start Qatar F1 weekend late as Aston Martin reveals ‘virus’",
+   "url": "https://www.crash.net/f1/news/1110897/1/fernando-alonso-start-qatar-f1-weekend-late-aston-martin-reveals-virus",
+   "source": "Crash.net",
+   "date": "2026-11-26T11:20:42.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Fernando Alonso is due to miss the first part of the weekend at the F1 Qatar Grand Prix after picking up a virus.",
+   "image": "https://www.crash.net/sites/default/files/2026-10/xpb_1445207_hires.jpg?width=1200"
+  },
+  {
+   "title": "Fernando Alonso to miss Qatar F1 media day with viral illness",
+   "url": "https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T10:57:58.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Fernando Alonso will be absent from Formula 1's media day ahead of the Qatar Grand Prix as he recovers from a \"viral infection\". The two-time champion will miss the traditional media obligations at the Lusail…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6zoD4Ma0/s6/fernando-alonso-aston-martin-r.jpg"
+  },
+  {
+   "title": "Alonso to not let his age determine F1 retirement",
+   "url": "https://www.autosport.com/f1/news/alonso-to-not-let-age-determine-f1-retirement/10877846/",
+   "source": "Autosport",
+   "date": "2026-11-26T10:42:24.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Fernando Alonso says he will quit Formula 1 when he feels slow and he doesn’t need to be as fit as a football player to be competitive. Alonso is the most experienced driver in F1’s history, having competed in 23…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6grQVmGY/s6/fernando-alonso-aston-martin-r-2.jpg"
+  },
+  {
+   "title": "Fernando Alonso: ‘I will quit F1 when I feel slow, not at a specific age’",
+   "url": "https://www.motorsport.com/f1/news/fernando-alonso-i-will-quit-f1-when-i-feel-slow-not-at-a-specific-age/10877599/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T10:39:33.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Fernando Alonso says he will quit Formula 1 when he feels slow and he doesn’t need to be as fit as a football player to be competitive. Alonso is the most experienced driver in F1’s history, having competed in 23…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6zoDBWk0/s6/fernando-alonso-aston-martin-r.jpg"
+  },
   {
    "title": "2027 line-ups confirmed: Who is on the grid for next season?",
    "url": "https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX",
@@ -284,66 +344,6 @@
    "result": false,
    "summary": "Joan Mir will be in Valencia this weekend to contest his final race as a factory Honda HRC rider in MotoGP. The Spaniard, who has missed six of the last seven grands prix due to medical issues involving dizziness and…",
    "image": "https://cdn-1.motorsport.com/images/amp/6O7zDvw6/s6/joan-mir-honda-hrc.jpg"
-  },
-  {
-   "title": "F1 drivers face highest tyre pressure orders yet in Qatar",
-   "url": "https://www.the-race.com/formula-1/f1-drivers-face-highest-tyre-pressure-orders-yet-in-qatar/",
-   "source": "The Race",
-   "date": "2026-11-26T07:17:49.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Qatar brings the highest minimum front tyre pressures of 2026 - and the highest ever stipulated at the start of a race weekend",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1388625_HiRes.jpg"
-  },
-  {
-   "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
-   "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
-   "source": "Formula1.com",
-   "date": "2026-11-26T05:04:12.804Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA have completed their review of the F1 teams' and power unit manufacturers' compliance with the 2025 Financial Regulations.",
-   "image": null
-  },
-  {
-   "title": "5 storylines we're excited about ahead of the Qatar GP",
-   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A",
-   "source": "Formula1.com",
-   "date": "2026-11-26T03:57:23.814Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Qatar for Round 22 of the 2026 season.",
-   "image": null
-  },
-  {
-   "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium",
-   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI",
-   "source": "Formula1.com",
-   "date": "2026-11-26T03:57:23.814Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Here is all the information you need to follow the Qatar Grand Prix weekend live on F1 TV.",
-   "image": null
-  },
-  {
-   "title": "QUIZ: 10 tricky questions on F1 driver bust-ups",
-   "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-f1-driver-bust-ups.L5pATOFep8eOxnoTZTjjf",
-   "source": "Formula1.com",
-   "date": "2026-11-26T02:37:38.950Z",
-   "series": "F1",
-   "result": false,
-   "summary": "George Russell and Max Verstappen exchanged words off track and battled on track in Las Vegas – and F1 history has seen plenty of flashpoints between rivals.",
-   "image": null
-  },
-  {
-   "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
-   "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe",
-   "source": "Formula1.com",
-   "date": "2026-11-26T02:37:38.950Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The penultimate race weekend of the 2026 season comes from Qatar, and much like last year, Pirelli have mandated a lap limit on each tyre set for the Lusail International Circuit, due to the unique demands of the track.",
-   "image": null
   },
   {
    "title": "EKN Debrief: Episode 176 – Superkarts! USA SuperNationals 29 – Part 2",
@@ -694,16 +694,6 @@
    "result": false,
    "summary": "Every winter, Florida becomes one of the biggest stages in American karting. SKUSA. USPKS. ROTAX. ROK. APEX. T4. From America’s most established national championships to emerging racing series, Florida attracts top…",
    "image": null
-  },
-  {
-   "title": "Slater to replace Camara for rest of F2 season as Tsolov becomes title favourite",
-   "url": "https://www.autosport.com/formula2/news/slater-replaces-camara-in-f2/10877445/",
-   "source": "Autosport",
-   "date": "2026-11-24T12:32:26.000Z",
-   "series": "F2 / F3",
-   "result": false,
-   "summary": "Freddie Slater will make his Formula 2 debut in this year’s season-ending Qatar and Abu Dhabi rounds. The butterfly effect originating in Esteban Ocon’s fallout with the Haas Formula 1 team means Rafael Camara has been…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YWKAlGkY/s6/freddie-slater-audi-f1-team-2.jpg"
   },
   {
    "title": "Grasser and Bortolotti to McLaren? What McLaren's head of motorsport says",
@@ -1494,16 +1484,6 @@
    "result": false,
    "summary": "Double British Touring Car Championship title winner Tom Ingram will remain at Excelr8 Motorsport until at least the end of the decade. While the 33-year-old’s continuation at the Hyundai squad for next season was…",
    "image": "https://cdn-1.motorsport.com/images/amp/0kZAe4j6/s6/tom-ingram-team-vertu.jpg"
-  },
-  {
-   "title": "Sebastien Ogier tipped for partial WRC 2027 programme",
-   "url": "https://www.motorsport.com/wrc/news/sebastien-ogier-tipped-for-partial-wrc-2027-programme/10871683/",
-   "source": "Motorsport.com",
-   "date": "2026-11-05T11:20:02.000Z",
-   "series": "WRC",
-   "result": false,
-   "summary": "Sebastien Ogier’s World Rally Championship programme for 2027 is yet to be finalised but Toyota expects the nine-time world champion to contest no more than three rallies. Ogier was absent from Toyota’s 2027 driver…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YE9EyoPY/s6/sebastien-ogier-toyota-gazoo-r.jpg"
   }
  ]
 }
