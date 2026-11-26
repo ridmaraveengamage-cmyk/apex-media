@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:52:17.284Z",
+ "updated": "2026-11-26T14:57:33.429Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -22,9 +22,8 @@
   {
    "name": "RaceFans",
    "label": "RaceFans",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,15 +147,15 @@
   }
  ],
  "bySeries": {
-  "F1": 17,
+  "F1": 15,
   "MotoGP": 15,
   "BTCC": 4,
   "Karting": 12,
   "NASCAR": 15,
   "Motorsport": 4,
   "IMSA": 10,
-  "IndyCar": 10,
-  "WEC": 16,
+  "IndyCar": 9,
+  "WEC": 15,
   "WRC": 8,
   "Super Formula": 3,
   "Formula E": 11,
@@ -166,6 +165,56 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "Norris concedes 2026 ‘certainly not been our finest’ year",
+   "url": "https://www.formula1.com/en/latest/article/you-cant-win-them-all-norris-concedes-it-hasnt-been-mclarens-finest-year-in-2026-assessment.bJdxL08P1IOeV8wzQkUsX",
+   "source": "Formula1.com",
+   "date": "2026-11-26T14:57:33.429Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lando Norris has reflected on how his position in the championship has changed over the last 12 months, accepting that “you can’t win them all”.",
+   "image": null
+  },
+  {
+   "title": "2027 line-ups confirmed: Who is on the grid for next season?",
+   "url": "https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX",
+   "source": "Formula1.com",
+   "date": "2026-11-26T14:57:33.429Z",
+   "series": "F1",
+   "result": false,
+   "summary": "With Ollie Bearman now confirmed at Haas for next season, the 2027 grid is finally complete. So, which teams have changed their line ups, who is sticking with their current pairings and how many new faces are on the…",
+   "image": null
+  },
+  {
+   "title": "Francesco Bagnaia pays tribute to Ducati, reveals head injury behind Valencia absence",
+   "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-pays-tribute-to-ducati-reveals-head-injury-behind-valencia-absence/10877893/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T14:55:30.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Francesco Bagnaia was at a loss for words as he bid farewell to Ducati on the eve of this weekend’s Valencia Grand Prix, revealing he cannot take part in this weekend’s MotoGP finale due to a head injury. The three-time…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0o5AVPoY/s6/francesco-bagnaia-ducati-team.jpg"
+  },
+  {
+   "title": "Valencia circuit removes mural honouring Valentino Rossi - and replaces it with a giant screen",
+   "url": "https://www.motorsport.com/motogp/news/el-circuito-de-cheste-retira-el-mural-homenaje-a-valentino-rossi-y-lo-cambia-por-una-pantalla-gigan/10877885/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T14:31:13.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "In 2021, the Circuit Ricardo Tormo in Valencia installed a mural honouring Valentino Rossi on the occasion of his retirement from MotoGP. Five years on, the artwork has been replaced by a giant screen measuring 64…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0JBnvOE0/s6/valentino-rossi-petronas-yamah.jpg"
+  },
+  {
+   "title": "Nico Rosberg writes off George Russell F1 2027 title with brutal verdict",
+   "url": "https://www.crash.net/f1/news/1110907/1/nico-rosberg-writes-george-russell-f1-2027-title-brutal-verdict",
+   "source": "Crash.net",
+   "date": "2026-11-26T14:00:24.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Nico Rosberg drops a brutal verdict on George Russell's 2027 F1 title chances.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454267_hires.jpg?width=1200"
+  },
   {
    "title": "LIVE COVERAGE: All the build-up ahead of the Qatar GP weekend",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-qatar-2026.4WEmmZr6fKX8XU6mHM6lN9",
@@ -287,16 +336,6 @@
    "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455572_hires.jpg?width=1200"
   },
   {
-   "title": "F1 2027 grid: Who will be racing and where?",
-   "url": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/",
-   "source": "Autosport",
-   "date": "2026-11-26T12:13:37.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The 2027 Formula 1 grid is now complete following the announcement from Haas that it has retained star youngster Oliver Bearman. But the American squad is also the only team that is altering its driver pairing for next…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2GdKBmOY/s6/rafael-camara-haas-f1-team-lan-3.jpg"
-  },
-  {
    "title": "The unexpected riding shift that took Marc Marquez to a 10th world title",
    "url": "https://www.motorsport.com/motogp/news/marquezs-unexpected-riding-shift-in-pursuit-of-a-10th-world-title/10877862/",
    "source": "Motorsport.com",
@@ -305,26 +344,6 @@
    "result": false,
    "summary": "Upon bursting into MotoGP in 2013, Marc Marquez showed a unique ability in left-hand corners. This made him practically untouchable at anti-clockwise venues such as Austin, where he took his first victory in only his…",
    "image": "https://cdn-1.motorsport.com/images/amp/0JXR7NoY/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "Golf star blames F1’s Carlos Sainz and Lance Stroll for missing club",
-   "url": "https://www.crash.net/f1/news/1110899/1/golf-star-blames-f1s-carlos-sainz-and-lance-stroll-missing-club",
-   "source": "Crash.net",
-   "date": "2026-11-26T12:03:41.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Min Woo Lee has blamed two F1 drivers for a missing club after giving them a golf lesson.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1454348_hires.jpg?width=1200"
-  },
-  {
-   "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
-   "url": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
-   "source": "Formula1.com",
-   "date": "2026-11-26T11:26:57.777Z",
-   "series": "F1",
-   "result": false,
-   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Jack Whitehall has shared his experiences as an official Friend of F1 – including a memorable first meeting with Kimi Antonelli.",
-   "image": null
   },
   {
    "title": "Excelr8 goes for customer BTCC engine for 2027",
@@ -345,26 +364,6 @@
    "result": false,
    "summary": "Moto2 rider Sergio Garcia has announced his retirement from motorcycle racing, just over two years after narrowly missing out on a MotoGP debut",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1320722_HiRes.jpg"
-  },
-  {
-   "title": "Haas finally confirms Bearman’s new contract for 2027",
-   "url": "https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027/",
-   "source": "RaceFans",
-   "date": "2026-11-26T09:19:12.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Haas will run two Ferrari junior drivers in 2027 after confirming Oliver Bearman will remain alongside Rafael Camara.",
-   "image": null
-  },
-  {
-   "title": "Spotlight: F1 has ‘more people who look like the fans’ due to diversity push – Hamilton",
-   "url": "https://www.racefans.net/2026/11/26/spotlight-f1-has-more-people-who-look-like-the-fans-due-to-diversity-push-hamilton/",
-   "source": "RaceFans",
-   "date": "2026-11-26T08:59:27.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "F1 now has 'more people who look like the fans' - Hamilton",
-   "image": null
   },
   {
    "title": "Joan Mir cleared to travel to Valencia MotoGP finale after receiving medical approval",
@@ -607,16 +606,6 @@
    "image": null
   },
   {
-   "title": "IndyCar adds Kansas Speedway to 2027 schedule in joint NASCAR weekend",
-   "url": "https://www.motorsport.com/indycar/news/indycar-adds-kansas-speedway-to-2027-schedule-in-joint-nascar-weekend-/10877534/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T19:00:05.000Z",
-   "series": "IndyCar",
-   "result": false,
-   "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
-   "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
-  },
-  {
    "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
    "url": "https://www.ekartingnews.com/2026/11/24/factory-karts-names-miami-based-lupo-kart-an-official-dealer/",
    "source": "eKartingNews",
@@ -827,16 +816,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/0k7Wkpl0/s6/79-tsunami-rt-porsche-911-gt3-.jpg"
   },
   {
-   "title": "MotoGP riders pay tribute to Marc Marquez, label him the GOAT",
-   "url": "https://www.motorsport.com/motogp/news/motogp-riders-pay-tribute-marc-marquez-goat-10th-world-title/10877013/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T16:27:49.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez continues to add to his legacy as a MotoGP rider and an athlete destined to go down in history as one of the greatest ever seen. The 10-time world champion overcame the inevitable tension of the occasion…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YK15yXk0/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
    "title": "Peugeot WEC team axed, Citroen and Opel Formula E squads to close after 2027",
    "url": "https://www.racefans.net/2026/11/23/peugeot-wec-team-axed-citroen-and-opel-formula-e-squads-to-close-after-2027/",
    "source": "RaceFans",
@@ -905,16 +884,6 @@
    "result": true,
    "summary": "The second-ever FIA Karting Arrive and Drive World Cup winners have been crowned a year after the more affordable, accessible and inclusive motor sport format debuted on the FIA Karting calendar. Racing on equal…",
    "image": "https://www.ekartingnews.com/wp-content/uploads/2026/11/FIA-2026-WorldAD-Jezierski-300x200.jpg"
-  },
-  {
-   "title": "Marc Marquez makes history, Valentino Rossi keeps revisiting it",
-   "url": "https://www.motorsport.com/motogp/news/marquez-makes-history-rossi-keeps-revisiting-it/10877131/",
-   "source": "Motorsport.com",
-   "date": "2026-11-23T11:00:08.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "In one of those curious twists of fate, Marquez sealed his eighth MotoGP world title at Portimo just as Rossi was touring Italy to promote his autobiography, La Mia Storia, which was released on 10 November. Throughout…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0Lde9zP0/s6/marc-marquez-ducati-team-2.jpg"
   },
   {
    "title": "Super Formula Suzuka: Tomoki Nojiri breaks drought with win in season finale",
@@ -1425,16 +1394,6 @@
    "result": false,
    "summary": "Two-time Mini Challenge champion Tom Ovenden is to step up to the British Touring Car Championship for 2027 with Excelr8 Motorsport. The 22-year-old remains within the same organisation with which he claimed the…",
    "image": "https://cdn-1.motorsport.com/images/amp/YpbPNZg0/s6/tom-ovenden-mini-challenge-cha-2.jpg"
-  },
-  {
-   "title": "Joey Logano and Logan Sargeant among Ford drivers taking part in Daytona exhibition race",
-   "url": "https://www.motorsport.com/general/news/joey-logano-logan-sargeant-among-ford-drivers-taking-part-in-daytona-charity-race/10873721/",
-   "source": "Motorsport.com",
-   "date": "2026-11-10T20:45:15.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Various Ford stars from around the world will join together for a special charity race under the lights at Daytona International Speedway, taking place on Wednesday, November 11. Six teams with some of the biggest names…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0o5AVrbY/s6/combined-image-3.jpg"
   },
   {
    "title": "Next Mercedes-AMG test: Could a woman return to the DTM in 2027?",
