@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:33:38.032Z",
+ "updated": "2026-11-26T13:52:17.284Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -167,6 +167,86 @@
  },
  "items": [
   {
+   "title": "LIVE COVERAGE: All the build-up ahead of the Qatar GP weekend",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-qatar-2026.4WEmmZr6fKX8XU6mHM6lN9",
+   "source": "Formula1.com",
+   "date": "2026-11-26T13:52:17.284Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Live coverage of all the build-up ahead of the 2026 Qatar Grand Prix weekend.",
+   "image": null
+  },
+  {
+   "title": "Facts, stats and trivia ahead of the 2026 Qatar GP",
+   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-qatar-grand-prix.7Ayey9W9IVQ1yNkR8F6zEI",
+   "source": "Formula1.com",
+   "date": "2026-11-26T13:52:17.284Z",
+   "series": "F1",
+   "result": false,
+   "summary": "As F1 moves on to Lusail for the Qatar Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
+   "image": null
+  },
+  {
+   "title": "Everything you need to know about the Lusail International Circuit",
+   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-lusail-international-circuit.5QWk6JkgFRrObe3OR2mROI",
+   "source": "Formula1.com",
+   "date": "2026-11-26T13:52:17.284Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Get up to speed with all the key Lusail International Circuit statistics, driving pointers, facts and more.",
+   "image": null
+  },
+  {
+   "title": "Why Bearman’s new Haas deal took so long to get over the line",
+   "url": "https://www.formula1.com/en/latest/article/analysis-why-bearmans-new-haas-deal-took-so-long-to-get-over-the-line.M0No4qdgSUFPFMgGKkNKv",
+   "source": "Formula1.com",
+   "date": "2026-11-26T13:52:17.284Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lawrence Barretto explains the delay in announcing Ollie Bearman's latest Haas contract, which marks the completion of the 2027 grid.",
+   "image": null
+  },
+  {
+   "title": "Bearman to continue with Haas for 2027",
+   "url": "https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.dRq9fWh9OGjhXuShgGnqE",
+   "source": "Formula1.com",
+   "date": "2026-11-26T13:52:17.284Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Haas Formula 1 team have confirmed that Ollie Bearman has re-signed with the American outfit.",
+   "image": null
+  },
+  {
+   "title": "Honda can't find Alonso's 'broken' engine issue - again",
+   "url": "https://www.the-race.com/formula-1/honda-cant-find-alonsos-broken-engine-issue-again/",
+   "source": "The Race",
+   "date": "2026-11-26T13:52:02.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Honda has not found any issue with Fernando Alonso's engine after he abruptly abandoned finishing last week's Las Vegas Grand Prix before starting his final lap",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456037_HiRes.jpg"
+  },
+  {
+   "title": "Lando Norris weighs in on Max Verstappen and George Russell conflict",
+   "url": "https://www.crash.net/f1/news/1110905/1/lando-norris-weighs-max-verstappen-and-george-russell-conflict",
+   "source": "Crash.net",
+   "date": "2026-11-26T13:37:54.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lando Norris has his say on the escalating row between Max Verstappen and George Russell.",
+   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456380_hires.jpg?width=1200"
+  },
+  {
+   "title": "Qatar expects its F1 race to be sold out",
+   "url": "https://www.the-race.com/business/qatar-gp-expects-2026-f1-race-sell-out/",
+   "source": "The Race",
+   "date": "2026-11-26T13:29:09.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The motorsport body behind the Qatar GP expects the 2026 F1 race to have a \"full house\" despite regional conflict in the lead up to it",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1389098_HiRes.jpg"
+  },
+  {
    "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
    "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
    "source": "Formula1.com",
@@ -194,26 +274,6 @@
    "series": "F1",
    "result": false,
    "summary": "George Russell and Max Verstappen exchanged words off track and battled on track in Las Vegas – and F1 history has seen plenty of flashpoints between rivals.",
-   "image": null
-  },
-  {
-   "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
-   "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe",
-   "source": "Formula1.com",
-   "date": "2026-11-26T12:33:38.032Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The penultimate race weekend of the 2026 season comes from Qatar, and much like last year, Pirelli have mandated a lap limit on each tyre set for the Lusail International Circuit, due to the unique demands of the track.",
-   "image": null
-  },
-  {
-   "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium",
-   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI",
-   "source": "Formula1.com",
-   "date": "2026-11-26T12:33:38.032Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Here is all the information you need to follow the Qatar Grand Prix weekend live on F1 TV.",
    "image": null
   },
   {
@@ -264,66 +324,6 @@
    "series": "F1",
    "result": false,
    "summary": "In the latest episode of official podcast F1 Beyond The Grid, Jack Whitehall has shared his experiences as an official Friend of F1 – including a memorable first meeting with Kimi Antonelli.",
-   "image": null
-  },
-  {
-   "title": "From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints",
-   "url": "https://www.formula1.com/en/latest/article/from-monza-mayhem-to-suzuka-showdowns-10-dramatic-rivalry-flashpoints-in-f1-history.3tetZNSgL2jM1F3THX3k1M",
-   "source": "Formula1.com",
-   "date": "2026-11-26T11:26:57.777Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen and George Russell traded blows on and off track in Las Vegas last weekend – but that is merely the latest episode in a long history of driver rivalries in Formula 1.",
-   "image": null
-  },
-  {
-   "title": "Fernando Alonso to start Qatar F1 weekend late as Aston Martin reveals ‘virus’",
-   "url": "https://www.crash.net/f1/news/1110897/1/fernando-alonso-start-qatar-f1-weekend-late-aston-martin-reveals-virus",
-   "source": "Crash.net",
-   "date": "2026-11-26T11:20:42.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fernando Alonso is due to miss the first part of the weekend at the F1 Qatar Grand Prix after picking up a virus.",
-   "image": "https://www.crash.net/sites/default/files/2026-10/xpb_1445207_hires.jpg?width=1200"
-  },
-  {
-   "title": "Fernando Alonso to miss Qatar F1 media day with viral illness",
-   "url": "https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T10:57:58.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fernando Alonso will be absent from Formula 1's media day ahead of the Qatar Grand Prix as he recovers from a \"viral infection\". The two-time champion will miss the traditional media obligations at the Lusail…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6zoD4Ma0/s6/fernando-alonso-aston-martin-r.jpg"
-  },
-  {
-   "title": "Alonso to not let his age determine F1 retirement",
-   "url": "https://www.autosport.com/f1/news/alonso-to-not-let-age-determine-f1-retirement/10877846/",
-   "source": "Autosport",
-   "date": "2026-11-26T10:42:24.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fernando Alonso says he will quit Formula 1 when he feels slow and he doesn’t need to be as fit as a football player to be competitive. Alonso is the most experienced driver in F1’s history, having competed in 23…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6grQVmGY/s6/fernando-alonso-aston-martin-r-2.jpg"
-  },
-  {
-   "title": "Fernando Alonso: ‘I will quit F1 when I feel slow, not at a specific age’",
-   "url": "https://www.motorsport.com/f1/news/fernando-alonso-i-will-quit-f1-when-i-feel-slow-not-at-a-specific-age/10877599/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T10:39:33.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Fernando Alonso says he will quit Formula 1 when he feels slow and he doesn’t need to be as fit as a football player to be competitive. Alonso is the most experienced driver in F1’s history, having competed in 23…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6zoDBWk0/s6/fernando-alonso-aston-martin-r.jpg"
-  },
-  {
-   "title": "2027 line-ups confirmed: Who is on the grid for next season?",
-   "url": "https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX",
-   "source": "Formula1.com",
-   "date": "2026-11-26T10:08:10.559Z",
-   "series": "F1",
-   "result": false,
-   "summary": "With Ollie Bearman now confirmed at Haas for next season, the 2027 grid is finally complete. So, which teams have changed their line ups, who is sticking with their current pairings and how many new faces are on the…",
    "image": null
   },
   {
