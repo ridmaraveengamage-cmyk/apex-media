@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:52:55.948Z",
+ "updated": "2026-11-27T23:20:51.732Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -148,11 +148,11 @@
  ],
  "bySeries": {
   "F1": 15,
-  "DTM": 6,
   "MotoGP": 15,
+  "Motorsport": 2,
+  "DTM": 5,
   "BTCC": 4,
   "Supercars": 3,
-  "Motorsport": 1,
   "WEC": 15,
   "IndyCar": 9,
   "WRC": 9,
@@ -165,84 +165,224 @@
  },
  "items": [
   {
-   "title": "Antonelli leads Russell in Qatar as Mercedes control FP1",
-   "url": "https://www.formula1.com/en/latest/article/fp1-antonelli-leads-russell-in-qatar-as-mercedes-control-opening-practice.3v7t8Oja9vAGkic9TxN7FR",
+   "title": "Are Mercedes the team to beat in Qatar?",
+   "url": "https://www.formula1.com/en/latest/article/are-mercedes-the-team-to-beat-in-qatar.6iRbqa3JJ85o0bWNYQTlTl",
    "source": "Formula1.com",
-   "date": "2026-11-27T14:52:55.948Z",
+   "date": "2026-11-27T23:20:51.732Z",
    "series": "F1",
    "result": false,
-   "summary": "Kimi Antonelli finished fastest in Free Practice 1 ahead of the Qatar Grand Prix, the Mercedes driver beating team mate George Russell and Isack Hadjar's Red Bull.",
+   "summary": "F1.com analyses the state of play after the first day of action at the Qatar Grand Prix.",
    "image": null
   },
   {
-   "title": "LIVE COVERAGE: First practice for the Qatar GP",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-qatar-2026.4b9OJ86R4u41lS38JHHCuO",
+   "title": "Leclerc searching for answers after tricky Friday in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/it-looks-like-a-very-difficult-weekend-leclerc-searching-for-answers-after-tricky-friday-in-qatar.34CxxcaWerPPLl84sU9cZq",
    "source": "Formula1.com",
-   "date": "2026-11-27T14:52:55.948Z",
+   "date": "2026-11-27T23:20:51.732Z",
    "series": "F1",
    "result": false,
-   "summary": "Live coverage of Friday's first practice session for the 2026 Qatar Grand Prix.",
+   "summary": "Charles Leclerc reflected on Ferrari’s lack of pace in Qatar as Diego Ioverno offered reassurance over Lewis Hamilton’s stoppage in second practice.",
    "image": null
   },
   {
-   "title": "Russell reacts to Verstappen’s Las Vegas comments",
-   "url": "https://www.formula1.com/en/latest/article/it-was-quite-amusing-russell-shares-his-reaction-to-verstappens-las-vegas-comments.6sv6Xkop4lBcCxge8ZgxXv",
+   "title": "What the teams said – Friday in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-qatar-2026.4NjrvUy3Zc6X6YN4i896S6",
    "source": "Formula1.com",
-   "date": "2026-11-27T14:52:55.948Z",
+   "date": "2026-11-27T23:20:51.732Z",
    "series": "F1",
    "result": false,
-   "summary": "After tensions between himself and Max Verstappen resurfaced following the Las Vegas Grand Prix, George Russell has given his take on how the situation stands.",
+   "summary": "The drivers and teams report back on all the action from Friday practice at the Lusail International Circuit, ahead of the 2026 Qatar Grand Prix.",
    "image": null
   },
   {
-   "title": "Bearman reflects on new Haas deal and Ferrari hopes",
-   "url": "https://www.formula1.com/en/latest/article/im-looking-forward-to-the-future-bearman-reflects-on-new-haas-deal-and-hopes-of-dream-ferrari-drive.2HEQCXu8ItvVTJrmYBR5H1",
+   "title": "Verstappen and Red Bull left looking for car balance in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/a-bit-of-a-difficult-day-verstappen-and-red-bull-left-looking-for-car-balance-after-friday-in-qatar.zvqj1nQ6dBT2PSxEzzKWP",
    "source": "Formula1.com",
-   "date": "2026-11-27T14:52:55.948Z",
+   "date": "2026-11-27T23:20:51.732Z",
    "series": "F1",
    "result": false,
-   "summary": "Ollie Bearman arrives into the Qatar Grand Prix weekend with his future finally confirmed, following the announcement that he will continue to drive for Haas in 2027.",
+   "summary": "Max Verstappen admits that he and Red Bull had \"a bit of a difficult day\" during Friday practice ahead of the Qatar Grand Prix.",
    "image": null
   },
   {
-   "title": "Antonelli quickest by half a second on medium tyre compound in first practice",
-   "url": "https://www.racefans.net/2026/11/27/antonelli-quickest-by-half-a-second-on-medium-tyre-compound-in-first-practice/",
-   "source": "RaceFans",
-   "date": "2026-11-27T14:40:22.000Z",
+   "title": "Racing Bulls lead midfield in Qatar after 'really big step'",
+   "url": "https://www.formula1.com/en/latest/article/racing-bulls-lead-the-midfield-charge-in-qatar-after-changes-pay-off.11wtPFM25qXm0dPTocDHRn",
+   "source": "Formula1.com",
+   "date": "2026-11-27T23:20:51.732Z",
    "series": "F1",
    "result": false,
-   "summary": "Andrea Kimi Antonelli was emphatically quickest in the opening practice session for the Qatar Grand Prix.",
+   "summary": "Racing Bulls led the midfield pack after Friday practice ahead of the Qatar Grand Prix, as Liam Lawson and Arvid Lindblad finished Free Practice 2 in P9 and P10.",
    "image": null
   },
   {
-   "title": "2026 F1 Qatar Grand Prix: Friday practice results",
-   "url": "https://www.crash.net/f1/results/1111050/1/2026-f1-qatar-grand-prix-friday-practice-results",
-   "source": "Crash.net",
-   "date": "2026-11-27T14:38:00.000Z",
+   "title": "Best Qualifying bets for the Qatar Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-in-the-markets-for-the-qatar-grand-prix.2mQLEJUkKJHjLj8bHzNnaI",
+   "source": "Formula1.com",
+   "date": "2026-11-27T23:20:51.732Z",
    "series": "F1",
    "result": false,
-   "summary": "Full results from Friday’s practice sessions at the 2026 F1 Qatar Grand Prix.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456842_hires.jpg?width=1200"
+   "summary": "Our expert betting writers share their top picks for Qualifying at the Lusail International Circuit.",
+   "image": null
   },
   {
-   "title": "What happened in 2026 F1 Qatar GP first practice",
-   "url": "https://www.the-race.com/formula-1/what-happened-in-2026-f1-qatar-gp-first-practice/",
+   "title": "'It's never nice' – Gasly explains dramatic FP2 spin",
+   "url": "https://www.formula1.com/en/latest/article/its-never-nice-gasly-explains-dramatic-high-speed-spin-during-qatar-practice.11hIcFNT6zuvEG0mwAggDn",
+   "source": "Formula1.com",
+   "date": "2026-11-27T23:20:51.732Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Pierre Gasly has revealed how a combination of low tyre temperatures and increased bottoming contributed to his FP2 spin in Qatar, as Alpine continue to battle handling difficulties.",
+   "image": null
+  },
+  {
+   "title": "Norris worried by McLaren’s deficit to Mercedes in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/i-dont-think-weve-been-further-off-norris-worried-by-mclarens-deficit-to-mercedes-in-qatar.6mwnUPpxnOsIv6YJ7O6Lgm",
+   "source": "Formula1.com",
+   "date": "2026-11-27T23:20:51.732Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Lando Norris believes McLaren are fighting for P3 at the Qatar Grand Prix after Mercedes led the way in both of Friday’s practice sessions.",
+   "image": null
+  },
+  {
+   "title": "Antonelli wary of rivals despite topping Friday in Qatar",
+   "url": "https://www.formula1.com/en/latest/article/you-can-never-write-off-max-and-the-others-antonelli-wary-of-rivals-despite-topping-friday-in-qatar.2bsPJciIE8epCdw1AXd6zC",
+   "source": "Formula1.com",
+   "date": "2026-11-27T23:20:51.732Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Kimi Antonelli believes \"you can never write off Max [Verstappen] and the others\" despite the new World Champion and Mercedes dominating Friday practice ahead of the Qatar Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Audi's Italian GP appeal over Tsunoda decision is dismissed",
+   "url": "https://www.formula1.com/en/latest/article/audis-italian-grand-prix-appeal-over-tsunoda-restart-decision-is-dismissed.53YK6RxY4GWQ0WvgCUm3xh",
+   "source": "Formula1.com",
+   "date": "2026-11-27T23:20:51.732Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Audi's appeal has been dismissed following a hearing at the International Court of Appeal on November 25.",
+   "image": null
+  },
+  {
+   "title": "Mercedes' early advantage is even scarier than it looks",
+   "url": "https://www.the-race.com/formula-1/mercedes-early-qatar-advantage-is-even-scarier-than-it-looks/",
    "source": "The Race",
-   "date": "2026-11-27T14:37:28.000Z",
+   "date": "2026-11-27T22:54:33.000Z",
    "series": "F1",
    "result": false,
-   "summary": "New F1 world champion Kimi Antonelli comfortably set the pace in first practice in Qatar, despite failing to complete a clean quick lap on the softest tyre compound",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456820_HiRes.jpg"
+   "summary": "Mercedes has only won one of the last six races. So why's it looking so dominant in Qatar?",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456923_HiRes-2.jpg"
   },
   {
-   "title": "Kimi Antonelli dominates unusual first Qatar Grand Prix practice to head Mercedes 1-2",
-   "url": "https://www.crash.net/f1/news/1111048/1/kimi-antonelli-dominates-unusual-first-qatar-grand-prix-practice-head-mercedes-1",
-   "source": "Crash.net",
-   "date": "2026-11-27T14:32:53.000Z",
+   "title": "F1 Qatar GP practice analysis: Kimi Antonelli nearly a second clear of Max Verstappen on long runs",
+   "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-practice-analysis-antonelli-nearly-a-second-clear-of-verstappen-on-long-runs/10878464/",
+   "source": "Motorsport.com",
+   "date": "2026-11-27T22:10:24.000Z",
    "series": "F1",
-   "result": true,
-   "summary": "Kimi Antonelli set the pace in an unconventional opening practice in Qatar.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456783_hires.jpg?width=1200"
+   "result": false,
+   "summary": "Kimi Antonelli heads into the penultimate race weekend of the 2026 Formula 1 season in Qatar as the early favourite. The reigning world champion dominated Friday practice at the Lusail International Circuit, both over a…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6x7LeR4Y/s6/andrea-kimi-antonelli-mercedes.jpg"
+  },
+  {
+   "title": "100% wear in 15 laps - Qatar tyre issue has got even worse",
+   "url": "https://www.the-race.com/formula-1/100-wear-in-15-laps-qatar-tyre-issue-has-got-even-worse/",
+   "source": "The Race",
+   "date": "2026-11-27T22:01:09.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Pirelli is evaluating if further precautions are needed for the Qatar Grand Prix after Friday practice.",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456857_HiRes.jpg"
+  },
+  {
+   "title": "Winners & losers from F1 2026 Qatar GP Friday practice",
+   "url": "https://www.the-race.com/formula-1/winners-losers-from-f1-2026-qatar-gp-friday-practice/",
+   "source": "The Race",
+   "date": "2026-11-27T21:25:39.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The winners and losers from Friday practice for the 2026 Qatar Formula 1 Grand Prix.",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1457147_HiRes.jpg"
+  },
+  {
+   "title": "Vowles explains why Williams exceeded F1’s cost cap by £627,000",
+   "url": "https://www.racefans.net/2026/11/27/vowles-explains-why-williams-exceeded-f1s-cost-cap-by-627000/",
+   "source": "RaceFans",
+   "date": "2026-11-27T21:02:37.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Williams team principal James Vowles says the team's cost cap breach \"reinforces the message that we're on the back foot here.\"",
+   "image": null
+  },
+  {
+   "title": "Fermin Aldeguer: 'I was expecting this from Marc Maquez; his departure opens a door for me'",
+   "url": "https://www.motorsport.com/motogp/news/fermin-aldeguer-i-was-expecting-this-from-marc-maquez-his-departure-opens-a-door-for-me/10878407/",
+   "source": "Motorsport.com",
+   "date": "2026-11-27T19:15:15.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Fermin Aldeguer could be one of those most affected by Marc Marquez’s retirement, announced by the 10-time world champion on Friday, as one of the major candidates to take his place at the factory Ducati MotoGP team…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0o5AMraY/s6/fermin-aldeguer-gresini-racing.jpg"
+  },
+  {
+   "title": "\"It doesn't change anything for me,\" says Pedro Acosta as Ducati duel with Marc Marquez ends before it starts",
+   "url": "https://www.motorsport.com/motogp/news/it-doesnt-change-anything-for-me-says-pedro-acosta-as-ducati-duel-with-marc-marquez-ends-before-it-/10878349/",
+   "source": "Motorsport.com",
+   "date": "2026-11-27T18:35:28.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Pedro Acosta is one of the biggest losers following Marc Marquez’s retirement, which the newly crowned 10-time world champion announced unexpectedly on Friday at the MotoGP Valencia Grand Prix. Acosta had repeatedly…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6n7Ag4w0/s6/pedro-acosta-red-bull-ktm-fact-2.jpg"
+  },
+  {
+   "title": "Social Media: Alonso pays tribute to retiring Moto GP champion Marquez",
+   "url": "https://www.racefans.net/2026/11/27/social-media-alonso-pays-tribute-to-retiring-moto-gp-champion-marquez/",
+   "source": "RaceFans",
+   "date": "2026-11-27T17:59:18.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "\"I’m so lucky to have seen you race\": Alonso on Marquez quitting",
+   "image": null
+  },
+  {
+   "title": "Ducati reacts to Marc Marquez retirement: \"It was quite a shock\"",
+   "url": "https://www.motorsport.com/motogp/news/ducati-reacts-to-marc-marquez-retirement-it-was-quite-a-shock/10878313/",
+   "source": "Motorsport.com",
+   "date": "2026-11-27T17:33:21.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "When Marc Marquez brought the motorsport world to a standstill with his shock retirement announcement on Friday morning, senior figures at Ducati knew what was coming. But his employers did not have much more warning…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YpbA78j0/s6/davide-tardozzi-2.jpg"
+  },
+  {
+   "title": "Marc Marquez reveals double vision issues contributed to retirement",
+   "url": "https://www.motorsport.com/motogp/news/marc-marquez-reveals-double-vision-issues-contributed-to-retirement/10878179/",
+   "source": "Motorsport.com",
+   "date": "2026-11-27T16:39:25.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marc Marquez has spoken in greater detail about the physical problems that led to his retirement decision, revealing that he had a recurrence of double vision during the 2026 season. Speaking at a special press…",
+   "image": "https://cdn-1.motorsport.com/images/amp/YK15yJz0/s6/marc-marquez-ducati-team-3.jpg"
+  },
+  {
+   "title": "MotoGP Valencia GP: Marquez ends first day of final MotoGP weekend on top",
+   "url": "https://www.autosport.com/motogp/news/motogp-valencia-gp-marquez-ends-first-day-of-final-motogp-weekend-on-top/10878289/",
+   "source": "Autosport",
+   "date": "2026-11-27T15:31:21.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Marc Marquez shook off the emotion of his retirement announcement to break the lap record on his way to the fastest time of Friday afternoon's Practice session. The factory Ducati rider set up a straightforward passage…",
+   "image": "https://cdn-1.motorsport.com/images/amp/Y9lNVAX2/s6/marc-marquez-ducati-team-2.jpg"
+  },
+  {
+   "title": "Marquez fastest in his final MotoGP Friday practice session",
+   "url": "https://www.the-race.com/motogp/marquez-fastest-in-his-final-motogp-friday-practice-session/",
+   "source": "The Race",
+   "date": "2026-11-27T15:20:46.000Z",
+   "series": "MotoGP",
+   "result": false,
+   "summary": "Retiring 2026 MotoGP champion Marc Marquez led Friday practice in Valencia.",
+   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1366250_HiRes.jpg"
   },
   {
    "title": "Grasser FIA appeal confirmed as GT3 future comes into focus",
@@ -253,16 +393,6 @@
    "result": false,
    "summary": "The Grasser team has followed through on its announcement and is now indeed fighting at the FIA against the Oschersleben disqualification of winner Mirko Bortolotti in the wheel bearing affair. At the end of August, the…",
    "image": "https://cdn-1.motorsport.com/images/amp/E6DwMGKY/s6/grasser-berufung-bei-fia-bestaetigt-warum-es-jetzt-um-die-gt3-zukunft-geht-26112701.jpg"
-  },
-  {
-   "title": "Martin Brundle reminded of Ayrton Senna rivalry with Max Verstappen-George Russell “bad blood”",
-   "url": "https://www.crash.net/f1/news/1110992/1/martin-brundle-reminded-ayrton-senna-rivalry-max-verstappen-george-russell-bad",
-   "source": "Crash.net",
-   "date": "2026-11-27T13:35:35.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Martin Brundle casts his verdict on the rivalry between Max Verstappen and George Russell.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1321754_hires.jpg?width=1200"
   },
   {
    "title": "Who will replace Marquez at Ducati?",
@@ -303,66 +433,6 @@
    "result": false,
    "summary": "Marc Marquez has opened up on his sudden decision to retire from MotoGP, admitting his compromised physical state left him at the “limit” in 2026. Having announced that he will hang up his helmet at the end of this…",
    "image": "https://cdn-1.motorsport.com/images/amp/0JXRDQRY/s6/marc-marquez-ducati-team.jpg"
-  },
-  {
-   "title": "F1 drivers played game of Kahoot! during crunch FIA rules and penalty meeting",
-   "url": "https://www.crash.net/f1/news/1110966/1/f1-drivers-played-game-during-crunch-fia-rules-and-penalty-meeting",
-   "source": "Crash.net",
-   "date": "2026-11-27T12:33:25.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "The FIA got F1 drivers to play a game of Kahoot! during the annual rules summit in Qatar.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456084_hires.jpg?width=1200"
-  },
-  {
-   "title": "Spotlight: Why the best thing about Las Vegas for Antonelli is its F1 track",
-   "url": "https://www.racefans.net/2026/11/27/spotlight-why-the-best-thing-about-las-vegas-for-antonelli-is-its-f1-track/",
-   "source": "RaceFans",
-   "date": "2026-11-27T12:09:47.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "'I'm not old enough to do anything other than drive' in Las Vegas",
-   "image": null
-  },
-  {
-   "title": "Sainz proposes intriguing DRS solution for F1 2030",
-   "url": "https://www.autosport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878170/",
-   "source": "Autosport",
-   "date": "2026-11-27T11:48:18.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "With F1 close to signing off on the overarching tenets of its 2030 return to V8 power units, some of its leading drivers have fleshed out ideas of how to make those into a compelling product. F1 is set to move to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YN7vBrV6/s6/carlos-sainz-williams-2.jpg"
-  },
-  {
-   "title": "Carlos Sainz explains his intriguing DRS proposal for F1 2030",
-   "url": "https://www.motorsport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878146/",
-   "source": "Motorsport.com",
-   "date": "2026-11-27T11:47:59.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "With F1 close to signing off on the overarching tenets of its 2030 return to V8 power units, some of its leading drivers have fleshed out ideas of how to make those into a compelling product. F1 is set to move to…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YMXb8zv2/s6/carlos-sainz-williams.jpg"
-  },
-  {
-   "title": "Max Verstappen reveals scary crash that has put him off racing at the Indy 500",
-   "url": "https://www.crash.net/f1/news/1110960/1/max-verstappen-reveals-scary-crash-has-put-him-racing-indy-500",
-   "source": "Crash.net",
-   "date": "2026-11-27T11:33:26.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen has revealed why he has been put off racing at the Indy 500.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1455480_hires_0.jpg?width=1200"
-  },
-  {
-   "title": "Honda can't find an issue after Fernando Alonso's intriguing \"broken engine\" radio message",
-   "url": "https://www.autosport.com/f1/news/why-fernando-alonso-reported-a-broken-engine-in-las-vegas-but-honda-cant-find-an-issue/10878121/",
-   "source": "Autosport",
-   "date": "2026-11-27T11:03:47.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "On his final lap of the Formula 1 Las Vegas Grand Prix, Fernando Alonso called it a day. The two-time world champion locked up at the end of the long straight before telling the team over the radio: “Box, box, broken…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YK15zBk0/s6/fernando-alonso-aston-martin-r.jpg"
   },
   {
    "title": "Bezzecchi denies Marquez top spot in overshadowed practice",
@@ -415,16 +485,6 @@
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1365673_HiRes.jpg"
   },
   {
-   "title": "The retirement hints Marquez dropped last year",
-   "url": "https://www.the-race.com/motogp/the-retirement-hints-marquez-dropped-last-year/",
-   "source": "The Race",
-   "date": "2026-11-27T10:18:12.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Marc Marquez dropped some fascinating hints about his retirement and life after MotoGP thoughts to us a year ago",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1269348_HiRes.jpg"
-  },
-  {
    "title": "Cammish commits to NAPA Ford for two more years",
    "url": "https://www.autosport.com/btcc/news/cammish-commits-to-napa-ford-for-two-more-years/10878141/",
    "source": "Autosport",
@@ -433,26 +493,6 @@
    "result": false,
    "summary": "Leading British Touring Car Championship contender Dan Cammish is to remain with the Alliance Racing-run NAPA Ford squad for the next two seasons. Cammish was third in the championship this season for the second year in…",
    "image": "https://cdn-1.motorsport.com/images/amp/6lmAp5x0/s6/cammish-0rl23989.jpg"
-  },
-  {
-   "title": "Marquez to retire from MotoGP after Valencia GP",
-   "url": "https://www.autosport.com/motogp/news/marc-marquez-announces-immediate-retirement-from-motogp-in-bombshell-announcement/10878137/",
-   "source": "Autosport",
-   "date": "2026-11-27T09:48:49.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Newly-crowned 10-time world champion Marc Marquez has announced that he is retiring from MotoGP with immediate effect after this weekend's Valencia Grand Prix. The factory Ducati rider made the shock announcement just…",
-   "image": "https://cdn-1.motorsport.com/images/amp/6lmAKbK0/s6/marc-marquez-ducati-team-2.jpg"
-  },
-  {
-   "title": "Marc Marquez stuns MotoGP with retirement announcement",
-   "url": "https://www.the-race.com/motogp/marc-marquez-stuns-motogp-with-retirement-announcement/",
-   "source": "The Race",
-   "date": "2026-11-27T09:48:25.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "MotoGP champion Marc Marquez has made the shock announcement he is retiring from racing at the beginning of the 2026 season finale at Valencia",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1365937_HiRes.jpg"
   },
   {
    "title": "Supercars Adelaide: Kostecki boosts title hopes as rivals hit trouble in Race 1",
@@ -465,16 +505,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/2eZxjE9Y/s6/ev14-26-021622-mh6-2238.jpg"
   },
   {
-   "title": "2026 MotoGP Valencia Grand Prix – How to watch, session times & more",
-   "url": "https://www.motorsport.com/motogp/news/2026-motogp-valencia-grand-prix-how-to-watch-session-times-more/10878054/",
-   "source": "Motorsport.com",
-   "date": "2026-11-27T06:00:03.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Ducati's Marc Marquez may have already sealed the 2026 MotoGP title, but the fight for second place remains on, with Aprilia duo Jorge Martin and Marco Bezzecchi separated by just two points in the standings. Aprilia…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0kZAyQA6/s6/marco-bezzecchi-aprilia-racing.jpg"
-  },
-  {
    "title": "On This Day: Hamilton’s tactical slowdown can’t stop Rosberg taking the title",
    "url": "https://www.racefans.net/2026/11/27/on-this-day-abu-dhabi-grand-prix/",
    "source": "RaceFans",
@@ -483,16 +513,6 @@
    "result": false,
    "summary": "Hamilton fails in bid to stop Rosberg taking the title",
    "image": null
-  },
-  {
-   "title": "Jack Miller to revive unraced Australian GP livery for MotoGP farewell",
-   "url": "https://www.motorsport.com/motogp/news/jack-miller-to-bring-back-unraced-australian-gp-livery-for-valencia-motogp-farewell/10878052/",
-   "source": "Motorsport.com",
-   "date": "2026-11-26T21:44:37.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "Jack Miller will contest this weekend’s MotoGP finale in Valencia in a special livery that he was originally due to run at his final Australian Grand Prix appearance last month. The 31-year-old will carry Australia’s…",
-   "image": "https://cdn-1.motorsport.com/images/amp/0R7BRrO2/s6/jack-miller-pramac-racing.jpg"
   },
   {
    "title": "Spotlight: Ford reveals the GT41 Hypercar it will race in WEC",
@@ -513,26 +533,6 @@
    "result": false,
    "summary": "Four-time Formula 1 champion Max Verstappen has ruled out racing in the Indianapolis 500, citing the lasting effects of Nelson Piquet's crash at the Speedway. Piquet, the father of Verstappen's partner Kelly Piquet…",
    "image": "https://cdn-1.motorsport.com/images/amp/68VwB9x2/s6/max-verstappen-red-bull-racing-a10878029-b707-2.jpg"
-  },
-  {
-   "title": "Why Aprilia really wants the MotoGP constructors title, while Ducati could hardly care less",
-   "url": "https://www.autosport.com/motogp/news/why-aprilia-really-wants-the-motogp-constructors-title-while-ducati-could-hardly-care-less/10878018/",
-   "source": "Autosport",
-   "date": "2026-11-26T18:36:10.000Z",
-   "series": "MotoGP",
-   "result": false,
-   "summary": "MotoGP's long and winding road around the globe finally runs out of puff at Valencia this weekend. With the riders championship already decided in favour of Marc Marquez, the closing round boils down to emotional…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2QedXMO2/s6/marco-bezzecchi-aprilia-racing.jpg"
-  },
-  {
-   "title": "Ford pays tribute to its legendary GT40 with WEC 2027 hypercar",
-   "url": "https://www.autosport.com/wec/news/ford-pays-tribute-to-gt40-with-wec-2027-car/10877998/",
-   "source": "Autosport",
-   "date": "2026-11-26T18:00:20.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Ford has officially named its upcoming 2027 World Endurance Championship LMDh contender the GT41 - unveiling the car on Thanksgiving Thursday. It was a fittingly American stage for the reveal of the naturally-aspirated…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2jEAOJk0/s6/ford-gt41-hypercar.jpg"
   },
   {
    "title": "Ford reveals name for 2027 WEC LMDh challenger",
@@ -1375,6 +1375,16 @@
    "image": "https://cdn-1.motorsport.com/images/amp/68VWqPl2/s6/8-tower-motorsports-oreca-lmp2.jpg"
   },
   {
+   "title": "Why Corvette’s new LMGT3 champion Jonny Edgar has a bright future",
+   "url": "https://www.motorsport.com/wec/news/why-corvettes-new-lmgt3-champion-jonny-edgar-has-a-bright-future/10874124/",
+   "source": "Motorsport.com",
+   "date": "2026-11-12T16:39:26.000Z",
+   "series": "WEC",
+   "result": false,
+   "summary": "Jonny Edgar is emerging as one of the brightest prospects in the World Endurance Championship following his title-winning campaign with TF Sport in 2026. The young Briton was always expected to make it big in…",
+   "image": "https://cdn-1.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
+  },
+  {
    "title": "Argentina set to make WRC comeback in 2028",
    "url": "https://www.motorsport.com/wrc/news/argentina-to-make-wrc-comeback-in-2028/10874122/",
    "source": "Motorsport.com",
@@ -1453,16 +1463,6 @@
    "result": true,
    "summary": "In unseasonably chilly conditions, Kostecki and his Dick Johnson Racing Ford Mustang emerged from a cracking battle for the lead to take the lead and set the pace in a battle between drivers managing fuel consumption…",
    "image": "https://cdn-1.motorsport.com/images/amp/YE9EplGY/s6/brodie-kostecki-dick-johnson-r.jpg"
-  },
-  {
-   "title": "\"Parked the truck in the paddock aged eight\": Cairoli shares Kimi Antonelli anecdotes",
-   "url": "https://www.motorsport.com/dtm/news/cairoli-shares-antonelli-anecdotes-he-drove-into-the-paddock-in-a-truck-at-eight/10872144/",
-   "source": "Motorsport.com",
-   "date": "2026-11-06T16:39:15.000Z",
-   "series": "DTM",
-   "result": false,
-   "summary": "The rise of Matteo Cairoli, who as a DTM rookie took three DTM wins this year and finished fifth overall, is inseparably linked with the family of Formula 1 world champion Andrea Kimi Antonelli: because at the age of…",
-   "image": "https://cdn-1.motorsport.com/images/amp/10RkpaZ2/s6/fuhr-mit-acht-truck-ins-fahrerlager-cairoli-liefert-anekdoten-ueber-antonelli-26110601.jpg"
   }
  ]
 }
