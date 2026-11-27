@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:56:02.575Z",
+ "updated": "2026-11-27T04:54:47.006Z",
  "sources": [
   {
    "name": "Motorsport.com",
@@ -23,7 +23,7 @@
    "name": "RaceFans",
    "label": "RaceFans",
    "ok": true,
-   "count": 0
+   "count": 15
   },
   {
    "name": "Formula1.com",
@@ -148,14 +148,14 @@
  ],
  "bySeries": {
   "F1": 15,
+  "Motorsport": 2,
   "MotoGP": 15,
-  "IndyCar": 9,
   "WEC": 15,
+  "IndyCar": 9,
   "WRC": 10,
   "BTCC": 4,
   "Karting": 12,
   "NASCAR": 15,
-  "Motorsport": 1,
   "IMSA": 10,
   "Super Formula": 3,
   "Formula E": 11,
@@ -164,6 +164,66 @@
   "Supercars": 2
  },
  "items": [
+  {
+   "title": "All the stories that got the Qatar paddock talking",
+   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-qatar-paddock-talking.7oePpDkNxzG1j0359UuyOo",
+   "source": "Formula1.com",
+   "date": "2026-11-27T04:54:47.006Z",
+   "series": "F1",
+   "result": false,
+   "summary": "F1.com's Mike Seymour looks back on the stories that got the paddock talking ahead of the 2026 Qatar Grand Prix.",
+   "image": null
+  },
+  {
+   "title": "Leclerc and Hamilton address aftermath of Las Vegas clash",
+   "url": "https://www.formula1.com/en/latest/article/were-all-disappointed-leclerc-and-hamilton-address-aftermath-of-las-vegas-clash.34d9bV1J0varyAnDCWPAjU",
+   "source": "Formula1.com",
+   "date": "2026-11-27T04:54:47.006Z",
+   "series": "F1",
+   "result": false,
+   "summary": "After contact limited them to the lower end of the points in Las Vegas, Charles Leclerc and Lewis Hamilton have insisted they’re working towards a solution to avoid further intra-team incidents.",
+   "image": null
+  },
+  {
+   "title": "Lindblad left ‘trying to hold back tears’ after Las Vegas spin",
+   "url": "https://www.formula1.com/en/latest/article/lindblad-left-trying-to-hold-back-tears-after-las-vegas-spin-as-he-reflects-on-emotional-social-media-post.6eGFigwGZhsbeR31PHHf4j",
+   "source": "Formula1.com",
+   "date": "2026-11-27T04:54:47.006Z",
+   "series": "F1",
+   "result": false,
+   "summary": "The Las Vegas Grand Prix ended in heartbreak for Arvid Lindblad, with the Racing Bulls driver having since opened up about the emotions he experienced following his spin out of the race.",
+   "image": null
+  },
+  {
+   "title": "Mercedes boss Toto Wolff reveals why rival F1 teams never try to hire him",
+   "url": "https://www.motorsport.com/f1/news/mercedes-boss-toto-wolff-reveals-why-rival-f1-teams-never-try-to-hire-him/10874986/",
+   "source": "Motorsport.com",
+   "date": "2026-11-27T00:30:04.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Toto Wolff has just added to his legendary resume by securing Mercedes' return to the top of Formula 1 in 2026, officially tying former McLaren boss Ron Dennis with a record 17 world championship titles across drivers'…",
+   "image": "https://cdn-1.motorsport.com/images/amp/0kZX99D6/s6/toto-wolff-mercedes-a10874986-b705-2.jpg"
+  },
+  {
+   "title": "On This Day: Hamilton’s tactical slowdown can’t stop Rosberg taking the title",
+   "url": "https://www.racefans.net/2026/11/27/on-this-day-abu-dhabi-grand-prix/",
+   "source": "RaceFans",
+   "date": "2026-11-27T00:01:00.000Z",
+   "series": "Motorsport",
+   "result": false,
+   "summary": "Hamilton fails in bid to stop Rosberg taking the title",
+   "image": null
+  },
+  {
+   "title": "Toto Wolff responds to Kimi Antonelli salary questions after F1 title success",
+   "url": "https://www.motorsport.com/f1/news/toto-wolff-says-the-world-champion-should-be-rewarded-after-bild-puts-antonellis-pay-at-about-46-mi/10874830/",
+   "source": "Motorsport.com",
+   "date": "2026-11-26T23:00:02.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "When a Formula 1 team elevates a teenager from Formula 2 directly into a top-tier factory seat, the initial contract is rarely structured like a blockbuster superstar deal. But when that kid wins the drivers' world…",
+   "image": "https://cdn-1.motorsport.com/images/amp/6DGg4yGY/s6/andrea-kimi-antonelli-mercedes-a10874830-b705-2.jpg"
+  },
   {
    "title": "Camara reacts to decision to sacrifice F2 title challenge",
    "url": "https://www.formula1.com/en/latest/article/obviously-not-easy-camara-reacts-to-decision-to-sacrifice-f2-title-challenge-for-haas-drive.ltxdSbb5ibvHqIXHBAMId",
@@ -215,16 +275,6 @@
    "image": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-a10878035-b707-2.jpg"
   },
   {
-   "title": "Everything you need to know about the Lusail International Circuit",
-   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-lusail-international-circuit.5QWk6JkgFRrObe3OR2mROI",
-   "source": "Formula1.com",
-   "date": "2026-11-26T21:53:32.835Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Get up to speed with all the key Lusail International Circuit statistics, driving pointers, facts and more.",
-   "image": null
-  },
-  {
    "title": "Jack Miller to revive unraced Australian GP livery for MotoGP farewell",
    "url": "https://www.motorsport.com/motogp/news/jack-miller-to-bring-back-unraced-australian-gp-livery-for-valencia-motogp-farewell/10878052/",
    "source": "Motorsport.com",
@@ -243,6 +293,16 @@
    "result": false,
    "summary": "More Las Vegas fallout drama, the last 2027 driver line-up question settled and some surprising admissions at Lusail",
    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1456591_HiRes.jpg"
+  },
+  {
+   "title": "Leclerc denies claim he has a ‘number one’ clause in his Ferrari contract",
+   "url": "https://www.racefans.net/2026/11/26/leclerc-denies-claim-he-has-a-number-one-clause-in-his-ferrari-contract/",
+   "source": "RaceFans",
+   "date": "2026-11-26T21:14:39.000Z",
+   "series": "F1",
+   "result": false,
+   "summary": "Charles Leclerc has denied he has a clause in his contract guaranteeing him number one status at Ferrari, after a report claiming he did was widely shared on social media.",
+   "image": null
   },
   {
    "title": "F1 drivers just played Kahoot! on real stewards' decisions",
@@ -275,54 +335,14 @@
    "image": null
   },
   {
-   "title": "'I was overconfident' - Antonelli battling post-title hangover",
-   "url": "https://www.the-race.com/formula-1/i-was-overconfident-antonelli-battling-post-title-hangover/",
-   "source": "The Race",
-   "date": "2026-11-26T20:29:36.000Z",
-   "series": "F1",
+   "title": "Spotlight: Ford reveals the GT41 Hypercar it will race in WEC",
+   "url": "https://www.racefans.net/2026/11/26/spotlight-ford-reveals-the-gt41-hypercar-it-will-race-in-wec/",
+   "source": "RaceFans",
+   "date": "2026-11-26T19:12:30.000Z",
+   "series": "WEC",
    "result": false,
-   "summary": "Kimi Antonelli admitted he was \"overconfident\" after sealing his Formula 1 title and that it's caused mistakes",
-   "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453556_HiRes-1.jpg"
-  },
-  {
-   "title": "Verstappen to work with new race engineer Tom Hart again at Qatar GP",
-   "url": "https://www.autosport.com/f1/news/verstappen-to-work-with-new-race-engineer-tom-hart-again-at-qatar-gp/10878044/",
-   "source": "Autosport",
-   "date": "2026-11-26T20:02:57.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of this Formula 1…",
-   "image": "https://cdn-1.motorsport.com/images/amp/YP74Zm42/s6/max-verstappen-red-bull-racing-2.jpg"
-  },
-  {
-   "title": "Russell reacts to Verstappen’s Las Vegas comments",
-   "url": "https://www.formula1.com/en/latest/article/it-was-quite-amusing-russell-shares-his-reaction-to-verstappens-las-vegas-comments.6sv6Xkop4lBcCxge8ZgxXv",
-   "source": "Formula1.com",
-   "date": "2026-11-26T20:01:48.106Z",
-   "series": "F1",
-   "result": false,
-   "summary": "After tensions between himself and Max Verstappen resurfaced following the Las Vegas Grand Prix, George Russell has given his take on how the situation stands.",
+   "summary": "Ford reveals GT41 Hypercar for 2027 WEC season",
    "image": null
-  },
-  {
-   "title": "Bearman reflects on new Haas deal and Ferrari hopes",
-   "url": "https://www.formula1.com/en/latest/article/im-looking-forward-to-the-future-bearman-reflects-on-new-haas-deal-and-hopes-of-dream-ferrari-drive.2HEQCXu8ItvVTJrmYBR5H1",
-   "source": "Formula1.com",
-   "date": "2026-11-26T20:01:48.106Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Ollie Bearman arrives into the Qatar Grand Prix weekend with his future finally confirmed, following the announcement that he will continue to drive for Haas in 2027.",
-   "image": null
-  },
-  {
-   "title": "Max Verstappen faces unexpected Red Bull absence at Qatar GP after late change of plan",
-   "url": "https://www.crash.net/f1/news/1110928/1/max-verstappen-faces-unexpected-red-bull-absence-qatar-gp-after-late-change-plan",
-   "source": "Crash.net",
-   "date": "2026-11-26T20:00:13.000Z",
-   "series": "F1",
-   "result": false,
-   "summary": "Max Verstappen will be without a key member of his Red Bull F1 team in Qatar.",
-   "image": "https://www.crash.net/sites/default/files/2026-11/xpb_1456640_hires.jpg?width=1200"
   },
   {
    "title": "Why Max Verstappen has ruled out Indy 500 entry",
@@ -685,14 +705,14 @@
    "image": "https://cdn-1.motorsport.com/images/amp/YN7vjVe6/s6/gettyimages-2291455874.jpg"
   },
   {
-   "title": "IndyCar adds Kansas Speedway to 2027 schedule in joint NASCAR weekend",
-   "url": "https://www.motorsport.com/indycar/news/indycar-adds-kansas-speedway-to-2027-schedule-in-joint-nascar-weekend-/10877534/",
-   "source": "Motorsport.com",
-   "date": "2026-11-24T19:00:05.000Z",
+   "title": "Spotlight: IndyCar adds Kansas to 2027 calendar alongside NASCAR",
+   "url": "https://www.racefans.net/2026/11/24/spotlight-indycar-adds-kansas-to-2027-calendar-alongside-nascar/",
+   "source": "RaceFans",
+   "date": "2026-11-24T22:52:51.000Z",
    "series": "IndyCar",
    "result": false,
-   "summary": "After a 17-year hiatus, open-wheel racing is heading back to the heartland. On Tuesday, IndyCar announced its return to Kansas Speedway on Saturday, May 8, 2027, teaming up with NASCAR and broadcast partner FOX Sports…",
-   "image": "https://cdn-1.motorsport.com/images/amp/01QNE850/s6/gettyimages-2297460646.jpg"
+   "summary": "IndyCar will return to Kansas next year for first time since 2010",
+   "image": null
   },
   {
    "title": "Factory Karts Names Miami-Based Lupo Kart an Official Dealer",
@@ -1333,16 +1353,6 @@
    "result": false,
    "summary": "Ahead of another fiercely competitive Le Mans Prototype 2 (LMP2) campaign in the IMSA WeatherTech SportsCar Championship, Tower Motorsports has assembled a formidable roster for its #8 ORECA LMP2 07 as it sets its…",
    "image": "https://cdn-1.motorsport.com/images/amp/68VWqPl2/s6/8-tower-motorsports-oreca-lmp2.jpg"
-  },
-  {
-   "title": "Why Corvette’s new LMGT3 champion Jonny Edgar has a bright future",
-   "url": "https://www.motorsport.com/wec/news/why-corvettes-new-lmgt3-champion-jonny-edgar-has-a-bright-future/10874124/",
-   "source": "Motorsport.com",
-   "date": "2026-11-12T16:39:26.000Z",
-   "series": "WEC",
-   "result": false,
-   "summary": "Jonny Edgar is emerging as one of the brightest prospects in the World Endurance Championship following his title-winning campaign with TF Sport in 2026. The young Briton was always expected to make it big in…",
-   "image": "https://cdn-1.motorsport.com/images/amp/2y7AEwv6/s6/33-tf-sport-corvette-z06-lmgt3.jpg"
   },
   {
    "title": "Argentina set to make WRC comeback in 2028",

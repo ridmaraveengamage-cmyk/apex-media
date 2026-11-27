@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:56:06.543Z",
+ "updated": "2026-11-27T04:54:52.412Z",
  "status": {
   "F1": "ok",
   "MotoGP": "ok",
@@ -1103,14 +1103,6 @@
     },
     {
      "round": 22,
-     "name": "Grand Prix of Valencia",
-     "place": "Circuit Ricardo Tormo, Spain",
-     "start": "2026-11-27T09:00:00Z",
-     "main": "2026-11-29T13:00:00Z",
-     "sessions": []
-    },
-    {
-     "round": 23,
      "name": "Grand Prix of Valencia",
      "place": "Circuit Ricardo Tormo, Spain",
      "start": "2026-11-27T09:00:00Z",
